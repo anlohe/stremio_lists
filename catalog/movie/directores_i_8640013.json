@@ -1,0 +1,46 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:29933",
+      "type": "movie",
+      "name": "La patrulla de la muerte (Kanal)",
+      "poster": "https://image.tmdb.org/t/p/w500/qWMeLd7TqZ8TukXlesQr4IcMcf8.jpg",
+      "description": "Polonia, septiembre de 1944. Los valientes soldados de un pequeño ejército de la Resistencia se ven forzados a ocultarse en los laberínticos canales de Varsovia tratando de escapar de la ofensiva nazi."
+    },
+    {
+      "id": "tmdb:5055",
+      "type": "movie",
+      "name": "Cenizas y diamantes",
+      "poster": "https://image.tmdb.org/t/p/w500/p3USyL8Tc8Lqs2k31Aib1TLBisF.jpg",
+      "description": "En Polonia, concluida la Segunda Guerra Mundial, la situación política y social es caótica. El idealismo cede el paso a diversas formas de anarquía y extremismo. El protagonista, un joven que milita en un grupo ultranacionalista, recibe el encargo de asesinar a un importante comunista; pero, cuando el joven encuentra el amor, en pocas horas sus certezas comienzan a convertirse en dudas."
+    },
+    {
+      "id": "tmdb:224",
+      "type": "movie",
+      "name": "El hombre de mármol",
+      "poster": "https://image.tmdb.org/t/p/w500/iCAc0Eyxa1Gd3DqsoxfD3Pvl0re.jpg",
+      "description": "En 1976, una joven de Cracovia que está realizando su diplomatura en cine, investiga la vida de un obrero, llamado Birkut, quien en los 50 fue, de manera fugaz, un héroe proletario. Su objetivo es investigar como se originó esa leyenda y que efectos provocó en él."
+    },
+    {
+      "id": "tmdb:225",
+      "type": "movie",
+      "name": "El hombre de hierro",
+      "poster": "https://image.tmdb.org/t/p/w500/rFyIsv9cJ6mNYZEoS6QqY2I2cJr.jpg",
+      "description": "Narra las jornadas revolucionarias en los astilleros navales de Gdansk (o Danzig) protagonizadas por los obreros del sindicato Solidaridad, en el verano de 1980. Ese mismo año, un periodista radiofónico, más amigo del régimen comunista que de la verdad, debe cumplir una misión de difamación contra un destacado militante del sindicato Solidaridad, que resulta ser el hijo del héroe de \"El hombre de mármol\" (1977)."
+    },
+    {
+      "id": "tmdb:4202",
+      "type": "movie",
+      "name": "Danton",
+      "poster": "https://image.tmdb.org/t/p/w500/R6oVP5RTqYEXe9lNxxPTWSOlZp.jpg",
+      "description": "En septiembre de 1793, el Comité de Salud Pública, instigado por Robespierre, instaura el \"Terror\". El hambre reaparece y con ella la revuelta: las cabezas ruedan. Danton regresa a París para oponerse a Robespierre: es el choque entre dos políticos irreconciliables, entre dos fuertes personalidades. La película narra los últimos días de Georges-Jacques Danton: su proceso y su ejecución en la guillotina, junto a sus amigos, por orden del autoritario y dogmático Robespierre."
+    },
+    {
+      "id": "tmdb:13614",
+      "type": "movie",
+      "name": "Katyn",
+      "poster": "https://image.tmdb.org/t/p/w500/3eXnRTqsjAZpcmSfG7N7ykaPxrF.jpg",
+      "description": "El 1 de septiembre de 1939, la Alemania nazi invade Polonia, dando principio a la Segunda Guerra Mundial. El 17 de septiembre, el Ejército Rojo soviético cruza la frontera. El ejército polaco, incapaz de luchar en dos frentes, es derrotado. Miles de hombres polacos, tanto militares como funcionarios gubernamentales, son capturados por los invasores. Su destino solo será conocido varios años después."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:99920",
+      "type": "movie",
+      "name": "Confesiones de un espía nazi",
+      "poster": "https://image.tmdb.org/t/p/w500/344MutCY2Xd6nxztXa1tkTR9Nml.jpg",
+      "description": "Un agente del FBI (Robinson) investiga una amplia red de espionaje nazi que opera en Estados Unidos. Sus contactos llegarán hasta Suramérica y Europa. Se trata de una de las pocas películas del género antinazi rodadas antes de la Segunda Guerra Mundial, época en la que los Estados Unidos y, por consiguiente, Hollywood seguían una política aislacionista."
+    },
+    {
+      "id": "tmdb:62694",
+      "type": "movie",
+      "name": "Nido de víboras",
+      "poster": "https://image.tmdb.org/t/p/w500/xanUC7cUMdCp6jcE8jZjc5r7C1w.jpg",
+      "description": "Una escritora recién casada acaba internada en un psiquiátrico debido a un recuerdo que le atormenta. El trato recibido en el hospital no hace sino empeorar su estado mental."
+    },
+    {
+      "id": "tmdb:21635",
+      "type": "movie",
+      "name": "Voces de muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/n6Y0qzywNq4DSl5O8BpmxEp90vL.jpg",
+      "description": "El teléfono es el único medio que une a Leona Stevenson con el mundo exterior. Leona, directora de una fábrica de productos químicos, es hipocondríaca y está postrada en la cama a causa de una dolencia psicosomática. Su marido Henry es un hombre de origen modesto, pero muy ambicioso, que se casó con ella para mejorar su posición en la fábrica. Un día lo llama por teléfono y, entonces, se produce un cruce de líneas que le permite escuchar una conversación en la que dos personas hablan del inminente asesinato de una mujer."
+    },
+    {
+      "id": "tmdb:38171",
+      "type": "movie",
+      "name": "Anastasia",
+      "poster": "https://image.tmdb.org/t/p/w500/26wHOXNt4XNn2lYT8i8pWx1JOP0.jpg",
+      "description": "París, 1928. Tras la Revolución Rusa de 1917 y, después de varios años de exilio, un grupo de súbditos leales al zarismo sigue buscando el rastro de la Gran Duquesa Anastasia, la única superviviente de la matanza de Ekaterimburgo (1918), ciudad donde los bolcheviques de Lenin acabaron con la dinastía de los Romanov."
+    },
+    {
+      "id": "tmdb:42700",
+      "type": "movie",
+      "name": "La noche de los generales",
+      "poster": "https://image.tmdb.org/t/p/w500/mWLKwbgzJbS9KV1P1nLT8fkJnnH.jpg",
+      "description": "En Varsovia, durante los primeros días de la ocupación alemana, en 1940, una prostituta es salvajemente asesinada. Un testigo afirma que el asesino ha sido un general alemán, al que no vio el rostro, pero sí el uniforme. El mayor Grau es el encargado de investigar el caso. Sin embargo, sólo tres generales en Varsovia carecen de una coartada. Los tres generales se verán implicados en el asesinato de la prostituta. Todas las investigaciones apuntan a que ha sido un alto cargo del ejército y el caso queda archivado hasta que la justicia descubre al verdadero psicópata."
+    }
+  ]
+}

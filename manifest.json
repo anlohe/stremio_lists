@@ -16,8 +16,108 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "directores_i_8640114",
+      "name": "Abbas Kiarostami (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8639647",
+      "name": "Abel Gance (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640001",
+      "name": "Agnes Varda (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640002",
+      "name": "Aki Kaurismaki (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640004",
+      "name": "Akira Kurosawa (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640005",
+      "name": "Alain Resnais (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640006",
+      "name": "Alexander Korda (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640007",
+      "name": "Alexander Mackendrick (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
       "id": "directores_i_8640008",
       "name": "Alfred Hitchcock (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640009",
+      "name": "Alice Guy (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640011",
+      "name": "Anatole Litvak (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640012",
+      "name": "Andrei Tarkovski (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640013",
+      "name": "Andrzej Wajda (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640014",
+      "name": "Anthony Mann (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640015",
+      "name": "Arthur Penn (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640017",
+      "name": "Bela Tarr (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640018",
+      "name": "Benjamin Christensen (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640019",
+      "name": "Bernardo Bertolucci (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640020",
+      "name": "Billy Wilder (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640021",
+      "name": "Blake Edwards (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640022",
+      "name": "Bob Fosse (DIRECTORES I)"
     },
     {
       "type": "movie",
@@ -28,6 +128,3226 @@
       "type": "movie",
       "id": "directores_i_8640024",
       "name": "Carl Theodor Dreyer (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640025",
+      "name": "Carlos Saura (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640027",
+      "name": "Carol Reed (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640028",
+      "name": "Cecil B. Demille (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640029",
+      "name": "Charles Chaplin (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640030",
+      "name": "Charles Laughton (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640031",
+      "name": "Charles Vidor (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640033",
+      "name": "Christopher Nolan (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640034",
+      "name": "Claude Chabrol (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640037",
+      "name": "Clint Eastwood (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640038",
+      "name": "David Lean (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640040",
+      "name": "David Lynch (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640043",
+      "name": "David Wark Griffith (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640044",
+      "name": "Delbert Mann (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640045",
+      "name": "Delmer Daves (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640046",
+      "name": "Don Siegel (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640048",
+      "name": "Douglas Sirk (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640049",
+      "name": "Dziga Vertov (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640050",
+      "name": "Edgar G. Ulmer (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640051",
+      "name": "Edward Dmytryk (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640052",
+      "name": "Edwin S. Porter (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640591",
+      "name": "Elia Kazan (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640592",
+      "name": "Emir Kusturica (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640593",
+      "name": "Eric Rohmer (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640594",
+      "name": "Erich Von Stroheim (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640595",
+      "name": "Ernst Lubitsch (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640596",
+      "name": "Ettore Scola (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640597",
+      "name": "Federico Fellini (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640598",
+      "name": "Francis Ford Coppola (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640599",
+      "name": "Francois Truffaut (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640600",
+      "name": "Frank Borzage (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640601",
+      "name": "Frank Capra (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640602",
+      "name": "Franklin J. Schaffner (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640603",
+      "name": "Fred Niblo (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640604",
+      "name": "Fred Zinnemann (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640605",
+      "name": "Friedrich Wilhelm Murnau (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640606",
+      "name": "Fritz Lang (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640607",
+      "name": "Georg Wilhelm Pabst (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640608",
+      "name": "George Cukor (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640609",
+      "name": "George Lucas (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640610",
+      "name": "George Roy Hill (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640611",
+      "name": "George Sidney (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640612",
+      "name": "George Stevens (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640613",
+      "name": "Georges Melies (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640614",
+      "name": "Giovanni Pastrone (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640615",
+      "name": "Harold Lloyd (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640616",
+      "name": "Hayao Miyazaki (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640617",
+      "name": "Henri Georges Clouzot (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640618",
+      "name": "Henry Hathaway (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640619",
+      "name": "Henry King (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640620",
+      "name": "Howard Hawks (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640621",
+      "name": "Ingmar Bergman (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640622",
+      "name": "J. Lee Thompson (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640623",
+      "name": "Jack Clayton (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640624",
+      "name": "Jack Conway (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640625",
+      "name": "Jacques Becker (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640626",
+      "name": "Jacques Demy (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640627",
+      "name": "Jacques Feyder (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640628",
+      "name": "Jacques Rivette (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640629",
+      "name": "Jacques Tati (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640630",
+      "name": "Jacques Tourneur (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640631",
+      "name": "James Whale (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640632",
+      "name": "Jean Cocteau (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640633",
+      "name": "Jean Epstein (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640634",
+      "name": "Jean Luc Godard (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640635",
+      "name": "Jean Negulesco (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640638",
+      "name": "Jean Pierre Melville (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640639",
+      "name": "Jean Renoir (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640640",
+      "name": "Jean Vigo (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640641",
+      "name": "Jiri Menzel (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640642",
+      "name": "John Cassavetes (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640643",
+      "name": "John Ford (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640644",
+      "name": "John Frankenheimer (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640645",
+      "name": "John Huston (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640646",
+      "name": "John M. Stahl (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640647",
+      "name": "John Schlesinger (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640648",
+      "name": "John Sturges (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640649",
+      "name": "Josef Von Sternberg (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640650",
+      "name": "Joseph L. Mankiewicz (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640651",
+      "name": "Joseph Losey (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640652",
+      "name": "Joshua Logan (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640653",
+      "name": "Juan Antonio Bardem (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640654",
+      "name": "Jules Dassin (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640655",
+      "name": "Julien Duvivier (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640656",
+      "name": "Juraj Herz (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640657",
+      "name": "Karel Reisz (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640658",
+      "name": "Ken Annakin (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640659",
+      "name": "Kenji Mizoguchi (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640660",
+      "name": "King Vidor (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640661",
+      "name": "Krzysztof Kieslowski (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640662",
+      "name": "Lars Von Trier (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640663",
+      "name": "Leni Riefenstahl (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640664",
+      "name": "Leo Mccarey (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640665",
+      "name": "Lev Kuleshov (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640666",
+      "name": "Lewis Milestone (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640667",
+      "name": "Lindsay Anderson (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640668",
+      "name": "Lotte Reiniger (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640669",
+      "name": "Louis Feuillade (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640670",
+      "name": "Louis Malle (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640671",
+      "name": "Louis Y Auguste Lumiere (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640672",
+      "name": "Luchino Visconti (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640674",
+      "name": "Luis Bunuel (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640675",
+      "name": "Luis Garcia Berlanga (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640676",
+      "name": "Marcel Carne (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640677",
+      "name": "Mario Monicelli (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640679",
+      "name": "Mark Robson (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640680",
+      "name": "Martin Scorsese (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640681",
+      "name": "Mauritz Stiller (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640682",
+      "name": "Max Ophuls (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640683",
+      "name": "Merian C. Cooper (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640684",
+      "name": "Mervyn Leroy (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640685",
+      "name": "Michael Curtiz (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640686",
+      "name": "Michael Haneke (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640687",
+      "name": "Michael Powell (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640688",
+      "name": "Michelangelo Antonioni (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640689",
+      "name": "Mike Nichols (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640690",
+      "name": "Mikhail Kalatozov (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640691",
+      "name": "Mikio Naruse (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640692",
+      "name": "Milos Forman (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640693",
+      "name": "Nicholas Ray (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640694",
+      "name": "Norman Jewison (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640695",
+      "name": "Orson Welles (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640696",
+      "name": "Otto Preminger (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640697",
+      "name": "Paul Wegener (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640699",
+      "name": "Pedro Almodovar (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640700",
+      "name": "Peter Bogdanovich (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640701",
+      "name": "Pier Paolo Pasolini (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640702",
+      "name": "Preston Sturges (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640703",
+      "name": "Quentin Tarantino (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640704",
+      "name": "Rainer Werner Fassbinder (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640705",
+      "name": "Raoul Walsh (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640706",
+      "name": "Rene Clair (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640707",
+      "name": "Rene Clement (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640708",
+      "name": "Rex Ingram (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640709",
+      "name": "Richard Brooks (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640711",
+      "name": "Richard Thorpe (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640712",
+      "name": "Ridley Scott (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640713",
+      "name": "Robert Aldrich (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640714",
+      "name": "Robert Altman (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640715",
+      "name": "Robert Bresson (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640716",
+      "name": "Robert J. Flaherty (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640717",
+      "name": "Robert Mulligan (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640718",
+      "name": "Robert Rossen (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640720",
+      "name": "Robert Siodmak (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640721",
+      "name": "Robert Wiene (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640722",
+      "name": "Robert Wise (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640723",
+      "name": "Roberto Rossellini (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640724",
+      "name": "Roman Polanski (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640725",
+      "name": "Rouben Mamoulian (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640726",
+      "name": "Sam Peckinpah (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640727",
+      "name": "Sam Wood (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640728",
+      "name": "Samuel Fuller (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640729",
+      "name": "Satyajit Ray (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640730",
+      "name": "Sergio Leone (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640731",
+      "name": "Serguei Eisenstein (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640732",
+      "name": "Sidney Lumet (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640733",
+      "name": "Stanley Donen (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640734",
+      "name": "Stanley Kramer (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640735",
+      "name": "Stanley Kubrick (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640736",
+      "name": "Steven Spielberg (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640737",
+      "name": "Thomas H. Ince (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640738",
+      "name": "Thomas Vinterberg (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640739",
+      "name": "Tod Browning (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640740",
+      "name": "Victor Fleming (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640741",
+      "name": "Victor Sjostrom (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640742",
+      "name": "Vincente Minnelli (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640743",
+      "name": "Vittorio De Sica (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640744",
+      "name": "Volker Schlondorff (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640745",
+      "name": "Vsevolod Pudovkin (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640746",
+      "name": "Werner Herzog (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640747",
+      "name": "William A. Wellman (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640748",
+      "name": "William Dieterle (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640749",
+      "name": "William Wyler (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640750",
+      "name": "Wim Wenders (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640751",
+      "name": "Woody Allen (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640752",
+      "name": "Yasujiro Ozu (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_i_8640753",
+      "name": "Zoltan Korda (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640755",
+      "name": "Abel Ferrara (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640756",
+      "name": "Achero Manas (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640757",
+      "name": "Adolfo Aristarain (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640758",
+      "name": "Adrian Lyne (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640759",
+      "name": "Agnieszka Holland (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640760",
+      "name": "Agusti Villaronga (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640761",
+      "name": "Agustin Diaz Yanes (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640762",
+      "name": "Alan J Pakula (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640763",
+      "name": "Alan Parker (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640764",
+      "name": "Alberto Rodriguez (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640765",
+      "name": "Alejandro Amenabar (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640766",
+      "name": "Alejandro Gonzalez Inarritu (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640767",
+      "name": "Alejandro Jodorowsky (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640768",
+      "name": "Aleksandr Dovzhenko (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640769",
+      "name": "Alex De La Iglesia (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640770",
+      "name": "Alex Proyas (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640771",
+      "name": "Alexander Payne (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640772",
+      "name": "Alfonso Cuaron (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640773",
+      "name": "Alvaro Saenz De Heredia (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640774",
+      "name": "Amos Gitai (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640775",
+      "name": "Andrei Sviaguintsev (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640776",
+      "name": "Andrew Davis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640777",
+      "name": "Andrew Niccol (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640778",
+      "name": "Andy Serkis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640779",
+      "name": "Andy Warhol (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640780",
+      "name": "Andy Y Larry Wachowski (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640781",
+      "name": "Ang Lee (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640782",
+      "name": "Anthony Minguella (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640783",
+      "name": "Anthony Y Joe Russo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640784",
+      "name": "Antoine Fuqua (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640785",
+      "name": "Antonio Hernandez (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640786",
+      "name": "Antonio Mercero (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640787",
+      "name": "Archie Mayo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640788",
+      "name": "Arthur Lubin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640789",
+      "name": "Arturo Ripstein (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640790",
+      "name": "Atom Egoyan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640791",
+      "name": "Barry Levinson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640792",
+      "name": "Barry Sonnenfeld (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640793",
+      "name": "Baz Luhrmann (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640794",
+      "name": "Ben Affleck (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640795",
+      "name": "Benito Perojo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640796",
+      "name": "Benito Zambrano (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640798",
+      "name": "Bertrand Tavernier (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640799",
+      "name": "Bigas Luna (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640800",
+      "name": "Bob Rafelson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640801",
+      "name": "Brian De Palma (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640802",
+      "name": "Bryan Singer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640803",
+      "name": "Budd Boetticher (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640804",
+      "name": "Byron Haskin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640806",
+      "name": "Cameron Crowe (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640807",
+      "name": "Carla Simon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640808",
+      "name": "Cesc Gay (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640809",
+      "name": "Chloe Zhao (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640810",
+      "name": "Chris Columbus (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640811",
+      "name": "Christopher Mcquarrie (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640812",
+      "name": "Claude Lelouch (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640813",
+      "name": "Costa Gavras (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640814",
+      "name": "Cristian Mungiu (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640815",
+      "name": "Curtis Hanson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640816",
+      "name": "Damien Chazelle (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640817",
+      "name": "Daniel Monzon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640818",
+      "name": "Daniel Sanchez Arevalo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640819",
+      "name": "Danny Boyle (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640820",
+      "name": "Danny Devito (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640821",
+      "name": "Dario Argento (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640822",
+      "name": "Darren Aronofsky (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640823",
+      "name": "David Ayer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640824",
+      "name": "David Cronenberg (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640825",
+      "name": "David Fincher (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640826",
+      "name": "David O Russell (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640827",
+      "name": "David Trueba (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640828",
+      "name": "David Zucker (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640829",
+      "name": "Denis Villeneuve (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640830",
+      "name": "Dennis Hopper (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640831",
+      "name": "Denys Arcand (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640832",
+      "name": "Dino Risi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640833",
+      "name": "Duncan Jones (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640834",
+      "name": "Ed Wood (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640835",
+      "name": "Edgar Neville (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640836",
+      "name": "Edmund Elias Merhige (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640837",
+      "name": "Edward Zwick (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640838",
+      "name": "Eloy De La Iglesia (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640839",
+      "name": "Emilio Martinez Lazaro (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640840",
+      "name": "Enrique Urbizu (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640841",
+      "name": "Ermanno Olmi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640842",
+      "name": "Fabian Bielinsky (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640843",
+      "name": "Fernando Arrabal (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640844",
+      "name": "Fernando Colomo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640845",
+      "name": "Fernando Fernan Gomez (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640846",
+      "name": "Fernando Leon De Aranoa (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640847",
+      "name": "Fernando Meirelles (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640848",
+      "name": "Fernando Trueba (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640849",
+      "name": "Florian Rey (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640850",
+      "name": "Florian Zeller (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640851",
+      "name": "Francis Lawrence (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640852",
+      "name": "Franco Zeffirelli (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640853",
+      "name": "Francois Ozon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640854",
+      "name": "Frank Darabont (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640855",
+      "name": "Frank Lloyd (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640856",
+      "name": "Frank Miller (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640857",
+      "name": "Gareth Edwards (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640858",
+      "name": "Gary Ross (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640859",
+      "name": "Gaspar Noe (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640860",
+      "name": "George A Romero (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640861",
+      "name": "George Clooney (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640862",
+      "name": "George Miller (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640863",
+      "name": "George Pan Cosmatos (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640864",
+      "name": "Georges Franju (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640865",
+      "name": "Germaine Dulac (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640866",
+      "name": "Gillo Pontecorvo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640867",
+      "name": "Giuseppe Tornatore (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640868",
+      "name": "Gore Verbinski (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640869",
+      "name": "Gracia Querejeta (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640870",
+      "name": "Gregory Hoblit (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640871",
+      "name": "Gregory La Cava (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640872",
+      "name": "Grigori Kozintsev (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640873",
+      "name": "Guillermo Del Toro (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640874",
+      "name": "Guillermo Fesser (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640875",
+      "name": "Gus Van Sant (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640876",
+      "name": "Guy Hamilton (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640877",
+      "name": "Guy Maddin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640878",
+      "name": "Guy Ritchie (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640879",
+      "name": "Hal Ashby (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640880",
+      "name": "Hans Richter (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640881",
+      "name": "Harold Ramis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640882",
+      "name": "Hou Hsiao Hsien (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640883",
+      "name": "Hugh Hudson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640884",
+      "name": "Iciar Bollain (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640885",
+      "name": "Imanol Uribe (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640886",
+      "name": "Irwin Winkler (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640887",
+      "name": "Isabel Coixet (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640888",
+      "name": "Ivan Reitman (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640889",
+      "name": "Ivan Zulueta (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640890",
+      "name": "J J Abrams (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640891",
+      "name": "Jacques Audiard (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640892",
+      "name": "Jacques Doillon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640893",
+      "name": "Jaime Chavarri (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640894",
+      "name": "Jaime De Arminan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640895",
+      "name": "James Cameron (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640896",
+      "name": "James Gunn (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640897",
+      "name": "James Ivory (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640898",
+      "name": "James L Brooks (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640899",
+      "name": "James Mangold (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640900",
+      "name": "Jan De Bont (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640901",
+      "name": "Jane Campion (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640902",
+      "name": "Jason Reitman (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640903",
+      "name": "Jaume Balaguero (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640904",
+      "name": "Jaume Collet Serra (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640905",
+      "name": "Javier Fesser (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640906",
+      "name": "Jean Jacques Annaud (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640907",
+      "name": "Jean Pierre Jeunet (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640908",
+      "name": "Jean Pierre Y Luc Dardenne (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640909",
+      "name": "Jeff Fowler (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640910",
+      "name": "Jeff Nichols (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640911",
+      "name": "Jerry Lewis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640912",
+      "name": "Jerry Zucker (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640913",
+      "name": "Jesus Franco (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640914",
+      "name": "Jim Abrahams (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640915",
+      "name": "Jim Jarmusch (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640916",
+      "name": "Jim Sheridan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640917",
+      "name": "Joe Dante (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640918",
+      "name": "Joe Johnston (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640919",
+      "name": "Joe Wright (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640920",
+      "name": "Joel Schumacher (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640921",
+      "name": "Joel Y Ethan Coen (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640922",
+      "name": "John Badham (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640923",
+      "name": "John Boorman (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640924",
+      "name": "John Carpenter (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640925",
+      "name": "John G Avildsen (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640926",
+      "name": "John Guillermin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640927",
+      "name": "John Hughes (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640928",
+      "name": "John Landis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640929",
+      "name": "John Madden (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640930",
+      "name": "John Mctiernan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640931",
+      "name": "John Milius (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640932",
+      "name": "John Waters (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640933",
+      "name": "John Wayne (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640934",
+      "name": "John Woo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640935",
+      "name": "Jon Favreau (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640936",
+      "name": "Jon Turteltaub (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640937",
+      "name": "Jon Watts (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640938",
+      "name": "Jonathan Demme (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640939",
+      "name": "Jonathan Glazer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640940",
+      "name": "Jordan Peele (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640941",
+      "name": "Jose Luis Borau (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640942",
+      "name": "Jose Luis Cuerda (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640943",
+      "name": "Jose Luis Garci (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640944",
+      "name": "Jose Luis Guerin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640945",
+      "name": "Jose Luis Saenz De Heredia (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640946",
+      "name": "Jose Maria Forque (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640947",
+      "name": "Joseph Kosinski (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640948",
+      "name": "Joss Whedon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640949",
+      "name": "Juan Antonio Bayona (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640950",
+      "name": "Juan De Orduna (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640951",
+      "name": "Juan Jose Campanella (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640952",
+      "name": "Juanma Bajo Ulloa (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640953",
+      "name": "Julio Medem (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640954",
+      "name": "Justin Lin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640955",
+      "name": "Kathryn Bigelow (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640956",
+      "name": "Ken Loach (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640957",
+      "name": "Ken Russell (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640958",
+      "name": "Kenneth Anger (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640959",
+      "name": "Kenneth Branagh (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640960",
+      "name": "Kevin Reynolds (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640961",
+      "name": "Kevin Smith (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640962",
+      "name": "Kim Ki Duk (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640963",
+      "name": "Ladislao Vajda (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640964",
+      "name": "Lasse Hallstrom (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640965",
+      "name": "Lawrence Kasdan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640966",
+      "name": "Leon Klimovsky (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640967",
+      "name": "Louis Delluc (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640968",
+      "name": "Louis Leterrier (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640969",
+      "name": "Luc Besson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640970",
+      "name": "M Night Shyamalan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640971",
+      "name": "Manoel De Oliveira (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640972",
+      "name": "Manuel Gomez Pereira (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640973",
+      "name": "Manuel Gutierrez Aragon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640974",
+      "name": "Marcel L Herbier (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640975",
+      "name": "Marco Ferreri (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640976",
+      "name": "Mariano Ozores (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640977",
+      "name": "Mario Bava (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640978",
+      "name": "Mario Camus (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640979",
+      "name": "Martin Brest (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640980",
+      "name": "Martin Ritt (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640981",
+      "name": "Masaki Kobayashi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640982",
+      "name": "Mateo Gil (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640983",
+      "name": "Mathieu Kassovitz (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640984",
+      "name": "Matt Reeves (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640985",
+      "name": "Mel Brooks (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640986",
+      "name": "Mel Gibson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640987",
+      "name": "Michael Bay (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640988",
+      "name": "Michael Cacoyannis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640989",
+      "name": "Michael Cimino (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640990",
+      "name": "Michael Crichton (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640991",
+      "name": "Michael Mann (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640992",
+      "name": "Michael Moore (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640993",
+      "name": "Mika Kaurismaki (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640994",
+      "name": "Montxo Armendariz (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640995",
+      "name": "Nacho Vigalondo (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640996",
+      "name": "Nagisa Oshima (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640997",
+      "name": "Nanni Moretti (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640998",
+      "name": "Narciso Ibanez Serrador (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8640999",
+      "name": "Neil Jordan (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641000",
+      "name": "Nick Cassavetes (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641001",
+      "name": "Nicolas Roeg (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641002",
+      "name": "Nicolas Winding Refn (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641004",
+      "name": "Oliver Stone (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641005",
+      "name": "Paco Plaza (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641006",
+      "name": "Paolo Sorrentino (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641007",
+      "name": "Patty Jenkins (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641008",
+      "name": "Paul Greengrass (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641009",
+      "name": "Paul Haggis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641010",
+      "name": "Paul Leni (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641011",
+      "name": "Paul Thomas Anderson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641012",
+      "name": "Paul Verhoeven (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641013",
+      "name": "Paul W S Anderson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641014",
+      "name": "Pedro Lazaga (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641015",
+      "name": "Pedro Maso (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641016",
+      "name": "Peter Greenaway (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641017",
+      "name": "Peter Hyams (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641018",
+      "name": "Peter Jackson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641019",
+      "name": "Peter Weir (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641020",
+      "name": "Peter Yates (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641021",
+      "name": "Philip Noyce (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641022",
+      "name": "Pietro Germi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641023",
+      "name": "Pilar Miro (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641024",
+      "name": "Rafael Gil (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641025",
+      "name": "Renny Harlin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641026",
+      "name": "Rian Johnson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641027",
+      "name": "Ricardo Palacios (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641028",
+      "name": "Richard Attenborough (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641029",
+      "name": "Richard Donner (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641030",
+      "name": "Richard Fleischer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641031",
+      "name": "Richard Lester (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641032",
+      "name": "Richard Linklater (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641033",
+      "name": "Rob Marshall (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641034",
+      "name": "Rob Reiner (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641035",
+      "name": "Robert Benton (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641036",
+      "name": "Robert De Niro (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641037",
+      "name": "Robert Eggers (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641038",
+      "name": "Robert Redford (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641039",
+      "name": "Robert Rodriguez (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641040",
+      "name": "Robert Stevenson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641041",
+      "name": "Robert Zemeckis (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641042",
+      "name": "Roberto Benigni (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641043",
+      "name": "Rodrigo Cortes (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641044",
+      "name": "Rodrigo Sorogoyen (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641045",
+      "name": "Roger Corman (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641046",
+      "name": "Roger Donaldson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641047",
+      "name": "Roger Spottiswoode (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641048",
+      "name": "Roger Vadim (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641049",
+      "name": "Roland Emmerich (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641050",
+      "name": "Roland Joffe (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641051",
+      "name": "Ron Howard (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641052",
+      "name": "Rowland V Lee (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641053",
+      "name": "Roy William Neill (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641054",
+      "name": "Ruben Fleischer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641055",
+      "name": "Rudolph Mate (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641056",
+      "name": "Russ Meyer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641057",
+      "name": "Sam Mendes (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641058",
+      "name": "Sam Raimi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641059",
+      "name": "Santiago Segura (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641060",
+      "name": "Scott Derrickson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641061",
+      "name": "Segundo De Chomon (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641062",
+      "name": "Sergei Bondarchuk (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641063",
+      "name": "Shane Black (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641064",
+      "name": "Shohei Imamura (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641065",
+      "name": "Sofia Coppola (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641066",
+      "name": "Spike Jonze (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641067",
+      "name": "Spike Lee (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641068",
+      "name": "Stephen Frears (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641069",
+      "name": "Stephen Sommers (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641070",
+      "name": "Steve Mcqueen (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641071",
+      "name": "Steven Soderbergh (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641072",
+      "name": "Sydney Pollack (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641073",
+      "name": "Sylvester Stallone (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641074",
+      "name": "Taika Waititi (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641075",
+      "name": "Takeshi Kitano (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641076",
+      "name": "Ted Kotcheff (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641077",
+      "name": "Ted Post (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641078",
+      "name": "Terence Fisher (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641079",
+      "name": "Terence Young (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641080",
+      "name": "Terrence Malick (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641081",
+      "name": "Terry Gilliam (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641082",
+      "name": "Terry Jones (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641083",
+      "name": "Theo Angelopoulos (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641084",
+      "name": "Tim Burton (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641085",
+      "name": "Todd Phillips (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641086",
+      "name": "Tom Tykwer (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641087",
+      "name": "Tommy Wiseau (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641088",
+      "name": "Tony Gilroy (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641089",
+      "name": "Tony Richardson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641090",
+      "name": "Tony Scott (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641091",
+      "name": "Valerio Lazarov (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641092",
+      "name": "Ventura Pons (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641093",
+      "name": "Vicente Aranda (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641094",
+      "name": "Victor Erice (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641095",
+      "name": "Vincenzo Natali (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641096",
+      "name": "W S Van Dyke (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641097",
+      "name": "Warren Beatty (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641098",
+      "name": "Wes Anderson (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641099",
+      "name": "Wes Craven (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641100",
+      "name": "William Cameron Menzies (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641101",
+      "name": "William Friedkin (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641102",
+      "name": "Wolfgang Petersen (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641103",
+      "name": "Wong Kar Wai (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641104",
+      "name": "Yorgos Lanthimos (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641105",
+      "name": "Zack Snyder (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "directores_ii_8641106",
+      "name": "Zhang Yimou (DIRECTORES II)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641149",
+      "name": "A Todo Gas (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641150",
+      "name": "Ace Ventura (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641151",
+      "name": "Agatha Christie (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641152",
+      "name": "Alien (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641153",
+      "name": "Animales Fantasticos (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641154",
+      "name": "Arma Letal (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641155",
+      "name": "Arsene Lupin (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641156",
+      "name": "Austin Powers (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641157",
+      "name": "Avatar (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641158",
+      "name": "Cazafantasmas (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641159",
+      "name": "Cocodrilo Dundee (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641160",
+      "name": "Conan (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641161",
+      "name": "Crepusculo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641162",
+      "name": "Cube (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641163",
+      "name": "Dc (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641165",
+      "name": "Dick Tracy (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641166",
+      "name": "Divergente (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641167",
+      "name": "Dos Policias Rebeldes (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641168",
+      "name": "Dr Jekyll Y Mr Hyde (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641169",
+      "name": "Dracula (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641170",
+      "name": "Dragones Y Mazmorras (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641171",
+      "name": "Dune (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641172",
+      "name": "El Corredor Del Laberinto (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641173",
+      "name": "El Fantasma De La Opera (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641174",
+      "name": "El Hombre Invisible (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641175",
+      "name": "El Hombre Lobo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641176",
+      "name": "El Jorobado De Notre Dame (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641177",
+      "name": "El Libro De La Selva (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641178",
+      "name": "El Monstruo De La Laguna Negra (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641179",
+      "name": "El Padrino (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641180",
+      "name": "El Planeta De Los Simios (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641181",
+      "name": "El Rey Arturo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641182",
+      "name": "El Zorro (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641183",
+      "name": "Flash Gordon (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641184",
+      "name": "Frankenstein (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641185",
+      "name": "G I Joe (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641186",
+      "name": "Godzilla (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641187",
+      "name": "Gremlins (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641188",
+      "name": "Hannibal Lecter (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641189",
+      "name": "Harry Callahan (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641190",
+      "name": "Harry Potter (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641191",
+      "name": "Hellboy (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641192",
+      "name": "Hora Punta (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641193",
+      "name": "Indiana Jones (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641194",
+      "name": "J R R Tolkien (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641195",
+      "name": "Jack Ryan (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641196",
+      "name": "James Bond (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641197",
+      "name": "Jason Bourne (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641198",
+      "name": "Jesucristo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641199",
+      "name": "John Wick (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641200",
+      "name": "Julio Verne (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641201",
+      "name": "Karate Kid (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641202",
+      "name": "King Kong (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641203",
+      "name": "La Busqueda (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641204",
+      "name": "La Edad De Hielo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641205",
+      "name": "La Familia Addams (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641206",
+      "name": "La Guerra De Las Galaxias (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641207",
+      "name": "La Historia Interminable (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641208",
+      "name": "La Jungla De Cristal (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641209",
+      "name": "La Mascara (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641210",
+      "name": "La Momia (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641211",
+      "name": "La Pantera Rosa (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641212",
+      "name": "Las Cronicas De Narnia (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641213",
+      "name": "Las Minas Del Rey Salomon (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641214",
+      "name": "Las Tortugas Ninja (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641215",
+      "name": "Loca Academia De Policia (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641216",
+      "name": "Los Angeles De Charlie (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641217",
+      "name": "Los Inmortales (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641218",
+      "name": "Los Juegos Del Hambre (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641219",
+      "name": "Los Mercenarios (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641220",
+      "name": "Los Siete Magnificos (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641221",
+      "name": "Los Tres Mosqueteros (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641222",
+      "name": "Los Visitantes (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641223",
+      "name": "Mad Max (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641224",
+      "name": "Marvel (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641225",
+      "name": "Masters Del Universo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641226",
+      "name": "Matrix (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641227",
+      "name": "Millennium (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641228",
+      "name": "Mision Imposible (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641229",
+      "name": "Mortal Kombat (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641230",
+      "name": "Ocean S (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641231",
+      "name": "Parque Jurasico (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641232",
+      "name": "Piratas Del Caribe (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641233",
+      "name": "Punales Por La Espalda (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641234",
+      "name": "Rambo (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641235",
+      "name": "Regreso Al Futuro (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641236",
+      "name": "Resident Evil (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641237",
+      "name": "Riddick (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641238",
+      "name": "Robert Langdon (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641239",
+      "name": "Robin Hood (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641240",
+      "name": "Robinson Crusoe (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641241",
+      "name": "Robocop (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641242",
+      "name": "Rocky Creed (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641243",
+      "name": "Sandokan (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641244",
+      "name": "Sherlock Holmes (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641245",
+      "name": "Shrek (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641246",
+      "name": "Soldado Universal (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641247",
+      "name": "Star Trek (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641248",
+      "name": "Stargate (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641249",
+      "name": "Superdetective En Hollywood (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641250",
+      "name": "Tarzan (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641251",
+      "name": "Terminator (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641252",
+      "name": "Terror (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641253",
+      "name": "The Equalizer (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641254",
+      "name": "Tom Ripley (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641255",
+      "name": "Tomb Raider (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641256",
+      "name": "Torrente (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641257",
+      "name": "Toy Story (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641258",
+      "name": "Transformers (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641259",
+      "name": "Transporter (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641260",
+      "name": "Tron (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641261",
+      "name": "Underworld (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641262",
+      "name": "Willy Wonka (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_8641263",
+      "name": "Xxx (SAGAS)"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641269",
+      "name": "Leon De Oro (PREMIOS)"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641270",
+      "name": "Oso De Oro (PREMIOS)"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641268",
+      "name": "Palma De Oro (PREMIOS)"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641272",
+      "name": "Premio Goya (PREMIOS)"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641271",
+      "name": "Premio Oscar (PREMIOS)"
     }
   ]
 }

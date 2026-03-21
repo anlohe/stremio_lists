@@ -1,0 +1,32 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:144611",
+      "type": "movie",
+      "name": "Cine-ojo, la vida al imprevisto",
+      "poster": "https://image.tmdb.org/t/p/w500/zct6jOiUwJcJ8FD321pgdwKVXha.jpg",
+      "description": "Este documental se centra alrededor de las actividades de los jóvenes en una aldea del soviet. Estos niños y niñas están constantemente ocupados, pegando carteles de propaganda en las paredes, incitando a todos para que \"compren en la cooperativa\" ayudando a viudas pobres..."
+    },
+    {
+      "id": "tmdb:26317",
+      "type": "movie",
+      "name": "El hombre de la cámara",
+      "poster": "https://image.tmdb.org/t/p/w500/t54yc1AU8KszWGPnEv3rHDTIYcH.jpg",
+      "description": "Un cámara deambula con una cámara colgada del hombro, documentando la vida urbana con una deslumbrante inventiva."
+    },
+    {
+      "id": "tmdb:45176",
+      "type": "movie",
+      "name": "Entusiasmo. Sinfonía del Donbass",
+      "poster": "https://image.tmdb.org/t/p/w500/krs9rkxfJsMYytwIfO4kYKLFMdK.jpg",
+      "description": "Para su primer filme sonoro, Vertov tenía un propósito radical: explorar el sonido directo y sus posibilidades expresivas como nadie lo había hecho. Entuziazm es una obra única en la que los sonidos (en particular los industriales) dialogan con voces y músicas."
+    },
+    {
+      "id": "tmdb:92475",
+      "type": "movie",
+      "name": "Tres cantos para Lenin (Tres cantos a Lenin)",
+      "poster": "https://image.tmdb.org/t/p/w500/xa03Ape43MdLvJcAhWvpTGMcuGH.jpg",
+      "description": "Sobre el tema de tres canciones populares inspiradas por Lenín, Vertov nos muestra un panorama de Rusia a comienzos de los años 30 en diferentes regiones europeas y asiáticas."
+    }
+  ]
+}

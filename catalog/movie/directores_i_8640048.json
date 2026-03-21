@@ -1,0 +1,53 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:118534",
+      "type": "movie",
+      "name": "Escándalo en París",
+      "poster": "https://image.tmdb.org/t/p/w500/tckWoOqk8V4eeutfzjgwp9poIfy.jpg",
+      "description": "Autobiografía de François Eugène Vidocq, legendario ladrón del siglo XVIII. Vidocq nació en una cárcel francesa en 1775 y llegó incluso a ser nombrado jefe de la policía de París, pero durante todo ese tiempo no dejó de ser un singular y elegante delincuente."
+    },
+    {
+      "id": "tmdb:205331",
+      "type": "movie",
+      "name": "Atila, rey de los hunos",
+      "poster": "https://image.tmdb.org/t/p/w500/l2bgWc8SWEeXLuGd95XaEt3clEh.jpg",
+      "description": "Durante el siglo V, el Imperio Romano se dividió en dos y fue objeto de ataques de los hunos bajo Atila. El centurión romano Marciano es capturado por soldados hunos e interrogado por Attila, que desea aprender las costumbres de los romanos. Marciano logra escapar a caballo gracias a la encantadora hija de Atila, Kubra. Él va a Constantinopla para avisar al Imperio de Oriente sobre los hunos. Sin embargo el emperador Teodosio tiene la intención de hacer tratos con los bárbaros."
+    },
+    {
+      "id": "tmdb:13457",
+      "type": "movie",
+      "name": "Obsesión",
+      "poster": "https://image.tmdb.org/t/p/w500/b9tUKRUf8rMbykP0c7gk9SPh8Jy.jpg",
+      "description": "Bob Merrick, un joven multimillonario, egoísta y engreído, sufre un accidente mientras conduce una lancha motora. En el hospital le aplican provisionalmente el pulmón artificial del doctor Phillips, pero desgraciadamente éste sufre un ataque repentino y muere. Su viuda Helen descubre entonces que está completamente arruinada, a pesar de que los honorarios que percibía su marido eran muy elevados. La razón es que él, sin que ella lo supiera, repartía el dinero, de manera anónima y altruista, entre los necesitados. A partir de ese momento, una serie de extrañas circunstancias mantendrán unidos a Helen y Bob, a pesar de tener caracteres muy distintos."
+    },
+    {
+      "id": "tmdb:43316",
+      "type": "movie",
+      "name": "Sólo el cielo lo sabe",
+      "poster": "https://image.tmdb.org/t/p/w500/5mycJKgG5fjkyYqtJXjkpnqZG2M.jpg",
+      "description": "Una viuda de buena familia inicia un romance con su apuesto jardinero. A pesar de pertenecer a dos mundos completamente diferentes deciden casarse, pero su amor tropieza con el rechazo de los hijos de la mujer y de su círculo social."
+    },
+    {
+      "id": "tmdb:69605",
+      "type": "movie",
+      "name": "Escrito sobre el viento",
+      "poster": "https://image.tmdb.org/t/p/w500/qzB7MYXyTtajtYuEgIbo8KWoKzm.jpg",
+      "description": "Kile Hadley, un magnate del petróleo, y Mitch Wayne, su mejor amigo y empleado, se enamoran de la misma mujer: la secretaria Lucy Moore. Kile, que es un alcohólico irresponsable, se casa con ella, aunque Mitch está convencido de que con esta boda Lucy comete un gran error. Al cabo de un año, contra todo pronóstico, Kyle parece un hombre nuevo: ha dejado de beber y presta más atención a sus negocios."
+    },
+    {
+      "id": "tmdb:84079",
+      "type": "movie",
+      "name": "Tiempo de amar, tiempo de morir",
+      "poster": "https://image.tmdb.org/t/p/w500/nTN6eW0iYtLW2PEDveaHSAOq92X.jpg",
+      "description": "Durante la Segunda Guerra Mundial (1939-1945), un soldado alemán que combate en el frente ruso obtiene un permiso para volver a Alemania. Tras comprobar que su casa ha sido bombardeada, emprende la búsqueda de sus padres desaparecidos; al mismo tiempo, conoce a la hija de un preso político y se enamora de ella."
+    },
+    {
+      "id": "tmdb:34148",
+      "type": "movie",
+      "name": "Imitación a la vida",
+      "poster": "https://image.tmdb.org/t/p/w500/zPw8z8V33ycUtxrLhuU6HBZcJDP.jpg",
+      "description": "Lora Meredith (Lana Turner), una actriz viuda en paro, vive con su hija adolescente (Sandra Dee) en Nueva York. Un día, conoce por casualidad a Annie, una mujer de raza negra (Juanita Moore), y a su hija, que es mulata. Las dos acaban trabajando para ella. Ese mismo día conoce también a Steve (John Gavin), un fotógrafo que se enamora de ella."
+    }
+  ]
+}
