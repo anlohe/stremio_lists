@@ -1,10 +1,2678 @@
 {
   "DIRECTORES I": {
-    "8640008": "Alfred Hitchcock",
-    "8640023": "Buster Keaton",
-    "8640024": "Carl Theodor Dreyer"
+    "8640114": {
+      "nombre": "Abbas Kiarostami",
+      "url": "https://www.themoviedb.org/list/8640114-abbas-kiarostami"
+    },
+    "8639647": {
+      "nombre": "Abel Gance",
+      "url": "https://www.themoviedb.org/list/8639647-abel-gance"
+    },
+    "8640001": {
+      "nombre": "Agnes Varda",
+      "url": "https://www.themoviedb.org/list/8640001-agnes-varda"
+    },
+    "8640002": {
+      "nombre": "Aki Kaurismaki",
+      "url": "https://www.themoviedb.org/list/8640002-aki-kaurismaki"
+    },
+    "8640004": {
+      "nombre": "Akira Kurosawa",
+      "url": "https://www.themoviedb.org/list/8640004-akira-kurosawa"
+    },
+    "8640005": {
+      "nombre": "Alain Resnais",
+      "url": "https://www.themoviedb.org/list/8640005-alain-resnais"
+    },
+    "8640006": {
+      "nombre": "Alexander Korda",
+      "url": "https://www.themoviedb.org/list/8640006-alexander-korda"
+    },
+    "8640007": {
+      "nombre": "Alexander Mackendrick",
+      "url": "https://www.themoviedb.org/list/8640007-alexander-mackendrick"
+    },
+    "8640008": {
+      "nombre": "Alfred Hitchcock",
+      "url": "https://www.themoviedb.org/list/8640008-alfred-hitchcock"
+    },
+    "8640009": {
+      "nombre": "Alice Guy",
+      "url": "https://www.themoviedb.org/list/8640009-alice-guy"
+    },
+    "8640011": {
+      "nombre": "Anatole Litvak",
+      "url": "https://www.themoviedb.org/list/8640011-anatole-litvak"
+    },
+    "8640012": {
+      "nombre": "Andrei Tarkovski",
+      "url": "https://www.themoviedb.org/list/8640012-andrei-tarkovski"
+    },
+    "8640013": {
+      "nombre": "Andrzej Wajda",
+      "url": "https://www.themoviedb.org/list/8640013-andrzej-wajda"
+    },
+    "8640014": {
+      "nombre": "Anthony Mann",
+      "url": "https://www.themoviedb.org/list/8640014-anthony-mann"
+    },
+    "8640015": {
+      "nombre": "Arthur Penn",
+      "url": "https://www.themoviedb.org/list/8640015-arthur-penn"
+    },
+    "8640017": {
+      "nombre": "Bela Tarr",
+      "url": "https://www.themoviedb.org/list/8640017-bela-tarr"
+    },
+    "8640018": {
+      "nombre": "Benjamin Christensen",
+      "url": "https://www.themoviedb.org/list/8640018-benjamin-christensen"
+    },
+    "8640019": {
+      "nombre": "Bernardo Bertolucci",
+      "url": "https://www.themoviedb.org/list/8640019-bernardo-bertolucci"
+    },
+    "8640020": {
+      "nombre": "Billy Wilder",
+      "url": "https://www.themoviedb.org/list/8640020-billy-wilder"
+    },
+    "8640021": {
+      "nombre": "Blake Edwards",
+      "url": "https://www.themoviedb.org/list/8640021-blake-edwards"
+    },
+    "8640022": {
+      "nombre": "Bob Fosse",
+      "url": "https://www.themoviedb.org/list/8640022-bob-fosse"
+    },
+    "8640023": {
+      "nombre": "Buster Keaton",
+      "url": "https://www.themoviedb.org/list/8640023-buster-keaton"
+    },
+    "8640024": {
+      "nombre": "Carl Theodor Dreyer",
+      "url": "https://www.themoviedb.org/list/8640024-carl-theodor-dreyer"
+    },
+    "8640025": {
+      "nombre": "Carlos Saura",
+      "url": "https://www.themoviedb.org/list/8640025-carlos-saura"
+    },
+    "8640027": {
+      "nombre": "Carol Reed",
+      "url": "https://www.themoviedb.org/list/8640027-carol-reed"
+    },
+    "8640028": {
+      "nombre": "Cecil B. Demille",
+      "url": "https://www.themoviedb.org/list/8640028-cecil-b-demille"
+    },
+    "8640029": {
+      "nombre": "Charles Chaplin",
+      "url": "https://www.themoviedb.org/list/8640029-charles-chaplin"
+    },
+    "8640030": {
+      "nombre": "Charles Laughton",
+      "url": "https://www.themoviedb.org/list/8640030-charles-laughton"
+    },
+    "8640031": {
+      "nombre": "Charles Vidor",
+      "url": "https://www.themoviedb.org/list/8640031-charles-vidor"
+    },
+    "8640033": {
+      "nombre": "Christopher Nolan",
+      "url": "https://www.themoviedb.org/list/8640033-christopher-nolan"
+    },
+    "8640034": {
+      "nombre": "Claude Chabrol",
+      "url": "https://www.themoviedb.org/list/8640034-claude-chabrol"
+    },
+    "8640037": {
+      "nombre": "Clint Eastwood",
+      "url": "https://www.themoviedb.org/list/8640037-clint-eastwood"
+    },
+    "8640038": {
+      "nombre": "David Lean",
+      "url": "https://www.themoviedb.org/list/8640038-david-lean"
+    },
+    "8640040": {
+      "nombre": "David Lynch",
+      "url": "https://www.themoviedb.org/list/8640040-david-lynch"
+    },
+    "8640043": {
+      "nombre": "David Wark Griffith",
+      "url": "https://www.themoviedb.org/list/8640043-david-wark-griffith"
+    },
+    "8640044": {
+      "nombre": "Delbert Mann",
+      "url": "https://www.themoviedb.org/list/8640044-delbert-mann"
+    },
+    "8640045": {
+      "nombre": "Delmer Daves",
+      "url": "https://www.themoviedb.org/list/8640045-delmer-daves"
+    },
+    "8640046": {
+      "nombre": "Don Siegel",
+      "url": "https://www.themoviedb.org/list/8640046-don-siegel"
+    },
+    "8640048": {
+      "nombre": "Douglas Sirk",
+      "url": "https://www.themoviedb.org/list/8640048-douglas-sirk"
+    },
+    "8640049": {
+      "nombre": "Dziga Vertov",
+      "url": "https://www.themoviedb.org/list/8640049-dziga-vertov"
+    },
+    "8640050": {
+      "nombre": "Edgar G. Ulmer",
+      "url": "https://www.themoviedb.org/list/8640050-edgar-g-ulmer"
+    },
+    "8640051": {
+      "nombre": "Edward Dmytryk",
+      "url": "https://www.themoviedb.org/list/8640051-edward-dmytryk"
+    },
+    "8640052": {
+      "nombre": "Edwin S. Porter",
+      "url": "https://www.themoviedb.org/list/8640052-edwin-s-porter"
+    },
+    "8640591": {
+      "nombre": "Elia Kazan",
+      "url": "https://www.themoviedb.org/list/8640591-elia-kazan"
+    },
+    "8640592": {
+      "nombre": "Emir Kusturica",
+      "url": "https://www.themoviedb.org/list/8640592-emir-kusturica"
+    },
+    "8640593": {
+      "nombre": "Eric Rohmer",
+      "url": "https://www.themoviedb.org/list/8640593-eric-rohmer"
+    },
+    "8640594": {
+      "nombre": "Erich Von Stroheim",
+      "url": "https://www.themoviedb.org/list/8640594-erich-von-stroheim"
+    },
+    "8640595": {
+      "nombre": "Ernst Lubitsch",
+      "url": "https://www.themoviedb.org/list/8640595-ernst-lubitsch"
+    },
+    "8640596": {
+      "nombre": "Ettore Scola",
+      "url": "https://www.themoviedb.org/list/8640596-ettore-scola"
+    },
+    "8640597": {
+      "nombre": "Federico Fellini",
+      "url": "https://www.themoviedb.org/list/8640597-federico-fellini"
+    },
+    "8640598": {
+      "nombre": "Francis Ford Coppola",
+      "url": "https://www.themoviedb.org/list/8640598-francis-ford-coppola"
+    },
+    "8640599": {
+      "nombre": "Francois Truffaut",
+      "url": "https://www.themoviedb.org/list/8640599-francois-truffaut"
+    },
+    "8640600": {
+      "nombre": "Frank Borzage",
+      "url": "https://www.themoviedb.org/list/8640600-frank-borzage"
+    },
+    "8640601": {
+      "nombre": "Frank Capra",
+      "url": "https://www.themoviedb.org/list/8640601-frank-capra"
+    },
+    "8640602": {
+      "nombre": "Franklin J. Schaffner",
+      "url": "https://www.themoviedb.org/list/8640602-franklin-j-schaffner"
+    },
+    "8640603": {
+      "nombre": "Fred Niblo",
+      "url": "https://www.themoviedb.org/list/8640603-fred-niblo"
+    },
+    "8640604": {
+      "nombre": "Fred Zinnemann",
+      "url": "https://www.themoviedb.org/list/8640604-fred-zinnemann"
+    },
+    "8640605": {
+      "nombre": "Friedrich Wilhelm Murnau",
+      "url": "https://www.themoviedb.org/list/8640605-friedrich-wilhelm-murnau"
+    },
+    "8640606": {
+      "nombre": "Fritz Lang",
+      "url": "https://www.themoviedb.org/list/8640606-fritz-lang"
+    },
+    "8640607": {
+      "nombre": "Georg Wilhelm Pabst",
+      "url": "https://www.themoviedb.org/list/8640607-georg-wilhelm-pabst"
+    },
+    "8640608": {
+      "nombre": "George Cukor",
+      "url": "https://www.themoviedb.org/list/8640608-george-cukor"
+    },
+    "8640609": {
+      "nombre": "George Lucas",
+      "url": "https://www.themoviedb.org/list/8640609-george-lucas"
+    },
+    "8640610": {
+      "nombre": "George Roy Hill",
+      "url": "https://www.themoviedb.org/list/8640610-george-roy-hill"
+    },
+    "8640611": {
+      "nombre": "George Sidney",
+      "url": "https://www.themoviedb.org/list/8640611-george-sidney"
+    },
+    "8640612": {
+      "nombre": "George Stevens",
+      "url": "https://www.themoviedb.org/list/8640612-george-stevens"
+    },
+    "8640613": {
+      "nombre": "Georges Melies",
+      "url": "https://www.themoviedb.org/list/8640613-georges-melies"
+    },
+    "8640614": {
+      "nombre": "Giovanni Pastrone",
+      "url": "https://www.themoviedb.org/list/8640614-giovanni-pastrone"
+    },
+    "8640615": {
+      "nombre": "Harold Lloyd",
+      "url": "https://www.themoviedb.org/list/8640615-harold-lloyd"
+    },
+    "8640616": {
+      "nombre": "Hayao Miyazaki",
+      "url": "https://www.themoviedb.org/list/8640616-hayao-miyazaki"
+    },
+    "8640617": {
+      "nombre": "Henri Georges Clouzot",
+      "url": "https://www.themoviedb.org/list/8640617-henri-georges-clouzot"
+    },
+    "8640618": {
+      "nombre": "Henry Hathaway",
+      "url": "https://www.themoviedb.org/list/8640618-henry-hathaway"
+    },
+    "8640619": {
+      "nombre": "Henry King",
+      "url": "https://www.themoviedb.org/list/8640619-henry-king"
+    },
+    "8640620": {
+      "nombre": "Howard Hawks",
+      "url": "https://www.themoviedb.org/list/8640620-howard-hawks"
+    },
+    "8640621": {
+      "nombre": "Ingmar Bergman",
+      "url": "https://www.themoviedb.org/list/8640621-ingmar-bergman"
+    },
+    "8640622": {
+      "nombre": "J. Lee Thompson",
+      "url": "https://www.themoviedb.org/list/8640622-j-lee-thompson"
+    },
+    "8640623": {
+      "nombre": "Jack Clayton",
+      "url": "https://www.themoviedb.org/list/8640623-jack-clayton"
+    },
+    "8640624": {
+      "nombre": "Jack Conway",
+      "url": "https://www.themoviedb.org/list/8640624-jack-conway"
+    },
+    "8640625": {
+      "nombre": "Jacques Becker",
+      "url": "https://www.themoviedb.org/list/8640625-jacques-becker"
+    },
+    "8640626": {
+      "nombre": "Jacques Demy",
+      "url": "https://www.themoviedb.org/list/8640626-jacques-demy"
+    },
+    "8640627": {
+      "nombre": "Jacques Feyder",
+      "url": "https://www.themoviedb.org/list/8640627-jacques-feyder"
+    },
+    "8640628": {
+      "nombre": "Jacques Rivette",
+      "url": "https://www.themoviedb.org/list/8640628-jacques-rivette"
+    },
+    "8640629": {
+      "nombre": "Jacques Tati",
+      "url": "https://www.themoviedb.org/list/8640629-jacques-tati"
+    },
+    "8640630": {
+      "nombre": "Jacques Tourneur",
+      "url": "https://www.themoviedb.org/list/8640630-jacques-tourneur"
+    },
+    "8640631": {
+      "nombre": "James Whale",
+      "url": "https://www.themoviedb.org/list/8640631-james-whale"
+    },
+    "8640632": {
+      "nombre": "Jean Cocteau",
+      "url": "https://www.themoviedb.org/list/8640632-jean-cocteau"
+    },
+    "8640633": {
+      "nombre": "Jean Epstein",
+      "url": "https://www.themoviedb.org/list/8640633-jean-epstein"
+    },
+    "8640634": {
+      "nombre": "Jean Luc Godard",
+      "url": "https://www.themoviedb.org/list/8640634-jean-luc-godard"
+    },
+    "8640635": {
+      "nombre": "Jean Negulesco",
+      "url": "https://www.themoviedb.org/list/8640635-jean-negulesco"
+    },
+    "8640638": {
+      "nombre": "Jean Pierre Melville",
+      "url": "https://www.themoviedb.org/list/8640638-jean-pierre-melville"
+    },
+    "8640639": {
+      "nombre": "Jean Renoir",
+      "url": "https://www.themoviedb.org/list/8640639-jean-renoir"
+    },
+    "8640640": {
+      "nombre": "Jean Vigo",
+      "url": "https://www.themoviedb.org/list/8640640-jean-vigo"
+    },
+    "8640641": {
+      "nombre": "Jiri Menzel",
+      "url": "https://www.themoviedb.org/list/8640641-jiri-menzel"
+    },
+    "8640642": {
+      "nombre": "John Cassavetes",
+      "url": "https://www.themoviedb.org/list/8640642-john-cassavetes"
+    },
+    "8640643": {
+      "nombre": "John Ford",
+      "url": "https://www.themoviedb.org/list/8640643-john-ford"
+    },
+    "8640644": {
+      "nombre": "John Frankenheimer",
+      "url": "https://www.themoviedb.org/list/8640644-john-frankenheimer"
+    },
+    "8640645": {
+      "nombre": "John Huston",
+      "url": "https://www.themoviedb.org/list/8640645-john-huston"
+    },
+    "8640646": {
+      "nombre": "John M. Stahl",
+      "url": "https://www.themoviedb.org/list/8640646-john-m-stahl"
+    },
+    "8640647": {
+      "nombre": "John Schlesinger",
+      "url": "https://www.themoviedb.org/list/8640647-john-schlesinger"
+    },
+    "8640648": {
+      "nombre": "John Sturges",
+      "url": "https://www.themoviedb.org/list/8640648-john-sturges"
+    },
+    "8640649": {
+      "nombre": "Josef Von Sternberg",
+      "url": "https://www.themoviedb.org/list/8640649-josef-von-sternberg"
+    },
+    "8640650": {
+      "nombre": "Joseph L. Mankiewicz",
+      "url": "https://www.themoviedb.org/list/8640650-joseph-l-mankiewicz"
+    },
+    "8640651": {
+      "nombre": "Joseph Losey",
+      "url": "https://www.themoviedb.org/list/8640651-joseph-losey"
+    },
+    "8640652": {
+      "nombre": "Joshua Logan",
+      "url": "https://www.themoviedb.org/list/8640652-joshua-logan"
+    },
+    "8640653": {
+      "nombre": "Juan Antonio Bardem",
+      "url": "https://www.themoviedb.org/list/8640653-juan-antonio-bardem"
+    },
+    "8640654": {
+      "nombre": "Jules Dassin",
+      "url": "https://www.themoviedb.org/list/8640654-jules-dassin"
+    },
+    "8640655": {
+      "nombre": "Julien Duvivier",
+      "url": "https://www.themoviedb.org/list/8640655-julien-duvivier"
+    },
+    "8640656": {
+      "nombre": "Juraj Herz",
+      "url": "https://www.themoviedb.org/list/8640656-juraj-herz"
+    },
+    "8640657": {
+      "nombre": "Karel Reisz",
+      "url": "https://www.themoviedb.org/list/8640657-karel-reisz"
+    },
+    "8640658": {
+      "nombre": "Ken Annakin",
+      "url": "https://www.themoviedb.org/list/8640658-ken-annakin"
+    },
+    "8640659": {
+      "nombre": "Kenji Mizoguchi",
+      "url": "https://www.themoviedb.org/list/8640659-kenji-mizoguchi"
+    },
+    "8640660": {
+      "nombre": "King Vidor",
+      "url": "https://www.themoviedb.org/list/8640660-king-vidor"
+    },
+    "8640661": {
+      "nombre": "Krzysztof Kieslowski",
+      "url": "https://www.themoviedb.org/list/8640661-krzysztof-kieslowski"
+    },
+    "8640662": {
+      "nombre": "Lars Von Trier",
+      "url": "https://www.themoviedb.org/list/8640662-lars-von-trier"
+    },
+    "8640663": {
+      "nombre": "Leni Riefenstahl",
+      "url": "https://www.themoviedb.org/list/8640663-leni-riefenstahl"
+    },
+    "8640664": {
+      "nombre": "Leo Mccarey",
+      "url": "https://www.themoviedb.org/list/8640664-leo-mccarey"
+    },
+    "8640665": {
+      "nombre": "Lev Kuleshov",
+      "url": "https://www.themoviedb.org/list/8640665-lev-kuleshov"
+    },
+    "8640666": {
+      "nombre": "Lewis Milestone",
+      "url": "https://www.themoviedb.org/list/8640666-lewis-milestone"
+    },
+    "8640667": {
+      "nombre": "Lindsay Anderson",
+      "url": "https://www.themoviedb.org/list/8640667-lindsay-anderson"
+    },
+    "8640668": {
+      "nombre": "Lotte Reiniger",
+      "url": "https://www.themoviedb.org/list/8640668-lotte-reiniger"
+    },
+    "8640669": {
+      "nombre": "Louis Feuillade",
+      "url": "https://www.themoviedb.org/list/8640669-louis-feuillade"
+    },
+    "8640670": {
+      "nombre": "Louis Malle",
+      "url": "https://www.themoviedb.org/list/8640670-louis-malle"
+    },
+    "8640671": {
+      "nombre": "Louis Y Auguste Lumiere",
+      "url": "https://www.themoviedb.org/list/8640671-louis-y-auguste-lumiere"
+    },
+    "8640672": {
+      "nombre": "Luchino Visconti",
+      "url": "https://www.themoviedb.org/list/8640672-luchino-visconti"
+    },
+    "8640674": {
+      "nombre": "Luis Bunuel",
+      "url": "https://www.themoviedb.org/list/8640674-luis-bunuel"
+    },
+    "8640675": {
+      "nombre": "Luis Garcia Berlanga",
+      "url": "https://www.themoviedb.org/list/8640675-luis-garcia-berlanga"
+    },
+    "8640676": {
+      "nombre": "Marcel Carne",
+      "url": "https://www.themoviedb.org/list/8640676-marcel-carne"
+    },
+    "8640677": {
+      "nombre": "Mario Monicelli",
+      "url": "https://www.themoviedb.org/list/8640677-mario-monicelli"
+    },
+    "8640679": {
+      "nombre": "Mark Robson",
+      "url": "https://www.themoviedb.org/list/8640679-mark-robson"
+    },
+    "8640680": {
+      "nombre": "Martin Scorsese",
+      "url": "https://www.themoviedb.org/list/8640680-martin-scorsese"
+    },
+    "8640681": {
+      "nombre": "Mauritz Stiller",
+      "url": "https://www.themoviedb.org/list/8640681-mauritz-stiller"
+    },
+    "8640682": {
+      "nombre": "Max Ophuls",
+      "url": "https://www.themoviedb.org/list/8640682-max-ophuls"
+    },
+    "8640683": {
+      "nombre": "Merian C. Cooper",
+      "url": "https://www.themoviedb.org/list/8640683-merian-c-cooper"
+    },
+    "8640684": {
+      "nombre": "Mervyn Leroy",
+      "url": "https://www.themoviedb.org/list/8640684-mervyn-leroy"
+    },
+    "8640685": {
+      "nombre": "Michael Curtiz",
+      "url": "https://www.themoviedb.org/list/8640685-michael-curtiz"
+    },
+    "8640686": {
+      "nombre": "Michael Haneke",
+      "url": "https://www.themoviedb.org/list/8640686-michael-haneke"
+    },
+    "8640687": {
+      "nombre": "Michael Powell",
+      "url": "https://www.themoviedb.org/list/8640687-michael-powell"
+    },
+    "8640688": {
+      "nombre": "Michelangelo Antonioni",
+      "url": "https://www.themoviedb.org/list/8640688-michelangelo-antonioni"
+    },
+    "8640689": {
+      "nombre": "Mike Nichols",
+      "url": "https://www.themoviedb.org/list/8640689-mike-nichols"
+    },
+    "8640690": {
+      "nombre": "Mikhail Kalatozov",
+      "url": "https://www.themoviedb.org/list/8640690-mikhail-kalatozov"
+    },
+    "8640691": {
+      "nombre": "Mikio Naruse",
+      "url": "https://www.themoviedb.org/list/8640691-mikio-naruse"
+    },
+    "8640692": {
+      "nombre": "Milos Forman",
+      "url": "https://www.themoviedb.org/list/8640692-milos-forman"
+    },
+    "8640693": {
+      "nombre": "Nicholas Ray",
+      "url": "https://www.themoviedb.org/list/8640693-nicholas-ray"
+    },
+    "8640694": {
+      "nombre": "Norman Jewison",
+      "url": "https://www.themoviedb.org/list/8640694-norman-jewison"
+    },
+    "8640695": {
+      "nombre": "Orson Welles",
+      "url": "https://www.themoviedb.org/list/8640695-orson-welles"
+    },
+    "8640696": {
+      "nombre": "Otto Preminger",
+      "url": "https://www.themoviedb.org/list/8640696-otto-preminger"
+    },
+    "8640697": {
+      "nombre": "Paul Wegener",
+      "url": "https://www.themoviedb.org/list/8640697-paul-wegener"
+    },
+    "8640699": {
+      "nombre": "Pedro Almodovar",
+      "url": "https://www.themoviedb.org/list/8640699-pedro-almodovar"
+    },
+    "8640700": {
+      "nombre": "Peter Bogdanovich",
+      "url": "https://www.themoviedb.org/list/8640700-peter-bogdanovich"
+    },
+    "8640701": {
+      "nombre": "Pier Paolo Pasolini",
+      "url": "https://www.themoviedb.org/list/8640701-pier-paolo-pasolini"
+    },
+    "8640702": {
+      "nombre": "Preston Sturges",
+      "url": "https://www.themoviedb.org/list/8640702-preston-sturges"
+    },
+    "8640703": {
+      "nombre": "Quentin Tarantino",
+      "url": "https://www.themoviedb.org/list/8640703-quentin-tarantino"
+    },
+    "8640704": {
+      "nombre": "Rainer Werner Fassbinder",
+      "url": "https://www.themoviedb.org/list/8640704-rainer-werner-fassbinder"
+    },
+    "8640705": {
+      "nombre": "Raoul Walsh",
+      "url": "https://www.themoviedb.org/list/8640705-raoul-walsh"
+    },
+    "8640706": {
+      "nombre": "Rene Clair",
+      "url": "https://www.themoviedb.org/list/8640706-rene-clair"
+    },
+    "8640707": {
+      "nombre": "Rene Clement",
+      "url": "https://www.themoviedb.org/list/8640707-rene-clement"
+    },
+    "8640708": {
+      "nombre": "Rex Ingram",
+      "url": "https://www.themoviedb.org/list/8640708-rex-ingram"
+    },
+    "8640709": {
+      "nombre": "Richard Brooks",
+      "url": "https://www.themoviedb.org/list/8640709-richard-brooks"
+    },
+    "8640711": {
+      "nombre": "Richard Thorpe",
+      "url": "https://www.themoviedb.org/list/8640711-richard-thorpe"
+    },
+    "8640712": {
+      "nombre": "Ridley Scott",
+      "url": "https://www.themoviedb.org/list/8640712-ridley-scott"
+    },
+    "8640713": {
+      "nombre": "Robert Aldrich",
+      "url": "https://www.themoviedb.org/list/8640713-robert-aldrich"
+    },
+    "8640714": {
+      "nombre": "Robert Altman",
+      "url": "https://www.themoviedb.org/list/8640714-robert-altman"
+    },
+    "8640715": {
+      "nombre": "Robert Bresson",
+      "url": "https://www.themoviedb.org/list/8640715-robert-bresson"
+    },
+    "8640716": {
+      "nombre": "Robert J. Flaherty",
+      "url": "https://www.themoviedb.org/list/8640716-robert-j-flaherty"
+    },
+    "8640717": {
+      "nombre": "Robert Mulligan",
+      "url": "https://www.themoviedb.org/list/8640717-robert-mulligan"
+    },
+    "8640718": {
+      "nombre": "Robert Rossen",
+      "url": "https://www.themoviedb.org/list/8640718-robert-rossen"
+    },
+    "8640720": {
+      "nombre": "Robert Siodmak",
+      "url": "https://www.themoviedb.org/list/8640720-robert-siodmak"
+    },
+    "8640721": {
+      "nombre": "Robert Wiene",
+      "url": "https://www.themoviedb.org/list/8640721-robert-wiene"
+    },
+    "8640722": {
+      "nombre": "Robert Wise",
+      "url": "https://www.themoviedb.org/list/8640722-robert-wise"
+    },
+    "8640723": {
+      "nombre": "Roberto Rossellini",
+      "url": "https://www.themoviedb.org/list/8640723-roberto-rossellini"
+    },
+    "8640724": {
+      "nombre": "Roman Polanski",
+      "url": "https://www.themoviedb.org/list/8640724-roman-polanski"
+    },
+    "8640725": {
+      "nombre": "Rouben Mamoulian",
+      "url": "https://www.themoviedb.org/list/8640725-rouben-mamoulian"
+    },
+    "8640726": {
+      "nombre": "Sam Peckinpah",
+      "url": "https://www.themoviedb.org/list/8640726-sam-peckinpah"
+    },
+    "8640727": {
+      "nombre": "Sam Wood",
+      "url": "https://www.themoviedb.org/list/8640727-sam-wood"
+    },
+    "8640728": {
+      "nombre": "Samuel Fuller",
+      "url": "https://www.themoviedb.org/list/8640728-samuel-fuller"
+    },
+    "8640729": {
+      "nombre": "Satyajit Ray",
+      "url": "https://www.themoviedb.org/list/8640729-satyajit-ray"
+    },
+    "8640730": {
+      "nombre": "Sergio Leone",
+      "url": "https://www.themoviedb.org/list/8640730-sergio-leone"
+    },
+    "8640731": {
+      "nombre": "Serguei Eisenstein",
+      "url": "https://www.themoviedb.org/list/8640731-serguei-eisenstein"
+    },
+    "8640732": {
+      "nombre": "Sidney Lumet",
+      "url": "https://www.themoviedb.org/list/8640732-sidney-lumet"
+    },
+    "8640733": {
+      "nombre": "Stanley Donen",
+      "url": "https://www.themoviedb.org/list/8640733-stanley-donen"
+    },
+    "8640734": {
+      "nombre": "Stanley Kramer",
+      "url": "https://www.themoviedb.org/list/8640734-stanley-kramer"
+    },
+    "8640735": {
+      "nombre": "Stanley Kubrick",
+      "url": "https://www.themoviedb.org/list/8640735-stanley-kubrick"
+    },
+    "8640736": {
+      "nombre": "Steven Spielberg",
+      "url": "https://www.themoviedb.org/list/8640736-steven-spielberg"
+    },
+    "8640737": {
+      "nombre": "Thomas H. Ince",
+      "url": "https://www.themoviedb.org/list/8640737-thomas-h-ince"
+    },
+    "8640738": {
+      "nombre": "Thomas Vinterberg",
+      "url": "https://www.themoviedb.org/list/8640738-thomas-vinterberg"
+    },
+    "8640739": {
+      "nombre": "Tod Browning",
+      "url": "https://www.themoviedb.org/list/8640739-tod-browning"
+    },
+    "8640740": {
+      "nombre": "Victor Fleming",
+      "url": "https://www.themoviedb.org/list/8640740-victor-fleming"
+    },
+    "8640741": {
+      "nombre": "Victor Sjostrom",
+      "url": "https://www.themoviedb.org/list/8640741-victor-sjostrom"
+    },
+    "8640742": {
+      "nombre": "Vincente Minnelli",
+      "url": "https://www.themoviedb.org/list/8640742-vincente-minnelli"
+    },
+    "8640743": {
+      "nombre": "Vittorio De Sica",
+      "url": "https://www.themoviedb.org/list/8640743-vittorio-de-sica"
+    },
+    "8640744": {
+      "nombre": "Volker Schlondorff",
+      "url": "https://www.themoviedb.org/list/8640744-volker-schlondorff"
+    },
+    "8640745": {
+      "nombre": "Vsevolod Pudovkin",
+      "url": "https://www.themoviedb.org/list/8640745-vsevolod-pudovkin"
+    },
+    "8640746": {
+      "nombre": "Werner Herzog",
+      "url": "https://www.themoviedb.org/list/8640746-werner-herzog"
+    },
+    "8640747": {
+      "nombre": "William A. Wellman",
+      "url": "https://www.themoviedb.org/list/8640747-william-a-wellman"
+    },
+    "8640748": {
+      "nombre": "William Dieterle",
+      "url": "https://www.themoviedb.org/list/8640748-william-dieterle"
+    },
+    "8640749": {
+      "nombre": "William Wyler",
+      "url": "https://www.themoviedb.org/list/8640749-william-wyler"
+    },
+    "8640750": {
+      "nombre": "Wim Wenders",
+      "url": "https://www.themoviedb.org/list/8640750-wim-wenders"
+    },
+    "8640751": {
+      "nombre": "Woody Allen",
+      "url": "https://www.themoviedb.org/list/8640751-woody-allen"
+    },
+    "8640752": {
+      "nombre": "Yasujiro Ozu",
+      "url": "https://www.themoviedb.org/list/8640752-yasujiro-ozu"
+    },
+    "8640753": {
+      "nombre": "Zoltan Korda",
+      "url": "https://www.themoviedb.org/list/8640753-zoltan-korda"
+    }
   },
-  "DIRECTORES II": {},
-  "SAGAS": {},
-  "PREMIOS": {}
+"DIRECTORES II": {
+    "8640755": {
+      "nombre": "Abel Ferrara",
+      "url": "https://www.themoviedb.org/list/8640755-abel-ferrara"
+    },
+    "8640756": {
+      "nombre": "Achero Manas",
+      "url": "https://www.themoviedb.org/list/8640756-achero-manas"
+    },
+    "8640757": {
+      "nombre": "Adolfo Aristarain",
+      "url": "https://www.themoviedb.org/list/8640757-adolfo-aristarain"
+    },
+    "8640758": {
+      "nombre": "Adrian Lyne",
+      "url": "https://www.themoviedb.org/list/8640758-adrian-lyne"
+    },
+    "8640759": {
+      "nombre": "Agnieszka Holland",
+      "url": "https://www.themoviedb.org/list/8640759-agnieszka-holland"
+    },
+    "8640760": {
+      "nombre": "Agusti Villaronga",
+      "url": "https://www.themoviedb.org/list/8640760-agusti-villaronga"
+    },
+    "8640761": {
+      "nombre": "Agustin Diaz Yanes",
+      "url": "https://www.themoviedb.org/list/8640761-agustin-diaz-yanes"
+    },
+    "8640762": {
+      "nombre": "Alan J Pakula",
+      "url": "https://www.themoviedb.org/list/8640762-alan-j-pakula"
+    },
+    "8640763": {
+      "nombre": "Alan Parker",
+      "url": "https://www.themoviedb.org/list/8640763-alan-parker"
+    },
+    "8640764": {
+      "nombre": "Alberto Rodriguez",
+      "url": "https://www.themoviedb.org/list/8640764-alberto-rodriguez"
+    },
+    "8640765": {
+      "nombre": "Alejandro Amenabar",
+      "url": "https://www.themoviedb.org/list/8640765-alejandro-amenabar"
+    },
+    "8640766": {
+      "nombre": "Alejandro Gonzalez Inarritu",
+      "url": "https://www.themoviedb.org/list/8640766-alejandro-gonzalez-inarritu"
+    },
+    "8640767": {
+      "nombre": "Alejandro Jodorowsky",
+      "url": "https://www.themoviedb.org/list/8640767-alejandro-jodorowsky"
+    },
+    "8640768": {
+      "nombre": "Aleksandr Dovzhenko",
+      "url": "https://www.themoviedb.org/list/8640768-aleksandr-dovzhenko"
+    },
+    "8640769": {
+      "nombre": "Alex De La Iglesia",
+      "url": "https://www.themoviedb.org/list/8640769-alex-de-la-iglesia"
+    },
+    "8640770": {
+      "nombre": "Alex Proyas",
+      "url": "https://www.themoviedb.org/list/8640770-alex-proyas"
+    },
+    "8640771": {
+      "nombre": "Alexander Payne",
+      "url": "https://www.themoviedb.org/list/8640771-alexander-payne"
+    },
+    "8640772": {
+      "nombre": "Alfonso Cuaron",
+      "url": "https://www.themoviedb.org/list/8640772-alfonso-cuaron"
+    },
+    "8640773": {
+      "nombre": "Alvaro Saenz De Heredia",
+      "url": "https://www.themoviedb.org/list/8640773-alvaro-saenz-de-heredia"
+    },
+    "8640774": {
+      "nombre": "Amos Gitai",
+      "url": "https://www.themoviedb.org/list/8640774-amos-gitai"
+    },
+    "8640775": {
+      "nombre": "Andrei Sviaguintsev",
+      "url": "https://www.themoviedb.org/list/8640775-andrei-sviaguintsev"
+    },
+    "8640776": {
+      "nombre": "Andrew Davis",
+      "url": "https://www.themoviedb.org/list/8640776-andrew-davis"
+    },
+    "8640777": {
+      "nombre": "Andrew Niccol",
+      "url": "https://www.themoviedb.org/list/8640777-andrew-niccol"
+    },
+    "8640778": {
+      "nombre": "Andy Serkis",
+      "url": "https://www.themoviedb.org/list/8640778-andy-serkis"
+    },
+    "8640779": {
+      "nombre": "Andy Warhol",
+      "url": "https://www.themoviedb.org/list/8640779-andy-warhol"
+    },
+    "8640780": {
+      "nombre": "Andy Y Larry Wachowski",
+      "url": "https://www.themoviedb.org/list/8640780-andy-y-larry-wachowski"
+    },
+    "8640781": {
+      "nombre": "Ang Lee",
+      "url": "https://www.themoviedb.org/list/8640781-ang-lee"
+    },
+    "8640782": {
+      "nombre": "Anthony Minguella",
+      "url": "https://www.themoviedb.org/list/8640782-anthony-minguella"
+    },
+    "8640783": {
+      "nombre": "Anthony Y Joe Russo",
+      "url": "https://www.themoviedb.org/list/8640783-anthony-y-joe-russo"
+    },
+    "8640784": {
+      "nombre": "Antoine Fuqua",
+      "url": "https://www.themoviedb.org/list/8640784-antoine-fuqua"
+    },
+    "8640785": {
+      "nombre": "Antonio Hernandez",
+      "url": "https://www.themoviedb.org/list/8640785-antonio-hernandez"
+    },
+    "8640786": {
+      "nombre": "Antonio Mercero",
+      "url": "https://www.themoviedb.org/list/8640786-antonio-mercero"
+    },
+    "8640787": {
+      "nombre": "Archie Mayo",
+      "url": "https://www.themoviedb.org/list/8640787-archie-mayo"
+    },
+    "8640788": {
+      "nombre": "Arthur Lubin",
+      "url": "https://www.themoviedb.org/list/8640788-arthur-lubin"
+    },
+    "8640789": {
+      "nombre": "Arturo Ripstein",
+      "url": "https://www.themoviedb.org/list/8640789-arturo-ripstein"
+    },
+    "8640790": {
+      "nombre": "Atom Egoyan",
+      "url": "https://www.themoviedb.org/list/8640790-atom-egoyan"
+    },
+    "8640791": {
+      "nombre": "Barry Levinson",
+      "url": "https://www.themoviedb.org/list/8640791-barry-levinson"
+    },
+    "8640792": {
+      "nombre": "Barry Sonnenfeld",
+      "url": "https://www.themoviedb.org/list/8640792-barry-sonnenfeld"
+    },
+    "8640793": {
+      "nombre": "Baz Luhrmann",
+      "url": "https://www.themoviedb.org/list/8640793-baz-luhrmann"
+    },
+    "8640794": {
+      "nombre": "Ben Affleck",
+      "url": "https://www.themoviedb.org/list/8640794-ben-affleck"
+    },
+    "8640795": {
+      "nombre": "Benito Perojo",
+      "url": "https://www.themoviedb.org/list/8640795-benito-perojo"
+    },
+    "8640796": {
+      "nombre": "Benito Zambrano",
+      "url": "https://www.themoviedb.org/list/8640796-benito-zambrano"
+    },
+    "8640798": {
+      "nombre": "Bertrand Tavernier",
+      "url": "https://www.themoviedb.org/list/8640798-bertrand-tavernier"
+    },
+    "8640799": {
+      "nombre": "Bigas Luna",
+      "url": "https://www.themoviedb.org/list/8640799-bigas-luna"
+    },
+    "8640800": {
+      "nombre": "Bob Rafelson",
+      "url": "https://www.themoviedb.org/list/8640800-bob-rafelson"
+    },
+    "8640801": {
+      "nombre": "Brian De Palma",
+      "url": "https://www.themoviedb.org/list/8640801-brian-de-palma"
+    },
+    "8640802": {
+      "nombre": "Bryan Singer",
+      "url": "https://www.themoviedb.org/list/8640802-bryan-singer"
+    },
+    "8640803": {
+      "nombre": "Budd Boetticher",
+      "url": "https://www.themoviedb.org/list/8640803-budd-boetticher"
+    },
+    "8640804": {
+      "nombre": "Byron Haskin",
+      "url": "https://www.themoviedb.org/list/8640804-byron-haskin"
+    },
+    "8640806": {
+      "nombre": "Cameron Crowe",
+      "url": "https://www.themoviedb.org/list/8640806-cameron-crowe"
+    },
+    "8640807": {
+      "nombre": "Carla Simon",
+      "url": "https://www.themoviedb.org/list/8640807-carla-simon"
+    },
+    "8640808": {
+      "nombre": "Cesc Gay",
+      "url": "https://www.themoviedb.org/list/8640808-cesc-gay"
+    },
+    "8640809": {
+      "nombre": "Chloe Zhao",
+      "url": "https://www.themoviedb.org/list/8640809-chloe-zhao"
+    },
+    "8640810": {
+      "nombre": "Chris Columbus",
+      "url": "https://www.themoviedb.org/list/8640810-chris-columbus"
+    },
+    "8640811": {
+      "nombre": "Christopher Mcquarrie",
+      "url": "https://www.themoviedb.org/list/8640811-christopher-mcquarrie"
+    },
+    "8640812": {
+      "nombre": "Claude Lelouch",
+      "url": "https://www.themoviedb.org/list/8640812-claude-lelouch"
+    },
+    "8640813": {
+      "nombre": "Costa Gavras",
+      "url": "https://www.themoviedb.org/list/8640813-costa-gavras"
+    },
+    "8640814": {
+      "nombre": "Cristian Mungiu",
+      "url": "https://www.themoviedb.org/list/8640814-cristian-mungiu"
+    },
+    "8640815": {
+      "nombre": "Curtis Hanson",
+      "url": "https://www.themoviedb.org/list/8640815-curtis-hanson"
+    },
+    "8640816": {
+      "nombre": "Damien Chazelle",
+      "url": "https://www.themoviedb.org/list/8640816-damien-chazelle"
+    },
+    "8640817": {
+      "nombre": "Daniel Monzon",
+      "url": "https://www.themoviedb.org/list/8640817-daniel-monzon"
+    },
+    "8640818": {
+      "nombre": "Daniel Sanchez Arevalo",
+      "url": "https://www.themoviedb.org/list/8640818-daniel-sanchez-arevalo"
+    },
+    "8640819": {
+      "nombre": "Danny Boyle",
+      "url": "https://www.themoviedb.org/list/8640819-danny-boyle"
+    },
+    "8640820": {
+      "nombre": "Danny Devito",
+      "url": "https://www.themoviedb.org/list/8640820-danny-devito"
+    },
+    "8640821": {
+      "nombre": "Dario Argento",
+      "url": "https://www.themoviedb.org/list/8640821-dario-argento"
+    },
+    "8640822": {
+      "nombre": "Darren Aronofsky",
+      "url": "https://www.themoviedb.org/list/8640822-darren-aronofsky"
+    },
+    "8640823": {
+      "nombre": "David Ayer",
+      "url": "https://www.themoviedb.org/list/8640823-david-ayer"
+    },
+    "8640824": {
+      "nombre": "David Cronenberg",
+      "url": "https://www.themoviedb.org/list/8640824-david-cronenberg"
+    },
+    "8640825": {
+      "nombre": "David Fincher",
+      "url": "https://www.themoviedb.org/list/8640825-david-fincher"
+    },
+    "8640826": {
+      "nombre": "David O Russell",
+      "url": "https://www.themoviedb.org/list/8640826-david-o-russell"
+    },
+    "8640827": {
+      "nombre": "David Trueba",
+      "url": "https://www.themoviedb.org/list/8640827-david-trueba"
+    },
+    "8640828": {
+      "nombre": "David Zucker",
+      "url": "https://www.themoviedb.org/list/8640828-david-zucker"
+    },
+    "8640829": {
+      "nombre": "Denis Villeneuve",
+      "url": "https://www.themoviedb.org/list/8640829-denis-villeneuve"
+    },
+    "8640830": {
+      "nombre": "Dennis Hopper",
+      "url": "https://www.themoviedb.org/list/8640830-dennis-hopper"
+    },
+    "8640831": {
+      "nombre": "Denys Arcand",
+      "url": "https://www.themoviedb.org/list/8640831-denys-arcand"
+    },
+    "8640832": {
+      "nombre": "Dino Risi",
+      "url": "https://www.themoviedb.org/list/8640832-dino-risi"
+    },
+    "8640833": {
+      "nombre": "Duncan Jones",
+      "url": "https://www.themoviedb.org/list/8640833-duncan-jones"
+    },
+    "8640834": {
+      "nombre": "Ed Wood",
+      "url": "https://www.themoviedb.org/list/8640834-ed-wood"
+    },
+    "8640835": {
+      "nombre": "Edgar Neville",
+      "url": "https://www.themoviedb.org/list/8640835-edgar-neville"
+    },
+    "8640836": {
+      "nombre": "Edmund Elias Merhige",
+      "url": "https://www.themoviedb.org/list/8640836-edmund-elias-merhige"
+    },
+    "8640837": {
+      "nombre": "Edward Zwick",
+      "url": "https://www.themoviedb.org/list/8640837-edward-zwick"
+    },
+    "8640838": {
+      "nombre": "Eloy De La Iglesia",
+      "url": "https://www.themoviedb.org/list/8640838-eloy-de-la-iglesia"
+    },
+    "8640839": {
+      "nombre": "Emilio Martinez Lazaro",
+      "url": "https://www.themoviedb.org/list/8640839-emilio-martinez-lazaro"
+    },
+    "8640840": {
+      "nombre": "Enrique Urbizu",
+      "url": "https://www.themoviedb.org/list/8640840-enrique-urbizu"
+    },
+    "8640841": {
+      "nombre": "Ermanno Olmi",
+      "url": "https://www.themoviedb.org/list/8640841-ermanno-olmi"
+    },
+    "8640842": {
+      "nombre": "Fabian Bielinsky",
+      "url": "https://www.themoviedb.org/list/8640842-fabian-bielinsky"
+    },
+    "8640843": {
+      "nombre": "Fernando Arrabal",
+      "url": "https://www.themoviedb.org/list/8640843-fernando-arrabal"
+    },
+    "8640844": {
+      "nombre": "Fernando Colomo",
+      "url": "https://www.themoviedb.org/list/8640844-fernando-colomo"
+    },
+    "8640845": {
+      "nombre": "Fernando Fernan Gomez",
+      "url": "https://www.themoviedb.org/list/8640845-fernando-fernan-gomez"
+    },
+    "8640846": {
+      "nombre": "Fernando Leon De Aranoa",
+      "url": "https://www.themoviedb.org/list/8640846-fernando-leon-de-aranoa"
+    },
+    "8640847": {
+      "nombre": "Fernando Meirelles",
+      "url": "https://www.themoviedb.org/list/8640847-fernando-meirelles"
+    },
+    "8640848": {
+      "nombre": "Fernando Trueba",
+      "url": "https://www.themoviedb.org/list/8640848-fernando-trueba"
+    },
+    "8640849": {
+      "nombre": "Florian Rey",
+      "url": "https://www.themoviedb.org/list/8640849-florian-rey"
+    },
+    "8640850": {
+      "nombre": "Florian Zeller",
+      "url": "https://www.themoviedb.org/list/8640850-florian-zeller"
+    },
+    "8640851": {
+      "nombre": "Francis Lawrence",
+      "url": "https://www.themoviedb.org/list/8640851-francis-lawrence"
+    },
+    "8640852": {
+      "nombre": "Franco Zeffirelli",
+      "url": "https://www.themoviedb.org/list/8640852-franco-zeffirelli"
+    },
+    "8640853": {
+      "nombre": "Francois Ozon",
+      "url": "https://www.themoviedb.org/list/8640853-francois-ozon"
+    },
+    "8640854": {
+      "nombre": "Frank Darabont",
+      "url": "https://www.themoviedb.org/list/8640854-frank-darabont"
+    },
+    "8640855": {
+      "nombre": "Frank Lloyd",
+      "url": "https://www.themoviedb.org/list/8640855-frank-lloyd"
+    },
+    "8640856": {
+      "nombre": "Frank Miller",
+      "url": "https://www.themoviedb.org/list/8640856-frank-miller"
+    },
+    "8640857": {
+      "nombre": "Gareth Edwards",
+      "url": "https://www.themoviedb.org/list/8640857-gareth-edwards"
+    },
+    "8640858": {
+      "nombre": "Gary Ross",
+      "url": "https://www.themoviedb.org/list/8640858-gary-ross"
+    },
+    "8640859": {
+      "nombre": "Gaspar Noe",
+      "url": "https://www.themoviedb.org/list/8640859-gaspar-noe"
+    },
+    "8640860": {
+      "nombre": "George A Romero",
+      "url": "https://www.themoviedb.org/list/8640860-george-a-romero"
+    },
+    "8640861": {
+      "nombre": "George Clooney",
+      "url": "https://www.themoviedb.org/list/8640861-george-clooney"
+    },
+    "8640862": {
+      "nombre": "George Miller",
+      "url": "https://www.themoviedb.org/list/8640862-george-miller"
+    },
+    "8640863": {
+      "nombre": "George Pan Cosmatos",
+      "url": "https://www.themoviedb.org/list/8640863-george-pan-cosmatos"
+    },
+    "8640864": {
+      "nombre": "Georges Franju",
+      "url": "https://www.themoviedb.org/list/8640864-georges-franju"
+    },
+    "8640865": {
+      "nombre": "Germaine Dulac",
+      "url": "https://www.themoviedb.org/list/8640865-germaine-dulac"
+    },
+    "8640866": {
+      "nombre": "Gillo Pontecorvo",
+      "url": "https://www.themoviedb.org/list/8640866-gillo-pontecorvo"
+    },
+    "8640867": {
+      "nombre": "Giuseppe Tornatore",
+      "url": "https://www.themoviedb.org/list/8640867-giuseppe-tornatore"
+    },
+    "8640868": {
+      "nombre": "Gore Verbinski",
+      "url": "https://www.themoviedb.org/list/8640868-gore-verbinski"
+    },
+    "8640869": {
+      "nombre": "Gracia Querejeta",
+      "url": "https://www.themoviedb.org/list/8640869-gracia-querejeta"
+    },
+    "8640870": {
+      "nombre": "Gregory Hoblit",
+      "url": "https://www.themoviedb.org/list/8640870-gregory-hoblit"
+    },
+    "8640871": {
+      "nombre": "Gregory La Cava",
+      "url": "https://www.themoviedb.org/list/8640871-gregory-la-cava"
+    },
+    "8640872": {
+      "nombre": "Grigori Kozintsev",
+      "url": "https://www.themoviedb.org/list/8640872-grigori-kozintsev"
+    },
+    "8640873": {
+      "nombre": "Guillermo Del Toro",
+      "url": "https://www.themoviedb.org/list/8640873-guillermo-del-toro"
+    },
+    "8640874": {
+      "nombre": "Guillermo Fesser",
+      "url": "https://www.themoviedb.org/list/8640874-guillermo-fesser"
+    },
+    "8640875": {
+      "nombre": "Gus Van Sant",
+      "url": "https://www.themoviedb.org/list/8640875-gus-van-sant"
+    },
+    "8640876": {
+      "nombre": "Guy Hamilton",
+      "url": "https://www.themoviedb.org/list/8640876-guy-hamilton"
+    },
+    "8640877": {
+      "nombre": "Guy Maddin",
+      "url": "https://www.themoviedb.org/list/8640877-guy-maddin"
+    },
+    "8640878": {
+      "nombre": "Guy Ritchie",
+      "url": "https://www.themoviedb.org/list/8640878-guy-ritchie"
+    },
+    "8640879": {
+      "nombre": "Hal Ashby",
+      "url": "https://www.themoviedb.org/list/8640879-hal-ashby"
+    },
+    "8640880": {
+      "nombre": "Hans Richter",
+      "url": "https://www.themoviedb.org/list/8640880-hans-richter"
+    },
+    "8640881": {
+      "nombre": "Harold Ramis",
+      "url": "https://www.themoviedb.org/list/8640881-harold-ramis"
+    },
+    "8640882": {
+      "nombre": "Hou Hsiao Hsien",
+      "url": "https://www.themoviedb.org/list/8640882-hou-hsiao-hsien"
+    },
+    "8640883": {
+      "nombre": "Hugh Hudson",
+      "url": "https://www.themoviedb.org/list/8640883-hugh-hudson"
+    },
+    "8640884": {
+      "nombre": "Iciar Bollain",
+      "url": "https://www.themoviedb.org/list/8640884-iciar-bollain"
+    },
+    "8640885": {
+      "nombre": "Imanol Uribe",
+      "url": "https://www.themoviedb.org/list/8640885-imanol-uribe"
+    },
+    "8640886": {
+      "nombre": "Irwin Winkler",
+      "url": "https://www.themoviedb.org/list/8640886-irwin-winkler"
+    },
+    "8640887": {
+      "nombre": "Isabel Coixet",
+      "url": "https://www.themoviedb.org/list/8640887-isabel-coixet"
+    },
+    "8640888": {
+      "nombre": "Ivan Reitman",
+      "url": "https://www.themoviedb.org/list/8640888-ivan-reitman"
+    },
+    "8640889": {
+      "nombre": "Ivan Zulueta",
+      "url": "https://www.themoviedb.org/list/8640889-ivan-zulueta"
+    },
+    "8640890": {
+      "nombre": "J J Abrams",
+      "url": "https://www.themoviedb.org/list/8640890-j-j-abrams"
+    },
+    "8640891": {
+      "nombre": "Jacques Audiard",
+      "url": "https://www.themoviedb.org/list/8640891-jacques-audiard"
+    },
+    "8640892": {
+      "nombre": "Jacques Doillon",
+      "url": "https://www.themoviedb.org/list/8640892-jacques-doillon"
+    },
+    "8640893": {
+      "nombre": "Jaime Chavarri",
+      "url": "https://www.themoviedb.org/list/8640893-jaime-chavarri"
+    },
+    "8640894": {
+      "nombre": "Jaime De Arminan",
+      "url": "https://www.themoviedb.org/list/8640894-jaime-de-arminan"
+    },
+    "8640895": {
+      "nombre": "James Cameron",
+      "url": "https://www.themoviedb.org/list/8640895-james-cameron"
+    },
+    "8640896": {
+      "nombre": "James Gunn",
+      "url": "https://www.themoviedb.org/list/8640896-james-gunn"
+    },
+    "8640897": {
+      "nombre": "James Ivory",
+      "url": "https://www.themoviedb.org/list/8640897-james-ivory"
+    },
+    "8640898": {
+      "nombre": "James L Brooks",
+      "url": "https://www.themoviedb.org/list/8640898-james-l-brooks"
+    },
+    "8640899": {
+      "nombre": "James Mangold",
+      "url": "https://www.themoviedb.org/list/8640899-james-mangold"
+    },
+    "8640900": {
+      "nombre": "Jan De Bont",
+      "url": "https://www.themoviedb.org/list/8640900-jan-de-bont"
+    },
+    "8640901": {
+      "nombre": "Jane Campion",
+      "url": "https://www.themoviedb.org/list/8640901-jane-campion"
+    },
+    "8640902": {
+      "nombre": "Jason Reitman",
+      "url": "https://www.themoviedb.org/list/8640902-jason-reitman"
+    },
+    "8640903": {
+      "nombre": "Jaume Balaguero",
+      "url": "https://www.themoviedb.org/list/8640903-jaume-balaguero"
+    },
+    "8640904": {
+      "nombre": "Jaume Collet Serra",
+      "url": "https://www.themoviedb.org/list/8640904-jaume-collet-serra"
+    },
+    "8640905": {
+      "nombre": "Javier Fesser",
+      "url": "https://www.themoviedb.org/list/8640905-javier-fesser"
+    },
+    "8640906": {
+      "nombre": "Jean Jacques Annaud",
+      "url": "https://www.themoviedb.org/list/8640906-jean-jacques-annaud"
+    },
+    "8640907": {
+      "nombre": "Jean Pierre Jeunet",
+      "url": "https://www.themoviedb.org/list/8640907-jean-pierre-jeunet"
+    },
+    "8640908": {
+      "nombre": "Jean Pierre Y Luc Dardenne",
+      "url": "https://www.themoviedb.org/list/8640908-jean-pierre-y-luc-dardenne"
+    },
+    "8640909": {
+      "nombre": "Jeff Fowler",
+      "url": "https://www.themoviedb.org/list/8640909-jeff-fowler"
+    },
+    "8640910": {
+      "nombre": "Jeff Nichols",
+      "url": "https://www.themoviedb.org/list/8640910-jeff-nichols"
+    },
+    "8640911": {
+      "nombre": "Jerry Lewis",
+      "url": "https://www.themoviedb.org/list/8640911-jerry-lewis"
+    },
+    "8640912": {
+      "nombre": "Jerry Zucker",
+      "url": "https://www.themoviedb.org/list/8640912-jerry-zucker"
+    },
+    "8640913": {
+      "nombre": "Jesus Franco",
+      "url": "https://www.themoviedb.org/list/8640913-jesus-franco"
+    },
+    "8640914": {
+      "nombre": "Jim Abrahams",
+      "url": "https://www.themoviedb.org/list/8640914-jim-abrahams"
+    },
+    "8640915": {
+      "nombre": "Jim Jarmusch",
+      "url": "https://www.themoviedb.org/list/8640915-jim-jarmusch"
+    },
+    "8640916": {
+      "nombre": "Jim Sheridan",
+      "url": "https://www.themoviedb.org/list/8640916-jim-sheridan"
+    },
+    "8640917": {
+      "nombre": "Joe Dante",
+      "url": "https://www.themoviedb.org/list/8640917-joe-dante"
+    },
+    "8640918": {
+      "nombre": "Joe Johnston",
+      "url": "https://www.themoviedb.org/list/8640918-joe-johnston"
+    },
+    "8640919": {
+      "nombre": "Joe Wright",
+      "url": "https://www.themoviedb.org/list/8640919-joe-wright"
+    },
+    "8640920": {
+      "nombre": "Joel Schumacher",
+      "url": "https://www.themoviedb.org/list/8640920-joel-schumacher"
+    },
+    "8640921": {
+      "nombre": "Joel Y Ethan Coen",
+      "url": "https://www.themoviedb.org/list/8640921-joel-y-ethan-coen"
+    },
+    "8640922": {
+      "nombre": "John Badham",
+      "url": "https://www.themoviedb.org/list/8640922-john-badham"
+    },
+    "8640923": {
+      "nombre": "John Boorman",
+      "url": "https://www.themoviedb.org/list/8640923-john-boorman"
+    },
+    "8640924": {
+      "nombre": "John Carpenter",
+      "url": "https://www.themoviedb.org/list/8640924-john-carpenter"
+    },
+    "8640925": {
+      "nombre": "John G Avildsen",
+      "url": "https://www.themoviedb.org/list/8640925-john-g-avildsen"
+    },
+    "8640926": {
+      "nombre": "John Guillermin",
+      "url": "https://www.themoviedb.org/list/8640926-john-guillermin"
+    },
+    "8640927": {
+      "nombre": "John Hughes",
+      "url": "https://www.themoviedb.org/list/8640927-john-hughes"
+    },
+    "8640928": {
+      "nombre": "John Landis",
+      "url": "https://www.themoviedb.org/list/8640928-john-landis"
+    },
+    "8640929": {
+      "nombre": "John Madden",
+      "url": "https://www.themoviedb.org/list/8640929-john-madden"
+    },
+    "8640930": {
+      "nombre": "John Mctiernan",
+      "url": "https://www.themoviedb.org/list/8640930-john-mctiernan"
+    },
+    "8640931": {
+      "nombre": "John Milius",
+      "url": "https://www.themoviedb.org/list/8640931-john-milius"
+    },
+    "8640932": {
+      "nombre": "John Waters",
+      "url": "https://www.themoviedb.org/list/8640932-john-waters"
+    },
+    "8640933": {
+      "nombre": "John Wayne",
+      "url": "https://www.themoviedb.org/list/8640933-john-wayne"
+    },
+    "8640934": {
+      "nombre": "John Woo",
+      "url": "https://www.themoviedb.org/list/8640934-john-woo"
+    },
+    "8640935": {
+      "nombre": "Jon Favreau",
+      "url": "https://www.themoviedb.org/list/8640935-jon-favreau"
+    },
+    "8640936": {
+      "nombre": "Jon Turteltaub",
+      "url": "https://www.themoviedb.org/list/8640936-jon-turteltaub"
+    },
+    "8640937": {
+      "nombre": "Jon Watts",
+      "url": "https://www.themoviedb.org/list/8640937-jon-watts"
+    },
+    "8640938": {
+      "nombre": "Jonathan Demme",
+      "url": "https://www.themoviedb.org/list/8640938-jonathan-demme"
+    },
+    "8640939": {
+      "nombre": "Jonathan Glazer",
+      "url": "https://www.themoviedb.org/list/8640939-jonathan-glazer"
+    },
+    "8640940": {
+      "nombre": "Jordan Peele",
+      "url": "https://www.themoviedb.org/list/8640940-jordan-peele"
+    },
+    "8640941": {
+      "nombre": "Jose Luis Borau",
+      "url": "https://www.themoviedb.org/list/8640941-jose-luis-borau"
+    },
+    "8640942": {
+      "nombre": "Jose Luis Cuerda",
+      "url": "https://www.themoviedb.org/list/8640942-jose-luis-cuerda"
+    },
+    "8640943": {
+      "nombre": "Jose Luis Garci",
+      "url": "https://www.themoviedb.org/list/8640943-jose-luis-garci"
+    },
+    "8640944": {
+      "nombre": "Jose Luis Guerin",
+      "url": "https://www.themoviedb.org/list/8640944-jose-luis-guerin"
+    },
+    "8640945": {
+      "nombre": "Jose Luis Saenz De Heredia",
+      "url": "https://www.themoviedb.org/list/8640945-jose-luis-saenz-de-heredia"
+    },
+    "8640946": {
+      "nombre": "Jose Maria Forque",
+      "url": "https://www.themoviedb.org/list/8640946-jose-maria-forque"
+    },
+    "8640947": {
+      "nombre": "Joseph Kosinski",
+      "url": "https://www.themoviedb.org/list/8640947-joseph-kosinski"
+    },
+    "8640948": {
+      "nombre": "Joss Whedon",
+      "url": "https://www.themoviedb.org/list/8640948-joss-whedon"
+    },
+    "8640949": {
+      "nombre": "Juan Antonio Bayona",
+      "url": "https://www.themoviedb.org/list/8640949-juan-antonio-bayona"
+    },
+    "8640950": {
+      "nombre": "Juan De Orduna",
+      "url": "https://www.themoviedb.org/list/8640950-juan-de-orduna"
+    },
+    "8640951": {
+      "nombre": "Juan Jose Campanella",
+      "url": "https://www.themoviedb.org/list/8640951-juan-jose-campanella"
+    },
+    "8640952": {
+      "nombre": "Juanma Bajo Ulloa",
+      "url": "https://www.themoviedb.org/list/8640952-juanma-bajo-ulloa"
+    },
+    "8640953": {
+      "nombre": "Julio Medem",
+      "url": "https://www.themoviedb.org/list/8640953-julio-medem"
+    },
+    "8640954": {
+      "nombre": "Justin Lin",
+      "url": "https://www.themoviedb.org/list/8640954-justin-lin"
+    },
+    "8640955": {
+      "nombre": "Kathryn Bigelow",
+      "url": "https://www.themoviedb.org/list/8640955-kathryn-bigelow"
+    },
+    "8640956": {
+      "nombre": "Ken Loach",
+      "url": "https://www.themoviedb.org/list/8640956-ken-loach"
+    },
+    "8640957": {
+      "nombre": "Ken Russell",
+      "url": "https://www.themoviedb.org/list/8640957-ken-russell"
+    },
+    "8640958": {
+      "nombre": "Kenneth Anger",
+      "url": "https://www.themoviedb.org/list/8640958-kenneth-anger"
+    },
+    "8640959": {
+      "nombre": "Kenneth Branagh",
+      "url": "https://www.themoviedb.org/list/8640959-kenneth-branagh"
+    },
+    "8640960": {
+      "nombre": "Kevin Reynolds",
+      "url": "https://www.themoviedb.org/list/8640960-kevin-reynolds"
+    },
+    "8640961": {
+      "nombre": "Kevin Smith",
+      "url": "https://www.themoviedb.org/list/8640961-kevin-smith"
+    },
+    "8640962": {
+      "nombre": "Kim Ki Duk",
+      "url": "https://www.themoviedb.org/list/8640962-kim-ki-duk"
+    },
+    "8640963": {
+      "nombre": "Ladislao Vajda",
+      "url": "https://www.themoviedb.org/list/8640963-ladislao-vajda"
+    },
+    "8640964": {
+      "nombre": "Lasse Hallstrom",
+      "url": "https://www.themoviedb.org/list/8640964-lasse-hallstrom"
+    },
+    "8640965": {
+      "nombre": "Lawrence Kasdan",
+      "url": "https://www.themoviedb.org/list/8640965-lawrence-kasdan"
+    },
+    "8640966": {
+      "nombre": "Leon Klimovsky",
+      "url": "https://www.themoviedb.org/list/8640966-leon-klimovsky"
+    },
+    "8640967": {
+      "nombre": "Louis Delluc",
+      "url": "https://www.themoviedb.org/list/8640967-louis-delluc"
+    },
+    "8640968": {
+      "nombre": "Louis Leterrier",
+      "url": "https://www.themoviedb.org/list/8640968-louis-leterrier"
+    },
+    "8640969": {
+      "nombre": "Luc Besson",
+      "url": "https://www.themoviedb.org/list/8640969-luc-besson"
+    },
+    "8640970": {
+      "nombre": "M Night Shyamalan",
+      "url": "https://www.themoviedb.org/list/8640970-m-night-shyamalan"
+    },
+    "8640971": {
+      "nombre": "Manoel De Oliveira",
+      "url": "https://www.themoviedb.org/list/8640971-manoel-de-oliveira"
+    },
+    "8640972": {
+      "nombre": "Manuel Gomez Pereira",
+      "url": "https://www.themoviedb.org/list/8640972-manuel-gomez-pereira"
+    },
+    "8640973": {
+      "nombre": "Manuel Gutierrez Aragon",
+      "url": "https://www.themoviedb.org/list/8640973-manuel-gutierrez-aragon"
+    },
+    "8640974": {
+      "nombre": "Marcel L Herbier",
+      "url": "https://www.themoviedb.org/list/8640974-marcel-l-herbier"
+    },
+    "8640975": {
+      "nombre": "Marco Ferreri",
+      "url": "https://www.themoviedb.org/list/8640975-marco-ferreri"
+    },
+    "8640976": {
+      "nombre": "Mariano Ozores",
+      "url": "https://www.themoviedb.org/list/8640976-mariano-ozores"
+    },
+    "8640977": {
+      "nombre": "Mario Bava",
+      "url": "https://www.themoviedb.org/list/8640977-mario-bava"
+    },
+    "8640978": {
+      "nombre": "Mario Camus",
+      "url": "https://www.themoviedb.org/list/8640978-mario-camus"
+    },
+    "8640979": {
+      "nombre": "Martin Brest",
+      "url": "https://www.themoviedb.org/list/8640979-martin-brest"
+    },
+    "8640980": {
+      "nombre": "Martin Ritt",
+      "url": "https://www.themoviedb.org/list/8640980-martin-ritt"
+    },
+    "8640981": {
+      "nombre": "Masaki Kobayashi",
+      "url": "https://www.themoviedb.org/list/8640981-masaki-kobayashi"
+    },
+    "8640982": {
+      "nombre": "Mateo Gil",
+      "url": "https://www.themoviedb.org/list/8640982-mateo-gil"
+    },
+    "8640983": {
+      "nombre": "Mathieu Kassovitz",
+      "url": "https://www.themoviedb.org/list/8640983-mathieu-kassovitz"
+    },
+    "8640984": {
+      "nombre": "Matt Reeves",
+      "url": "https://www.themoviedb.org/list/8640984-matt-reeves"
+    },
+    "8640985": {
+      "nombre": "Mel Brooks",
+      "url": "https://www.themoviedb.org/list/8640985-mel-brooks"
+    },
+    "8640986": {
+      "nombre": "Mel Gibson",
+      "url": "https://www.themoviedb.org/list/8640986-mel-gibson"
+    },
+    "8640987": {
+      "nombre": "Michael Bay",
+      "url": "https://www.themoviedb.org/list/8640987-michael-bay"
+    },
+    "8640988": {
+      "nombre": "Michael Cacoyannis",
+      "url": "https://www.themoviedb.org/list/8640988-michael-cacoyannis"
+    },
+    "8640989": {
+      "nombre": "Michael Cimino",
+      "url": "https://www.themoviedb.org/list/8640989-michael-cimino"
+    },
+    "8640990": {
+      "nombre": "Michael Crichton",
+      "url": "https://www.themoviedb.org/list/8640990-michael-crichton"
+    },
+    "8640991": {
+      "nombre": "Michael Mann",
+      "url": "https://www.themoviedb.org/list/8640991-michael-mann"
+    },
+    "8640992": {
+      "nombre": "Michael Moore",
+      "url": "https://www.themoviedb.org/list/8640992-michael-moore"
+    },
+    "8640993": {
+      "nombre": "Mika Kaurismaki",
+      "url": "https://www.themoviedb.org/list/8640993-mika-kaurismaki"
+    },
+    "8640994": {
+      "nombre": "Montxo Armendariz",
+      "url": "https://www.themoviedb.org/list/8640994-montxo-armendariz"
+    },
+    "8640995": {
+      "nombre": "Nacho Vigalondo",
+      "url": "https://www.themoviedb.org/list/8640995-nacho-vigalondo"
+    },
+    "8640996": {
+      "nombre": "Nagisa Oshima",
+      "url": "https://www.themoviedb.org/list/8640996-nagisa-oshima"
+    },
+    "8640997": {
+      "nombre": "Nanni Moretti",
+      "url": "https://www.themoviedb.org/list/8640997-nanni-moretti"
+    },
+    "8640998": {
+      "nombre": "Narciso Ibanez Serrador",
+      "url": "https://www.themoviedb.org/list/8640998-narciso-ibanez-serrador"
+    },
+    "8640999": {
+      "nombre": "Neil Jordan",
+      "url": "https://www.themoviedb.org/list/8640999-neil-jordan"
+    },
+    "8641000": {
+      "nombre": "Nick Cassavetes",
+      "url": "https://www.themoviedb.org/list/8641000-nick-cassavetes"
+    },
+    "8641001": {
+      "nombre": "Nicolas Roeg",
+      "url": "https://www.themoviedb.org/list/8641001-nicolas-roeg"
+    },
+    "8641002": {
+      "nombre": "Nicolas Winding Refn",
+      "url": "https://www.themoviedb.org/list/8641002-nicolas-winding-refn"
+    },
+    "8641004": {
+      "nombre": "Oliver Stone",
+      "url": "https://www.themoviedb.org/list/8641004-oliver-stone"
+    },
+    "8641005": {
+      "nombre": "Paco Plaza",
+      "url": "https://www.themoviedb.org/list/8641005-paco-plaza"
+    },
+    "8641006": {
+      "nombre": "Paolo Sorrentino",
+      "url": "https://www.themoviedb.org/list/8641006-paolo-sorrentino"
+    },
+    "8641007": {
+      "nombre": "Patty Jenkins",
+      "url": "https://www.themoviedb.org/list/8641007-patty-jenkins"
+    },
+    "8641008": {
+      "nombre": "Paul Greengrass",
+      "url": "https://www.themoviedb.org/list/8641008-paul-greengrass"
+    },
+    "8641009": {
+      "nombre": "Paul Haggis",
+      "url": "https://www.themoviedb.org/list/8641009-paul-haggis"
+    },
+    "8641010": {
+      "nombre": "Paul Leni",
+      "url": "https://www.themoviedb.org/list/8641010-paul-leni"
+    },
+    "8641011": {
+      "nombre": "Paul Thomas Anderson",
+      "url": "https://www.themoviedb.org/list/8641011-paul-thomas-anderson"
+    },
+    "8641012": {
+      "nombre": "Paul Verhoeven",
+      "url": "https://www.themoviedb.org/list/8641012-paul-verhoeven"
+    },
+    "8641013": {
+      "nombre": "Paul W S Anderson",
+      "url": "https://www.themoviedb.org/list/8641013-paul-w-s-anderson"
+    },
+    "8641014": {
+      "nombre": "Pedro Lazaga",
+      "url": "https://www.themoviedb.org/list/8641014-pedro-lazaga"
+    },
+    "8641015": {
+      "nombre": "Pedro Maso",
+      "url": "https://www.themoviedb.org/list/8641015-pedro-maso"
+    },
+    "8641016": {
+      "nombre": "Peter Greenaway",
+      "url": "https://www.themoviedb.org/list/8641016-peter-greenaway"
+    },
+    "8641017": {
+      "nombre": "Peter Hyams",
+      "url": "https://www.themoviedb.org/list/8641017-peter-hyams"
+    },
+    "8641018": {
+      "nombre": "Peter Jackson",
+      "url": "https://www.themoviedb.org/list/8641018-peter-jackson"
+    },
+    "8641019": {
+      "nombre": "Peter Weir",
+      "url": "https://www.themoviedb.org/list/8641019-peter-weir"
+    },
+    "8641020": {
+      "nombre": "Peter Yates",
+      "url": "https://www.themoviedb.org/list/8641020-peter-yates"
+    },
+    "8641021": {
+      "nombre": "Philip Noyce",
+      "url": "https://www.themoviedb.org/list/8641021-philip-noyce"
+    },
+    "8641022": {
+      "nombre": "Pietro Germi",
+      "url": "https://www.themoviedb.org/list/8641022-pietro-germi"
+    },
+    "8641023": {
+      "nombre": "Pilar Miro",
+      "url": "https://www.themoviedb.org/list/8641023-pilar-miro"
+    },
+    "8641024": {
+      "nombre": "Rafael Gil",
+      "url": "https://www.themoviedb.org/list/8641024-rafael-gil"
+    },
+    "8641025": {
+      "nombre": "Renny Harlin",
+      "url": "https://www.themoviedb.org/list/8641025-renny-harlin"
+    },
+    "8641026": {
+      "nombre": "Rian Johnson",
+      "url": "https://www.themoviedb.org/list/8641026-rian-johnson"
+    },
+    "8641027": {
+      "nombre": "Ricardo Palacios",
+      "url": "https://www.themoviedb.org/list/8641027-ricardo-palacios"
+    },
+    "8641028": {
+      "nombre": "Richard Attenborough",
+      "url": "https://www.themoviedb.org/list/8641028-richard-attenborough"
+    },
+    "8641029": {
+      "nombre": "Richard Donner",
+      "url": "https://www.themoviedb.org/list/8641029-richard-donner"
+    },
+    "8641030": {
+      "nombre": "Richard Fleischer",
+      "url": "https://www.themoviedb.org/list/8641030-richard-fleischer"
+    },
+    "8641031": {
+      "nombre": "Richard Lester",
+      "url": "https://www.themoviedb.org/list/8641031-richard-lester"
+    },
+    "8641032": {
+      "nombre": "Richard Linklater",
+      "url": "https://www.themoviedb.org/list/8641032-richard-linklater"
+    },
+    "8641033": {
+      "nombre": "Rob Marshall",
+      "url": "https://www.themoviedb.org/list/8641033-rob-marshall"
+    },
+    "8641034": {
+      "nombre": "Rob Reiner",
+      "url": "https://www.themoviedb.org/list/8641034-rob-reiner"
+    },
+    "8641035": {
+      "nombre": "Robert Benton",
+      "url": "https://www.themoviedb.org/list/8641035-robert-benton"
+    },
+    "8641036": {
+      "nombre": "Robert De Niro",
+      "url": "https://www.themoviedb.org/list/8641036-robert-de-niro"
+    },
+    "8641037": {
+      "nombre": "Robert Eggers",
+      "url": "https://www.themoviedb.org/list/8641037-robert-eggers"
+    },
+    "8641038": {
+      "nombre": "Robert Redford",
+      "url": "https://www.themoviedb.org/list/8641038-robert-redford"
+    },
+    "8641039": {
+      "nombre": "Robert Rodriguez",
+      "url": "https://www.themoviedb.org/list/8641039-robert-rodriguez"
+    },
+    "8641040": {
+      "nombre": "Robert Stevenson",
+      "url": "https://www.themoviedb.org/list/8641040-robert-stevenson"
+    },
+    "8641041": {
+      "nombre": "Robert Zemeckis",
+      "url": "https://www.themoviedb.org/list/8641041-robert-zemeckis"
+    },
+    "8641042": {
+      "nombre": "Roberto Benigni",
+      "url": "https://www.themoviedb.org/list/8641042-roberto-benigni"
+    },
+    "8641043": {
+      "nombre": "Rodrigo Cortes",
+      "url": "https://www.themoviedb.org/list/8641043-rodrigo-cortes"
+    },
+    "8641044": {
+      "nombre": "Rodrigo Sorogoyen",
+      "url": "https://www.themoviedb.org/list/8641044-rodrigo-sorogoyen"
+    },
+    "8641045": {
+      "nombre": "Roger Corman",
+      "url": "https://www.themoviedb.org/list/8641045-roger-corman"
+    },
+    "8641046": {
+      "nombre": "Roger Donaldson",
+      "url": "https://www.themoviedb.org/list/8641046-roger-donaldson"
+    },
+    "8641047": {
+      "nombre": "Roger Spottiswoode",
+      "url": "https://www.themoviedb.org/list/8641047-roger-spottiswoode"
+    },
+    "8641048": {
+      "nombre": "Roger Vadim",
+      "url": "https://www.themoviedb.org/list/8641048-roger-vadim"
+    },
+    "8641049": {
+      "nombre": "Roland Emmerich",
+      "url": "https://www.themoviedb.org/list/8641049-roland-emmerich"
+    },
+    "8641050": {
+      "nombre": "Roland Joffe",
+      "url": "https://www.themoviedb.org/list/8641050-roland-joffe"
+    },
+    "8641051": {
+      "nombre": "Ron Howard",
+      "url": "https://www.themoviedb.org/list/8641051-ron-howard"
+    },
+    "8641052": {
+      "nombre": "Rowland V Lee",
+      "url": "https://www.themoviedb.org/list/8641052-rowland-v-lee"
+    },
+    "8641053": {
+      "nombre": "Roy William Neill",
+      "url": "https://www.themoviedb.org/list/8641053-roy-william-neill"
+    },
+    "8641054": {
+      "nombre": "Ruben Fleischer",
+      "url": "https://www.themoviedb.org/list/8641054-ruben-fleischer"
+    },
+    "8641055": {
+      "nombre": "Rudolph Mate",
+      "url": "https://www.themoviedb.org/list/8641055-rudolph-mate"
+    },
+    "8641056": {
+      "nombre": "Russ Meyer",
+      "url": "https://www.themoviedb.org/list/8641056-russ-meyer"
+    },
+    "8641057": {
+      "nombre": "Sam Mendes",
+      "url": "https://www.themoviedb.org/list/8641057-sam-mendes"
+    },
+    "8641058": {
+      "nombre": "Sam Raimi",
+      "url": "https://www.themoviedb.org/list/8641058-sam-raimi"
+    },
+    "8641059": {
+      "nombre": "Santiago Segura",
+      "url": "https://www.themoviedb.org/list/8641059-santiago-segura"
+    },
+    "8641060": {
+      "nombre": "Scott Derrickson",
+      "url": "https://www.themoviedb.org/list/8641060-scott-derrickson"
+    },
+    "8641061": {
+      "nombre": "Segundo De Chomon",
+      "url": "https://www.themoviedb.org/list/8641061-segundo-de-chomon"
+    },
+    "8641062": {
+      "nombre": "Sergei Bondarchuk",
+      "url": "https://www.themoviedb.org/list/8641062-sergei-bondarchuk"
+    },
+    "8641063": {
+      "nombre": "Shane Black",
+      "url": "https://www.themoviedb.org/list/8641063-shane-black"
+    },
+    "8641064": {
+      "nombre": "Shohei Imamura",
+      "url": "https://www.themoviedb.org/list/8641064-shohei-imamura"
+    },
+    "8641065": {
+      "nombre": "Sofia Coppola",
+      "url": "https://www.themoviedb.org/list/8641065-sofia-coppola"
+    },
+    "8641066": {
+      "nombre": "Spike Jonze",
+      "url": "https://www.themoviedb.org/list/8641066-spike-jonze"
+    },
+    "8641067": {
+      "nombre": "Spike Lee",
+      "url": "https://www.themoviedb.org/list/8641067-spike-lee"
+    },
+    "8641068": {
+      "nombre": "Stephen Frears",
+      "url": "https://www.themoviedb.org/list/8641068-stephen-frears"
+    },
+    "8641069": {
+      "nombre": "Stephen Sommers",
+      "url": "https://www.themoviedb.org/list/8641069-stephen-sommers"
+    },
+    "8641070": {
+      "nombre": "Steve Mcqueen",
+      "url": "https://www.themoviedb.org/list/8641070-steve-mcqueen"
+    },
+    "8641071": {
+      "nombre": "Steven Soderbergh",
+      "url": "https://www.themoviedb.org/list/8641071-steven-soderbergh"
+    },
+    "8641072": {
+      "nombre": "Sydney Pollack",
+      "url": "https://www.themoviedb.org/list/8641072-sydney-pollack"
+    },
+    "8641073": {
+      "nombre": "Sylvester Stallone",
+      "url": "https://www.themoviedb.org/list/8641073-sylvester-stallone"
+    },
+    "8641074": {
+      "nombre": "Taika Waititi",
+      "url": "https://www.themoviedb.org/list/8641074-taika-waititi"
+    },
+    "8641075": {
+      "nombre": "Takeshi Kitano",
+      "url": "https://www.themoviedb.org/list/8641075-takeshi-kitano"
+    },
+    "8641076": {
+      "nombre": "Ted Kotcheff",
+      "url": "https://www.themoviedb.org/list/8641076-ted-kotcheff"
+    },
+    "8641077": {
+      "nombre": "Ted Post",
+      "url": "https://www.themoviedb.org/list/8641077-ted-post"
+    },
+    "8641078": {
+      "nombre": "Terence Fisher",
+      "url": "https://www.themoviedb.org/list/8641078-terence-fisher"
+    },
+    "8641079": {
+      "nombre": "Terence Young",
+      "url": "https://www.themoviedb.org/list/8641079-terence-young"
+    },
+    "8641080": {
+      "nombre": "Terrence Malick",
+      "url": "https://www.themoviedb.org/list/8641080-terrence-malick"
+    },
+    "8641081": {
+      "nombre": "Terry Gilliam",
+      "url": "https://www.themoviedb.org/list/8641081-terry-gilliam"
+    },
+    "8641082": {
+      "nombre": "Terry Jones",
+      "url": "https://www.themoviedb.org/list/8641082-terry-jones"
+    },
+    "8641083": {
+      "nombre": "Theo Angelopoulos",
+      "url": "https://www.themoviedb.org/list/8641083-theo-angelopoulos"
+    },
+    "8641084": {
+      "nombre": "Tim Burton",
+      "url": "https://www.themoviedb.org/list/8641084-tim-burton"
+    },
+    "8641085": {
+      "nombre": "Todd Phillips",
+      "url": "https://www.themoviedb.org/list/8641085-todd-phillips"
+    },
+    "8641086": {
+      "nombre": "Tom Tykwer",
+      "url": "https://www.themoviedb.org/list/8641086-tom-tykwer"
+    },
+    "8641087": {
+      "nombre": "Tommy Wiseau",
+      "url": "https://www.themoviedb.org/list/8641087-tommy-wiseau"
+    },
+    "8641088": {
+      "nombre": "Tony Gilroy",
+      "url": "https://www.themoviedb.org/list/8641088-tony-gilroy"
+    },
+    "8641089": {
+      "nombre": "Tony Richardson",
+      "url": "https://www.themoviedb.org/list/8641089-tony-richardson"
+    },
+    "8641090": {
+      "nombre": "Tony Scott",
+      "url": "https://www.themoviedb.org/list/8641090-tony-scott"
+    },
+    "8641091": {
+      "nombre": "Valerio Lazarov",
+      "url": "https://www.themoviedb.org/list/8641091-valerio-lazarov"
+    },
+    "8641092": {
+      "nombre": "Ventura Pons",
+      "url": "https://www.themoviedb.org/list/8641092-ventura-pons"
+    },
+    "8641093": {
+      "nombre": "Vicente Aranda",
+      "url": "https://www.themoviedb.org/list/8641093-vicente-aranda"
+    },
+    "8641094": {
+      "nombre": "Victor Erice",
+      "url": "https://www.themoviedb.org/list/8641094-victor-erice"
+    },
+    "8641095": {
+      "nombre": "Vincenzo Natali",
+      "url": "https://www.themoviedb.org/list/8641095-vincenzo-natali"
+    },
+    "8641096": {
+      "nombre": "W S Van Dyke",
+      "url": "https://www.themoviedb.org/list/8641096-w-s-van-dyke"
+    },
+    "8641097": {
+      "nombre": "Warren Beatty",
+      "url": "https://www.themoviedb.org/list/8641097-warren-beatty"
+    },
+    "8641098": {
+      "nombre": "Wes Anderson",
+      "url": "https://www.themoviedb.org/list/8641098-wes-anderson"
+    },
+    "8641099": {
+      "nombre": "Wes Craven",
+      "url": "https://www.themoviedb.org/list/8641099-wes-craven"
+    },
+    "8641100": {
+      "nombre": "William Cameron Menzies",
+      "url": "https://www.themoviedb.org/list/8641100-william-cameron-menzies"
+    },
+    "8641101": {
+      "nombre": "William Friedkin",
+      "url": "https://www.themoviedb.org/list/8641101-william-friedkin"
+    },
+    "8641102": {
+      "nombre": "Wolfgang Petersen",
+      "url": "https://www.themoviedb.org/list/8641102-wolfgang-petersen"
+    },
+    "8641103": {
+      "nombre": "Wong Kar Wai",
+      "url": "https://www.themoviedb.org/list/8641103-wong-kar-wai"
+    },
+    "8641104": {
+      "nombre": "Yorgos Lanthimos",
+      "url": "https://www.themoviedb.org/list/8641104-yorgos-lanthimos"
+    },
+    "8641105": {
+      "nombre": "Zack Snyder",
+      "url": "https://www.themoviedb.org/list/8641105-zack-snyder"
+    },
+    "8641106": {
+      "nombre": "Zhang Yimou",
+      "url": "https://www.themoviedb.org/list/8641106-zhang-yimou"
+    }
+  },
+"SAGAS": {
+    "8641149": {
+      "nombre": "A Todo Gas",
+      "url": "https://www.themoviedb.org/list/8641149-a-todo-gas"
+    },
+    "8641150": {
+      "nombre": "Ace Ventura",
+      "url": "https://www.themoviedb.org/list/8641150-ace-ventura"
+    },
+    "8641151": {
+      "nombre": "Agatha Christie",
+      "url": "https://www.themoviedb.org/list/8641151-agatha-christie"
+    },
+    "8641152": {
+      "nombre": "Alien",
+      "url": "https://www.themoviedb.org/list/8641152-alien"
+    },
+    "8641153": {
+      "nombre": "Animales Fantasticos",
+      "url": "https://www.themoviedb.org/list/8641153-animales-fantasticos"
+    },
+    "8641154": {
+      "nombre": "Arma Letal",
+      "url": "https://www.themoviedb.org/list/8641154-arma-letal"
+    },
+    "8641155": {
+      "nombre": "Arsene Lupin",
+      "url": "https://www.themoviedb.org/list/8641155-arsene-lupin"
+    },
+    "8641156": {
+      "nombre": "Austin Powers",
+      "url": "https://www.themoviedb.org/list/8641156-austin-powers"
+    },
+    "8641157": {
+      "nombre": "Avatar",
+      "url": "https://www.themoviedb.org/list/8641157-avatar"
+    },
+    "8641158": {
+      "nombre": "Cazafantasmas",
+      "url": "https://www.themoviedb.org/list/8641158-cazafantasmas"
+    },
+    "8641159": {
+      "nombre": "Cocodrilo Dundee",
+      "url": "https://www.themoviedb.org/list/8641159-cocodrilo-dundee"
+    },
+    "8641160": {
+      "nombre": "Conan",
+      "url": "https://www.themoviedb.org/list/8641160-conan"
+    },
+    "8641161": {
+      "nombre": "Crepusculo",
+      "url": "https://www.themoviedb.org/list/8641161-crepusculo"
+    },
+    "8641162": {
+      "nombre": "Cube",
+      "url": "https://www.themoviedb.org/list/8641162-cube"
+    },
+    "8641163": {
+      "nombre": "Dc",
+      "url": "https://www.themoviedb.org/list/8641163-dc"
+    },
+    "8641165": {
+      "nombre": "Dick Tracy",
+      "url": "https://www.themoviedb.org/list/8641165-dick-tracy"
+    },
+    "8641166": {
+      "nombre": "Divergente",
+      "url": "https://www.themoviedb.org/list/8641166-divergente"
+    },
+    "8641167": {
+      "nombre": "Dos Policias Rebeldes",
+      "url": "https://www.themoviedb.org/list/8641167-dos-policias-rebeldes"
+    },
+    "8641168": {
+      "nombre": "Dr Jekyll Y Mr Hyde",
+      "url": "https://www.themoviedb.org/list/8641168-dr-jekyll-y-mr-hyde"
+    },
+    "8641169": {
+      "nombre": "Dracula",
+      "url": "https://www.themoviedb.org/list/8641169-dracula"
+    },
+    "8641170": {
+      "nombre": "Dragones Y Mazmorras",
+      "url": "https://www.themoviedb.org/list/8641170-dragones-y-mazmorras"
+    },
+    "8641171": {
+      "nombre": "Dune",
+      "url": "https://www.themoviedb.org/list/8641171-dune"
+    },
+    "8641172": {
+      "nombre": "El Corredor Del Laberinto",
+      "url": "https://www.themoviedb.org/list/8641172-el-corredor-del-laberinto"
+    },
+    "8641173": {
+      "nombre": "El Fantasma De La Opera",
+      "url": "https://www.themoviedb.org/list/8641173-el-fantasma-de-la-opera"
+    },
+    "8641174": {
+      "nombre": "El Hombre Invisible",
+      "url": "https://www.themoviedb.org/list/8641174-el-hombre-invisible"
+    },
+    "8641175": {
+      "nombre": "El Hombre Lobo",
+      "url": "https://www.themoviedb.org/list/8641175-el-hombre-lobo"
+    },
+    "8641176": {
+      "nombre": "El Jorobado De Notre Dame",
+      "url": "https://www.themoviedb.org/list/8641176-el-jorobado-de-notre-dame"
+    },
+    "8641177": {
+      "nombre": "El Libro De La Selva",
+      "url": "https://www.themoviedb.org/list/8641177-el-libro-de-la-selva"
+    },
+    "8641178": {
+      "nombre": "El Monstruo De La Laguna Negra",
+      "url": "https://www.themoviedb.org/list/8641178-el-monstruo-de-la-laguna-negra"
+    },
+    "8641179": {
+      "nombre": "El Padrino",
+      "url": "https://www.themoviedb.org/list/8641179-el-padrino"
+    },
+    "8641180": {
+      "nombre": "El Planeta De Los Simios",
+      "url": "https://www.themoviedb.org/list/8641180-el-planeta-de-los-simios"
+    },
+    "8641181": {
+      "nombre": "El Rey Arturo",
+      "url": "https://www.themoviedb.org/list/8641181-el-rey-arturo"
+    },
+    "8641182": {
+      "nombre": "El Zorro",
+      "url": "https://www.themoviedb.org/list/8641182-el-zorro"
+    },
+    "8641183": {
+      "nombre": "Flash Gordon",
+      "url": "https://www.themoviedb.org/list/8641183-flash-gordon"
+    },
+    "8641184": {
+      "nombre": "Frankenstein",
+      "url": "https://www.themoviedb.org/list/8641184-frankenstein"
+    },
+    "8641185": {
+      "nombre": "G I Joe",
+      "url": "https://www.themoviedb.org/list/8641185-g-i-joe"
+    },
+    "8641186": {
+      "nombre": "Godzilla",
+      "url": "https://www.themoviedb.org/list/8641186-godzilla"
+    },
+    "8641187": {
+      "nombre": "Gremlins",
+      "url": "https://www.themoviedb.org/list/8641187-gremlins"
+    },
+    "8641188": {
+      "nombre": "Hannibal Lecter",
+      "url": "https://www.themoviedb.org/list/8641188-hannibal-lecter"
+    },
+    "8641189": {
+      "nombre": "Harry Callahan",
+      "url": "https://www.themoviedb.org/list/8641189-harry-callahan"
+    },
+    "8641190": {
+      "nombre": "Harry Potter",
+      "url": "https://www.themoviedb.org/list/8641190-harry-potter"
+    },
+    "8641191": {
+      "nombre": "Hellboy",
+      "url": "https://www.themoviedb.org/list/8641191-hellboy"
+    },
+    "8641192": {
+      "nombre": "Hora Punta",
+      "url": "https://www.themoviedb.org/list/8641192-hora-punta"
+    },
+    "8641193": {
+      "nombre": "Indiana Jones",
+      "url": "https://www.themoviedb.org/list/8641193-indiana-jones"
+    },
+    "8641194": {
+      "nombre": "J R R Tolkien",
+      "url": "https://www.themoviedb.org/list/8641194-j-r-r-tolkien"
+    },
+    "8641195": {
+      "nombre": "Jack Ryan",
+      "url": "https://www.themoviedb.org/list/8641195-jack-ryan"
+    },
+    "8641196": {
+      "nombre": "James Bond",
+      "url": "https://www.themoviedb.org/list/8641196-james-bond"
+    },
+    "8641197": {
+      "nombre": "Jason Bourne",
+      "url": "https://www.themoviedb.org/list/8641197-jason-bourne"
+    },
+    "8641198": {
+      "nombre": "Jesucristo",
+      "url": "https://www.themoviedb.org/list/8641198-jesucristo"
+    },
+    "8641199": {
+      "nombre": "John Wick",
+      "url": "https://www.themoviedb.org/list/8641199-john-wick"
+    },
+    "8641200": {
+      "nombre": "Julio Verne",
+      "url": "https://www.themoviedb.org/list/8641200-julio-verne"
+    },
+    "8641201": {
+      "nombre": "Karate Kid",
+      "url": "https://www.themoviedb.org/list/8641201-karate-kid"
+    },
+    "8641202": {
+      "nombre": "King Kong",
+      "url": "https://www.themoviedb.org/list/8641202-king-kong"
+    },
+    "8641203": {
+      "nombre": "La Busqueda",
+      "url": "https://www.themoviedb.org/list/8641203-la-busqueda"
+    },
+    "8641204": {
+      "nombre": "La Edad De Hielo",
+      "url": "https://www.themoviedb.org/list/8641204-la-edad-de-hielo"
+    },
+    "8641205": {
+      "nombre": "La Familia Addams",
+      "url": "https://www.themoviedb.org/list/8641205-la-familia-addams"
+    },
+    "8641206": {
+      "nombre": "La Guerra De Las Galaxias",
+      "url": "https://www.themoviedb.org/list/8641206-la-guerra-de-las-galaxias"
+    },
+    "8641207": {
+      "nombre": "La Historia Interminable",
+      "url": "https://www.themoviedb.org/list/8641207-la-historia-interminable"
+    },
+    "8641208": {
+      "nombre": "La Jungla De Cristal",
+      "url": "https://www.themoviedb.org/list/8641208-la-jungla-de-cristal"
+    },
+    "8641209": {
+      "nombre": "La Mascara",
+      "url": "https://www.themoviedb.org/list/8641209-la-mascara"
+    },
+    "8641210": {
+      "nombre": "La Momia",
+      "url": "https://www.themoviedb.org/list/8641210-la-momia"
+    },
+    "8641211": {
+      "nombre": "La Pantera Rosa",
+      "url": "https://www.themoviedb.org/list/8641211-la-pantera-rosa"
+    },
+    "8641212": {
+      "nombre": "Las Cronicas De Narnia",
+      "url": "https://www.themoviedb.org/list/8641212-las-cronicas-de-narnia"
+    },
+    "8641213": {
+      "nombre": "Las Minas Del Rey Salomon",
+      "url": "https://www.themoviedb.org/list/8641213-las-minas-del-rey-salomon"
+    },
+    "8641214": {
+      "nombre": "Las Tortugas Ninja",
+      "url": "https://www.themoviedb.org/list/8641214-las-tortugas-ninja"
+    },
+    "8641215": {
+      "nombre": "Loca Academia De Policia",
+      "url": "https://www.themoviedb.org/list/8641215-loca-academia-de-policia"
+    },
+    "8641216": {
+      "nombre": "Los Angeles De Charlie",
+      "url": "https://www.themoviedb.org/list/8641216-los-angeles-de-charlie"
+    },
+    "8641217": {
+      "nombre": "Los Inmortales",
+      "url": "https://www.themoviedb.org/list/8641217-los-inmortales"
+    },
+    "8641218": {
+      "nombre": "Los Juegos Del Hambre",
+      "url": "https://www.themoviedb.org/list/8641218-los-juegos-del-hambre"
+    },
+    "8641219": {
+      "nombre": "Los Mercenarios",
+      "url": "https://www.themoviedb.org/list/8641219-los-mercenarios"
+    },
+    "8641220": {
+      "nombre": "Los Siete Magnificos",
+      "url": "https://www.themoviedb.org/list/8641220-los-siete-magnificos"
+    },
+    "8641221": {
+      "nombre": "Los Tres Mosqueteros",
+      "url": "https://www.themoviedb.org/list/8641221-los-tres-mosqueteros"
+    },
+    "8641222": {
+      "nombre": "Los Visitantes",
+      "url": "https://www.themoviedb.org/list/8641222-los-visitantes"
+    },
+    "8641223": {
+      "nombre": "Mad Max",
+      "url": "https://www.themoviedb.org/list/8641223-mad-max"
+    },
+    "8641224": {
+      "nombre": "Marvel",
+      "url": "https://www.themoviedb.org/list/8641224-marvel"
+    },
+    "8641225": {
+      "nombre": "Masters Del Universo",
+      "url": "https://www.themoviedb.org/list/8641225-masters-del-universo"
+    },
+    "8641226": {
+      "nombre": "Matrix",
+      "url": "https://www.themoviedb.org/list/8641226-matrix"
+    },
+    "8641227": {
+      "nombre": "Millennium",
+      "url": "https://www.themoviedb.org/list/8641227-millennium"
+    },
+    "8641228": {
+      "nombre": "Mision Imposible",
+      "url": "https://www.themoviedb.org/list/8641228-mision-imposible"
+    },
+    "8641229": {
+      "nombre": "Mortal Kombat",
+      "url": "https://www.themoviedb.org/list/8641229-mortal-kombat"
+    },
+    "8641230": {
+      "nombre": "Ocean S",
+      "url": "https://www.themoviedb.org/list/8641230-ocean-s"
+    },
+    "8641231": {
+      "nombre": "Parque Jurasico",
+      "url": "https://www.themoviedb.org/list/8641231-parque-jurasico"
+    },
+    "8641232": {
+      "nombre": "Piratas Del Caribe",
+      "url": "https://www.themoviedb.org/list/8641232-piratas-del-caribe"
+    },
+    "8641233": {
+      "nombre": "Punales Por La Espalda",
+      "url": "https://www.themoviedb.org/list/8641233-punales-por-la-espalda"
+    },
+    "8641234": {
+      "nombre": "Rambo",
+      "url": "https://www.themoviedb.org/list/8641234-rambo"
+    },
+    "8641235": {
+      "nombre": "Regreso Al Futuro",
+      "url": "https://www.themoviedb.org/list/8641235-regreso-al-futuro"
+    },
+    "8641236": {
+      "nombre": "Resident Evil",
+      "url": "https://www.themoviedb.org/list/8641236-resident-evil"
+    },
+    "8641237": {
+      "nombre": "Riddick",
+      "url": "https://www.themoviedb.org/list/8641237-riddick"
+    },
+    "8641238": {
+      "nombre": "Robert Langdon",
+      "url": "https://www.themoviedb.org/list/8641238-robert-langdon"
+    },
+    "8641239": {
+      "nombre": "Robin Hood",
+      "url": "https://www.themoviedb.org/list/8641239-robin-hood"
+    },
+    "8641240": {
+      "nombre": "Robinson Crusoe",
+      "url": "https://www.themoviedb.org/list/8641240-robinson-crusoe"
+    },
+    "8641241": {
+      "nombre": "Robocop",
+      "url": "https://www.themoviedb.org/list/8641241-robocop"
+    },
+    "8641242": {
+      "nombre": "Rocky Creed",
+      "url": "https://www.themoviedb.org/list/8641242-rocky-creed"
+    },
+    "8641243": {
+      "nombre": "Sandokan",
+      "url": "https://www.themoviedb.org/list/8641243-sandokan"
+    },
+    "8641244": {
+      "nombre": "Sherlock Holmes",
+      "url": "https://www.themoviedb.org/list/8641244-sherlock-holmes"
+    },
+    "8641245": {
+      "nombre": "Shrek",
+      "url": "https://www.themoviedb.org/list/8641245-shrek"
+    },
+    "8641246": {
+      "nombre": "Soldado Universal",
+      "url": "https://www.themoviedb.org/list/8641246-soldado-universal"
+    },
+    "8641247": {
+      "nombre": "Star Trek",
+      "url": "https://www.themoviedb.org/list/8641247-star-trek"
+    },
+    "8641248": {
+      "nombre": "Stargate",
+      "url": "https://www.themoviedb.org/list/8641248-stargate"
+    },
+    "8641249": {
+      "nombre": "Superdetective En Hollywood",
+      "url": "https://www.themoviedb.org/list/8641249-superdetective-en-hollywood"
+    },
+    "8641250": {
+      "nombre": "Tarzan",
+      "url": "https://www.themoviedb.org/list/8641250-tarzan"
+    },
+    "8641251": {
+      "nombre": "Terminator",
+      "url": "https://www.themoviedb.org/list/8641251-terminator"
+    },
+    "8641252": {
+      "nombre": "Terror",
+      "url": "https://www.themoviedb.org/list/8641252-terror"
+    },
+    "8641253": {
+      "nombre": "The Equalizer",
+      "url": "https://www.themoviedb.org/list/8641253-the-equalizer"
+    },
+    "8641254": {
+      "nombre": "Tom Ripley",
+      "url": "https://www.themoviedb.org/list/8641254-tom-ripley"
+    },
+    "8641255": {
+      "nombre": "Tomb Raider",
+      "url": "https://www.themoviedb.org/list/8641255-tomb-raider"
+    },
+    "8641256": {
+      "nombre": "Torrente",
+      "url": "https://www.themoviedb.org/list/8641256-torrente"
+    },
+    "8641257": {
+      "nombre": "Toy Story",
+      "url": "https://www.themoviedb.org/list/8641257-toy-story"
+    },
+    "8641258": {
+      "nombre": "Transformers",
+      "url": "https://www.themoviedb.org/list/8641258-transformers"
+    },
+    "8641259": {
+      "nombre": "Transporter",
+      "url": "https://www.themoviedb.org/list/8641259-transporter"
+    },
+    "8641260": {
+      "nombre": "Tron",
+      "url": "https://www.themoviedb.org/list/8641260-tron"
+    },
+    "8641261": {
+      "nombre": "Underworld",
+      "url": "https://www.themoviedb.org/list/8641261-underworld"
+    },
+    "8641262": {
+      "nombre": "Willy Wonka",
+      "url": "https://www.themoviedb.org/list/8641262-willy-wonka"
+    },
+    "8641263": {
+      "nombre": "Xxx",
+      "url": "https://www.themoviedb.org/list/8641263-xxx"
+    }
+  },
+  "PREMIOS": {
+    "8641269": {
+      "nombre": "Leon De Oro",
+      "url": "https://www.themoviedb.org/list/8641269-leon-de-oro"
+    },
+    "8641270": {
+      "nombre": "Oso De Oro",
+      "url": "https://www.themoviedb.org/list/8641270-oso-de-oro"
+    },
+    "8641268": {
+      "nombre": "Palma De Oro",
+      "url": "https://www.themoviedb.org/list/8641268-palma-de-oro"
+    },
+    "8641272": {
+      "nombre": "Premio Goya",
+      "url": "https://www.themoviedb.org/list/8641272-premio-goya"
+    },
+    "8641271": {
+      "nombre": "Premio Oscar",
+      "url": "https://www.themoviedb.org/list/8641271-premio-oscar"
+    }
+  }
 }
