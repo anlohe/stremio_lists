@@ -62,6 +62,13 @@
       "name": "Gertrud",
       "poster": "https://image.tmdb.org/t/p/w500/cmrIKdZWygU7VoSepx3mKBk1M3V.jpg",
       "description": "Gertrud es una mujer madura e idealista que busca el amor absoluto, con mayúsculas, pero sus experiencias sentimentales se ven siempre abocadas al fracaso. Decide separarse de su marido, un eminente político, porque él antepone el trabajo al amor. Se enamora de un joven músico que empieza a cosechar sus primeros éxitos, pero para él, que sólo piensa en sí mismo, Gertrud no es más que una aventura pasajera. Por otra parte, un antiguo novio poeta reaparece en su vida con la pretensión de que reanuden su antigua relación."
+    },
+    {
+      "id": "tmdb:29764",
+      "type": "movie",
+      "name": "Ultraman: The Next",
+      "poster": "https://image.tmdb.org/t/p/w500/yVNjerZkViasP2Nzw0rrVKpRHXQ.jpg",
+      "description": "El piloto de la fuerza aérea japonesa Shunichi Maki está por retirarse de la misma. Su hijo Tsugumu padece una enfermedad genética que puede ser mortal si los ataques se repiten, y Maki ha decidido pasar más tiempo con su familia. Pero en su última misión de vuelo, Maki es interceptado por una extraña luz roja que proviene del espacio exterior y su avión se estrella. Milagrosamente Maki sobrevive, pero comienza a tener extrañas visiones. Mientras tanto, en un secreto complejo científico de los militares, la líder de las instalaciones Sara Mizuhara se encuentra tras la cacería de un monstruo mutante al que le llaman \"El Primero\", que posee la capacidad de asimilar todo tipo de vida terrestre, expandiendo sus poderes."
     }
   ]
 }
