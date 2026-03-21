@@ -3,22 +3,30 @@ import json
 import requests
 import time
 
-# --- CONFIGURACIÓN DE SEGURIDAD ---
-API_KEY = os.environ.get('TMDB_API_KEY')
+# --- CONFIGURACIÓN DE SEGURIDAD V4 ---
+# Usamos directamente el Token de lectura que me proporcionaste
+TMDB_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNzVlYzE5Y2JkMzk5ODJiMmUzMjhkZWFmOTA0ODdhMyIsIm5iZiI6MTc3MDAyMjk5MC4yMjg5OTk5LCJzdWIiOiI2OTgwNjg0ZWE2NGQ5ODYxZTNiOThjMTIiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.83Z8o_CAWLb1vQPJLNwLeru9RcxEZlvfoCMw9S325CM"
 LANG = "es-ES" 
 
 def obtener_peliculas_tmdb(list_id):
     peliculas = []
     pagina = 1
     total_paginas = 1
+    
+    # Esta es la llave maestra para la puerta v4
+    headers = {
+        "accept": "application/json",
+        "Authorization": f"Bearer {TMDB_TOKEN}"
+    }
+    
     while pagina <= total_paginas:
-        # CAMBIO CLAVE: Usamos la API v4 que es la que soporta las listas nuevas de la web
-        url = f"https://api.themoviedb.org/4/list/{list_id}?api_key={API_KEY}&language={LANG}&page={pagina}"
+        # Usamos la API v4
+        url = f"https://api.themoviedb.org/4/list/{list_id}?page={pagina}&language={LANG}"
         try:
-            response = requests.get(url)
+            response = requests.get(url, headers=headers)
             response.raise_for_status()
             data = response.json()
-            # CAMBIO CLAVE: En la v4, las películas vienen dentro de 'results'
+            # En la v4, las peliculas vienen en 'results'
             peliculas.extend(data.get('results', []))
             total_paginas = data.get('total_pages', 1)
             pagina += 1
@@ -46,12 +54,8 @@ def formatear_para_stremio(tmdb_movie):
     }
 
 def run():
-    print("Iniciando creación de Addons en subcarpetas...")
+    print("Iniciando creación de Addons en subcarpetas (API v4)...")
     
-    if not API_KEY:
-        print("ERROR: No se encontró la TMDB_API_KEY.")
-        return
-
     with open('config.json', 'r', encoding='utf-8') as f:
         config = json.load(f)
 
@@ -75,10 +79,17 @@ def run():
 
         for list_id, datos in listas.items():
             nombre_lista = datos["nombre"]
-            print(f"Procesando: {nombre_lista} ({list_id})...")
             
+            # Obtenemos las películas con v4
             raw_movies = obtener_peliculas_tmdb(list_id)
             stremio_metas = [formatear_para_stremio(m) for m in raw_movies if m.get('title')]
+            
+            # Escudo anti-vacíos: Si la lista está vacía, la ignoramos para no romper Stremio
+            if not stremio_metas:
+                print(f"⚠️ Omitiendo: {nombre_lista} ({list_id}) - La lista está vacía en TMDB.")
+                continue
+                
+            print(f"✅ Procesando: {nombre_lista} ({list_id}) - {len(stremio_metas)} películas.")
             
             cat_id = f"{categoria.replace(' ', '_').lower()}_{list_id}"
             
