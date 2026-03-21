@@ -1,0 +1,67 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:35075",
+      "type": "movie",
+      "name": "Las páginas del libro de Satán",
+      "poster": "https://image.tmdb.org/t/p/w500/AwxMNSYIed9rP5qKFYjo9JFRejH.jpg",
+      "description": "Satanás es un ángel caído que quiere agradar a Dios. Pero el Señor lo condena a vivir entre los hombres para tentarlos permanentemente; cada vez que provoque la condenación de un alma, la propia condena de Satán se alargará un milenio. En cambio si llega a hallar a un alma capaz de resistir sus tretas, logrará un mérito a su favor"
+    },
+    {
+      "id": "tmdb:36125",
+      "type": "movie",
+      "name": "Los estigmatizados",
+      "poster": "https://image.tmdb.org/t/p/w500/bJ0KSfc6pocQsRxKzn3mwSxswJt.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:55587",
+      "type": "movie",
+      "name": "Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/7XrNCIQFscV4RLxrvR9nEv8KBbg.jpg",
+      "description": "Un famoso artista lucha por su pasión por un modelo masculino, hasta que el joven se enamora de una mujer."
+    },
+    {
+      "id": "tmdb:55589",
+      "type": "movie",
+      "name": "El amo de la casa",
+      "poster": "https://image.tmdb.org/t/p/w500/avbjXm1erfn0cTftsKEdwQzpIX5.jpg",
+      "description": "Adaptación de una obra teatral de Svend Rindon sobre la tormentosa relación que mantiene un marido tiránico con su familia. Es la historia de un hombre que trata despótica y arbitrariamente a su esposa y sus hijos. Su vieja niñera, la única persona a la que ha respetado en su vida, le hará ver de una peculiar manera que su comportamiento es cruel y vergonzoso."
+    },
+    {
+      "id": "tmdb:780",
+      "type": "movie",
+      "name": "La pasión de Juana de Arco",
+      "poster": "https://image.tmdb.org/t/p/w500/yhuXslS2FumUzpsd7qNxQEMDsnC.jpg",
+      "description": "Guerra de los Cien Años (siglos XIV y XV). En 1431, Juana de Arco, después de haber conducido a las tropas francesas a la victoria, es arrestada y acusada de brujería. Ella declara haber recibido de Dios la misión de salvar a Francia, pero es procesada y condenada a morir en la hoguera."
+    },
+    {
+      "id": "tmdb:779",
+      "type": "movie",
+      "name": "Vampyr, la bruja vampiro",
+      "poster": "https://image.tmdb.org/t/p/w500/rzLsS8d1PJQhb0Ni9RjTaqyQ0ca.jpg",
+      "description": "En esta película Dreyer nos introduce en un universo fantasmagórico por medio de imágenes expresionistas. Un joven viajero, Allan Gray, se aloja en un extraño castillo, cuya atmósfera densa y enrarecida recuerda la de las pesadillas. El joven comienza a tener espeluznantes visiones, de las cuales la más terrible es el descubrimiento de una mujer inconsciente que ha sido atacada por un vampiro en forma de bruja. El maestro Dreyer rueda en Francia esta personal visión del terror: un mundo onírico y sugerente, lleno de fantasmas y sombras que cautivan más por la fuerza de las imágenes que por lo terrorífico del relato. A pesar de que actualmente es considerada una obra maestra del género, en su día fue un rotundo fracaso, por lo que el director danés tardaría doce años en volver a rodar su siguiente película, \"Dies Irae\"."
+    },
+    {
+      "id": "tmdb:41391",
+      "type": "movie",
+      "name": "Dies irae",
+      "poster": "https://image.tmdb.org/t/p/w500/zwl3olA3dYeBzn7BvAJXfY9eu2Q.jpg",
+      "description": "Dinamarca, 1623. En plena caza de brujas, Absalom, un viejo sacerdote, promete a una mujer condenada a muerte que salvará a su hija Anne de la hoguera si la joven accede a casarse con él. Según la ley, las descendientes de las brujas también deben arder en una pira. Meret, la anciana madre de Absalom, desaprueba desde el principio el matrimonio. Cuando Martin, el hijo de Absalom, regresa a casa para conocer a su madrastra, se enamorará de ella y ambos compartirán una relación prohibida que tendrá inesperadas consecuencias."
+    },
+    {
+      "id": "tmdb:48035",
+      "type": "movie",
+      "name": "Ordet (La palabra)",
+      "poster": "https://image.tmdb.org/t/p/w500/kd9z7SCv5Ps7E4Ry0udMNlQrRNV.jpg",
+      "description": "Hacia 1930, en un pequeño pueblo de Jutlandia occidental, el viejo Morten Borgen dirige la granja de Borgensgaard. Tiene tres hijos: Mikkel, Johannes y Anders. El primero está casado con Inger y tiene dos hijas pequeñas, aunque en estos momentos Inger está embarazada y esperan el tercero. Johannnes es un antiguo estudiante de Teología que, por haberse imbuido de las ideas de Kierkegaard e identificarse con la figura de Jesucristo, es considerado por todos como un loco. El tercero, Anders, está enamorado de la hija del sastre, líder intransigente de un sector religioso rival. Tal circunstancia revitaliza la discordia que siempre ha existido entre las dos familias, ya que ninguna ve con muy buenos ojos que sus hijos contraigan matrimonio."
+    },
+    {
+      "id": "tmdb:34181",
+      "type": "movie",
+      "name": "Gertrud",
+      "poster": "https://image.tmdb.org/t/p/w500/cmrIKdZWygU7VoSepx3mKBk1M3V.jpg",
+      "description": "Gertrud es una mujer madura e idealista que busca el amor absoluto, con mayúsculas, pero sus experiencias sentimentales se ven siempre abocadas al fracaso. Decide separarse de su marido, un eminente político, porque él antepone el trabajo al amor. Se enamora de un joven músico que empieza a cosechar sus primeros éxitos, pero para él, que sólo piensa en sí mismo, Gertrud no es más que una aventura pasajera. Por otra parte, un antiguo novio poeta reaparece en su vida con la pretensión de que reanuden su antigua relación."
+    }
+  ]
+}

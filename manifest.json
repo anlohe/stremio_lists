@@ -16,13 +16,13 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "directores_i_tarantino",
-      "name": "Quentin Tarantino (DIRECTORES I)"
+      "id": "directores_i_8640008",
+      "name": "Alfred Hitchcock (DIRECTORES I)"
     },
     {
       "type": "movie",
-      "id": "sagas_star_wars",
-      "name": "Saga Star Wars (SAGAS)"
+      "id": "directores_i_8640024",
+      "name": "Carl Theodor Dreyer (DIRECTORES I)"
     }
   ]
 }
