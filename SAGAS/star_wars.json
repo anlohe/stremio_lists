@@ -1,0 +1,354 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:19995",
+      "type": "movie",
+      "name": "Avatar",
+      "poster": "https://image.tmdb.org/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "description": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo."
+    },
+    {
+      "id": "tmdb:597",
+      "type": "movie",
+      "name": "Titanic",
+      "poster": "https://image.tmdb.org/t/p/w500/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg",
+      "description": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg."
+    },
+    {
+      "id": "tmdb:24428",
+      "type": "movie",
+      "name": "Los Vengadores",
+      "poster": "https://image.tmdb.org/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+      "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro."
+    },
+    {
+      "id": "tmdb:12445",
+      "type": "movie",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "poster": "https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+      "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…"
+    },
+    {
+      "id": "tmdb:122",
+      "type": "movie",
+      "name": "El señor de los anillos: El retorno del rey",
+      "poster": "https://image.tmdb.org/t/p/w500/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "description": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino."
+    },
+    {
+      "id": "tmdb:38356",
+      "type": "movie",
+      "name": "Transformers: El lado oscuro de la luna",
+      "poster": "https://image.tmdb.org/t/p/w500/fMqXNNgzTaxalU1ve9KevpELiGe.jpg",
+      "description": "En esta tercera entrega de la saga Transformers, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial en la Tierra entre los EE.UU. y Rusia, donde un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers puede que sean capaces de salvar nuestro planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto."
+    },
+    {
+      "id": "tmdb:49026",
+      "type": "movie",
+      "name": "El caballero oscuro: La leyenda renace",
+      "poster": "https://image.tmdb.org/t/p/w500/rrS7K8tXVFUBliIKWaRuSq65nWr.jpg",
+      "description": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio."
+    },
+    {
+      "id": "tmdb:58",
+      "type": "movie",
+      "name": "Piratas del Caribe: El cofre del hombre muerto",
+      "poster": "https://image.tmdb.org/t/p/w500/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
+      "description": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante."
+    },
+    {
+      "id": "tmdb:10193",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "https://image.tmdb.org/t/p/w500/yBSISwqix2z0JiwIrM3r6fiI6Cm.jpg",
+      "description": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras."
+    },
+    {
+      "id": "tmdb:1865",
+      "type": "movie",
+      "name": "Piratas del Caribe: En mareas misteriosas",
+      "poster": "https://image.tmdb.org/t/p/w500/2oOARbiV871kCC27FyKBmYwOM3G.jpg",
+      "description": "Cuando Jack Sparrow vuelve a encontrarse con una mujer a la que había conocido años atrás, no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Venganza de la Reina Ana, el barco del temible pirata Barbanegra, que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado."
+    },
+    {
+      "id": "tmdb:1893",
+      "type": "movie",
+      "name": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+      "poster": "https://image.tmdb.org/t/p/w500/4rjatbWmGGmu0DZs6WNpXaUWqWN.jpg",
+      "description": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine..."
+    },
+    {
+      "id": "tmdb:12155",
+      "type": "movie",
+      "name": "Alicia en el País de las Maravillas",
+      "poster": "https://image.tmdb.org/t/p/w500/sqOyCSgzLglxcR2y1boewr5Qufn.jpg",
+      "description": "Alicia, una joven de 19 años, asiste a una fiesta en una mansión victoriana, donde descubre que está a punto de recibir una propuesta de matrimonio frente a un montón de gente estirada de la alta sociedad. Alicia entonces se escapa, corriendo tras un conejo blanco, entra a un agujero tras él... y acaba en el país de las Maravillas, un lugar que visitó hace 10 años, pero el cual no recuerda. El país de las Maravillas era un reino pacífico hasta que la Reina Roja derrocó a su hermana, la Reina Blanca. Las criaturas del país de las maravillas, listos para la revuelta, esperan que Alicia les ayude, y éstas a su vez le ayudarán a recordar su primera visita al mágico reino."
+    },
+    {
+      "id": "tmdb:155",
+      "type": "movie",
+      "name": "El caballero oscuro",
+      "poster": "https://image.tmdb.org/t/p/w500/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "description": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos."
+    },
+    {
+      "id": "tmdb:671",
+      "type": "movie",
+      "name": "Harry Potter y la piedra filosofal",
+      "poster": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran."
+    },
+    {
+      "id": "tmdb:285",
+      "type": "movie",
+      "name": "Piratas del Caribe: En el fin del mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
+      "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo..."
+    },
+    {
+      "id": "tmdb:12444",
+      "type": "movie",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "poster": "https://image.tmdb.org/t/p/w500/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
+      "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura."
+    },
+    {
+      "id": "tmdb:8587",
+      "type": "movie",
+      "name": "El rey león",
+      "poster": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "description": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde."
+    },
+    {
+      "id": "tmdb:675",
+      "type": "movie",
+      "name": "Harry Potter y la Orden del Fénix",
+      "poster": "https://image.tmdb.org/t/p/w500/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+      "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix."
+    },
+    {
+      "id": "tmdb:767",
+      "type": "movie",
+      "name": "Harry Potter y el misterio del príncipe",
+      "poster": "https://image.tmdb.org/t/p/w500/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+      "description": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final."
+    },
+    {
+      "id": "tmdb:121",
+      "type": "movie",
+      "name": "El señor de los anillos: Las dos torres",
+      "poster": "https://image.tmdb.org/t/p/w500/z632eZtXaw76ZE5mMMGOBXCpm1T.jpg",
+      "description": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media."
+    },
+    {
+      "id": "tmdb:329",
+      "type": "movie",
+      "name": "Jurassic Park (Parque Jurásico)",
+      "poster": "https://image.tmdb.org/t/p/w500/h831eszSFmEyr94WKcgscqPIRbh.jpg",
+      "description": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia."
+    },
+    {
+      "id": "tmdb:809",
+      "type": "movie",
+      "name": "Shrek 2",
+      "poster": "https://image.tmdb.org/t/p/w500/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg",
+      "description": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros."
+    },
+    {
+      "id": "tmdb:674",
+      "type": "movie",
+      "name": "Harry Potter y el cáliz de fuego",
+      "poster": "https://image.tmdb.org/t/p/w500/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida"
+    },
+    {
+      "id": "tmdb:559",
+      "type": "movie",
+      "name": "Spider-Man 3",
+      "poster": "https://image.tmdb.org/t/p/w500/589rUff9Ai272uMudb9Dn7k88Oa.jpg",
+      "description": "Parece que Parker ha conseguido por fin el equilibrio entre su devoción por Mary Jane y sus deberes como superhéroe. Pero, de repente, su traje se vuelve negro y adquiere nuevos poderes; también él se transforma, mostrando el lado más oscuro y vengativo de su personalidad. Bajo la influencia del nuevo traje, Peter se convierte en un ser egoísta que sólo se preocupa por sí mismo. Tiene, pues, que afrontar un dilema: disfrutar de sus nuevos poderes o seguir siendo un héroe compasivo. Mientras tanto, sobre él se cierne la amenaza de dos temibles enemigos: Venom y el Hombre de Arena."
+    },
+    {
+      "id": "tmdb:8355",
+      "type": "movie",
+      "name": "Ice Age 3: El origen de los dinosaurios",
+      "poster": "https://image.tmdb.org/t/p/w500/zufHIdp8szvgkt8VCnJEF2fo1tN.jpg",
+      "description": "Tercera parte de las aventuras de Diego, Scrat y compañía. En esta ocasión, les tocará lidiar con varios dinosaurios. Scrat sigue intentando apoderarse de la muy escurridiza bellota; Manny y Ellie esperan el nacimiento de su mini-mamut; Sid, el perezoso, se mete en un buen lío al formar de repente una familia propia tras encontrarse unos huevos de dinosaurio."
+    },
+    {
+      "id": "tmdb:57800",
+      "type": "movie",
+      "name": "Ice Age 4: La formación de los continentes",
+      "poster": "https://image.tmdb.org/t/p/w500/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg",
+      "description": "La loca persecución de Scrat por su escurridiza bellota desde el principio de los tiempos, tiene consecuencias que cambiarán el mundo: un cataclismo continental que desencadenará la mayor de las aventuras para Manny, Diego y Sid. En medio de estas agitaciones, Sid se reencuentra con su Abuelita Gruñona y la manada tropieza con una extraña cuadrilla de piratas de altamar decididos a impedirles su regreso a casa."
+    },
+    {
+      "id": "tmdb:672",
+      "type": "movie",
+      "name": "Harry Potter y la cámara secreta",
+      "poster": "https://image.tmdb.org/t/p/w500/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
+      "description": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso."
+    },
+    {
+      "id": "tmdb:120",
+      "type": "movie",
+      "name": "El señor de los anillos: La comunidad del anillo",
+      "poster": "https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media."
+    },
+    {
+      "id": "tmdb:12",
+      "type": "movie",
+      "name": "Buscando a Nemo",
+      "poster": "https://image.tmdb.org/t/p/w500/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+      "description": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar."
+    },
+    {
+      "id": "tmdb:1895",
+      "type": "movie",
+      "name": "La guerra de las galaxias. Episodio III: La venganza de los Sith",
+      "poster": "https://image.tmdb.org/t/p/w500/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg",
+      "description": "Último capítulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecerá el General Grievous, un ser implacable mitad-alien mitad-robot, el líder del ejército separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron prácticamente exterminados por los Jedi hace mil años, pero la orden del mal sobrevivió en la clandestinidad."
+    },
+    {
+      "id": "tmdb:8373",
+      "type": "movie",
+      "name": "Transformers: La venganza de los caídos",
+      "poster": "https://image.tmdb.org/t/p/w500/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg",
+      "description": "Dos años después de derrotar a los Decepticons, las vidas de Sam y los Autobots han cambiado mucho. Mientras Sam se prepara para ir a la universidad, sus amigos robots se han integrado en una fuerza de élite que captura a enemigos renegados. Pero todo cambia con la llegada de un malvado enemigo que, con un enrevesado plan, planea un nuevo alzamiento de los Decepticons. La humanidad vuelve a estar en peligro, y Sam y los Autobots tendrán que formar una vez más equipo para salvarla."
+    },
+    {
+      "id": "tmdb:27205",
+      "type": "movie",
+      "name": "Origen",
+      "poster": "https://image.tmdb.org/t/p/w500/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+      "description": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible."
+    },
+    {
+      "id": "tmdb:602",
+      "type": "movie",
+      "name": "Independence Day",
+      "poster": "https://image.tmdb.org/t/p/w500/puyuUUDcFDPggdWVvIWd7AWwOYm.jpg",
+      "description": "En víspera del 4 de julio, unas gigantescas naves espaciales aparecen en el cielo. El estupor inicial se convierte en terror al ver cómo éstas atacan al planeta lanzando rayos destructivos en las mayores ciudades de todo el mundo. Ahora la única esperanza para la salvación de la tierra está en la voluntad de algunos supervivientes, que se unen planeando el último ataque masivo contra los alienígenas, antes de que sea demasiado tarde para la humanidad."
+    },
+    {
+      "id": "tmdb:557",
+      "type": "movie",
+      "name": "Spider-Man",
+      "poster": "https://image.tmdb.org/t/p/w500/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg",
+      "description": "Peter Parker es un joven y tímido estudiante que vive con su tía May y su tío Ben desde la muerte de sus padres. Un día es mordido por una araña que ha sido modificada genéticamente, descubriendo al día siguiente que posee unos poderes poco habituales: tiene la fuerza y agilidad de una araña."
+    },
+    {
+      "id": "tmdb:11",
+      "type": "movie",
+      "name": "La guerra de las galaxias",
+      "poster": "https://image.tmdb.org/t/p/w500/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "description": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia."
+    },
+    {
+      "id": "tmdb:810",
+      "type": "movie",
+      "name": "Shrek tercero",
+      "poster": "https://image.tmdb.org/t/p/w500/7sTwtmVPTX77CFOUXdwAM7lKtKL.jpg",
+      "description": "Shrek se casó con Fiona, pero lo que no tuvo en cuenta es que al casarse con una princesa... tarde o temprano uno termina siendo rey. Cuando su suegro, el Rey Harold, cae enfermo, Shrek se encuentra en riesgo de tener que abandonar su amado pantano por el trono. A menos claro que encuentre un heredero. Junto con Asno y el Gato con Botas, Shrek viaja para en busca del primo de Fiona, Arturo. Mientras, en Muy Muy Lejano, el Principe Encantador recluta un ejército de villanos de cuento para tomar el trono por la fuerza. Pero no cuentan con que Fiona y la Reina Lillian también han reunido su grupo de heroínas de cuento para hacerles frente..."
+    },
+    {
+      "id": "tmdb:673",
+      "type": "movie",
+      "name": "Harry Potter y el prisionero de Azkaban",
+      "poster": "https://image.tmdb.org/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
+      "description": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia."
+    },
+    {
+      "id": "tmdb:217",
+      "type": "movie",
+      "name": "Indiana Jones y el reino de la calavera de cristal",
+      "poster": "https://image.tmdb.org/t/p/w500/caC98g0VyWVztBStLu46rpKlbGw.jpg",
+      "description": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto."
+    },
+    {
+      "id": "tmdb:558",
+      "type": "movie",
+      "name": "Spider-Man 2",
+      "poster": "https://image.tmdb.org/t/p/w500/bf0KrQZceXP7jQNUxfpMxSGVf5E.jpg",
+      "description": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumiendo sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus, \"Doc Ock\"."
+    },
+    {
+      "id": "tmdb:14161",
+      "type": "movie",
+      "name": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/gWE2GIrIqqf1OLV2Talxph11MC.jpg",
+      "description": "El geólogo Adrian Helmsley, descubre de que el núcleo de la Tierra se está calentando. Teme que la corteza se vuelva inestable, coincidiendo con las predicciones mayas del fin del mundo. Entre tanto, los líderes del mundo \"venden\" plazas para escapar del cataclismo. El escritor Curtis Jackson tropieza con esa información... y luchará por salvar a su familia mientras el suelo se hunde bajo sus pies, y los terremotos y las erupciones volcánicas destruyen el mundo tal y como lo conocemos."
+    },
+    {
+      "id": "tmdb:591",
+      "type": "movie",
+      "name": "El código Da Vinci",
+      "poster": "https://image.tmdb.org/t/p/w500/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg",
+      "description": "El catedrático y afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años..."
+    },
+    {
+      "id": "tmdb:601",
+      "type": "movie",
+      "name": "E.T. el extraterrestre",
+      "poster": "https://image.tmdb.org/t/p/w500/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg",
+      "description": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren."
+    },
+    {
+      "id": "tmdb:1930",
+      "type": "movie",
+      "name": "The Amazing Spider-Man",
+      "poster": "https://image.tmdb.org/t/p/w500/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg",
+      "description": "Como la mayoría de los adolescentes de su edad, Peter está intentando descubrir quién es y cómo ha llegado a ser lo que es. En su viaje para atar los cabos de su pasado descubre un secreto que guardaba su padre, un secreto que finalmente dará forma a su destino como Spiderman."
+    },
+    {
+      "id": "tmdb:10192",
+      "type": "movie",
+      "name": "Shrek, Felices para siempre",
+      "poster": "https://image.tmdb.org/t/p/w500/11K03KebrdD8nUlGFJX3rSL3KHK.jpg",
+      "description": "En lugar de espantar a los aldeanos como él solía hacerlo, un recluido Shrek ahora accede a autografiar horquillas para siembra. Anhelando los días cuando se sentía un \"ogro real\", Shrek es embaucado al firmar un pacto con el afable negociador Rumpelstiltskin. De pronto Shrek se encuentra en una retorcida versión alterna de Muy Muy Lejano, donde Fiona es un ogro de caza, Rumpelstiltskin es el rey, Burro nunca ha conocido a Shrek, el Gato con Botas es obeso y perezoso, y Shrek y Fiona no se conocían. Ahora, está en las manos de Shrek deshacer todo lo que hizo con la esperanza de salvar a sus amigos, restaurar su mundo y recuperar a su único y verdadero amor."
+    },
+    {
+      "id": "tmdb:411",
+      "type": "movie",
+      "name": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "poster": "https://image.tmdb.org/t/p/w500/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+      "description": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío."
+    },
+    {
+      "id": "tmdb:604",
+      "type": "movie",
+      "name": "Matrix Reloaded",
+      "poster": "https://image.tmdb.org/t/p/w500/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg",
+      "description": "Las máquinas avanzan imparables hacia Zion en su afán por destruir a toda la humanidad y todas las naves se preparan para la dura batalla. Neo junto con Morfeo y Trinity buscan el camino del elegido dentro de Matrix para vencer a las máquinas y se encuentran con dificultades inesperadas: el agente Smith ha vuelto y no sólo eso, otros programas dentro de Matrix intentarán acabar con su misión. Mientras tanto Neo se tendrá que adaptar a la vida real y a la fama de ser el elegido."
+    },
+    {
+      "id": "tmdb:14160",
+      "type": "movie",
+      "name": "Up",
+      "poster": "https://image.tmdb.org/t/p/w500/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg",
+      "description": "Tras atar miles de globos a su casa, Carl Fredricksen, un vendedor de globos jubilado, se embarca en el mundo de los sueños de la infancia. Pero sin que Carl lo sepa, Russell, un explorador de 8 años, se encuentra en el lugar equivocado en el momento equivocado: el porche delantero de la casa. El dúo más improbable conoce a fantásticos amigos como Dug, un perro con un collar especial que le permite hablar, y Kevin, un pájaro de cuatro metros de altura que no vuela. Atrapados en la selva, Carl se da cuenta de que a veces las mayores aventuras de la vida son las que menos esperabas."
+    },
+    {
+      "id": "tmdb:18239",
+      "type": "movie",
+      "name": "La saga Crepúsculo: Luna nueva",
+      "poster": "https://image.tmdb.org/t/p/w500/l5lF8VHTO5QKObAKE3Wp2QQfGZJ.jpg",
+      "description": "Edward Cullen decide abandonar a Bella Swan para mantenerla alejada de los peligros del mundo vampírico. Con la ayuda de Jacob Black, su amigo de la infancia y miembro de la misteriosa tribu quileute, Bella intentará superar el abandono de Edward, que la ha dejado sumida en el mayor de los desconsuelos. Pero los peligros siguen acechando a la joven; nuevas y asombrosas criaturas sobrenaturales se cruzarán en su camino, y Bella sólo contará con el apoyo del cada vez más cercano e irresistible Jacob. Repentinamente, Bella se encuentra inmersa en el mundo de los hombres lobo, ancestrales enemigos de los vampiros, y su lealtad es puesta a prueba..."
+    },
+    {
+      "id": "tmdb:1858",
+      "type": "movie",
+      "name": "Transformers",
+      "poster": "https://image.tmdb.org/t/p/w500/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg",
+      "description": "Dos razas de robots extraterrestres transformables (los villanos \"decepticons\" y los amistosos \"autobots\") llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los \"autobots\". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que sólo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad."
+    },
+    {
+      "id": "tmdb:50619",
+      "type": "movie",
+      "name": "La saga Crepúsculo: Amanecer - Parte 1",
+      "poster": "https://image.tmdb.org/t/p/w500/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg",
+      "description": "El amor que Edward y Bella sienten el uno por el otro se sella con la celebración de una gran ceremonia organizada por Alice. Durante la luna de miel, los recién casados tienen relaciones sexuales y Bella queda embarazada. El rápido crecimiento del feto, mitad humano mitad vampiro, afecta gravemente a su salud, llevándola al borde de la muerte..."
+    }
+  ]
+}

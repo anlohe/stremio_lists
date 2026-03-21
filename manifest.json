@@ -1,0 +1,28 @@
+{
+  "id": "com.anlohe.tmdb.listas.estaticas",
+  "version": "1.0.0",
+  "name": "Mis Listas TMDB Estáticas",
+  "description": "Listas de TMDB en español, rápidas y sin errores de Empty.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "directores_i_tarantino",
+      "name": "Quentin Tarantino (DIRECTORES I)"
+    },
+    {
+      "type": "movie",
+      "id": "sagas_star_wars",
+      "name": "Saga Star Wars (SAGAS)"
+    }
+  ]
+}
