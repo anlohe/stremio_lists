@@ -70,7 +70,8 @@ def run():
     os.makedirs(stremio_path, exist_ok=True)
 
     for categoria, listas in config.items():
-        for list_id, nombre_lista in listas.items():
+        for list_id, datos in listas.items():
+            nombre_lista = datos["nombre"]
             print(f"Procesando: {nombre_lista} ({list_id}) en {categoria}...")
             
             raw_movies = obtener_peliculas_tmdb(list_id)
