@@ -24,7 +24,7 @@ def obtener_peliculas_tmdb(list_id):
             total_paginas = data.get('total_pages', 1)
             pagina += 1
             if total_paginas > 1: 
-                time.sleep(0.2) # Pausa interna entre páginas de una misma lista
+                time.sleep(0.2)
         except Exception as e:
             print(f"Error descargando lista {list_id}: {e}")
             break
@@ -55,7 +55,6 @@ def run():
         print("ERROR: No se encontró la TMDB_API_KEY en los Secrets.")
         return
 
-    # Leer el archivo config.json del usuario
     try:
         with open('config.json', 'r', encoding='utf-8') as f:
             config = json.load(f)
@@ -63,9 +62,11 @@ def run():
         print(f"Error leyendo config.json: {e}")
         return
 
-    catalogos_manifest = []
+    # Listas separadas para cada addon
+    cat_directores_1 = []
+    cat_directores_2 = []
+    cat_sagas_premios = []
 
-    # Crear la estructura de carpetas estricta que exige Stremio
     stremio_path = os.path.join("catalog", "movie")
     os.makedirs(stremio_path, exist_ok=True)
 
@@ -79,40 +80,49 @@ def run():
             
             stremio_metas = [formatear_para_stremio(m) for m in raw_movies if m.get('title')]
             
-            # Crear un ID único para la lista (ej: directores_i_8640008)
             cat_id = f"{categoria.replace(' ', '_').lower()}_{list_id}"
             
-            # Guardar el JSON en la ruta estricta que lee Stremio
             ruta_archivo = os.path.join(stremio_path, f"{cat_id}.json")
             with open(ruta_archivo, 'w', encoding='utf-8') as f:
                 json.dump({"metas": stremio_metas}, f, ensure_ascii=False, indent=2)
                 
-            catalogos_manifest.append({
+            catalogo_obj = {
                 "type": "movie",
                 "id": cat_id,
-                "name": f"{nombre_lista} ({categoria})"
-            })
+                "name": f"{nombre_lista}"
+            }
             
-            # --- LA PAUSA SALVAVIDAS PARA TMDB ---
-            # Esperamos medio segundo antes de pedir la siguiente lista al servidor
+            # Repartir los catalogos en su addon correspondiente
+            if categoria == "DIRECTORES I":
+                cat_directores_1.append(catalogo_obj)
+            elif categoria == "DIRECTORES II":
+                cat_directores_2.append(catalogo_obj)
+            elif categoria in ["SAGAS", "PREMIOS"]:
+                cat_sagas_premios.append(catalogo_obj)
+            
             time.sleep(0.5) 
 
-    # Generar el manifest final
-    manifest = {
-        "id": "com.anlohe.tmdb.listas.estaticas",
-        "version": "1.0.0",
-        "name": "Mis Listas TMDB Estáticas",
-        "description": "Listas de TMDB en español, rápidas y sin errores de Empty.",
-        "resources": ["catalog"],
-        "types": ["movie"],
-        "idPrefixes": ["tt", "tmdb:"],
-        "catalogs": catalogos_manifest
-    }
-    
-    with open('manifest.json', 'w', encoding='utf-8') as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=2)
+    # Función para crear los manifests individuales
+    def crear_manifest(id_sufijo, nombre, catalogos, nombre_archivo):
+        manifest = {
+            "id": f"com.anlohe.tmdb.{id_sufijo}",
+            "version": "1.0.0",
+            "name": nombre,
+            "description": f"Colección de {nombre} extraídas de TMDB.",
+            "resources": ["catalog"],
+            "types": ["movie"],
+            "idPrefixes": ["tt", "tmdb:"],
+            "catalogs": catalogos
+        }
+        with open(nombre_archivo, 'w', encoding='utf-8') as f:
+            json.dump(manifest, f, ensure_ascii=False, indent=2)
+
+    # Crear los 3 archivos manifest
+    crear_manifest("directores1", "Listas personalizadas Directores I", cat_directores_1, "manifest_directores_1.json")
+    crear_manifest("directores2", "Listas personalizadas Directores II", cat_directores_2, "manifest_directores_2.json")
+    crear_manifest("sagaspremios", "Listas personalizadas Sagas y Premios", cat_sagas_premios, "manifest_sagas_premios.json")
         
-    print("Proceso finalizado con éxito.")
+    print("Proceso finalizado con éxito. Se han generado 3 manifiestos.")
 
 if __name__ == "__main__":
     run()
