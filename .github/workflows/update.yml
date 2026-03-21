@@ -1,1 +1,46 @@
+name: Actualizar Listas de Stremio
 
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    # Permite ejecutarlo manualmente con un botón
+  push:
+    # ¡TRUCO! También se ejecutará ahora mismo al guardar este archivo para la prueba
+    branches: [ main ]
+
+# Permisos necesarios para guardar los cambios en el repositorio
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/checkout@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests
+
+      - name: Ejecutar motor de listas
+        env:
+          # Coge tu API Key de la caja fuerte (Secrets)
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python script.py
+
+      - name: Guardar cambios en GitHub
+        run: |
+          git config --global user.name 'Stremio List Bot'
+          git config --global user.email 'bot@stremio.me'
+          git add .
+          # Solo guarda si hay cambios reales
+          git diff-index --quiet HEAD || git commit -m "Automatismo: Listas actualizadas en español"
+          git push
