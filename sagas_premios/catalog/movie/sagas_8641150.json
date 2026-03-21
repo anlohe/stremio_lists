@@ -1,0 +1,25 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:3049",
+      "type": "movie",
+      "name": "Ace Ventura, un detective diferente",
+      "poster": "https://image.tmdb.org/t/p/w500/zByKfhPuFUEymc0uzHGdIfO7dx5.jpg",
+      "description": "El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfin Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo."
+    },
+    {
+      "id": "tmdb:9273",
+      "type": "movie",
+      "name": "Ace Ventura: Operación África",
+      "poster": "https://image.tmdb.org/t/p/w500/899yWih4ic8AyczedYiX41g7TvQ.jpg",
+      "description": "Intentando superar el trauma que le ha dejado el fracaso de su última misión, donde no pudo evitar que muriera la mofeta que tenía que rescatar, el inefable detective Ace Ventura es requerido en su retiro en un monasterio de monjes budistas por un extraño personaje que le ofrece una fuerte suma de dinero para que trate de encontrar el animal sagrado de una tribu."
+    },
+    {
+      "id": "tmdb:15338",
+      "type": "movie",
+      "name": "Ace Ventura Jr.: Detective de Mascotas",
+      "poster": "https://image.tmdb.org/t/p/w500/goujX134TlXutfAmmvs9CZOjqQ0.jpg",
+      "description": "Ace Ventura Jr. es un travieso jovencito de 12 años que intenta ser “normal”. Eso estaría bien, si no fuera porque para él la normalidad consiste en encontrar cachorros perdidos, rescatar gatitos secuestrados y dejar un rastro de caos por el camino. De tal palo, tal astilla: está en su naturaleza ser un detective de mascotas. Así que cuando roban un bebé panda del zoo y su madre se convierte en la primera sospechosa, nuestro jovencito héroe intentará limpiar el nombre de su familia."
+    }
+  ]
+}

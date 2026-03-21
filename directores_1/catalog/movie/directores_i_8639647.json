@@ -1,0 +1,60 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:70804",
+      "type": "movie",
+      "name": "Yo acuso",
+      "poster": "https://image.tmdb.org/t/p/w500/A2atW1Y4Li8TOxCzPRVdQuK2TuY.jpg",
+      "description": "La historia de dos hombres, uno casado, y el otro amante de la esposa del primero, que se reúnen en las trincheras de la Primera Guerra Mundial, y cómo esta historia se convierte en un pequeño ejemplo de los horrores de la guerra."
+    },
+    {
+      "id": "tmdb:50182",
+      "type": "movie",
+      "name": "La rueda",
+      "poster": "https://image.tmdb.org/t/p/w500/4aRBGlsDLtNLE84XQKOJFQFVGcO.jpg",
+      "description": "La película se abre con un espectacular choque de trenes montado a partir de cortes muy rápidos, tan revolucionario en su tiempo como la llegada del tren a la estación filmada por Lumière en 1895. El ferroviario Sisif salva a Norma del choque y la educa como si fuera hija suya. Pero tanto él como su hijo Elie se enamoran de ella. Entonces Sisif decide casarla con un hombre rico, pero ella está enamorada de Elie. Son claras las referencias a la tragedia griega (Sisif es Sísifo y acabará ciego a causa del deseo incestuoso). La metáfora central de la película es la rueda: la rueda del destino, la rueda del deseo y la rueda de la misma película... (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:42536",
+      "type": "movie",
+      "name": "Napoléon",
+      "poster": "https://image.tmdb.org/t/p/w500/xBH75ETXlS61z6PgwtlMt2p8sYC.jpg",
+      "description": "El golpe de estado del 18 Brumario de 1799, que significó el fin de la Revolución Francesa, puso el poder en manos de Bonaparte, el más prestigioso de los generales franceses, sobre todo después de sus brillantes campañas en Italia y en Egipto. Desde 1799, Napoleón no sólo fomentó la difusión de las ideas revolucionarias, sino que, además, se lanzó a la conquista de Europa. En 1804 se autoproclamó emperador de Francia con el nombre de Napoleón I."
+    },
+    {
+      "id": "tmdb:66963",
+      "type": "movie",
+      "name": "Lucrèce Borgia",
+      "poster": "https://image.tmdb.org/t/p/w500/ksLlze03QbYi5VPfJpZwH78vqgb.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:258517",
+      "type": "movie",
+      "name": "Un grand amour de Beethoven",
+      "poster": "https://image.tmdb.org/t/p/w500/cE58ZeetSqHl0cQ7hq1Wv75JHML.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:130633",
+      "type": "movie",
+      "name": "Yo acuso",
+      "poster": "https://image.tmdb.org/t/p/w500/wthLA8TDPN2kt4cPIs0KI3eDf8a.jpg",
+      "description": "Dos hombres -uno casado y el otro, amante de la mujer del primero- coinciden en las trincheras durante la Primera Guerra Mundial y comparten los horrores de la batalla. Remake del propio Gance de una obra suya de 1919."
+    },
+    {
+      "id": "tmdb:50791",
+      "type": "movie",
+      "name": "Austerlitz",
+      "poster": "https://image.tmdb.org/t/p/w500/yOXWAnF4blJ39UjtkQpn7ph4Plc.jpg",
+      "description": "En la batalla de Austerlitz (2-XII- 1805) Napoleón obtuvo una de sus más brillantes victorias contra las potencias absolutistas europeas. Más de tres décadas después de la publicación de su biografía sobre Napoleón, Abel Gance volvió a inspirarse en la figura de Bonaparte para dirigir esta épica y colosal reconstrucción de la batalla de Austerlitz (o de los Tres Emperadores), en la que Bonaparte derrotó a los austríacos y a los rusos. Fue producida por Alexander Salkind (Superman) y contó con un extenso reparto de estrellas internacionales."
+    },
+    {
+      "id": "tmdb:138642",
+      "type": "movie",
+      "name": "Cyrano y D’Artagnan",
+      "poster": "https://image.tmdb.org/t/p/w500/gBE2ucfo8y6ZlHG7kq8KM5WEwAB.jpg",
+      "description": "Luis XIII (1601-1643) es el Rey de Francia, pero está dominado por el cardenal Richelieu, que urde toda clase de intrigas palaciegas, sobre todo con el fin de desacreditar a la reina Ana de Austria. En medio se encuentran d’Artagnan y los mosqueteros del Rey, Cyrano y los cadetes de Gascuña y los guardias del Cardenal. D’Artagnan y Cyrano, los dos mejores espadachines de la época, se hacen amigos. El ingenioso Cyrano se enamora de Ninon de Lenclos y d’Artagnan de Marion de l’Orme, dos bellas damas de la corte."
+    }
+  ]
+}

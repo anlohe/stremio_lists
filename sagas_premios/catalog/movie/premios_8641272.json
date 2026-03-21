@@ -1,0 +1,291 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:156453",
+      "type": "movie",
+      "name": "El viaje a ninguna parte",
+      "poster": "https://image.tmdb.org/t/p/w500/bzYqYZHiZYDuPk4akpLhbWBxZHl.jpg",
+      "description": "Franquismo, años cuarenta. Dentro de un grupo de cómicos de la legua medio emparentados entre sí, aunque no siempre recuerdan con precisión cuál es su parentesco, surgen amores y desamores. Hay separaciones dolorosas y encuentros felices; el trabajo se entremezcla con el amor, los problemas económicos con los familiares, y el hambre con el sueño de alcanzar el triunfo."
+    },
+    {
+      "id": "tmdb:60311",
+      "type": "movie",
+      "name": "El bosque animado",
+      "poster": "https://image.tmdb.org/t/p/w500/69kMw0m4DtFmj1z96ftkdzopzKC.jpg",
+      "description": "En Galicia, en el norte de España, Malvís, un jornalero frustrado que, harto de su vida, se ha convertido en un torpe bandido, intenta hacerse un nombre asaltando a los viajeros que atraviesan un bosque habitado por pintorescos personajes."
+    },
+    {
+      "id": "tmdb:4203",
+      "type": "movie",
+      "name": "Mujeres al borde de un ataque de nervios",
+      "poster": "https://image.tmdb.org/t/p/w500/hrKTdxVnAToD1xYLvPgDkYPMLEC.jpg",
+      "description": "Pepa e Iván son actores de doblaje. Él es un mujeriego empedernido y, después de una larga relación, rompe con Pepa: le deja un mensaje en el contestador pidiéndole que le prepare una maleta con sus cosas. Al quedarse sola, Pepa no soporta vivir en una casa llena de recuerdos y decide alquilarla. Mientras espera que Iván vaya a recoger la maleta, la casa se le va llenando de gente extravagante de la que aprenderá muchas cosas sobre la soledad y la locura."
+    },
+    {
+      "id": "tmdb:110928",
+      "type": "movie",
+      "name": "El sueño del mono loco",
+      "poster": "https://image.tmdb.org/t/p/w500/hzGUR8va3LVuxLiijpYNQ5V7crh.jpg",
+      "description": "Dan Gillis, un guionista americano que vive en París y que acaba de ser abandonado por su mujer, es contratado para escribir el guión de una película, que dirigirá un extraño y enigmático joven. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:41806",
+      "type": "movie",
+      "name": "¡Ay, Carmela!",
+      "poster": "https://image.tmdb.org/t/p/w500/bxJ1QpzC0XVgG6Z3iWdCn9oI5vt.jpg",
+      "description": "Durante la Guerra Civil española (1936-1939), un grupo de cómicos ameniza como puede la vida de los soldados republicanos. Cansados de pasar penalidades en el frente, se dirigen a Valencia pero, por error, van a parar a la zona nacional. Allí son hechos prisioneros, y la única manera de salvar sus vidas es ofreciendo una espectáculo para un grupo de militares nacionales que choca de lleno con la ideología de los cómicos."
+    },
+    {
+      "id": "tmdb:41782",
+      "type": "movie",
+      "name": "Amantes",
+      "poster": "https://image.tmdb.org/t/p/w500/udBbB8KGAC661nTkjxqPx1MKNSH.jpg",
+      "description": "Navidades de 1953. Paco termina el servicio militar y antes de regresar a su pueblo decide quedarse en Madrid y reunir el dinero necesario para casarse con su novia Trini. Así, se aloja en casa de Luisa, una misteriosa viuda con la que pronto empieza una apasionada relación. Paco cada vez se siente más atrapado en las redes de Luisa, así que tendrá que buscar una solución, por muy trágica que sea."
+    },
+    {
+      "id": "tmdb:2470",
+      "type": "movie",
+      "name": "Belle Époque",
+      "poster": "https://image.tmdb.org/t/p/w500/Aeiy8R2cTm15WaosWpnFIOxetCJ.jpg",
+      "description": "Poco antes de estallar la Guerra Civil española (1936-1939), Fernando decide desertar y se refugia en una casa de campo, donde es bien acogido por Manolo, un pintor excéntrico que vive retirado debido a sus ideas políticas. El chico mantiene sucesivamente relaciones con las cuatro hijas de su protector (Rocío, Violeta, Clara y Luz), sin saber muy bien de cuál de ellas está enamorado."
+    },
+    {
+      "id": "tmdb:99902",
+      "type": "movie",
+      "name": "Todos a la cárcel",
+      "poster": "https://image.tmdb.org/t/p/w500/bB9cIOMKVxCROACoofnysPpy9cG.jpg",
+      "description": "En la cárcel Modelo de Valencia se va a celebrar el Día Internacional del Preso de Conciencia. Gentes de la política, la cultura y la farándula asistirán al acto y aprovecharán la ocasión para hacer lucrativos negocios."
+    },
+    {
+      "id": "tmdb:114218",
+      "type": "movie",
+      "name": "Días contados",
+      "poster": "https://image.tmdb.org/t/p/w500/qf1IQifbxAqZGKItFDgYBHIemRV.jpg",
+      "description": "Días antes de cometer un atentado, Antonio, un pistolero de la banda terrorista ETA que ha dedicado su vida a una causa en la que ya no cree, conoce a Charo, una joven drogadicta que, a pesar del ambiente sórdido en el que vive, conserva todavía su inocencia."
+    },
+    {
+      "id": "tmdb:74840",
+      "type": "movie",
+      "name": "Nadie hablará de nosotras cuando hayamos muerto",
+      "poster": "https://image.tmdb.org/t/p/w500/4TRueKhLu8stnwPoBWGy6H6ohmB.jpg",
+      "description": "Una española, Gloria Duque, presencia en México la muerte de dos policías a manos de dos gángsters. Uno de ellos le da antes de morir un portafolios con direcciones donde la mafia blanquea dinero en todo el mundo. Más tarde a ella la deportan a Madrid y vuelve a casa de su suegra, una mujer de gran entereza que da clases para pagar la hipoteca del piso."
+    },
+    {
+      "id": "tmdb:9299",
+      "type": "movie",
+      "name": "Tesis",
+      "poster": "https://image.tmdb.org/t/p/w500/kg8Dv4CMOtvmgtil7zqju180ZRp.jpg",
+      "description": "Ángela, licenciada en ciencias de la información, prepara su tesis sobre la violencia audiovisual. Su director, Figueroa, se compromete a buscarle películas, mientras que un amigo, Chema, la invita a su casa a una sesión de cine gore y pornográfico. Figueroa descubre en la videoteca de la Facultad unas galerías con cientos de videocintas. Poco después muere en extrañas circunstancias. Ángela descubre el cadáver y se da cuenta de que ha sufrido un infarto mientras veía una cinta de vídeo. Ángela se hace con la cinta y hace un terrible descubrimiento: se trata de una snuff movie, una película ilegal en la que se filma al asesinato real de gente inocente. La joven comienza a sospechar que en la Facultad existe una red de tráfico de este tipo de películas. Pero, ¿quién es el responsable de ella?"
+    },
+    {
+      "id": "tmdb:97295",
+      "type": "movie",
+      "name": "La buena estrella",
+      "poster": "https://image.tmdb.org/t/p/w500/tX90wXNHJYvlHYjK67CnftdzkWJ.jpg",
+      "description": "Rafael es un carnicero que lleva una vida triste y solitaria. Un día auxilia a Marina, una muchacha tuerta a la que su novio estaba apaleando. Además, la aloja en su casa, aun sabiendo que está embarazada. Muy pronto, ambos se plantean cumplir un sueño que hasta entonces les parecía imposible: formar una familia."
+    },
+    {
+      "id": "tmdb:67297",
+      "type": "movie",
+      "name": "La niña de tus ojos",
+      "poster": "https://image.tmdb.org/t/p/w500/yepNRBKtFPyQ5zuNXpUOEkpryLX.jpg",
+      "description": "Plena Guerra Civil en España. Como otra de las iniciativas de colaboración entre el General Franco y Adolf Hitler, Alemania invita a un grupo de cineastas españoles cercanos al nuevo régimen a rodar la doble versión, alemana y española, del drama musical de ambiente andaluz «La niña de tus ojos», en los estudios de la UFA en Berlín. El director Blas Fontiveros capitanea el reducido elenco de españoles y el equipo inicia su rodaje en el Berlín hitleriano. Pronto descubren que han escapado de una guerra para caer en otra, que la hospitalidad del ministro alemán de propaganda Joseph Goebbels tiene mucho que ver con los encantos juveniles de la estrella Macarena Granada y que los únicos extras con aspecto andaluz que se pueden encontrar en Alemania son gitanos de un campo de concentración. Es entonces cuando comienza a despertarse en todos ellos la duda de si la vida no es más importante que una película."
+    },
+    {
+      "id": "tmdb:99",
+      "type": "movie",
+      "name": "Todo sobre mi madre",
+      "poster": "https://image.tmdb.org/t/p/w500/evvT3HUwoQYoPQXWFO10R6AvhxG.jpg",
+      "description": "Madrid. Manuela, una madre soltera, ve cómo su hijo muere el día en que cumple 17 años, por correr para conseguir el autógrafo de su actriz favorita. Decide entonces viajar a Barcelona en busca del padre de su hijo, un travestido llamado Lola, que ignoraba que tenía un hijo. Encuentra también a su amigo Agrado, otro travesti, y a través de él conoce a Rosa, una monja española y, por pura casualidad, Manuela termina convirtiéndose en la asistente de Huma Rojo, la actriz que admiraba su hijo."
+    },
+    {
+      "id": "tmdb:33504",
+      "type": "movie",
+      "name": "El Bola",
+      "poster": "https://image.tmdb.org/t/p/w500/i51PMyfiomYL9dw9zcHc3Z7BpjZ.jpg",
+      "description": "El Bola es un chaval de 12 años que vive una atmósfera violenta y sórdida. Su situación familiar, que oculta avergonzado, le incapacita para relacionarse y comunicarse con otros chicos. La llegada de un nuevo compañero al colegio, con quien descubre la amistad, y la posibilidad que ello le brinda de conocer una realidad familiar distinta por completo, le darán fuerzas para aceptar y finalmente ser capaz de enfrentarse a la suya."
+    },
+    {
+      "id": "tmdb:1933",
+      "type": "movie",
+      "name": "Los otros",
+      "poster": "https://image.tmdb.org/t/p/w500/u03kblxsv3zar3Uqt6sRfICU9L6.jpg",
+      "description": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día."
+    },
+    {
+      "id": "tmdb:54580",
+      "type": "movie",
+      "name": "Los lunes al sol",
+      "poster": "https://image.tmdb.org/t/p/w500/zQ5i3LDn25k2HhLOm3fjaXcjkux.jpg",
+      "description": "Una ciudad costera del norte de España a la que el desarrollo industrial ha hecho crecer desaforadamente. Un grupo de hombres recorren cada día sus empinadas calles, buscando salidas de emergencia. Son funambulistas de fin de mes, sin red y sin público, sin aplausos al final; viven en la cuerda floja del trabajo precario y sobreviven gracias a sus pequeñas alegrías y rutinas."
+    },
+    {
+      "id": "tmdb:1418",
+      "type": "movie",
+      "name": "Te doy mis ojos",
+      "poster": "https://image.tmdb.org/t/p/w500/adFulnuC7AyhHK3qAOrvTiW0JpZ.jpg",
+      "description": "Una noche de invierno, Pilar sale huyendo de su casa. Se lleva con ella apenas cuatro cosas y a su hijo, Juan. Antonio pronto se dispone a buscarla. Dice que Pilar es su sol, y lo que es más, \"Ella me dio sus ojos\" ..."
+    },
+    {
+      "id": "tmdb:1913",
+      "type": "movie",
+      "name": "Mar adentro",
+      "poster": "https://image.tmdb.org/t/p/w500/6mGgn60Riv14B3zPjTNNZnFHp3c.jpg",
+      "description": "Ramón lleva casi treinta años postrado en una cama al cuidado de su familia. Su única ventana al mundo es la de su habitación, junto al mar por el que tanto viajó y donde sufrió el accidente que interrumpió su juventud. Desde entonces, su único deseo es terminar con su vida dignamente. La llegada de dos mujeres alterará su mundo: Julia, la abogada que quiere apoyar su lucha y Rosa, una vecina del pueblo que intentará convencerle de que vivir merece la pena. La luminosa personalidad de Ramón termina por cautivar a ambas, que tendrán que cuestionar como nunca antes los principios que rigen sus vidas. Él sabe que sólo la persona que de verdad le ame será la que le ayude a realizar ese último viaje."
+    },
+    {
+      "id": "tmdb:148",
+      "type": "movie",
+      "name": "La vida secreta de las palabras",
+      "poster": "https://image.tmdb.org/t/p/w500/o4mjlMAtJur3HFYAVmdRBnpXcH6.jpg",
+      "description": "La conmovedora historia de una chica sordomuda a la que envían a una plataforma petrolífera para cuidar de un hombre que se ha quedado ciego en un terrible accidente. La chica tiene una habilidad especial para conectar con los hombres a bordo."
+    },
+    {
+      "id": "tmdb:219",
+      "type": "movie",
+      "name": "Volver",
+      "poster": "https://image.tmdb.org/t/p/w500/pT2GicqmTwsdXTGD7stYrrqWt47.jpg",
+      "description": "El fantasma de la abuela Irene (Carmen Maura) se aparece a sus hijas Raimunda (Penélope Cruz) y Sole (Lola Dueñas), a su nieta Paula (Yohana Cobo), a la tía de las hijas (Chus Lampreave) e incluso a una vecina (Blanca Portillo) en el pueblecito de La Mancha donde viven. La abuela ha vuelto para atar los cabos que le quedaron sueltos en vida."
+    },
+    {
+      "id": "tmdb:797227",
+      "type": "movie",
+      "name": "La Soledad",
+      "poster": "https://image.tmdb.org/t/p/w500/bmgboz1g7Dwp34dH3YtWBBD6BE4.jpg",
+      "description": "Miguel es abandonado por su pareja, y ante la desesperación viaja hasta el lugar donde la conoció, en un pueblito del norte y así volver al punto de partida. Sin embargo, una vez allí una niña de 13 años dará a luz a Soledad y todo cambiará."
+    },
+    {
+      "id": "tmdb:17893",
+      "type": "movie",
+      "name": "Camino",
+      "poster": "https://image.tmdb.org/t/p/w500/mXM9wTy3iBNwStgmGzJdfAeuRTf.jpg",
+      "description": "Una aventura emocional en torno a una deslumbrante niña de once años, muy religiosa, que se enfrenta al mismo tiempo a dos acontecimientos que son completamente nuevos para ella: enamorarse y morir. 'Camino' es, sobre todo, una luz brillante capaz de atravesar todas y cada una de las tenebrosas puertas que se van cerrando ante ella, y que pretenden en vano sumir en la oscuridad su deseo de vivir, amar y sentirse definitivamente feliz. Inspirada en la verdadera historia de Alexia González Barros, la hija menor de una familia perteneciente al Opus Dei, que falleció en 1985 a los 14 años de edad, y que actualmente está en proceso de canonización."
+    },
+    {
+      "id": "tmdb:33273",
+      "type": "movie",
+      "name": "Celda 211",
+      "poster": "https://image.tmdb.org/t/p/w500/i2XCKfV81GcDbXbDNM80kK25Y0o.jpg",
+      "description": "El día previo a la incorporación oficial en su nuevo destino como funcionario de prisiones, Juan se ve atrapado en un motín carcelario. Haciéndose pasar por un preso más, luchará por salvar su vida al tiempo que trata de poner fin a la revuelta. Tendrá que jugársela a base de astucia, engaños y riesgo. Pero aún no sabe qué otra encerrona le depara el destino…"
+    },
+    {
+      "id": "tmdb:57521",
+      "type": "movie",
+      "name": "Pan Negro",
+      "poster": "https://image.tmdb.org/t/p/w500/bky4ArtXRnWLpGfDYLvY6S45yDj.jpg",
+      "description": "Durante los duros años de la postguerra, en una zona rural de Cataluña, un niño llamado Andreu, cuya familia pertenece al bando de los perdedores, encuentra un día en el bosque los cadáveres de un hombre y su hijo. Las autoridades sospechan de su padre, pero Andreu intentará encontrar al culpable. En estas circunstancias, se produce en Andreu el despertar de una conciencia moral que se opone a la mentira como instrumento del mundo de los adultos."
+    },
+    {
+      "id": "tmdb:76013",
+      "type": "movie",
+      "name": "No habrá paz para los malvados",
+      "poster": "https://image.tmdb.org/t/p/w500/zdq1EUJ8q47XCJJo9z7a3bK2QRu.jpg",
+      "description": "Madrid, principios del siglo XXI. Un día, el inspector de policía Santos Trinidad, volviendo a casa muy borracho, se ve involucrado en un triple asesinato. Pero hay un testigo que consigue escapar y que podría incriminarlo. Santos emprende una investigación destinada a localizar y a eliminar al testigo. Mientras tanto, la juez Chacón, encargada de la investigación del triple crimen, avanza meticulosamente en la búsqueda del asesino. Santos y Chacón descubrirán muy pronto que lo que parecía un simple caso de tráfico de drogas es, en realidad, algo mucho más peligroso."
+    },
+    {
+      "id": "tmdb:127864",
+      "type": "movie",
+      "name": "Blancanieves",
+      "poster": "https://image.tmdb.org/t/p/w500/64vBklpYgksumhSwrJdTvHeySfS.jpg",
+      "description": "Sevilla. Años veinte. Carmen (Macarena García, 'Amar en tiempos revueltos'), ha vivido toda su infancia bajo el yugo de su terrible madrastra, Encarna (Maribel Verdú, 'La buena estrella'). Cansada de la represión a la que la somete, la joven decide escapar y vivir nuevas aventuras que le permitan olvidar su traumático pasado. Carmen iniciará un viaje de huída y de descubrimientos que la transformará por completo. Durante ese viaje, contará con una compañía muy especial: la de siete \"enanitos toreros\", que intentarán protegerla en todo momento.  El director Pablo Berger nos introduce en el territorio de lo grotesco y lo fantástico a través de esta fábula basada en el famoso cuento de los hermanos Grimm, que utiliza los elementos de la España castiza de la época para crear una atmósfera tan original como la propia concepción del film: en blanco y negro y sin diálogos. Una vuelta a los orígenes de cine a través de unas imágenes poderosas acompañadas de una partitura original."
+    },
+    {
+      "id": "tmdb:209415",
+      "type": "movie",
+      "name": "Vivir es fácil con los ojos cerrados",
+      "poster": "https://image.tmdb.org/t/p/w500/xnKaQnNGFjM8hRZpdARABWYwR7a.jpg",
+      "description": "Antonio es un profesor que utiliza las canciones de The Beatles para enseñar inglés en la España de 1966. Cuando se entera de que su ídolo John Lennon está en Almería rodando una película, decide viajar hasta allí para conocerle. En su ruta recoge a Juanjo, un chico de 16 años que se ha fugado de casa, y a Belén, una joven de 21 que también aparenta estar escapando de algo."
+    },
+    {
+      "id": "tmdb:236735",
+      "type": "movie",
+      "name": "La isla mínima",
+      "poster": "https://image.tmdb.org/t/p/w500/4UCgxOoYxw3ttQKmAYDHXzv9nox.jpg",
+      "description": "Ambientada en 1980, cuenta la historia de Juan y Pedro, dos policías ideológicamente opuestos que trabajan en el departamento de homicidios de Madrid y que, como sanción, son destinados a un pequeño pueblo en las marismas del Guadalquivir. Allí tratarán de resolver el caso de dos adolescentes, que fueron brutalmente asesinadas durante las fiestas del pueblo.  Los agentes deberán dejar de lado sus diferencias para dar con el peligroso asesino de las chicas, el cual lleva años matando a jóvenes de los alrededores. Una investigación que a los aldeanos no les parece interesar, pues es un pueblo anclado en el pasado y las mujeres están menospreciadas."
+    },
+    {
+      "id": "tmdb:341744",
+      "type": "movie",
+      "name": "Truman",
+      "poster": "https://image.tmdb.org/t/p/w500/eXISQb5JHkHTtn9LUpflRNmRaQG.jpg",
+      "description": "Tomás, que vive en Canadá, viaja a Madrid, España, para visitar a su viejo amigo Julián. Ambos, acompañados por Truman, el fiel perro de Julián, compartirán durante apenas unos días muchos pequeños momentos sorprendentes y emotivos, desencadenados por la dura situación que Julián está viviendo."
+    },
+    {
+      "id": "tmdb:411638",
+      "type": "movie",
+      "name": "Tarde para la ira",
+      "poster": "https://image.tmdb.org/t/p/w500/v1xdw8ygpAv4dkHI8tuIlTHnz5h.jpg",
+      "description": "Madrid, agosto de 2007. Curro entra en prisión tras participar en el atraco a una joyería. Ocho años después sale de la cárcel con ganas de emprender una nueva vida junto a su novia Ana y su hijo, pero se encontrará con una situación inesperada y a un desconocido, José."
+    },
+    {
+      "id": "tmdb:444539",
+      "type": "movie",
+      "name": "La librería",
+      "poster": "https://image.tmdb.org/t/p/w500/4KUWhdtFclOc1FxLqI1RaK9shtc.jpg",
+      "description": "En un pequeño pueblo de la Inglaterra de 1959, una mujer decide, en contra de la educada pero implacable oposición vecinal, abrir la primera librería que haya habido nunca en esa zona."
+    },
+    {
+      "id": "tmdb:456929",
+      "type": "movie",
+      "name": "Campeones",
+      "poster": "https://image.tmdb.org/t/p/w500/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg",
+      "description": "Marco, un entrenador profesional de baloncesto, se encuentra un día, en medio de una crisis personal, entrenando a un equipo compuesto por personas con discapacidad intelectual. Lo que comienza como un problema se acaba convirtiendo en una lección de vida."
+    },
+    {
+      "id": "tmdb:519010",
+      "type": "movie",
+      "name": "Dolor y gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/2kg9rw0qVT0YCtUFXopcJsnDHAK.jpg",
+      "description": "Salvador Mallo, un director de cine en su ocaso, vive varios reencuentros. Algunos de ellos físicos, otros recordados: su infancia en los años 60; el primer deseo, su primer amor adulto ya en el Madrid de los 80; la escritura como única terapia para olvidar lo inolvidable; el temprano descubrimiento del cine y el inconmensurable vacío ante la imposibilidad de seguir rodando; la creación, la dificultad de separarla de la propia vida, las pasiones que le dan sentido y esperanza. En la recuperación de su pasado, Salvador encuentra la necesidad urgente de narrarlo, y en esa necesidad encuentra también su salvación."
+    },
+    {
+      "id": "tmdb:619443",
+      "type": "movie",
+      "name": "Las niñas",
+      "poster": "https://image.tmdb.org/t/p/w500/scOJksJRHE9oExMMRlHJa5khm9Z.jpg",
+      "description": "Celia, una niña de 11 años, estudia en un colegio de monjas de Zaragoza y vive con su madre. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida: la adolescencia. En este viaje, en la España de la Expo y de las Olimpiadas del año 92, Celia descubre que la vida está hecha de muchas verdades y algunas mentiras."
+    },
+    {
+      "id": "tmdb:820722",
+      "type": "movie",
+      "name": "El buen patrón",
+      "poster": "https://image.tmdb.org/t/p/w500/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg",
+      "description": "Blanco, un carismático propietario de una empresa que fabrica balanzas industriales en una ciudad española de provincias, espera la inminente visita de una comisión que decidirá su destino y la obtención de un premio local a la Excelencia Empresarial: todo tiene que estar perfecto para la visita. Sin embargo, todo parece conspirar contra él. Trabajando a contrarreloj, Blanco intenta resolver los problemas de sus empleados, cruzando para ello todas las líneas imaginables, dando lugar a una inesperada y explosiva sucesión de acontecimientos de imprevisibles consecuencias."
+    },
+    {
+      "id": "tmdb:848685",
+      "type": "movie",
+      "name": "As bestas",
+      "poster": "https://image.tmdb.org/t/p/w500/d5Vv89re9tBtukMUnktyseam0g7.jpg",
+      "description": "Una pareja francesa de mediana edad, Antoine y Olga, llega a vivir a un pueblo gallego en busca de una mayor cercanía con la naturaleza. Su presencia, sin embargo, enciende a dos lugareños, los hermanos Xan y Lorenzo, hasta el punto de una abierta hostilidad y luego una violencia impactante."
+    },
+    {
+      "id": "tmdb:906126",
+      "type": "movie",
+      "name": "La sociedad de la nieve",
+      "poster": "https://image.tmdb.org/t/p/w500/9tkJPQb4X4VoU3S5nqLDohZijPj.jpg",
+      "description": "El 13 de octubre de 1972, el vuelo 571 de la Fuerza Aérea Uruguaya, fletado para llevar a un equipo de rugby a Chile, se estrella en un glaciar en el corazón de los Andes."
+    },
+    {
+      "id": "tmdb:1174481",
+      "type": "movie",
+      "name": "El 47",
+      "poster": "https://image.tmdb.org/t/p/w500/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
+      "description": "Un acto de disidencia pacífica y el movimiento vecinal de base en 1978 transformó Barcelona y cambió la imagen de sus suburbios para siempre. Manolo Vital, un conductor de autobús que se adueñó del bus de la línea 47 para desmontar una mentira que el Ayuntamiento se empeñaba en repetir: los autobuses no podían subir las cuestas del distrito de Torre Baró. Un acto de rebeldía que demostró ser un catalizador para el cambio, de que las personas se enorgullecen de sus raíces, de una lucha del vecindario, de la clase trabajadora que ayudó a crear la Barcelona moderna de los años setenta."
+    },
+    {
+      "id": "tmdb:1215185",
+      "type": "movie",
+      "name": "La infiltrada",
+      "poster": "https://image.tmdb.org/t/p/w500/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
+      "description": "País Vasco, España, finales de los años noventa. Una joven policía consigue infiltrarse en la despiadada banda terrorista ETA."
+    },
+    {
+      "id": "tmdb:1443576",
+      "type": "movie",
+      "name": "Los domingos",
+      "poster": "https://image.tmdb.org/t/p/w500/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+      "description": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:42402",
+      "type": "movie",
+      "name": "El zurdo",
+      "poster": "https://image.tmdb.org/t/p/w500/sgCEqefUTx8lQycWE4rhNJQcjN4.jpg",
+      "description": "Su nombre verdadero: William Bonney. Su nombre legendario: Billy El Niño, el famoso y escurridizo pistolero de El Zurdo. No se había visto nunca en el lejano Oeste a alguien como el chico de Brooklyn, el problemático adolescente que escribió su nombre con sangre en los anales de la historia..."
+    },
+    {
+      "id": "tmdb:1162",
+      "type": "movie",
+      "name": "El milagro de Ana Sullivan",
+      "poster": "https://image.tmdb.org/t/p/w500/sHU0JZR6sn1Zr2OtBxYCjy8J7el.jpg",
+      "description": "Una familia contrata a Ana Sullivan para educar a Helen, una niña sorda y ciega. Un trauma infantil, un oscuro complejo de culpa, por la muerte de su hermano, impulsa a la maestra a redimirse mediante la educación de la niña. La incompetencia y la negligencia de los padres han hecho de Helen una niña mimada, incapaz de someterse a ninguna disciplina, y con la que toda comunicación parece imposible. La adolescente vive aislada en un mundo propio completamente ajeno a los demás. Sin embargo, Ana Sullivan conseguirá, con mucha paciencia y rigor, romper esa burbuja, ese aislamiento."
+    },
+    {
+      "id": "tmdb:31602",
+      "type": "movie",
+      "name": "La jauría humana",
+      "poster": "https://image.tmdb.org/t/p/w500/2ziq1etbsCMI35WIwSxcykeuqsa.jpg",
+      "description": "Casi todos los habitantes de una pequeña ciudad de Texas piensan que su comisario es una simple marioneta del todopoderoso petrolero Val Rogers. Pero todo cambia cuando el joven Bubber Reeves escapa de la prisión. Y es que mientras el agente quiere entregar vivo al fugitivo, Rogers desea que le mate, pues teme por la vida de su hijo, que ha tenido una aventura con la mujer del fugitivo."
+    },
+    {
+      "id": "tmdb:475",
+      "type": "movie",
+      "name": "Bonnie y Clyde",
+      "poster": "https://image.tmdb.org/t/p/w500/jtDgrTlHkGlO3ZRWQfzErafv8ei.jpg",
+      "description": "Durante la década de 1930, en plena Gran Depresión estadounidense, Bonnie Parker y Clyde Burrows, una joven pareja de bandidos, recorren Estados Unidos desafiando a las autoridades y atracando bancos.  La historia de las andanzas de dos de los más famosos atracadores de bancos de Estados Unidos de los años 30. Bonnie y Clyde fueron dos personajes muy peligrosos, tremendamente aficionados a apretar el gatillo y responsables de numerosas muertes entre los agentes de la ley. Sin embargo, la película da una visión mucho más amable de ellos."
+    },
+    {
+      "id": "tmdb:11040",
+      "type": "movie",
+      "name": "Pequeño gran hombre",
+      "poster": "https://image.tmdb.org/t/p/w500/6JrDqq9qFHaDpBuaCipQS75rlux.jpg",
+      "description": "Poco convencional western que relata de forma retrospectiva (flash-back), las múltiples aventuras y peripecias vividas en el salvaje Oeste por Jack Crabbe, un anciano de 121 años que sobrevivió al general Custer y a la época de las guerras contra los indios."
+    },
+    {
+      "id": "tmdb:32042",
+      "type": "movie",
+      "name": "La noche se mueve",
+      "poster": "https://image.tmdb.org/t/p/w500/u8rKmCgubVHITPPJAxxgbhF38nL.jpg",
+      "description": "Al detective privado Harry Moseby lo contrata una actriz hollywoodiense decadente y alcohólica para que encuentre a su hija."
+    },
+    {
+      "id": "tmdb:42252",
+      "type": "movie",
+      "name": "Missouri",
+      "poster": "https://image.tmdb.org/t/p/w500/gT9b3WXu5UouH4jLf5zwFNwIfeF.jpg",
+      "description": "Tom Logan (Jack Nicholson) es un ladrón de ganado que compra un rancho próximo al de David Braxton. Entre Tom y Jane, la hija de Braxton (Kathleen Lloyd), surge un romance, pero Braxton contrata a Lee Clayton (Marlon Brando), un famoso cazador de ladrones de ganado, para que acabe con Tom."
+    }
+  ]
+}

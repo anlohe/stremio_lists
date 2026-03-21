@@ -1,0 +1,88 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:2527",
+      "type": "movie",
+      "name": "Accidente sin huella",
+      "poster": "https://image.tmdb.org/t/p/w500/tmLSeflOrO98eYEarIYbyk7OENm.jpg",
+      "description": "El hijo único de Charles Thenier muere atropellado por un conductor que se da a la fuga. Decidido a encontrar al criminal, empieza a investigar por su cuenta. Poco después, conoce a una mujer que podría ser la cuñada del culpable."
+    },
+    {
+      "id": "tmdb:8286",
+      "type": "movie",
+      "name": "La mujer infiel",
+      "poster": "https://image.tmdb.org/t/p/w500/iW6vKgCwl1aiWnMkqxOUFmBA8yA.jpg",
+      "description": "Cuando Charles Desvallées empieza a sospechar que su mujer lo está traicionando con otro hombre, contrata un detective privado para que la siga y averigüe quién es el amante. Una vez confirmada la infidelidad y descubierta la identidad de su rival, el celoso marido prepara su venganza..."
+    },
+    {
+      "id": "tmdb:2912",
+      "type": "movie",
+      "name": "El carnicero",
+      "poster": "https://image.tmdb.org/t/p/w500/7GBunEbS4AbYVl2hyB3TLrfciHg.jpg",
+      "description": "La extraña amistad entre un carnicero de clase baja y una profesora de escuela reprimida coincide con una serie de asesinatos espeluznantes en un pueblo francés"
+    },
+    {
+      "id": "tmdb:76200",
+      "type": "movie",
+      "name": "Al anochecer",
+      "poster": "https://image.tmdb.org/t/p/w500/tIk4GgheDminQwww5oQPgXy2iL7.jpg",
+      "description": "Charles Masson, un ejecutivo de publicidad casado, estrangula durante una sesión de sadomasoquismo a su amante, una mujer que además era la esposa de su mejor amigo, el arquitecto François Tellier. Presa de los remordimientos, Charles se lo confiesa a su mujer, pero ella, extraña e inexplicablemente, le quita importancia al asunto."
+    },
+    {
+      "id": "tmdb:41975",
+      "type": "movie",
+      "name": "Asunto de mujeres",
+      "poster": "https://image.tmdb.org/t/p/w500/xmyvvgC7EDZU2ISjfDqmhDz3F6k.jpg",
+      "description": "Segunda Guerra Mundial (1939-1945). La vida en la Francia ocupada es muy difícil. Marie Latour, una mujer casada, decide ayudar a una vecina a interrumpir un embarazo no deseado. Poco a poco empiezan a requerir sus servicios otras mujeres encintas, bien porque han sido violadas, bien porque sus maridos están en el frente. Mientras tanto, el marido de Marie, que permanece en casa debido a una herida de guerra, contempla sorprendido cómo mejora la economía familiar."
+    },
+    {
+      "id": "tmdb:29177",
+      "type": "movie",
+      "name": "Dr. M",
+      "poster": "https://image.tmdb.org/t/p/w500/qCAb3dlil451O1325sU1zMqOwv4.jpg",
+      "description": "Los habitantes de una ciudad con grandes niveles de estrés están conmocionados por una serie de suicidios espectaculares. Un agente de policía investiga la bella y enigmática Sonia, que revelará un complot para manipular a la población a través de la hipnosis de masas."
+    },
+    {
+      "id": "tmdb:2528",
+      "type": "movie",
+      "name": "Madame Bovary",
+      "poster": "https://image.tmdb.org/t/p/w500/dx6jfbLExSEK1DzbWTSShfuLJeD.jpg",
+      "description": "Adaptación de la novela homónima de Gustave Flaubert. Emma Bovary es la insatisfecha mujer de un médico rural que ansía pertenecer a la alta sociedad francesa. Sus ambiciones y un apasionado affaire con un joven aristócrata la conducirán a una situación de trágicas consecuencias. La musa de Chabrol, Isabelle Huppert, encarna a la fatal heroína."
+    },
+    {
+      "id": "tmdb:1802",
+      "type": "movie",
+      "name": "La ceremonia",
+      "poster": "https://image.tmdb.org/t/p/w500/wEWDBPa9HnKyxvFLgFBAhmDOX8s.jpg",
+      "description": "Sophie, una mujer eficiente pero fría y calculadora, entra a trabajar como ama de llaves para la exigente señora Lelièvre. Un día, conoce a Jeanne, una empleada muy fisgona del servicio de Correos de Saint-Maló, y entre ambas se establece una relación criminal."
+    },
+    {
+      "id": "tmdb:10305",
+      "type": "movie",
+      "name": "Gracias por el chocolate",
+      "poster": "https://image.tmdb.org/t/p/w500/bts2lO4QM48VhQF8El641wm8c2J.jpg",
+      "description": "Mika Müller, directora general de Chocolates Müller, es una mujer que, bajo una apariencia encantadora y delicada, acostumbra a controlar a todos los que están a su alrededor, incluido su marido, André Polanski, un prestigioso pianista, y el hijo de éste, Guillaume, cuya novia Jeanne, según Mika, supone una amenaza para la estabilidad familiar."
+    },
+    {
+      "id": "tmdb:10930",
+      "type": "movie",
+      "name": "La flor del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/a7DX2NJeM5Wc6KQP1Hon4WHvUHG.jpg",
+      "description": "Si el tiempo existe, ¿se puede transmitir la culpabilidad de generación en generación como si se tratara de una enfermedad genética? ¿Qué consecuencias puede tener una falta no expiada en el culpable y también en sus descendientes y familiares? Al término de la Segunda Guerra Mundial, en el ambiente enrarecido de los arreglos de cuentas relacionados con el colaboracionismo, una mujer será absuelta de un crimen que ha cometido. La película se desarrolla en la actualidad, durante las últimas elecciones municipales, momento en el que se comete otro crimen. ¿Quién es el culpable? ¿El que comete el crimen o el que se acusa de haberlo cometido? ¿Y culpable de qué? Y si el tiempo no existe…"
+    },
+    {
+      "id": "tmdb:72272",
+      "type": "movie",
+      "name": "La Dama De Honor",
+      "poster": "https://image.tmdb.org/t/p/w500/1DGGdYDDYeVknSsaBsBrwRWbjkP.jpg",
+      "description": "Philippe (Benoît Magimel), un joven que vive con su madre y dos hermanas pequeñas en un barrio tranquilo, acaba de empezar a trabajar con un contratista inmobiliario. En la boda de su hermana, se siente atraído por Senta, su dama de honor, pero el amor de Senta es un amor insano que consume a Philippe. Prueba de ello es que llega a proponerle matar a un desconocido como prueba suprema de su amor."
+    },
+    {
+      "id": "tmdb:12713",
+      "type": "movie",
+      "name": "Borrachera de poder",
+      "poster": "https://image.tmdb.org/t/p/w500/bsCtU4B6mRLLMVOhHhmg4BgoZOb.jpg",
+      "description": "Jeanne Charmant Killman (Isabelle Huppert), juez de instrucción, es la encargada desentrañar e instruir un complejo caso de malversación de fondos en el que está implicado el presidente de un importante grupo industrial. A medida que avanza la investigación, se da cuenta de que su poder es casi omnímodo. Pero, al mismo tiempo, y por causa de su adicción al trabajo, su vida privada se tambalea."
+    }
+  ]
+}

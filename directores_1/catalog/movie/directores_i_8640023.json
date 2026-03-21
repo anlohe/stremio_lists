@@ -1,0 +1,60 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:32628",
+      "type": "movie",
+      "name": "Las tres edades",
+      "poster": "https://image.tmdb.org/t/p/w500/khadgoKp9eLBY4t0KcST5gzddk3.jpg",
+      "description": "En su primer largometraje en el cine, el genial Buster Keaton hace una parodia de \"Intolerancia\", de D.W. Griffith, al tiempo que muestra sus dotes dramáticas y cómicas (siempre serio) mientras compite con Wallace Beery por conseguir el amor de Margaret Leahy en tres épocas diferentes: la prehistoria, la antigua Roma y la (entonces) edad moderna: los años veinte."
+    },
+    {
+      "id": "tmdb:701",
+      "type": "movie",
+      "name": "La ley de la hospitalidad",
+      "poster": "https://image.tmdb.org/t/p/w500/cAEdL6RzfDSbPO51izl01Njzikx.jpg",
+      "description": "Los Canfield y los McKay han heredado una enemistad que ha pasado de padres a hijos durante muchas generaciones. Pero, por caprichos del destino, Willie McKay (Buster Keaton) coge un tren en Nueva York, en el que conoce a Virginia Canfield (Natalie Talmadge)..."
+    },
+    {
+      "id": "tmdb:992",
+      "type": "movie",
+      "name": "El moderno Sherlock Holmes",
+      "poster": "https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+      "description": "Película sobre el mundo del cine, Keaton es un proyeccionista que sueña con ser un detective cuando, milagrosamente, se encuentra dentro de la película que está proyectando. Allí intentará salvar a su amada de las garras del villano. Una de las más aclamadas cintas de cine mudo llena de gags visuales y con un portentoso Buster Keaton."
+    },
+    {
+      "id": "tmdb:32318",
+      "type": "movie",
+      "name": "El Navegante",
+      "poster": "https://image.tmdb.org/t/p/w500/eFIbnDnBnIi1qnz15UUiMFmjRmL.jpg",
+      "description": "Un armador, de cuya hija está enamorado Buster Keaton, vende uno de sus barcos a un país que está en guerra con otro. Sin embargo, los agentes de este último país tienen la misión de dejar el barco a la deriva para que naufrague. En medio de esta trama, Buster y su enamorada se embarcan en el navío, sin saber que éste va a la deriva."
+    },
+    {
+      "id": "tmdb:32600",
+      "type": "movie",
+      "name": "Siete ocasiones",
+      "poster": "https://image.tmdb.org/t/p/w500/fH9woIxzqVtyv6S711vSVlS12eA.jpg",
+      "description": "El agente de bolsa Jimmy Shannon está cercano a la bancarrota cuando un abogado le presenta el testamento de su abuelo legándole 7 millones de dólares. Pero para poder heredar ese dinero deberá casarse antes de las 7 de la tarde de su 27 cumpleaños... ¡Y eso es hoy!"
+    },
+    {
+      "id": "tmdb:33015",
+      "type": "movie",
+      "name": "El rey de los cowboys",
+      "poster": "https://image.tmdb.org/t/p/w500/chZ6GbfTIKgD6nYmUKZScDAnIo8.jpg",
+      "description": "Un joven que no encuentra trabajo en su pueblo natal emigra a Nueva York en busca de un futuro mejor, pero nada más llegar se siente abrumado por la vida de la gran ciudad y decide probar suerte en cualquier otro sitio. Se cae de un tren cerca de un rancho y se convierte en un vaquero muy especial..."
+    },
+    {
+      "id": "tmdb:51371",
+      "type": "movie",
+      "name": "El boxeador",
+      "poster": "https://image.tmdb.org/t/p/w500/7MVdo4OyzIcwycN58J9n855ggoS.jpg",
+      "description": "Un millonario de enamora de una joven y quiere casarse con ella, pero la familia de la chica le desprecia porque es un hombre debilucho y escuálido. Para ganarse su respeto, y a sugerencia de su fiel mayordomo, se hará pasar por un campeón de boxeo que tiene su mismo nombre, Alfred Butler. El plan le da resultado; sin embargo, cuando en los diarios se anuncia un combate del verdadero boxeador llegan los problemas. El millonario tiene que sacrificarse y empieza a entrenarse para que su farsa no sea descubierta."
+    },
+    {
+      "id": "tmdb:961",
+      "type": "movie",
+      "name": "El maquinista de La General",
+      "poster": "https://image.tmdb.org/t/p/w500/9jcJ6loloQiifZssTtUDkK7j7dG.jpg",
+      "description": "A pesar de querer alistarse, durante la Guerra de Secesión Johnny Gray (Buster Keaton) es destinado a la retaguardia. Todo cambia cuando un comando enemigo le roba las dos cosas que más ama: Anabelle Lee y \"La General\", una locomotora."
+    }
+  ]
+}

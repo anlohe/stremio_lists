@@ -1,0 +1,25 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:48453",
+      "type": "movie",
+      "name": "Concursante",
+      "poster": "https://image.tmdb.org/t/p/w500/mt9N1Zio4qQHBdyHtnYIuxoH9Q1.jpg",
+      "description": "Martín Circo Martín es el afortunado ganador del mayor concurso de la historia de la televisión: un premio valorado en tres millones de Euros. En esta ácida sátira de la sociedad actual, el golpe de suerte de Martín dará un vuelco a su vida convirtiéndola en una auténtica pesadilla. “Un golpe de suerte… puede arruinar tu vida”."
+    },
+    {
+      "id": "tmdb:26388",
+      "type": "movie",
+      "name": "Buried (Enterrado)",
+      "poster": "https://image.tmdb.org/t/p/w500/cWZMT6FbWqiZ6uZRqcYr3uJVoMG.jpg",
+      "description": "Después de ser secuestrado, Paul Conroy (Ryan Reynolds), contratista civil en Irak, se despierta enterrado vivo en un viejo ataúd de madera, sin más recursos que un teléfono móvil y un mechero. El teléfono podría ser el único medio que lo salvara de esa mortal pesadilla, pero la precariedad de la cobertura y la escasa batería parecen obstáculos insuperables en su lucha contra el tiempo: sólo dispone de 90 minutos para ser rescatado antes de que se le agote el oxígeno."
+    },
+    {
+      "id": "tmdb:75638",
+      "type": "movie",
+      "name": "Luces rojas",
+      "poster": "https://image.tmdb.org/t/p/w500/1ievscaJ9egfPdG8C3HiymVf43A.jpg",
+      "description": "Una psicóloga y su ayudante intentan desacreditar a un vidente que ha recuperado el prestigio después de haber pasado treinta años sumido en el olvido; el problema consiste en que el cerebro casi siempre nos transmite una imagen distorsionada de la realidad."
+    }
+  ]
+}
