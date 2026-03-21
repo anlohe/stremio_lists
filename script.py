@@ -23,7 +23,8 @@ def obtener_peliculas_tmdb(list_id):
             peliculas.extend(data.get('items', []))
             total_paginas = data.get('total_pages', 1)
             pagina += 1
-            if total_paginas > 1: time.sleep(0.2)
+            if total_paginas > 1: 
+                time.sleep(0.2) # Pausa interna entre páginas de una misma lista
         except Exception as e:
             print(f"Error descargando lista {list_id}: {e}")
             break
@@ -48,7 +49,7 @@ def formatear_para_stremio(tmdb_movie):
 
 # --- PROCESO PRINCIPAL ---
 def run():
-    print("Iniciando actualización de listas desde config.json...")
+    print("Iniciando actualización masiva de listas desde config.json...")
     
     if not API_KEY:
         print("ERROR: No se encontró la TMDB_API_KEY en los Secrets.")
@@ -90,6 +91,10 @@ def run():
                 "id": cat_id,
                 "name": f"{nombre_lista} ({categoria})"
             })
+            
+            # --- LA PAUSA SALVAVIDAS PARA TMDB ---
+            # Esperamos medio segundo antes de pedir la siguiente lista al servidor
+            time.sleep(0.5) 
 
     # Generar el manifest final
     manifest = {
