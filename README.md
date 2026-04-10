@@ -1,1 +1,1 @@
-https://anlohe.github.io/stremio_lists/manifest.json
+https://github.com/anlohe/stremio_lists/blob/main/config.json
