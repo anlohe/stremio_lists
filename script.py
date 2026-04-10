@@ -5,7 +5,7 @@ import time
 
 # --- CONFIGURACIÓN DE SEGURIDAD V4 ---
 # Usamos directamente el Token de lectura que me proporcionaste
-TMDB_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNzVlYzE5Y2JkMzk5ODJiMmUzMjhkZWFmOTA0ODdhMyIsIm5iZiI6MTc3MDAyMjk5MC4yMjg5OTk5LCJzdWIiOiI2OTgwNjg0ZWE2NGQ5ODYxZTNiOThjMTIiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.83Z8o_CAWLb1vQPJLNwLeru9RcxEZlvfoCMw9S325CM"
+TMDB_TOKEN = os.environ.get("TMDB_API_KEY")
 LANG = "es-ES" 
 
 def obtener_peliculas_tmdb(list_id):
