@@ -4,42 +4,42 @@
       "id": "tmdb:618",
       "type": "movie",
       "name": "El nacimiento de la nación",
-      "poster": "https://image.tmdb.org/t/p/w500/jEdxMrvfu7qkAHy2jE0i2aJCwDH.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/jEdxMrvfu7qkAHy2jE0i2aJCwDH.jpg",
       "description": "Clásico del cine mudo que narra los acontecimientos más importantes de la creación de los Estados Unidos de América: la guerra civil, el asesinato de Lincoln, etc. Ha sido tachada de racista por su glorificación del Ku Klux Klan, pero tiene el mérito de ser la primera película que cuenta una historia de modo coherente: hasta ese momento una película era un conjunto de escenas con muy poca relación entre sí. Obtuvo un enorme éxito en su tiempo."
     },
     {
       "id": "tmdb:3059",
       "type": "movie",
       "name": "Intolerancia",
-      "poster": "https://image.tmdb.org/t/p/w500/vPDRFUDY2wP7rLJUXSj1XkbszFf.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/vPDRFUDY2wP7rLJUXSj1XkbszFf.jpg",
       "description": "Clásico del cine mudo que muestra a través de varios episodios históricos las injusticias provocadas por la intolerancia religiosa y social. La idea inicial de Griffith era narrar las sangrientas huelgas de 1912 en EE.UU. (un huelguista es acusado de la muerte de su patrón), pero después decidió rodar tres episodios más: \"La caída de Babilonia, \"La Pasión de Cristo\" y \"La noche de San Bartolomé\" (sangriento episodio de las luchas entre hugonotes y católicos que tuvo lugar en París en 1572). De presupuesto y recursos desmesurados para la época -una sola escena reunió a 15.000 extras y 250 carros- aún hoy sigue asombrando por su espectacularidad."
     },
     {
       "id": "tmdb:899",
       "type": "movie",
       "name": "Lirios rotos",
-      "poster": "https://image.tmdb.org/t/p/w500/njwFIUL76zaRmPemnrZVmmTSCjz.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/njwFIUL76zaRmPemnrZVmmTSCjz.jpg",
       "description": "La obra maestra más trágica, poética y melodramática de Griffith Historia sobre una joven que vive en el barrio londinense de Limehouse, que se encuentra atrapada en un ambiente de violencia, en el que su padre, un rudo y malhumorado boxeador ,aficionado a la bebida, la maltrata sin cesar. Testigo de todo ello, es un joven y noble tendero inmigrante chino, que se enamorará de ella y tratará de ayudarla y darle cobijo."
     },
     {
       "id": "tmdb:31509",
       "type": "movie",
       "name": "Las dos tormentas",
-      "poster": "https://image.tmdb.org/t/p/w500/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/xzrSiQuiSb5hKePkU9AFuCcgRxE.jpg",
       "description": "Anna Moore es una joven que va a visitar a Bostón a su acaudalada tía para que ayude a su familia a salir de la pobreza, pero una vez allí un hombre rico la engaña con un matrimonio falso para poder aprovecharse de ella. Cuando Anna se queda embarazada se destapa el engaño y es abandonada a su suerte."
     },
     {
       "id": "tmdb:42511",
       "type": "movie",
       "name": "Las dos huérfanas",
-      "poster": "https://image.tmdb.org/t/p/w500/gbBzFuiVnuSPYZRXRArILc3Ywz3.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/gbBzFuiVnuSPYZRXRArILc3Ywz3.jpg",
       "description": "Francia, en vísperas de la Revolución francesa. Henriette y Louise se han criado juntas como hermanas. Cuando la plaga que se lleva la vida de sus padres causa la ceguera de Louise, ambas deciden viajar a París en busca de una cura, pero se separan cuando un aristócrata lujurioso se cruza en su camino."
     },
     {
       "id": "tmdb:130816",
       "type": "movie",
       "name": "Abraham Lincoln",
-      "poster": "https://image.tmdb.org/t/p/w500/4BOmqevJBC5gBfQNXpa2epf27yO.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/4BOmqevJBC5gBfQNXpa2epf27yO.jpg",
       "description": "La primera película hablada del maestro D.W. Griffith hace un repaso a la vida del famoso presidente norteamericano."
     }
   ]

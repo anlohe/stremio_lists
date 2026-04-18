@@ -4,21 +4,21 @@
       "id": "tmdb:10784",
       "type": "movie",
       "name": "Cabaret",
-      "poster": "https://image.tmdb.org/t/p/w500/5l7V58hgBEPZDQGFw162oJV9d3q.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/5l7V58hgBEPZDQGFw162oJV9d3q.jpg",
       "description": "Berlín, años 30, en plena República de Weimar y antes de la Segunda Guerra Mundial. A pesar de la crisis del momento, los berlineses prefieren vivir la magia que les ofrece cada noche un cabaret cuya estrella es Sally, una bailarina y cantante que se enamorará de dos hombres muy diferentes entre sí."
     },
     {
       "id": "tmdb:27094",
       "type": "movie",
       "name": "Lenny",
-      "poster": "https://image.tmdb.org/t/p/w500/8QzAB7eZPTYGHG1TOgYM8YWvrwK.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/8QzAB7eZPTYGHG1TOgYM8YWvrwK.jpg",
       "description": "Dustin Hoffman, dos veces ganador del Oscar®, da vida al polémico cómico de los años 60 Lenny Bruce en esta emblemática película que obtuvo seis nominaciones a los Oscar®, incluido el de la mejor película. Un retrato intenso de un hombre empujado a inyectar un poco de franqueza a una cultura hipócrita, Lenny es una película ingeniosa, imaginativa y extraordinaria. Desde su primer show este cómico de Catskills, Lenny Bruce, deja claro que es una figura a tener en cuenta. Armado con un discurso escandaloso y con una bailarina de striptease como musa (Valerine Perrine), Lenny revoluciona la comedia y a todos los Estados Unidos con su áspero y, a menudo, ofensivo humor. Pero la vida de los bares del circuito de la comedia comienza a hacer mella en él.\r Las drogas y arrestos por el contenido de sus actuaciones pesan demasiado a este paladín poco convencional... pero no le impiden llegar a unos extremos que le conducen a su trágico final, lo que le convierte en todo un mito."
     },
     {
       "id": "tmdb:16858",
       "type": "movie",
       "name": "All That Jazz (Empieza el espectáculo)",
-      "poster": "https://image.tmdb.org/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg",
       "description": "Joe Gideon, un famoso coreógrafo y director de Broadway y Hollywood, vive una vida marcada por los excesos de todas clases. Su corazón le da un primer aviso en forma de infarto y los doctores le previenen de que si no cambia de actitud su cuerpo no aguantará más. Pero Joe solo sabe vivir de una manera."
     }
   ]
