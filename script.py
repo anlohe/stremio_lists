@@ -43,7 +43,12 @@ def formatear_para_stremio(tmdb_movie):
         stremio_id = f"tmdb:{tmdb_movie.get('id')}"
 
     poster_path = tmdb_movie.get('poster_path')
-    poster_url = f"https://image.tmdb.org/t/p/w500{poster_path}" if poster_path else None
+    
+    # PON AQUÍ LA URL DE TU WORKER (sin barra / al final)
+    MI_WORKER = "https://tu-worker.tu-subdominio.workers.dev" 
+
+    # Se construye la URL forzando a pasar por el Worker
+    poster_url = f"{MI_WORKER}/t/p/w500{poster_path}" if poster_path else None
 
     return {
         "id": stremio_id,
