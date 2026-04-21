@@ -109,7 +109,7 @@ def run():
     def crear_manifest(carpeta, id_sufijo, nombre, catalogos):
         manifest = {
             "id": f"com.anlohe.tmdb.{id_sufijo}",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "name": nombre,
             "description": f"Colección de {nombre} extraídas de TMDB.",
             "resources": ["catalog"],
