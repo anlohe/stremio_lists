@@ -1,6 +1,6 @@
 {
   "id": "com.anlohe.tmdb.sagaspremios",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Listas personalizadas Sagas y Premios",
   "description": "Colección de Listas personalizadas Sagas y Premios extraídas de TMDB.",
   "resources": [
