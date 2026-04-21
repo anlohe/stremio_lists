@@ -45,7 +45,7 @@ def formatear_para_stremio(tmdb_movie):
     poster_path = tmdb_movie.get('poster_path')
     
     # AQUÍ VA TU URL (Le he quitado la "/" del final)
-    MI_WORKER = "https://tmdb-image-cache.andresetlh.workers.dev" 
+MI_WORKER = "http://127.0.0.1:8888"
 
     # Se construye la URL forzando a pasar por el Worker
     poster_url = f"{MI_WORKER}/t/p/w500{poster_path}" if poster_path else None
