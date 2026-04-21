@@ -4,14 +4,14 @@
       "id": "tmdb:5544",
       "type": "movie",
       "name": "Hiroshima mon amour",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/q2fmvMrBqNnniukiVRthGPrshUU.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q2fmvMrBqNnniukiVRthGPrshUU.jpg",
       "description": "Después de rodar una película en Hiroshima, una joven actriz francesa pasa su última noche en un hotel, en compañía de un japonés. Son dos desconocidos, pero lo que podría ser la fugaz aventura de una noche se convierte en un intenso idilio que hace que ella rememore un amor imposible vivido en Nevers (Francia) unos años antes. La relación amorosa se convierte entonces en un proceso introspectivo a través del cual la mujer reconstruye su pasado y revela sus sentimientos más íntimos a su compañero."
     },
     {
       "id": "tmdb:4024",
       "type": "movie",
       "name": "El año pasado en Marienbad",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/wW5xOJxal1XrFgDrswWCPeA9xF1.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wW5xOJxal1XrFgDrswWCPeA9xF1.jpg",
       "description": "En un barroco hotel, un extraño, X, intenta persuadir a una mujer casada, A, de que abandone a su marido, M, y se fugue con él. Se basa en una promesa que ella le hizo cuando se conocieron el año anterior, en Marienbad, pero la mujer parece no recordar aquel encuentro."
     }
   ]

@@ -4,28 +4,28 @@
       "id": "tmdb:54436",
       "type": "movie",
       "name": "La Pointe courte",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/gD6MC2j78BRB6wDCOGc9HRczIAL.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gD6MC2j78BRB6wDCOGc9HRczIAL.jpg",
       "description": "La película debut de Agnès Varda, quien se convirtió en la \"madre de la nouvelle vague\", está dividida en dos episodios. El primero presenta escenas de la vida cotidiana de los habitantes del pueblo pesquero de La Pointe Courte. En el segundo, se muestra la relación entre una pareja compuesta por un hombre del pueblo y una mujer parisina. La obra de Varda muestra una mirada detallada y poética de la vida en un pequeño pueblo costero, así como una exploración de las diferencias culturales y sociales entre la vida urbana y rural."
     },
     {
       "id": "tmdb:499",
       "type": "movie",
       "name": "Cleo de 5 a 7",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/k5dXkYYgjRcWFfgm8dSdYr9abAc.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k5dXkYYgjRcWFfgm8dSdYr9abAc.jpg",
       "description": "Cleo, una joven cantante, espera impaciente los resultados de un examen médico. Cuando una adivina que lee las cartas le revela que tiene cáncer y que puede morir, su inquietud aumenta. Tratando de ocupar su tiempo a la espera de los resultados, Cleo conoce a un joven soldado, a punto de partir para hacer el servicio militar en Argelia, al que confía su temor a la muerte."
     },
     {
       "id": "tmdb:53023",
       "type": "movie",
       "name": "La felicidad",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/5LbQPV8RKLocHDRUdX8DVljz30Y.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5LbQPV8RKLocHDRUdX8DVljz30Y.jpg",
       "description": "François es un joven carpintero casado y con dos hijos. A pesar de que su vida conyugal con Thérese es placentera, cuando conoce a Emilie, no puede evitar sentirse atraído por ella y acaban teniendo una aventura. El verdadero problema es que no consigue aclararse con sus sentimientos: ama a su mujer y también a su amante, pero no sabe a cuál de las dos ama más."
     },
     {
       "id": "tmdb:44018",
       "type": "movie",
       "name": "Sin techo ni ley",
-      "poster": "https://tmdb-image-cache.andresetlh.workers.dev/t/p/w500/a42VZYIhgHIyrlvhVpzvLtOAdmf.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/a42VZYIhgHIyrlvhVpzvLtOAdmf.jpg",
       "description": "Varda hace un lírico réquiem de Mona, una adolescente vagabunda que es encontrada muerta, mostrando en flashback sus últimos meses de vida, su desarraigo social y sus relaciones con la gente que conoció."
     }
   ]
