@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+# Esto elimina la advertencia de Node.js 20
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-lists:
     runs-on: ubuntu-latest
@@ -17,7 +21,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Actualizado a v5
         with:
           python-version: '3.10'
 
@@ -36,5 +40,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Actualizacion automatica de listas" || exit 0
-          git push origin main --force
+          # El sistema inteligente: Solo guarda y sube si hay archivos nuevos o modificados
+          git diff --staged --quiet || (git commit -m "Actualizacion automatica de listas" && git push origin main --force)
