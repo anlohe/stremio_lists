@@ -85,12 +85,7 @@ def run():
             # Obtenemos las películas con v4
             raw_movies = obtener_peliculas_tmdb(list_id)
             stremio_metas = [formatear_para_stremio(m) for m in raw_movies if m.get('title')]
-            
-            # Escudo anti-vacíos: Si la lista está vacía, la ignoramos para no romper Stremio
-            if not stremio_metas:
-                print(f"⚠️ Omitiendo: {nombre_lista} ({list_id}) - La lista está vacía en TMDB.")
-                continue
-                
+    
             print(f"✅ Procesando: {nombre_lista} ({list_id}) - {len(stremio_metas)} películas.")
             
             cat_id = f"{categoria.replace(' ', '_').lower()}_{list_id}"
