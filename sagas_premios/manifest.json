@@ -21,6 +21,21 @@
     },
     {
       "type": "movie",
+      "id": "premios_8641269",
+      "name": "Leon De Oro"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641270",
+      "name": "Oso De Oro"
+    },
+    {
+      "type": "movie",
+      "id": "premios_8641268",
+      "name": "Palma De Oro"
+    },
+    {
+      "type": "movie",
       "id": "premios_8641272",
       "name": "Premio Goya"
     }

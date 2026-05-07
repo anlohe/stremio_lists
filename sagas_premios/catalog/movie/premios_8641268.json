@@ -1,3 +1,711 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:43837",
+      "type": "movie",
+      "name": "Unión Pacífico",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uXbPUjDAZFzCJ3uCjRAK86jLDLm.jpg",
+      "description": "En 1862, durante la Guerra de Secesión, dos empresas rivales comienzan a construir la primera línea de ferrocarril transcontinental que enlace el Atlántico con el Pacífico. Al tiempo narra los amores entre la hija de uno de los ingenieros, Mollie Monahan (Barbara Stanwyck), el agente del gobierno encargado de la seguridad Jeff Butler (Joel McCrea) y el principal saboteador Dick Allen (Robert Preston)."
+    },
+    {
+      "id": "tmdb:51144",
+      "type": "movie",
+      "name": "Tortura",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q3zLOtyUfzLz01zBoUWzU7gkqv.jpg",
+      "description": "Un profesor de latín, apodado Calígula, de carácter paranoico, goza persiguiendo a uno de sus alumnos, Jan-Erik Widgren, y satisface su sadismo en una joven vendedora en un estanco llamada Bertha. Widgren se enamorará de Bertha, sin saber que ella también se relaciona con Calígula."
+    },
+    {
+      "id": "tmdb:28580",
+      "type": "movie",
+      "name": "Días sin huella",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kNXR9S1XJ89EuAZnirDC8SVhI8y.jpg",
+      "description": "Don Birnam es un escritor fracasado a causa de su adicción al alcohol, adicción que lo ha destruido física y moralmente y lo ha convertido en un hombre desprovisto de voluntad. Con tal de seguir bebiendo es capaz de todo, incluso de robar. Tanto su novia como su hermano intentan por todos los medios regenerarlo, pero sus esfuerzos parecen estériles."
+    },
+    {
+      "id": "tmdb:99272",
+      "type": "movie",
+      "name": "De røde enge",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9jGhk0KutbgRwuz2mOkWxdFTOej.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:154879",
+      "type": "movie",
+      "name": "नीचा नगर",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6790uW3R2yU2w0qiWY3nt2Iki9e.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:851",
+      "type": "movie",
+      "name": "Breve encuentro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5ZJ7OrWNUdcgF4NnVX0xlkh1sTJ.jpg",
+      "description": "La casualidad hace que un hombre y una mujer ambos de edad madura y casados coincidan en una estación de tren. Su inicial amistad pronto se convertirá en un amor tan intenso como prohibido."
+    },
+    {
+      "id": "tmdb:60225",
+      "type": "movie",
+      "name": "María Candelaria (Xochimilco)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bFrIT24b6ObZJPryprSQXIegcRS.jpg",
+      "description": "En 1909, María Candelaria y Lorenzo Rafael, pareja nativa de Xochimilco, desean casarse a pesar de que las circunstancias les son totalmente adversas. La gente del pueblo es hostil a María Candelaria por ser hija de una prostituta, y la pareja debe enfrentar la avaricia del tendero don Damián, quien en secreto desea a la joven. Un día María Candelaria enferma de paludismo"
+    },
+    {
+      "id": "tmdb:154620",
+      "type": "movie",
+      "name": "Великий перелом",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k2OmsIeAU8LUyAwybRLScZXqG43.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:117500",
+      "type": "movie",
+      "name": "La Symphonie pastorale",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wsbIQxI69MNBFzzEmA7QLysHQQ9.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:101772",
+      "type": "movie",
+      "name": "Die letzte Chance",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2N5dIMGJyuY8Xd6dA72S3GyKBis.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:154623",
+      "type": "movie",
+      "name": "Muži bez křídel",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iS4yFIxFwnZAh8iW4VEBzsoWEEe.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:307",
+      "type": "movie",
+      "name": "Roma, ciudad abierta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mgBiTwHjd9ILQXUCSS4v3eAaCIu.jpg",
+      "description": "Segunda Guerra Mundial (1939-1945). Estando Roma ocupada por los nazis, la temible Gestapo trata de arrestar a Manfredi, el líder del Comité Nacional de Liberación. Annie Marie ofrece refugio en su casa a Manfredi y a algunos de sus camaradas, pero los alemanes descubren su escondrijo y rodean la vivienda; algunos partisanos consiguen escapar por los tejados, pero Manfredi es apresado."
+    },
+    {
+      "id": "tmdb:43176",
+      "type": "movie",
+      "name": "Ziegfeld Follies",
+      "poster": "http://127.0.0.1:8888/t/p/w500/f5CPLtMX9vSMoumnZi1s8KbbD6p.jpg",
+      "description": "Una extravaganza musical de la 'Unit Freed' de la MGM, responsable de éxitos como 'Cantando bajo la lluvia' o 'Un americano en París' y dirigida y protagonizada por algunos de los mejores directores e intérpretes del estudio.  Un homenaje de Arthur Freed al mítico productor de revistas de Broadway, Florenz Ziegfeld con la presentación de diferentes números musicales y de variedades intercalados, a la manera de como se hacía en los teatros de Nueva York a principios del siglo XX."
+    },
+    {
+      "id": "tmdb:44532",
+      "type": "movie",
+      "name": "Se escapó la suerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lqxsbBoCkTsIwxovkSQVtpE4335.jpg",
+      "description": "Antoine y Antoinette Moulin, una humilde pareja francesa, ha perdido un billete ganador de la lotería y con ello la oportunidad de cambiar sus vidas. Ganadora del premio al mejor filme psicológico y de amor en el Festival de cine de Cannes de 1947, el cineasta galo Jacques Becker ('La evasión') nos ofrece una alegre fábula sobre el afecto, la suerte y el azar"
+    },
+    {
+      "id": "tmdb:28120",
+      "type": "movie",
+      "name": "Encrucijada de odios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zo2SAX9LXc8yBk9UKX1UADZQC6s.jpg",
+      "description": "Un hombre aparece muerto en su apartamento, después de haber recibido una paliza mortal. Una amiga suya le confiesa al policía encargado del caso, que, poco antes de su muerte, había visto a la víctima en compañía de tres soldados, bebiendo en un bar. Precisamente la documentación de uno de ellos había aparecido junto al cadáver. El caso se presenta sumamente denso y turbio."
+    },
+    {
+      "id": "tmdb:87245",
+      "type": "movie",
+      "name": "Los malditos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pPpveXmvBMOpt4MyKFUgoOJA1X2.jpg",
+      "description": "A bordo de un submarino en el Oslo de 1945, Gilbert, un médico francés, es secuestrado por un grupo de oficiales nazis. En la embarcación habitan todo tipo de fugitivos evitando ser capturados por el bando aliado. Un jefe de la Gestapo, un general alemán, un industrial italiano y un periodista francés colaborador nazi viajan en este barco. Cuando se recibe la noticia del armisticio, un motín estalla a bordo del submarino."
+    },
+    {
+      "id": "tmdb:1092",
+      "type": "movie",
+      "name": "El tercer hombre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/trsJPVYVnZMPhBrFhAx0jPEVrqa.jpg",
+      "description": "Orson Welles es Harry Lime y Joseph Cotten actúa como su amigo de la infancia, Holly Martins, en este clásico thriller de Graham Greene, dirigido por Carol Reed. Martins busca a Lime en la caótica postguerra de Viena, y se encuentra así mismo metido en un entorno de amores, decepción y asesinatos."
+    },
+    {
+      "id": "tmdb:18650",
+      "type": "movie",
+      "name": "La señorita Julie",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lJXWL8JsEZQtMsLPRavgx9G3BCt.jpg",
+      "description": "Julia (Anita Björk), hija de un Conde con una infancia infeliz y un matrimonio fracasado, se deja seducir en la noche más corta del año (la noche de San Juan) por un sirviente (Ulf Palme), que la desea desde que era pequeña"
+    },
+    {
+      "id": "tmdb:43379",
+      "type": "movie",
+      "name": "Milagro en Milán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cJXH484VN7zQIsZm3A6AkXdABSD.jpg",
+      "description": "Érase una vez una anciana que descubre un bebé en su campo de coles; como se compadece de él, lo adopta. Cuando la anciana muere, el niño, Totò, entra en un orfanato. Años más tarde, deja el orfanato como un hombre joven y feliz, y busca trabajo en el Milán de la posguerra. Termina ayudando a personas sin hogar y los organiza para construir un barrio de chabolas en un terreno baldío. Los ocupantes descubren petróleo en el terreno, y Totò tiene una visión de la anciana, que le da una paloma mágica que le concederá cualquier cosa que desee."
+    },
+    {
+      "id": "tmdb:47697",
+      "type": "movie",
+      "name": "Otelo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/32WKJXflqeNvYnl2ETmJ1Jb1h4q.jpg",
+      "description": "Cuando se planea un matrimonio secreto entre Othello, un general moro, y Desdemona, la hija del senador Brabantio, su antiguo pretendiente Roderigo se lo toma muy mal. Se alía con Iago, que tiene su propio rencor contra Othello, y los dos conspiran para derribar a Othello. Cuando su primer plan, acusarlo de brujería, fracasa, colocan pruebas destinadas a hacerle creer que Desdemona es infiel."
+    },
+    {
+      "id": "tmdb:117478",
+      "type": "movie",
+      "name": "Dos centavos de esperanza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mNc5vYniHUbpCWddBLRnWQn9LIv.jpg",
+      "description": "Antonio es el único sostén de su numerosa familia. Quiere casarse con Carmela, pero no tiene dinero y, para colmo, tiene que intentar reunir una dote para su hermana. En tales circunstancias, se verá obligado a trabajar en los más diversos oficios. Última parte de la trilogía neorrealista de comedias dramáticas italianas que Renato Castellani realizó tras la guerra (las otras dos son \"È primavera...\" y \"Sotto il sole di Roma\")."
+    },
+    {
+      "id": "tmdb:43349",
+      "type": "movie",
+      "name": "La puerta del infierno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lIkfUh6J2xnPeq0Wmm4a58BYvMn.jpg",
+      "description": "Japón, 1159. Moritō, un valiente samurái, realiza un acto heroico rescatando a la encantadora Kesa durante un violento levantamiento. Moritō se enamora de ella, pero se angustia cuando se entera de que está casada."
+    },
+    {
+      "id": "tmdb:15919",
+      "type": "movie",
+      "name": "Marty",
+      "poster": "http://127.0.0.1:8888/t/p/w500/79aC4arR3hA6jJw5uBtW5NByDO3.jpg",
+      "description": "Marty es un carnicero solterón que todavía vive con su madre. Suele salir con frecuencia con sus amigos por la noche, intentando encontrar a alguna chica con la que compartir su vida y hacer planes para el futuro."
+    },
+    {
+      "id": "tmdb:60234",
+      "type": "movie",
+      "name": "El mundo del silencio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/x1V5crwN7uqhApqwTcyoTYwHq10.jpg",
+      "description": "Documental sobre las profundidades marinas escrito por el pionero de la biología marina Jacques-Yves Cousteau; y dirigido por él y por Louis Malle. Ambos maestros descubrieron al gran público el colorido y fascinante mundo de las profundidades marinas."
+    },
+    {
+      "id": "tmdb:43258",
+      "type": "movie",
+      "name": "La gran prueba",
+      "poster": "http://127.0.0.1:8888/t/p/w500/e25opf3MmgP4f6wW9oRjLFicqMF.jpg",
+      "description": "Jess Birdwell es el patriarca de una familia de cuáqueros, una secta cristiana que se niega a participar en las guerras. Su hijo Josh desea adherirse al pacifismo familiar pero, temiendo ser tomado por un cobarde, se alista en el ejército, lo que provoca el disgusto de su madre."
+    },
+    {
+      "id": "tmdb:38360",
+      "type": "movie",
+      "name": "Cuando pasan las cigüeñas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ijPJ98012j35WFW6fVjnOPuTlCm.jpg",
+      "description": "Veronika y Boris se juntan en Moscú poco antes de la Segunda Guerra Mundial. Caminando a lo largo del río, ven las cigüeñas volar sobre sus cabezas y prometen encontrarse antes de que Boris se vaya a luchar. Boris se pierde la reunión y se dirige al frente, mientras Veronika espera pacientemente, enviando cartas fielmente. Después de que su casa es bombardeada, Veronika se muda con la familia de Boris, en compañía de un primo con sus propias intenciones."
+    },
+    {
+      "id": "tmdb:40423",
+      "type": "movie",
+      "name": "Orfeo negro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bfC0jOEYRFED8yttS6PFKD4JUJB.jpg",
+      "description": "Ambientación del mito griego en el carnaval de Río de Janeiro. La bella Eurídice visita la ciudad brasileña en vísperas de su famoso carnaval, invitada por una prima que vive en los arrabales. Hasta allí llega en un tranvía cuyo conductor, un guitarrista llamado Orfeo, queda prendado de sus encantos. Sin embargo su relación se verá empañada por las sospechas de su celosa novia."
+    },
+    {
+      "id": "tmdb:439",
+      "type": "movie",
+      "name": "La dolce vita",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zjtrLL2cFlBWnAL1z4qrokRU0ZT.jpg",
+      "description": "Marcello Rubini es un desencantado periodista romano, en busca de celebridades, que se mueve con insatisfacción por las fiestas nocturnas que celebra la burguesía de la época. Merodea por distintos lugares de Roma, siempre rodeado de todo tipo de personajes, especialmente de la élite de la sociedad italiana. En una de sus salidas se entera de que Sylvia, una célebre diva del mundo del cine, llega a Roma, cree que ésta es una gran oportunidad para conseguir una gran noticia, y, en consecuencia, la perseguirá por las noches por diferentes lugares de la ciudad."
+    },
+    {
+      "id": "tmdb:131836",
+      "type": "movie",
+      "name": "Una larga ausencia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wdarAOFLB9GUJP6UsvHbNYCmh2x.jpg",
+      "description": "Thérèse Langlois no ha sabido nunca nada de su marido desde que lo deportaron a Alemania. Tiene un bar desde que acabó la guerra. Dieciséis años después, un hombre pasa sin parar por delante de la puerta, cantando temas de ópera..."
+    },
+    {
+      "id": "tmdb:4497",
+      "type": "movie",
+      "name": "Viridiana",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dcXpg8ELDUZMb8MikPReiwH3lYY.jpg",
+      "description": "Don Jaime, un viejo hidalgo español, vive retirado y solitario en su hacienda desde la muerte de su esposa, ocurrida el mismo día de la boda. Un día recibe la visita de su sobrina Viridiana, novicia en un convento, que tiene un gran parecido con su mujer."
+    },
+    {
+      "id": "tmdb:59990",
+      "type": "movie",
+      "name": "El pagador de promesas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3lOrYyD6N4cNY9WcXGYiOqWtVLt.jpg",
+      "description": "Zé es un pobre hombre que vive en una región rural de Brasil y que únicamente tiene a su burro. Cuando éste enferma, Zé reza por su recuperación y promete a Dios que irá a la capital del estado si se recupera."
+    },
+    {
+      "id": "tmdb:1040",
+      "type": "movie",
+      "name": "El gatopardo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wMahDs1uQ8nC5EeqJ9hXDAaXsDb.jpg",
+      "description": "Película basada en la novela homónima de Giuseppe Tomasi di Lampedusa (1958). Es la época de la unificación de Italia en torno al Piamonte, cuyo artífice fue Cavour. La acción se desarrolla en Palermo y los protagonistas son Don Fabrizio, Príncipe de Salina, y su familia, cuya vida se ve alterada tras la invasión de Sicilia por las tropas de Garibaldi (1860). Para alejarse de los disturbios, la familia se refugia en la casa de campo que posee en Donnafugata. Hasta el lugar se desplazan, además de la mujer del Príncipe y sus tres hijos, el joven Tancredi, el sobrino predilecto de Don Fabrizio, que parece simpatizar con el movimiento liberal de unificación"
+    },
+    {
+      "id": "tmdb:5967",
+      "type": "movie",
+      "name": "Los paraguas de Cherburgo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q29ZeN0RGtY5PWQPK37exqdGUvI.jpg",
+      "description": "Geneviève es una joven que vive con su madre y le ayuda en la tienda de paraguas que tienen en Cherburgo. Está enamorada de Guy, un joven mecánico, con el que piensa casarse a pesar de la oposición de su madre, que considera a Geneviève demasiado joven y a Guy demasiado pobre. Para pagar una deuda, la madre se ve obligada a vender un collar a un rico joyero que se enamora de Geneviève desde el primer momento. Mientras tanto, Guy tendrá que ausentarse dos años para ir a Argelia a hacer el servicio militar."
+    },
+    {
+      "id": "tmdb:42744",
+      "type": "movie",
+      "name": "El Knack... y cómo conseguirlo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg",
+      "description": "Londres, años 60. Colin (Michael Crawford) se ha perdido toda la revolución sexual, pero tiene a su amigo Tolen (Ray Brooks), a quien envidia, para que le enseñe todos los secretos que debe conocer para conquistar a las mujeres y poder recuperar el tiempo perdido. Nancy Jones (Rita Tushingham) es una joven despistada y provinciana que llega a Londres... Anárquico clásico de la cultura mod con una música genuina del swinging London. Palma de Oro en Cannes. (FILMAFFINITY"
+    },
+    {
+      "id": "tmdb:42726",
+      "type": "movie",
+      "name": "Un hombre y una mujer",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2iMP9MVV38bvAmx3PkmRJQg0iHT.jpg",
+      "description": "Anne es una joven viuda que tiene una hija pequeña y cuyo marido murió durante el rodaje de una escena peligrosa. Ella también trabaja en el mundo del cine. Jean-Louis Duroc es también un joven viudo que tiene un hijo de corta edad; es un hombre más bien triste e introvertido."
+    },
+    {
+      "id": "tmdb:17974",
+      "type": "movie",
+      "name": "Señoras y señores",
+      "poster": "http://127.0.0.1:8888/t/p/w500/leeTmapQ4nUZQBF4YtcTRJ69LoC.jpg",
+      "description": "En una pequeña localidad del Véneto suceden tres historias. Un \"donjuán\" empedernido visita a un médico amigo suyo para consultarle un falso problema de impotencia; su propósito es mantenerlo ocupado para poder seducir a su mujer. Un frustrado empleado de banca, casado con una mujer déspota y agobiante, sueña con fugarse con una cajera de la que está enamorado. Sin embargo, la mujer intuye los planes de su marido y provoca un escándalo. Una joven campesina que llega a la ciudad para ir de compras se deja engañar ingenuamente por un grupo de hombres, que se aprovechan de ella. El padre de la chica, presentará una denuncia porque ella es menor de edad"
+    },
+    {
+      "id": "tmdb:1052",
+      "type": "movie",
+      "name": "Blow-Up (Deseo de una mañana de verano)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bwlz1BnokYtsol8chqVgjG1ICB6.jpg",
+      "description": "Adaptación de un cuento de Julio Cortázar que narra la historia de un fotógrafo que, tras realizar unas tomas en un parque londinense, descubre al revelarlas una forma irreconocible que resulta ser un cadáver. Premiada en el Festival de Cannes con la Palma de Oro."
+    },
+    {
+      "id": "tmdb:14794",
+      "type": "movie",
+      "name": "If... (Si...)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oqlpAGq4aXhc6ODtxBcGM1SEoIp.jpg",
+      "description": "Polémica película en la que el pionero del Free Cinema inglés arremete contra la enseñanza superior y hace una sátira violenta y sin matices de los colegios superiores y del establishment británico.\r En un análisis de la British Boys School, seguimos a Mick y sus amigos, en su mayoría más jóvenes, a través de una serie de indignidades y, en ocasiones, abusos a medida que se destruye cualquier sentimiento de cariño hacia estas escuelas. Cuando Mick y sus amigos se rebelan violentamente, el eslogan 'de qué lado estarías' se vuelve bastante claro."
+    },
+    {
+      "id": "tmdb:651",
+      "type": "movie",
+      "name": "M.A.S.H.",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xteeXKr4FpusQGzT9NUfhFqeEoI.jpg",
+      "description": "M.A.S.H. narra las aventuras de dos cirujanos del ejército destinados a una unidad móvil médica en Corea durante la guerra. Tanto ellos como su equipo de enfermeras se toman el trabajo muy en serio pero, en su tiempo libre, las bromas constantes y la ironía hacen más llevadera la situación."
+    },
+    {
+      "id": "tmdb:360695",
+      "type": "movie",
+      "name": "The Go-Between",
+      "poster": "http://127.0.0.1:8888/t/p/w500/p3A7B8HEVruKqffvKvJovb8mcVT.jpg",
+      "description": "Un anciano recuerda su infancia tras haber encontrado el diario que escribió en 1900, cuando tenía 13 años. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:56231",
+      "type": "movie",
+      "name": "La clase obrera va al paraíso",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8OWORT3ldccCnuyMsHrSkYjwiwN.jpg",
+      "description": "Denuncia de las condiciones laborales en las fábricas a través de la historia de un obrero modelo que, a raíz de un accidente, se hace sindicalista."
+    },
+    {
+      "id": "tmdb:62382",
+      "type": "movie",
+      "name": "El caso Mattei",
+      "poster": "http://127.0.0.1:8888/t/p/w500/84O6fkW6lNU31llgVb9TzknOGUf.jpg",
+      "description": "Docudrama sobre el extraño fallecimiento de Enrico Mattei, un industrial cuya muerte fue atribuida a oscuros intereses político-financieros, aunque oficialmente fue considerada un simple accidente. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:80382",
+      "type": "movie",
+      "name": "El equívoco",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xlhaEmOMWFFmCx4O8oPUMlPqEpo.jpg",
+      "description": "Una viuda de clase alta (Sarah Miles) que se recupera de una crisis nerviosa, intenta escapar de un mundo de conversaciones banales en torno a una taza de té, contratando los servicios de un chófer (Robert Shaw). (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:31587",
+      "type": "movie",
+      "name": "El espantapájaros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fM8BDbWtvdhqNdUqwMKOtCThorE.jpg",
+      "description": "Max, un presidiario recién salido de la cárcel, maduro, camorrista y pendenciero, encuentra en la carretera, mientras hace autostop, a Lionel, un vagabundo sin destino, mucho más joven que él y de una gran ingenuidad y candidez, al que ofrece la posibilidad de unirse a él como socio en el negocio de lavado de automóviles que pretende montar en Pittsburgh, y con el que aspira a poner fin a su carrera de habitante perpetuo de todo tipo de prisiones."
+    },
+    {
+      "id": "tmdb:592",
+      "type": "movie",
+      "name": "La conversación",
+      "poster": "http://127.0.0.1:8888/t/p/w500/g4bVCc10hpWEiYaSdhL4Jo6MetA.jpg",
+      "description": "Harry Paul, un detective cuyo prestigio como especialista en vigilancia y en sistemas de seguridad es reconocido por sus colegas en todo el país, recibe el encargo por parte de un magnate de investigar a su joven esposa. Deberá escuchar sus conversaciones con un empleado del marido, del que ella parece estar enamorada. La misión, para un experto de su categoría, resulta a primera vista inexplicable, ya que la pareja no ofrece ningún interés fuera de lo corriente. Sin embargo, cuando Harry da por finalizado su trabajo, advierte que algo extraño se oculta tras la banalidad que ha estado investigando, ya que su cliente se niega a identificarse, utilizando siempre intermediarios."
+    },
+    {
+      "id": "tmdb:52555",
+      "type": "movie",
+      "name": "Crónica de los Años de Fuego",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rMIDJSkgX2A40jNRluXxExYeomo.jpg",
+      "description": "Festival de Cine de Cannes, 1975, Crónica de los años ardientes de Mohamed Lakhdar-Hamina recibe la Palma de Oro. Esta es la primera vez que una película africana. Crónica minuciosa de la evolución del movimiento nacional argelino desde 1939 hasta el estallido de la revolución el 1 de noviembre de 1954, la película demuestra inequívocamente que la \"Guerra de Argelia\" no es un accidente de la historia, sino un lento proceso de revueltas y sufrimiento. , ininterrumpidamente, desde el inicio de la colonización en 1830, hasta este \"Día de Todos los Santos Rojo\" del 1 de noviembre de 54. En seis capítulos, la película pinta el cuadro despiadado de la historia política y bélica de la Argelia colonial. En el centro, Ahmed despierta poco a poco a la conciencia política contra la colonización, bajo la mirada de su hijo, símbolo de la nueva Argelia, y de Miloud, medio loco arengador, medio profeta, encarnación de la memoria popular de la revuelta, de la liberación. de Argelia y su pueblo."
+    },
+    {
+      "id": "tmdb:103",
+      "type": "movie",
+      "name": "Taxi Driver",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mZMl0YVHJOrkCUSH9oDOEgDwbHT.jpg",
+      "description": "Para sobrellevar el insomnio crónico que sufre después de su regreso de Vietnam, Travis decide trabajar como taxista nocturno. Como individuo tiene poco contacto con la gente, pero observa la violencia y desolación en la que se hunde la ciudad de Nueva York. Travis anota en su diario todas sus impresiones, hasta que un día decide pasar a la acción."
+    },
+    {
+      "id": "tmdb:42225",
+      "type": "movie",
+      "name": "Padre patrón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wUT2roFVPwNIgZxnlVdwl8PAZDS.jpg",
+      "description": "Narra la historia de un niño campesino con un padre tan tiránico y autoritario que le impide ir a la escuela o tener amigos."
+    },
+    {
+      "id": "tmdb:31542",
+      "type": "movie",
+      "name": "El árbol de los zuecos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sRCw7InfepeXhEpWxENJlqd9gXY.jpg",
+      "description": "Relato en tono semidocumental sobre los campesinos bergamascos (Lombardía), que llevan una vida dura y sacrificada, pero llena de gran dignidad. La ambientación es solemne y serena como la música de Bach que le sirve de fondo. Obtuvo excelentes críticas."
+    },
+    {
+      "id": "tmdb:28",
+      "type": "movie",
+      "name": "Apocalypse Now",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "description": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios."
+    },
+    {
+      "id": "tmdb:659",
+      "type": "movie",
+      "name": "El tambor de hojalata",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5IAOJ7EQ6JlZODtJvdbpFqKCDj2.jpg",
+      "description": "El día de su tercer cumpleaños es una fecha determinante en la vida de Oskar. No sólo es el día en que toma la decisión de dejar de crecer, sino que recibe su primer tambor de hojalata, objeto que habrá de convertirse en compañero inseparable para el resto de sus días... Basada en la más famosa novela del escritor y premio Nobel de literatura Günter Grass."
+    },
+    {
+      "id": "tmdb:16858",
+      "type": "movie",
+      "name": "All That Jazz (Empieza el espectáculo)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "description": "Joe Gideon, un famoso coreógrafo y director de Broadway y Hollywood, vive una vida marcada por los excesos de todas clases. Su corazón le da un primer aviso en forma de infarto y los doctores le previenen de que si no cambia de actitud su cuerpo no aguantará más. Pero Joe solo sabe vivir de una manera."
+    },
+    {
+      "id": "tmdb:11953",
+      "type": "movie",
+      "name": "Kagemusha, la sombra del guerrero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cytymlKEDJGOo9TiktGZMKK1uOJ.jpg",
+      "description": "El poderoso Daimyō Takeda Shingen ha alcanzado tanta fama como el lema escrito en sus estandartes de guerra: \"Rápido como el viento, sereno como el bosque, fiero como el fuego, inmóvil como la montaña\". Mientras yace agonizante por las heridas sufridas en el combate, Shingen ordena a sus guerreros que encuentren un doble o sosias que le sustituya, para mantener su inminente muerte en secreto e impedir que sus enemigos (Oda Nobunaga y Tokugawa Ieyasu) aprovechen la circunstancia para atacar. El kagemusha (la sombra del guerrero) elegido por el Clan Takeda es un pequeño delincuente (Tatsuya Nakadai) que debe hacerse pasar por un gran líder y erigirse en comandante de una gran alianza de 25.000 samuráis."
+    },
+    {
+      "id": "tmdb:225",
+      "type": "movie",
+      "name": "El hombre de hierro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rFyIsv9cJ6mNYZEoS6QqY2I2cJr.jpg",
+      "description": "Narra las jornadas revolucionarias en los astilleros navales de Gdansk (o Danzig) protagonizadas por los obreros del sindicato Solidaridad, en el verano de 1980. Ese mismo año, un periodista radiofónico, más amigo del régimen comunista que de la verdad, debe cumplir una misión de difamación contra un destacado militante del sindicato Solidaridad, que resulta ser el hijo del héroe de \"El hombre de mármol\" (1977)."
+    },
+    {
+      "id": "tmdb:15600",
+      "type": "movie",
+      "name": "Desaparecido",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mFKaW1c66gjGjuQ3vsBnJ1ooKQr.jpg",
+      "description": "Charles Horman (John Shea), un joven e idealista periodista norteamericano, desaparece de su domicilio en Santiago de Chile tras el golpe de Estado del general Augusto Pinochet (11-9-1973). Su mujer (Sissy Spacek) y su padre (Jack Lemmon), que se traslada allí desde los Estados Unidos, intentan averiguar su paradero y vivirán una auténtica odisea recorriendo las instituciones diplomáticas norteamericanas y tropezando con infinitas trabas burocráticas."
+    },
+    {
+      "id": "tmdb:52556",
+      "type": "movie",
+      "name": "El camino",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8tsr3AQDnYYhbNb6gvfIbHyEC2p.jpg",
+      "description": "Una prisión en Turquía. Cinco prisioneros reciben permiso para viajar a sus casas durante una semana. Los difíciles viajes para llegar hasta sus familias nos conducen a las regiones más alejadas de Turquía. Cada uno de ellos tiene sus propios problemas, preocupaciones y nostalgias. Rigurosas leyes, escritas y no escritas, y un sistema brutal son una carga que pesa sobre ellos. Sufren violencia y ejercen violencia. Las vacaciones, comenzadas con esperanza, terminan con dolor."
+    },
+    {
+      "id": "tmdb:42113",
+      "type": "movie",
+      "name": "La balada de Narayama",
+      "poster": "http://127.0.0.1:8888/t/p/w500/drZTWC3XxVSqKIfS0VQGgsRa2vz.jpg",
+      "description": "Era una vieja ley del pueblo, de un tiempo tan lejano que ya nadie lo recordaba; Al alcanzar los 70 los ancianos debían abandonar el pueblo para ir a vivir en la cima de la montaña Narayama. Una sentencia de muerte despiadada que sumía en la tristeza y la desesperación a las familias cuando tenían que enviar a sus mayores a la montaña. Orin tiene 69 años y se acerca el momento de partir hacia la montaña, pero todavía tiene que encontrar una mujer a su hijo. Remake de la película \"Narayama bushiko\", dirigida en 1958 por Keisuke Kinoshita."
+    },
+    {
+      "id": "tmdb:655",
+      "type": "movie",
+      "name": "París, Texas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ba8edzVOul1uDHaLgDImALqhsN1.jpg",
+      "description": "Un hombre aparece andando en el desierto de Texas sin recordar quién es. Su hermano va en su busca, intentando que recuerde su vida cuatro años atrás, cuando abandonó a su mujer y a su hijo. Mientras la memoria va volviendo a él y recupera el contacto con personas de su pasado, descubre la oportunidad de rehacer su vida."
+    },
+    {
+      "id": "tmdb:21042",
+      "type": "movie",
+      "name": "Papa está en viaje de negocios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4A1ZiZVisNv7JBjyFAv9wMRl75g.jpg",
+      "description": "Yugoslavia, 1948. La ruptura de Tito con Stalin marcó el principio de un período de represión. Mesa es un buen hombre, casado y padre de dos niños. En una ocasión se le escapa un comentario crítico sobre política, y su amante, resentida, se lo cuenta al hermano de él, un funcionario del gobierno que hace que lo condenen a trabajos forzados. La mujer de Mesa consigue sacar la familia adelante y al más pequeño de sus hijos le cuenta que papá está haciendo un largo viaje de negocios. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:11416",
+      "type": "movie",
+      "name": "La misión",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rubwmohm8t5TTtBZyYQ9BHOwDUQ.jpg",
+      "description": "Siglo XVIII. Los grandes imperios colonialistas, España y Portugal, se disputan el dominio de Ámerica del Sur. El padre Gabriel dirige una misión en lo alto de las montañas de Brasil, donde los nativos son evangelizados y llevan una vida pacífica. Hasta allí llega Mendoza, un mercader arrepentido, en busca de redención que, fascinado por la labor del padre Gabriel, se ordena sacerdote. La presión llevada a cabo por Portugal obliga a la Iglesia a ceder las tierras en las que se haya la misión. El padre Gabriel y Mendoza, aunque por caminos muy diferentes, harán lo imposible por defender la obra y evitar que los nativos sean esclavizados."
+    },
+    {
+      "id": "tmdb:31300",
+      "type": "movie",
+      "name": "Bajo el sol de Satán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/45PmJIPvFBXpyn5DMLaCQ305PhL.jpg",
+      "description": "Adaptación de una novela de Bernanos. Relato de la agonía espiritual de Donissan (Depardieu), un cura rural que intenta librarse de la desesperación compartiéndola con el decano Menou-Segrais (Maurice Pialat) que tratará de devolverlo al camino del bien. Donissan someterá su cuerpo a atroces mortificaciones, pero no podrá evitar el perseverante acecho del Mal, encarnado en la perversa Mouchette (Sandrine Bonnaire), una joven de 16 años, y en el Diablo, que lo asalta en medio de la noche. El cura sabe que su destino será una batalla sin tregua con lo sobrenatural, que lo hace oscilar entre la santidad y la condenación."
+    },
+    {
+      "id": "tmdb:11174",
+      "type": "movie",
+      "name": "Pelle el Conquistador",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ulLCKmqsl6DGgAI5IXR7V422moS.jpg",
+      "description": "A finales del siglo XIX, dos emigrantes suecos, Lasse Karlsson y su hijo Pelle, llegan a la isla danesa de Bornholm con la esperanza de encontrar trabajo en una granja y ahorrar suficiente dinero para viajar a los Estados Unidos de América."
+    },
+    {
+      "id": "tmdb:1412",
+      "type": "movie",
+      "name": "Sexo, mentiras y cintas de vídeo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8Qd8Q231kvgytjdLO1BV5ZG9bd9.jpg",
+      "description": "John, un abogado yuppie, con pocos escrúpulos, está casado con Ann, una mujer seria e introvertida. Ella, aunque muestra poco interés por el sexo, se siente segura de su matrimonio. John, en cambio, es un adicto al sexo y tiene una aventura con Cinthia, la extrovertida y desenfadada hermana de Ann. La llegada del enigmático Graham, un antiguo compañero de John en la universidad, alterará la vida de Ann"
+    },
+    {
+      "id": "tmdb:483",
+      "type": "movie",
+      "name": "Corazón salvaje",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xKMJu2wDMmluBkMmrEdShxDPRGx.jpg",
+      "description": "Durante un permiso carcelario, Sailor va a ver a su novia Lula y ambos deciden huir a California. La madre de la chica, que se opone a esta relación, se pone en contacto con un mafioso para que elimine a Sailor."
+    },
+    {
+      "id": "tmdb:290",
+      "type": "movie",
+      "name": "Barton Fink",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "description": "En 1941, Barton Fink viaja a Hollywood para escribir un guión sobre el luchador Wallace Berry. Una vez instalado en el Hotel Earle, el guionista sufre un agudo bloqueo mental. Su vecino de habitación, un jovial vendedor de seguros, trata de ayudarlo, pero una serie de circunstancias adversas hacen que se sienta cada vez más incapaz de afrontar su trabajo."
+    },
+    {
+      "id": "tmdb:41764",
+      "type": "movie",
+      "name": "Las mejores intenciones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2ntN753JfytLiuUCQFvtMPMta7S.jpg",
+      "description": "Año 1909. En el transcurso de una huelga general, Henrik, un humilde estudiante de Teología, conoce a una chica de una familia de clase alta a la que todos adoran, sobre todo su padre. Entre ellos nacerá, a pesar de la oposición familiar, una larga historia de amor que encarna la lucha contra el rígido sistema de clases dominante. Se basa en la historia de los padres de Bergman."
+    },
+    {
+      "id": "tmdb:10997",
+      "type": "movie",
+      "name": "Adiós a mi concubina",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pHe4sPQHlfWsYxPGW9A0lvMO0hn.jpg",
+      "description": "China, 1925. Los militares gobiernan Pekín y, aunque en la ciudad la situación política es inestable, hay una constante en la vida cotidiana: la ópera, un espectáculo donde incluso los personajes femeninos deben ser representados por hombres. Entre los nuevos muchachos destinados a ser estrellas de la ópera de Pekín se encuentran el delicado Douzi y Shitou, que le toma bajo su protección. Ambos forjan una gran amistad, y Douzi se enamora profundamente del chico mayor. Como Douzi tiene la belleza de una mujer, le forman en papeles femeninos, mientras que al atlético Shitou le entrenan principalmente para papeles militares. Entre las óperas que estudian se encuentra \"Adiós a mi concubina\"..."
+    },
+    {
+      "id": "tmdb:713",
+      "type": "movie",
+      "name": "El piano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6Dr3APk7mPUpiqbLrHXQG9nJ0R9.jpg",
+      "description": "Año 1851. Ada, que es muda desde niña, acaba de enviudar. Un matrimonio concertado la obliga a dejar su Escocia natal y viajar a Nueva Zelanda, acompañada de su hija y de su piano. Allí conoce a su futuro marido, un próspero granjero que se niega a llevar a casa el piano. Abandonado en la playa, el instrumento será rescatado por un vecino que establece un extraño pacto con Ada: él la dejará usar su piano a cambio de que ella se deje tocar."
+    },
+    {
+      "id": "tmdb:680",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín."
+    },
+    {
+      "id": "tmdb:11902",
+      "type": "movie",
+      "name": "Underground",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4kgLlLoRS7n43g8CKcIWQvjFe9T.jpg",
+      "description": "En Belgrado, Yugoslavia, durante la Segunda Guerra Mundial, un poeta, Marko Dren (Miki Manojlovic), esconde a su amigo Petar Popara (Lazar Ristovski) y a su familia en un sótano para esconderse de los nazis. Allí ocultos deben fabricar armas para la guerra. Marko los engaña para que sigan fabricando armas 20 años después de la guerra y haciéndoles creer que aún no termina y que sólo han pasado 15 años. La película está llena de simbolismos y metáforas. Por ejemplo, tras el bombardeo a Belgrado, Blaky se limpia el zapato con un gato; al final, Petar, en la búsqueda de su hijo y tras descubrir que Marko y Natalija (Mirjana Jokovic) murieron, se apoya en una cruz que tiene a Cristo invertido. Además, en medio del fuego y la destrucción, hay un caballo blanco y un ganso volando."
+    },
+    {
+      "id": "tmdb:11159",
+      "type": "movie",
+      "name": "Secretos y mentiras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zETSgsWXpOIsJjpCl8UoxcJqPlX.jpg",
+      "description": "Al morir sus padres adoptivos, Hortense, una joven negra que vive en Londres, siente la necesidad de conocer a su madre biológica, la cual la dio en adopción nada más nacer. Cuando por fin la encuentra, resulta ser una mujer soltera que trabaja en una fábrica."
+    },
+    {
+      "id": "tmdb:30020",
+      "type": "movie",
+      "name": "El sabor de las cerezas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xjj9f4WEdE2NLO8Luf9ofNhvqCQ.jpg",
+      "description": "Un hombre de mediana edad decide suicidarse. Su única preocupación es encontrar a alguien que le ayude y se comprometa a enterrarlo. Esta situación le permite conocer a una gran variedad de personajes."
+    },
+    {
+      "id": "tmdb:20506",
+      "type": "movie",
+      "name": "La anguila",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xANmQRbvawBMHOKkTCmmg2tbide.jpg",
+      "description": "Después de ocho años en la cárcel por haber matado a su esposa, a la que encontró en la cama con otro hombre, Takuro Yamashita sale en libertad condicional. Cuando estaba en la prisión captura una anguila, que se convierte en su mascota y única compañera. Yamashita se establece en una pequeña población a las afueras de Tokio y regenta una barbería, presidida por un aquario en el que nada su anguila. Un día conoce a Keiko Hattori, una joven que intenta suicidarse y que le recuerda a su esposa. Poco a poco se van conociendo y terminan enamorándose. Cuando la vida comienza a sonreirle, se encuentra con un antiguo compañero de cárcel. Yamashita comprende que toda la lucha por convertirse en un hombre nuevo podría desmoronarse si su pasado es revelado. Sobre todo, teniendo en cuenta el interés de los excéntricos habitantes del pequeño pueblo, por conocer más del nuevo barbero."
+    },
+    {
+      "id": "tmdb:24858",
+      "type": "movie",
+      "name": "La eternidad y un día",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dJaYwqClkIXtJHSvWUBZPb2QGyr.jpg",
+      "description": "Cuando a Alexander, un escritor griego, le quedan pocos días de vida, necesita resolver un dilema: morir como alguien ajeno a los demás o aprender a amarlos y a comprometerse con ellos. Elegida la segunda vía, lee las cartas de Anna, su esposa fallecida, y cierra su casa en la playa. Un día lluvioso, encuentra a alguien que le ofrece la oportunidad de cumplir su compromiso: un niño albanés al que ayuda a pasar la frontera mientras le cuenta la historia de un poeta griego que vivió en Italia y que, al regresar a Grecia, compraba las palabras olvidadas para escribir poemas en su lengua natal. Entonces el niño juega a buscar palabras para vendérselas."
+    },
+    {
+      "id": "tmdb:11489",
+      "type": "movie",
+      "name": "Rosetta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uWupE6GXDPX608B5cuK5s4sckYt.jpg",
+      "description": "Rosetta, una joven de 17 años que vive con su madre en una caravana, busca desesperadamente un trabajo digno."
+    },
+    {
+      "id": "tmdb:16",
+      "type": "movie",
+      "name": "Bailar en la oscuridad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/DibSnXZBioqf8NngFlrAlmzVs.jpg",
+      "description": "La película se desarrolla en Estados Unidos en el año 1964. Selma (Björk) es una inmigrante checa que se muda a aquel país con su hijo Gene. Además padece una enfermedad hereditaria degenerativa que le está ocasionando una rápida ceguera progresiva. Por este motivo Selma ahorra centavo a centavo en una lata que guarda en su cocina para pagar una operación que evite que su hijo sufra el mismo destino."
+    },
+    {
+      "id": "tmdb:11447",
+      "type": "movie",
+      "name": "La habitación del hijo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hudxnoYfL7lIbVOPkyBaRbrVQsn.jpg",
+      "description": "En una pequeña ciudad del Norte de Italia, vive apaciblemente una familia formada por los padres (Giovanni y Paola) y dos hijos adolescentes: Irene, la mayor, y Andrea, el pequeño. Giovanni es psicoanalista. En su consulta, situada al lado de su apartamento, sus pacientes le confían sus neurosis, que contrastan con la calma de su propia existencia. Su vida se rige por una serie de costumbres o aficiones: leer, escuchar música, aislarse y agotarse haciendo largas carreras por la ciudad. Un domingo por la mañana, un paciente llama a Giovanni por una urgencia. No puede salir a correr con su hijo tal y como le había propuesto; Andrea sale a bucear con sus amigos, pero no volverá..."
+    },
+    {
+      "id": "tmdb:423",
+      "type": "movie",
+      "name": "El pianista",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "description": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración."
+    },
+    {
+      "id": "tmdb:1807",
+      "type": "movie",
+      "name": "Elephant",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nDony6FyytrekJ3ev9iC29kwhbh.jpg",
+      "description": "Recreación de la matanza perpetrada por dos adolescentes en el instituto Columbine. Es un día cualquiera de otoño, y todos los estudiantes hacen su vida rutinaria: Eli, camino de clase, convence a una pareja de rockeros para hacerles unas fotos. Nate termina su entrenamiento de fútbol y queda con su novia Carrie para comer. John deja las llaves del coche de su padre en la conserjería del instituto para que las recoja su hermano. Pero ese día no será como los demás..."
+    },
+    {
+      "id": "tmdb:1777",
+      "type": "movie",
+      "name": "Fahrenheit 9/11",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+      "description": "Michael Moore indaga cómo la administración de Bush utilizó el trágico ataque a las Torres Gemelas para su propio beneficio político. Moore nos muestra la controvertida elección de George W. Bush en el año 2000 para seguir su ascenso de mediocre petrolero texano a presidente de Estados Unidos. Tras más de un año de investigación, Michael Moore descubre las oscuras relaciones de negocio entre el padre del Presidente y la familia de Osama Bin Laden, poniendo de relieve que el poder y la riqueza del enemigo número uno de los estadounidenses ha aumentado gracias a este vínculo."
+    },
+    {
+      "id": "tmdb:11490",
+      "type": "movie",
+      "name": "El niño",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oQHsepdRyoCMnNyiIYYPHRko6tB.jpg",
+      "description": "Bruno tiene veinte años. Sonia, dieciocho. Son una pareja que sobrevive en los suburbios de Lieja, gracias a que ella cobra un subsidio mientras que él y su banda se dedican al robo. Cuando Sonia da a luz a su hijo Jimmy, entonces empieza a preguntarse si Bruno será capaz de comportarse como un buen padre o seguirá viviendo como siempre de sus trapicheos."
+    },
+    {
+      "id": "tmdb:1116",
+      "type": "movie",
+      "name": "El viento que agita la cebada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1DktK3noMCRiR7MaxOC3Ja6u3kL.jpg",
+      "description": "Irlanda, 1920. Dos hermanos se alistan en la guerrilla para combatir contra las tropas británicas que intentan impedir la independencia de Irlanda. El amor por su país hace que Damien abandone su prometedora carrera de médico y se una a su hermano Teddy en la lucha por la libertad. Tras sufrir varias derrotas y un escalofriante número de bajas, el Gobierno Británico decide pactar con los rebeldes para poner fin al sangriento enfrentamiento. Pero el acuerdo alcanzado provoca divisiones entre los irlandeses y desemboca en un nuevo y fraticida conflicto armado."
+    },
+    {
+      "id": "tmdb:2009",
+      "type": "movie",
+      "name": "4 meses, 3 semanas, 2 días",
+      "poster": "http://127.0.0.1:8888/t/p/w500/taoajT5Cg8corabvH0EMXAPklNh.jpg",
+      "description": "Rumanía, 1987. El país se encuentra bajo el férreo régimen comunista de Ceaușescu. Otilia y Gabita son estudiantes y comparten habitación en una residencia. Gabita está embarazada, pero no quiere tenerlo. Las jóvenes acuerdan un encuentro con un tal Mr. Bebe para que le practique un aborto ilegal en la habitación de un hotel."
+    },
+    {
+      "id": "tmdb:8841",
+      "type": "movie",
+      "name": "La clase",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7eT1tJtSZkIba8NM0lbFbFGt7Hp.jpg",
+      "description": "François es un joven profesor de lengua francesa en un instituto conflictivo, situado en un barrio marginal. Sus alumnos tienen entre 14 y 15 años, y no duda en enfrentarse a ellos en estimulantes batallas verbales; pero el aprendizaje de la democracia puede implicar auténticos riesgos. Al comenzar el curso, los profesores, llenos de buenas intenciones, deseosos de dar la mejor educación a sus alumnos, se arman contra el desaliento. Pero la abismal diferencia de cultura y de actitud chocan violentamente en las aulas, que no son más que un microcosmos de la Francia contemporánea. Por muy divertidos que sean a veces los alumnos, sus comportamientos pueden cortar de raíz el entusiasmo de un profesor. La tremenda franqueza de François sorprende a sus alumnos, pero su estricto sentido de la ética se tambalea cuando los jóvenes empiezan a no aceptar sus métodos."
+    },
+    {
+      "id": "tmdb:37903",
+      "type": "movie",
+      "name": "La cinta blanca",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A67089E4rWUdX7iNWePO9FvwpoM.jpg",
+      "description": "En 1913, en vísperas de la Gran Guerra (1914-1918), extraños acontecimientos, que poco a poco toman carácter de castigo ritual, se dan cita en un pequeño pueblo protestante del norte de Alemania. Los niños y adolescentes del coro del colegio y de la iglesia dirigido por el maestro, sus familias, el barón, el encargado, el médico, la comadrona, y los granjeros conforman una historia que reflexiona sobre los orígenes del nazismo en vísperas de la I Guerra Mundial."
+    },
+    {
+      "id": "tmdb:38368",
+      "type": "movie",
+      "name": "Tío Boonmee recuerda sus vidas pasadas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nR4As438ow96Xa2xl4PzEyiUNfe.jpg",
+      "description": "Sufriendo de insuficiencia renal aguda, el tío Boonmee ha decidido pasar sus últimos días rodeado de sus seres queridos en el campo. Sorprendentemente, el fantasma de su esposa fallecida parece cuidar de él, y su hijo perdido regresa a casa en una forma no humana. Contemplando las razones de su enfermedad, Boonmee camina por la jungla con su familia a una cueva misteriosa : el lugar de nacimiento de su primera vida."
+    },
+    {
+      "id": "tmdb:8967",
+      "type": "movie",
+      "name": "El árbol de la vida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5Zc2JGtIX4CGaVFwrHX72Okuek8.jpg",
+      "description": "Jack es un niño que vive con sus hermanos y sus padres en la Norteamérica de los años cincuenta. Mientras que su madre encarna el amor y la ternura en el seno familiar, su padre representa la severidad, pues se cree obligado a enseñarle a enfrentarse a un mundo hostil. Así, este viaje que comienza con la pérdida de la inocencia llegará hasta nuestros días, con Jack ya adulto recordando ciertos momentos trascendentes de su infancia, y la influencia de éstos en lo que él es ahora, y en lo que representa en su vida espiritual el recuerdo de su familia."
+    },
+    {
+      "id": "tmdb:86837",
+      "type": "movie",
+      "name": "Amor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bEFQ6P54HAC0LrcPJEGp5qM2Jey.jpg",
+      "description": "Crudo retrato de la vejez y de la muerte. Jean-Louis Trintignant y Emmanuelle Riva forman una pareja ya octogenaria, músicos retirados, que viven en París. Isabelle Huppert interpreta a la hija de ambos. El amor de la pareja será puesto a prueba en el momento en que ella sufre una grave parálisis."
+    },
+    {
+      "id": "tmdb:152584",
+      "type": "movie",
+      "name": "La vida de Adèle",
+      "poster": "http://127.0.0.1:8888/t/p/w500/en27JWtPoF2nsWPqFoI8lj3y66d.jpg",
+      "description": "Adèle tiene quince años y sabe que lo normal es salir con chicos, pero tiene dudas sobre su sexualidad. Una noche conoce y se enamora inesperadamente de Emma, una joven con el pelo azul. La atracción que despierta en ella una mujer que le muestra el camino del deseo y la madurez, hará que Adèle tenga que sufrir los juicios y prejuicios de familiares y amigos. Adaptación de la novela gráfica \"Blue\", de Julie Maroh."
+    },
+    {
+      "id": "tmdb:265169",
+      "type": "movie",
+      "name": "Winter Sleep (Sueño de invierno)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y51wK57MWxxzJaMDUXBWDV2RlkU.jpg",
+      "description": "Aydin, actor jubilado, dirige un hotelito en Anatolia central con la ayuda de su joven esposa, Nihal, de quien se encuentra alejado sentimentalmente, y de su hermana Necla, triste porque se acaba de divorciar. En invierno, a medida que la nieve va cubriendo la estepa, el hotel se convierte en su refugio y en el escenario de sus aflicciones..."
+    },
+    {
+      "id": "tmdb:314402",
+      "type": "movie",
+      "name": "Dheepan",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iewfvzrOeUzs1XEYijkEFfa01nw.jpg",
+      "description": "Un hombre huye de la guerra civil en Sri Lanka y, para conseguir que Francia le conceda el derecho de asilo, hace pasar por su familia a una mujer y a una niña. Una vez allí, encuentra trabajo como guardián de un edificio en un barrio problemático de las afueras. A pesar de que no hablan francés, se adaptan progresivamente a su nuevo país. Al mismo tiempo, el hombre y la mujer acaban enamorándose. Finalmente, el tráfico de drogas impulsará al hombre a salir de su aislamiento y a tomar partido."
+    },
+    {
+      "id": "tmdb:374473",
+      "type": "movie",
+      "name": "Yo, Daniel Blake",
+      "poster": "http://127.0.0.1:8888/t/p/w500/akgb2pVUwOsWa26KyO2UjFoZgWE.jpg",
+      "description": "Por primera vez en su vida, víctima de problemas cardiacos, Daniel Blake, carpintero inglés de 59 años, se ve obligado a acudir a las ayudas sociales. Sin embargo, a pesar de que el médico le ha prohibido trabajar, la administración le obliga a buscar un empleo si no desea recibir una sanción. En el transcurso de sus citas al “job center”, Daniel se cruza con Rachel, una madre soltera de dos niños que tuvo que aceptar un alojamiento a 450 km de su ciudad para evitar que la envíen a un hogar de acogida. Prisioneros de la maraña de aberraciones administrativas actuales de Gran Bretaña, Daniel y Rachel intentarán ayudarse mutuamente."
+    },
+    {
+      "id": "tmdb:401246",
+      "type": "movie",
+      "name": "The Square",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5yhKFeJmIsRB8HRtzLCJSGQKCvp.jpg",
+      "description": "Christian, mánager de un museo de arte contemporáneo, se encarga de una exhibición titulada \"The Square\" en la que hay una instalación que fomenta valores humanos y altruistas. Cuando contrata a una agencia de relaciones públicas para difundir el evento, la publicidad produce malestar en el público."
+    },
+    {
+      "id": "tmdb:505192",
+      "type": "movie",
+      "name": "Un asunto de familia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7f8nFFOoifqHRbtCzgYVjOZ9XBl.jpg",
+      "description": "Osamu y su hijo se encuentran con una niña en mitad de un frío glacial. Al principio, y después de ser reacia a albergar a la niña, la esposa de Osamu aceptará cuidarla cuando se entere de las dificultades que afronta. Aunque la familia es pobre y apenas gana suficiente dinero para sobrevivir a través de pequeños delitos, parecen vivir felices juntos, hasta que un accidente imprevisto revela secretos ocultos, poniendo a prueba los lazos que les unen."
+    },
+    {
+      "id": "tmdb:496243",
+      "type": "movie",
+      "name": "Parásitos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+      "description": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles."
+    },
+    {
+      "id": "tmdb:630240",
+      "type": "movie",
+      "name": "Titane",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A9hn97x78cIJbJL1EjXsqYjR7k6.jpg",
+      "description": "Un joven con la cara magullada es descubierto en un aeropuerto. Dice llamarse Adrien Legrand, un niño que desapareció hace 10 años. Para su padre, Vincent, esto supone el final de una larga pesadilla y lo lleva a casa. Simultáneamente, se suceden una serie de horribles asesinatos en la región."
+    },
+    {
+      "id": "tmdb:497828",
+      "type": "movie",
+      "name": "El triángulo de la tristeza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9DteuuOubo3bZPgrmvrTb5mgNxw.jpg",
+      "description": "Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son invitados a un yate en un crucero de lujo. Mientras que la tripulación brinda todas las atenciones necesarias a los ricos invitados, el capitán se niega a salir de su cabina, a pesar de la llegada inminente de la célebre cena de gala. Los eventos toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una tormenta que pone en peligro el confort de los pasajeros."
+    },
+    {
+      "id": "tmdb:915935",
+      "type": "movie",
+      "name": "Anatomía de una caída",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vGzjaQyv4NPjhgI0hHmKXz3Orjs.jpg",
+      "description": "Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego, Daniel, en un chalé en medio de los Alpes franceses. Cuando Samuel fallece en misteriosas circunstancias, la investigación no puede determinar si se trata de un suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el proceso pone su tumultuosa relación y su ambigua personalidad en el punto de mira."
+    },
+    {
+      "id": "tmdb:1064213",
+      "type": "movie",
+      "name": "Anora",
+      "poster": "http://127.0.0.1:8888/t/p/w500/n5wEFSLkm2fCtN0FVAuphrCAjf8.jpg",
+      "description": "Anora, una joven prostituta de Brooklyn, tiene la oportunidad de vivir una historia de Cenicienta cuando conoce e impulsivamente se casa con el hijo de un oligarca. Cuando la noticia llega a Rusia, su cuento de hadas se ve amenazado, ya que los padres parten hacia Nueva York para intentar conseguir la anulación del matrimonio."
+    },
+    {
+      "id": "tmdb:1456349",
+      "type": "movie",
+      "name": "Un simple accidente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
+      "description": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión."
+    },
+    {
+      "id": "tmdb:204",
+      "type": "movie",
+      "name": "El salario del miedo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lvKUfnwElQEKekHitpLi8CUD866.jpg",
+      "description": "La tensión entre cuatro trabajadores de una compañía petrolífera estallará durante un peligroso viaje durante el cual transportan nitroglicerina."
+    }
+  ]
 }

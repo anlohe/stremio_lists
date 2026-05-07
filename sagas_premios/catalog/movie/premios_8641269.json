@@ -1,3 +1,487 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:132332",
+      "type": "movie",
+      "name": "Manon",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sjKd2SIgvoLntEnTAIvCUNhBi3o.jpg",
+      "description": "Puerto de Marsella, Francia, recién liberada del yugo alemán. Sorprendidos como polizones a bordo de un barco, Manon, una joven que fue acusada de colaborar con los nazis, y Robert, un soldado de la Resistencia que la salvó de sufrir represalias, hablan al capitán de los muchos desafíos que han tenido que afrontar para sobrevivir."
+    },
+    {
+      "id": "tmdb:67731",
+      "type": "movie",
+      "name": "Justicia cumplida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nC0OX6oJeZN5vOzv4VoDvU9xiBe.jpg",
+      "description": "Elsa Lundestein, criada de Maurice Vaudreamont, le ayuda en todas sus investigaciones, ya que éste está afectado por un cáncer. Sin embargo Maurice consigue que Elsa le prometa que acabará con su vida en caso de que sus investigaciones no obtengan resultados. El problema es cuando el suceso es visto ante un jurado."
+    },
+    {
+      "id": "tmdb:548",
+      "type": "movie",
+      "name": "Rashomon",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hTzw4ectHlJw1gZciFNsemTPARM.jpg",
+      "description": "Japón, siglo XII. En Kioto, bajo las puertas del derruido templo de Rashomon, se guarecen de la torrencial lluvia un leñador, un sacerdote budista y un peregrino. Los tres discuten sobre el juicio a un bandido, acusado de haber dado muerte a un señor feudal y violado a su esposa. Los detalles del crimen son narrados desde el punto de vista del bandido, de la mujer, del señor feudal -con la ayuda de un médium- y del leñador, único testigo de los hechos."
+    },
+    {
+      "id": "tmdb:5000",
+      "type": "movie",
+      "name": "Juegos prohibidos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9giNxXKhfLcDduidtr7VxVD6hX4.jpg",
+      "description": "Junio de 1940. Centenares de franceses, entre los que se encuentran la pequeña Paulette y sus padres, se dirigen en un desesperado éxodo hacia el sur de Francia. Los aviones nazis sobrevuelan el camino y bombardean sin piedad a la multitud. Los padres de Paulette y su perro mueren durante el ataque. Alguien lanza el cadáver del animal al río, pero la niña, incapaz de separarse de él, decide seguirlo, lo que propicia su encuentro con Michel, un chico de once años, que la lleva a la granja de sus padres, donde es muy bien acogida."
+    },
+    {
+      "id": "tmdb:92784",
+      "type": "movie",
+      "name": "Romeo y Julieta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8dazSg9J6CxC8mUMKs5AMj12eqF.jpg",
+      "description": "Adaptación del clásico de William Shakespeare. La versión de Castellani es probablemente la mejor gracias, sobre todo, a la fidelidad al texto y al acierto de las localizaciones. Los escenarios veroneses, donde se supone que ocurrieron los hechos, son fotografiados admirablemente por Robert Krasker. En 1954 la película fue elegida como mejor film inglés por la British Academy Awards."
+    },
+    {
+      "id": "tmdb:48035",
+      "type": "movie",
+      "name": "Ordet (La palabra)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kd9z7SCv5Ps7E4Ry0udMNlQrRNV.jpg",
+      "description": "Hacia 1930, en un pequeño pueblo de Jutlandia occidental, el viejo Morten Borgen dirige la granja de Borgensgaard. Tiene tres hijos: Mikkel, Johannes y Anders. El primero está casado con Inger y tiene dos hijas pequeñas, aunque en estos momentos Inger está embarazada y esperan el tercero. Johannnes es un antiguo estudiante de Teología que, por haberse imbuido de las ideas de Kierkegaard e identificarse con la figura de Jesucristo, es considerado por todos como un loco. El tercero, Anders, está enamorado de la hija del sastre, líder intransigente de un sector religioso rival. Tal circunstancia revitaliza la discordia que siempre ha existido entre las dos familias, ya que ninguna ve con muy buenos ojos que sus hijos contraigan matrimonio."
+    },
+    {
+      "id": "tmdb:897",
+      "type": "movie",
+      "name": "Aparajito (El invencible)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/f94STIuH4S7tqs7nKFbT9SJojqi.jpg",
+      "description": "Relata la juventud de Apu en Benarés, su deseo de independizarse y estudiar en Calcuta para poder llevar una vida diferente a la que han conocido sus padres. Segundo film de la \"Trilogía de Apu\"."
+    },
+    {
+      "id": "tmdb:43121",
+      "type": "movie",
+      "name": "El hombre del carrito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pRLub4TjaPoUNvzclCJ9vDqTjqx.jpg",
+      "description": "Matsugoro, un pobre conductor de carro en el Japón del periodo Meiji, devuelve a un niño perdido, Toshio, a su casa. Sus padres se muestran con él muy agradecidos. Tras la muerte del padre, la madre, Yoshiko, muy preocupada por su hijo, le pide a Matsugoro que le ayude a educarlo. Él acepta encantado. Con el paso del tiempo le coge mucho cariño, al niño y a la madre. Pero Toshio crece, y se marcha a estudiar a la universidad de Tokio, y Matsugoro se siente abandonado y triste."
+    },
+    {
+      "id": "tmdb:43100",
+      "type": "movie",
+      "name": "El general de la Rovere",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cQc1g3dKNH08mPQnKP564rk8vaG.jpg",
+      "description": "En 1943, los aliados ya han desembarcado en el Sur de Italia, pero el Norte sigue bajo dominio fascista gracias a la ocupación alemana. En la Génova de 1943, Bertone, un estafador con grandes dotes teatrales, es arrestado por los nazis y obligado a hacerse pasar por un militar antifascista, el general della Rovere. Su misión será identificar a los jefes de la Resistencia, pero acaba tomándose su papel demasiado en serio."
+    },
+    {
+      "id": "tmdb:55823",
+      "type": "movie",
+      "name": "La gran guerra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eUn3Uynf4YJVaOABqgQcLWcmsBv.jpg",
+      "description": "Italia, 1916 (Primera Guerra Mundial). La lucha en las trincheras es una auténtica carnicería. En un regimiento italiano, los soldados Oreste y Giovanni son dos cobardes, cuya amistad se basa, sobre todo, en la búsqueda de la supervivencia. Pero, de repente, van a convertirse en un ejemplo de heroísmo."
+    },
+    {
+      "id": "tmdb:154578",
+      "type": "movie",
+      "name": "El paso del Rhin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tv5OJso7bytQhAH0Ec6PpJ6qtgd.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:4024",
+      "type": "movie",
+      "name": "El año pasado en Marienbad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wW5xOJxal1XrFgDrswWCPeA9xF1.jpg",
+      "description": "En un barroco hotel, un extraño, X, intenta persuadir a una mujer casada, A, de que abandone a su marido, M, y se fugue con él. Se basa en una promesa que ella le hizo cuando se conocieron el año anterior, en Marienbad, pero la mujer parece no recordar aquel encuentro."
+    },
+    {
+      "id": "tmdb:80557",
+      "type": "movie",
+      "name": "Crónica familiar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gRkJGXO5ZSt5XTBfAL8mORaJ0Ab.jpg",
+      "description": "Drama familiar basado en una novela más o menos autobiográfica de Vasco Pratolini. Sigue a dos hermanos, Enrico y Lorenzo, que vieron separadas sus vidas cuando nació el segundo, pues la madre murió. Herido de guerra el padre, es la abuela la que debe encargarse de ellos, y como dos niños son demasiado, el pequeño queda al cuidado de una baronesa. De modo que Lorenzo se acostumbra a la buena vida, y Enrico se curte en la pobreza. Llegará el momento en que Lorenzo deberá valerse por sí solo, y no está preparado para ello. El reencuentro con el hermano mayor puede que le ayude a superar sus limitaciones."
+    },
+    {
+      "id": "tmdb:31442",
+      "type": "movie",
+      "name": "La infancia de Iván",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vClgmSRnROyHfzqokPrIM3GRCi.jpg",
+      "description": "Segunda Guerra Mundial (1939-1945) Frente Oriental. Iván, un niño ruso de 12 años, cuyos padres murieron durante la invasión nazi, trabaja espiando a los alemanes."
+    },
+    {
+      "id": "tmdb:58383",
+      "type": "movie",
+      "name": "Las manos sobre la ciudad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dZ1uoMEDTQXnJ9OibRx4udoeX5i.jpg",
+      "description": "Nottola, concejal del ayuntamiento de Nápoles, además de ser miembro de todas las comisiones relacionadas con la construcción, es un magnate del negocio inmobiliario. Respaldado por los concejales del centro y la derecha, se dedica a la especulación."
+    },
+    {
+      "id": "tmdb:26638",
+      "type": "movie",
+      "name": "El desierto rojo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mQK9IgNEkG6yMCCqCS1shrbCiGu.jpg",
+      "description": "Después de sufrir un grave accidente de coche, una mujer comienza a percibir la ciudad en que vive, Rávena, como un desierto tanto en el plano físico como en el de las relaciones personales. Las secuelas psicológicas le impiden llevar una vida normal y relacionarse con la gente que la rodea."
+    },
+    {
+      "id": "tmdb:92432",
+      "type": "movie",
+      "name": "Sandra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/usLsMyLnF9o6pInfc32VDzpU9iY.jpg",
+      "description": "Sandra Dawson (Claudia Cardinale) regresa al pueblo de su infancia, Volterra, en la Toscana, y lo hace acompañada de Andrew, su marido (Michael Craig). Una vez instalada en su casa natal, la persigue el recuerdo de su padre, muerto en el campo de concentración de Auschwitz."
+    },
+    {
+      "id": "tmdb:17295",
+      "type": "movie",
+      "name": "La batalla de Argel",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tw3GaZhFDxtVJdibJwbnE3FSthl.jpg",
+      "description": "Octubre de 1957. Los paracaidistas del coronel Mathieu rodean el refugio Ali-La-Pointe, responsable de la guerra de guerrillas urbana. Durante sus horas de reclusión forzada, Ali revive el viaje que lo llevó de la condición de delincuente a la de líder guerrillero del F.L.N. Noviembre de 1954, la organización terrorista inicia su actividad en Argelia; Fueron los primeros atentados con bombas en bares, estaciones de tren y cines de la “ciudad europea”. Ali se convierte en uno de los líderes de la organización, bajo la dirección de Ben M'Hidi, mientras los paracaidistas llegan a Argel recibidos por la población europea. El coronel Mathieu, aprovechando una huelga, entra en el barrio árabe y realiza las primeras detenciones..."
+    },
+    {
+      "id": "tmdb:649",
+      "type": "movie",
+      "name": "Bella de día",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6LBPUWNYYtC4R4tTxLSsVG4qKPG.jpg",
+      "description": "Sévérine, una joven casada con un atractivo cirujano, descubre la existencia de la prostitución diurna. Impulsada por la curiosidad, ingresa en la casa de citas de Anaïs y termina acostumbrándose a llevar una doble vida. La aparición de Marcel, un delincuente que se enamora de ella, complicará la situación de la protagonista. En 2006 contó con una secuela, \"Belle Toujours\", dirigida por Manoel de Oliveira."
+    },
+    {
+      "id": "tmdb:154582",
+      "type": "movie",
+      "name": "Artistas en el circo: Perplejos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ivc4CPvcEU4NIYwaijGIBjjNQOK.jpg",
+      "description": "Leni Peickert hereda un circo con el que intenta hacer una forma de entretenimiento socialmente relevante, su circo \"reformista\". Se arruina dos veces, y Leni deberá decidir si su sueño de un nuevo estilo de circo es demasiado optimista."
+    },
+    {
+      "id": "tmdb:23954",
+      "type": "movie",
+      "name": "Atlantic City",
+      "poster": "http://127.0.0.1:8888/t/p/w500/j9SSSI89ysSJ9JZ0iHIbLRzU2Ud.jpg",
+      "description": "A Lou Pascal, un viejo gángster que consigue algún dinero con las apuestas, lo mantiene en realidad la viuda de su ex jefe. En el mismo edificio que él vive Sally, una atractiva mujer cuyo cuerpo lo tiene obsesionado."
+    },
+    {
+      "id": "tmdb:10889",
+      "type": "movie",
+      "name": "Gloria",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ncAtyJOiJ4ox6Ep3JtfrQVildA1.jpg",
+      "description": "Gloria Swenson, exnovia de un gángster, tiene que hacerse cargo, de la noche a la mañana, del hijo de sus vecinos, asesinados a sangre fría por la mafia. Gloria y el chico, con una valiosa información en su poder, se convierten en objetivo principal de los mafiosos y se ven obligados a huir por las calles de Nueva York."
+    },
+    {
+      "id": "tmdb:42142",
+      "type": "movie",
+      "name": "Las hermanas alemanas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uZNIAskMafXCYq9KIkghV9Q2zAR.jpg",
+      "description": "República Federal Alemana, año 1968. Las hijas de un sacerdote, Marianna y Julianne, dedican su vida a luchar para cambiar la sociedad, reivindicando, por ejemplo, la legalidad del aborto. Sin embargo, eligen caminos muy diferentes para conseguir sus objetivos: Julianne, que es reportera, sigue una vía pacífica a través de la denuncia periodística. Marianna, en cambio, se une a una organización terrorista."
+    },
+    {
+      "id": "tmdb:30363",
+      "type": "movie",
+      "name": "El estado de las cosas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vB64asO8cEursipyjzCCBWTxEao.jpg",
+      "description": "Un equipo de cine rueda, en Portugal, un remake de un viejo film de ciencia-ficción sobre un holocausto nuclear. Pero pronto surgen problemas: primero se acaba el rollo de película y después desaparece el productor. El director, desesperado, empieza a temer que nunca conseguirá acabar la película."
+    },
+    {
+      "id": "tmdb:32689",
+      "type": "movie",
+      "name": "Nombre: Carmen",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k0NhFg1Kw3kOG5wiIxDdtZe5iDO.jpg",
+      "description": "Durante un fallido atraco a un banco, en el que participa la terrorista Carmen, Antonio, un guardia de seguridad, intenta seducirla. Para evitar ser arrestada, ella aparenta corresponder a su pretendiente, y ambos se refugian en un apartamento. Sin embargo, Carmen sigue vinculada al terrorismo, y el próximo objetivo de la banda es un secuestro."
+    },
+    {
+      "id": "tmdb:42096",
+      "type": "movie",
+      "name": "El año del sol tranquilo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/25qR06N9pGJiJidAyZO5BEUHu5c.jpg",
+      "description": "Territorio alemán, que ha pasado a Polonia tras la II Guerra Mundial. Emilia vive con su madre en condiciones penosas, aguardando el improbable regreso de su esposo, en paradero desconocido desde que servía en el ejército. Un destacamento de soldados estadounidenses investiga crímenes de guerra en la zona. Uno de ellos, Norman, ayuda a las dos mujeres, y enseguida se ve atraído por Emilia, que duda acerca de aventurarse en un romance con él."
+    },
+    {
+      "id": "tmdb:44018",
+      "type": "movie",
+      "name": "Sin techo ni ley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/a42VZYIhgHIyrlvhVpzvLtOAdmf.jpg",
+      "description": "Varda hace un lírico réquiem de Mona, una adolescente vagabunda que es encontrada muerta, mostrando en flashback sus últimos meses de vida, su desarraigo social y sus relaciones con la gente que conoció."
+    },
+    {
+      "id": "tmdb:54898",
+      "type": "movie",
+      "name": "El rayo verde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qBrYpSp3OPpBvWQisxnurubu2vi.jpg",
+      "description": "Quinta y penúltima parte de la serie \"Comedias y proverbios\". Delphine es una joven secretaria parisina sin planes para sus vacaciones después de que su amiga las cancelara en el último minuto. Sola y triste, ella está decidida a viajar. En el camino conoce a una chica sueca que intenta animarla pero que sólo consigue acentuar su sensación de soledad, hasta que su destino de repente da un giro inesperado."
+    },
+    {
+      "id": "tmdb:1786",
+      "type": "movie",
+      "name": "Adiós, muchachos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kRaOBKedKZjl9hPFwR7QmkjQH9N.jpg",
+      "description": "Au revoir les enfants cuenta una historia desgarradora de amistad y pérdida devastadora de dos niños que viven en la Francia ocupada por los nazis. En un internado católico provincial, los jóvenes precoces disfrutan de una verdadera camaradería, hasta que se revela un secreto. Basada en eventos de la propia infancia del escritor y director Malle, la película es una historia sutil, observada con precisión, de coraje, cobardía y trágico despertar."
+    },
+    {
+      "id": "tmdb:54990",
+      "type": "movie",
+      "name": "La leyenda del santo bebedor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m9ypxPu19raCyAtk3JlhncKc03.jpg",
+      "description": "Andreas es un vagabundo más de los muchos que viven bajo los puentes de París. Cuando recibe de un desconocido la suma de doscientos francos, con la única condición de devolverlos como ofrenda a la imagen de una santa, emprende un peregrinaje de carácter fundamentalmente espiritual para ser digno del favor recibido."
+    },
+    {
+      "id": "tmdb:49982",
+      "type": "movie",
+      "name": "Ciudad doliente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vawQltR9OiAows3WEyKarHUM662.jpg",
+      "description": "Las tribulaciones de una familia en Taiwán -el padre y sus cuatro hijos-, tras la violenta represión china acontecida en febrero de 1947. Primera parte de la trilogía de la historia de Taiwan realizada por Hsiao-hsien Hou. Las siguientes entregas serían \"The Puppetmaster\" (1993) y \"Good Men, Good Women\" (1995)."
+    },
+    {
+      "id": "tmdb:18971",
+      "type": "movie",
+      "name": "Rosencrantz y Guildenstern han muerto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6RI9sYpRxIdqlmsF6kBOiF7Bxug.jpg",
+      "description": "Basada en una obra teatral del propio Stoppard. Narra la historia del príncipe Hamlet a través de dos personajes secundarios que aparecen en el drama de William Shakespeare."
+    },
+    {
+      "id": "tmdb:36346",
+      "type": "movie",
+      "name": "Urga - El territorio del amor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jeUzgLOzvIMK07Xg1sTpmyqNhxv.jpg",
+      "description": "La amistad entre un pastor mongol y un camionero ruso, perdido en la estepa asiática a causa de una avería, sirve de pretexto para mostrar el abismo cultural y económico entre el campo y la ciudad."
+    },
+    {
+      "id": "tmdb:38143",
+      "type": "movie",
+      "name": "Qiu Ju, una mujer china",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4cquaMfW96bYG6PRAocqv91LWR0.jpg",
+      "description": "En un pequeño y remoto pueblo del norte de China vive Qiu Ju junto a su marido, quienes esperan con impaciencia el nacimiento de su primer hijo. Pero un día su felicidad se ve alterada debido a un enfrentamiento con el jefe de la comunidad en la que están integrados."
+    },
+    {
+      "id": "tmdb:695",
+      "type": "movie",
+      "name": "Vidas cruzadas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/djb04es37zyRLkBOOFyDDkZTNpo.jpg",
+      "description": "Adaptación de varios relatos del escritor norteamericano Raymond Carver (1939-1988). Retrato de la vida cotidiana de un grupo muy heterogéneo de personas que viven en Los Ángeles e intentan afrontar como pueden las dificultades de su vida laboral y personal, gentes que se cruzan indiferentes ignorando los dramas ajenos. Sin embargo, en medio de tanta cotidianeidad, late la presencia del terror."
+    },
+    {
+      "id": "tmdb:108",
+      "type": "movie",
+      "name": "Tres colores: Azul",
+      "poster": "http://127.0.0.1:8888/t/p/w500/acF0MZyMhe1svIxp17xxIstPIqi.jpg",
+      "description": "En un accidente de coche, Julie pierde a su esposo Patrice, un prestigioso compositor, y a la hija de ambos, Anna. Al recuperarse de sus lesiones, Julie decide comenzar una nueva vida, independiente, solitaria y anónima, alejada de los privilegios que antes disfrutaba. En su propósito se cruza Sandrine, una periodista especializada en música que la persigue intentando probar que era Julie quien componía las piezas que hicieron famoso a su marido. También pretenderá entrar en su vida Olivier, el ayudante de Patrice, enamorado de Julie desde muchos años atrás, que la convence para terminar el «Concierto para Europa», una ambiciosa obra inacabada del músico."
+    },
+    {
+      "id": "tmdb:19155",
+      "type": "movie",
+      "name": "Antes de la lluvia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hQiK4KtXpCb1vdu0F2ePgdhcP8K.jpg",
+      "description": "Tres trágicas historias de amor que se entrelazan para ilustrar los efectos devastadores de la guerra y de aquellos que, sin quererlo, se han visto obligados a participar en ella. Dos de los relatos están ambientados en Macedonia, que se encuentra al borde de la guerra civil, y el otro se sitúa en Londres."
+    },
+    {
+      "id": "tmdb:11985",
+      "type": "movie",
+      "name": "Viva el amor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nGko7dIzGVAxp1OedhZltpSvBM1.jpg",
+      "description": "Una joven pareja, May y Ah-jong, utiliza un apartamento para sus relaciones. Sin embargo, una tercera persona, un tímido homosexual escondido en el mismo apartamento les espía creando un triangulo bizarro de amor."
+    },
+    {
+      "id": "tmdb:36266",
+      "type": "movie",
+      "name": "Cyclo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mdOsnSVTLwHMEH1juOLMiwXcO5o.jpg",
+      "description": "En la superpoblada y frenética ciudad de Ho Chi Minh -antigua Saigón-, un joven adolescente, conductor de un ciclomotor que transporta a los turistas a través de las calles, trata de ganarse la vida para mantener a sus dos hermanas y a su anciano abuelo. Cuando le roban su medio de locomoción y de vida, el joven se adentrará en una espiral de crimen y violencia."
+    },
+    {
+      "id": "tmdb:1770",
+      "type": "movie",
+      "name": "Michael Collins",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5FWDleQbOUIRVRUVEHM6nS9x9vn.jpg",
+      "description": "Michael Collins (1890-1922) fue un líder revolucionario irlandés que luchó encarnizadamente contra la ocupación inglesa de su patria. Con sus jóvenes pistoleros llevó a cabo una serie de sanguinarios atentados que generaron una no menos cruel represión."
+    },
+    {
+      "id": "tmdb:5910",
+      "type": "movie",
+      "name": "Hana-Bi: Flores de fuego",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A3ubCSK5Y8ObcTNWdjqnoMlROCl.jpg",
+      "description": "Un policía llamado Nishi (Takeshi Kitano) se enfrenta a la enfermedad terminal de su esposa, al drama de un compañero que ha quedado parapléjico en una redada y a un grupo de mafiosos que le siguen la pista."
+    },
+    {
+      "id": "tmdb:58098",
+      "type": "movie",
+      "name": "Así reían",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5CSB3MXOp9r6Wm3lLuPaFidbAZS.jpg",
+      "description": "Historia de dos hermanos sicilianos emigrados a Turín. Giovanni, el mayor, acaricia un ambicioso proyecto, que aparentemente está muy lejos de sus posibilidades, pero está dispuesto a hacer lo que sea con tal de hacerlo realidad: desea que Pietro, su hermano pequeño, obtenga el título de maestro. El problema es que Pietro no quiere estudiar. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:36210",
+      "type": "movie",
+      "name": "Ni uno menos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2FVdmAyQtFdMz7x6wTOCJASa6Jm.jpg",
+      "description": "En un remoto pueblo de montaña, el maestro debe ausentarse durante un mes, y la única sustituta que encuentra el alcade es una chica de 13 años. El profesor deja un trozo de tiza para cada día y le promete a la chica 10 yenes extra al día si cuando vuleva no hay ni un estudiante menos."
+    },
+    {
+      "id": "tmdb:13898",
+      "type": "movie",
+      "name": "El círculo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5Fd3x6jkgjSYWhXOTyy2t9GXFFa.jpg",
+      "description": "Una mujer acaba de dar a luz a una niña. Todavía no lo sabe, pero ella y su hija están ya marcadas. A su vez, tres mujeres salen de prisión con un permiso temporal. La necesidad de dinero para huir les llevará a tomar decisiones desesperadas."
+    },
+    {
+      "id": "tmdb:480",
+      "type": "movie",
+      "name": "La boda del monzón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pt1WHixIA2D85EYv30mDyFr4Om7.jpg",
+      "description": "Los preparativos de una elegante boda en Nueva Delhi, que durará cuatro días, reflejan los conflictos entre generaciones partidarias de seguir las tradiciones y otras defensoras de la modernidad. A Lalit Verma y a su mujer Pimmi la boda concertada de su hija les lleva casi al borde de un ataque de nervios y de la quiebra. Otras historias paralelas se desarrollan a medida que van llegando a la ciudad parientes procedentes de todo el mundo. El novio llega de Houston (Texas), donde trabaja como ingeniero, para conocer a la novia. La novia, por su parte, acepta el compromiso a regañadientes, pues está enamorada de un presentador de televisión. Los preparativos de la boda exigen contratar a un organizador profesional y el elegido será P.K. Dubey, que es un inteligente joven de clase media."
+    },
+    {
+      "id": "tmdb:8094",
+      "type": "movie",
+      "name": "Las hermanas de la Magdalena",
+      "poster": "http://127.0.0.1:8888/t/p/w500/55U03JOlXI3DAa7fRWBTnQRTF8Z.jpg",
+      "description": "Los conventos de la Magdalena en Irlanda eran gestionados por las hermanas de la Misericordia en nombre de la Iglesia católica. Acogían a muchachas enviadas por sus familias o por los orfanatos, que allí quedaban encerradas y a las que se obligaba a trabajar en las lavanderías para expiar sus pecados. Dichos pecados eran de distinta naturaleza: desde ser madre soltera a ser demasiado bella o demasiado fea, o demasiado simple o demasiado inteligente, o víctima de una violación, y por tales pecados trabajaban sin percibir ninguna retribución, 364 días al año, y se las hacía pasar hambre, se las sometía a castigos físicos, humillaciones, violencia fisica y moral, y se las separaba de sus hijos."
+    },
+    {
+      "id": "tmdb:11190",
+      "type": "movie",
+      "name": "El regreso",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qLJ53d39GGfinaxjmJeHuKOaL0a.jpg",
+      "description": "La vida de dos hermanos sufre un brusco cambio cuando de repente aparece su padre, al que sólo recordaban por una vieja fotografía. ¿Es realmente su padre? ¿Por qué ha vuelto después de tanto tiempo? Los chicos encontrarán la respuesta a sus preguntas en una remota y solitaria isla, después de un emocionante viaje con su padre por los bellos parajes de Siberia. Ópera prima del realizador ruso Andrey Zvyagintsev, nacido en 1964, autor de varios filmes para la televisión rusa. León de Oro en Venecia, donde fue calificada por la crítica como \"un film sobre el amor, la pérdida de los afectos y el ingreso en la edad adulta, de irresistible fuerza emocional.\""
+    },
+    {
+      "id": "tmdb:11109",
+      "type": "movie",
+      "name": "El secreto de Vera Drake",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hgLXna9xK1i7Yygj5REuoWTSvGm.jpg",
+      "description": "Londres, 1950. Vera Drake es una humilde mujer que vive con su marido y sus hijos. Ella es limpiadora, y su marido es mecánico. No tienen dinero, pero son una familia unida y se sienten felices. Vera se dedica completamente a su familia, pero tiene un secreto: ayuda a jovencitas a practicar abortos, una actividad ilegal."
+    },
+    {
+      "id": "tmdb:142",
+      "type": "movie",
+      "name": "Brokeback Mountain: En terreno vedado",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg",
+      "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes."
+    },
+    {
+      "id": "tmdb:2346",
+      "type": "movie",
+      "name": "Naturaleza muerta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6uhuv6HVK2mCMvdoPrURnwHt9wD.jpg",
+      "description": "Tras la construcción de la presa de las Tres Gargantas (China) la aldea de Fengjie fue inundada y sus habitantes realojados en un nuevo emplazamiento. El minero Han Sanming regresa a Fengjie, después de 16 años de ausencia, a buscar a su mujer. También la enfermera Shen Hong busca en la aldea a su marido."
+    },
+    {
+      "id": "tmdb:4588",
+      "type": "movie",
+      "name": "Deseo, peligro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xjPFFyy8hk5qKubWL3ysBSDTutL.jpg",
+      "description": "Shanghai, 1942. La ciudad está ocupada por los japoneses. La señora Mak, una mujer rica y sofisticada, recuerda cómo empezó todo en 1938. Su verdadero nombre no es Mak, sino Wong Chia Chi. Poco antes de estallar la II Guerra Mundial (1939-1945), su padre huyó a Inglaterra y la dejó en China. Era estudiante universitaria y conoció a Kuang Yu Min, que acababa de fundar una compañía de teatro para fomentar el patriotismo. Wong Chia Chi se convirtió en la primera actriz de la compañía. Kuang, por su parte, convenció a un grupo de estudiantes para que asesinaran al señor Yee, un importante colaborador de los japoneses. Wong Chia Chi colaboró en el plan haciéndose pasar por la señora Mak: su cometido era hacerse amiga de la mujer de Yee para ganarse la confianza de éste y seducirlo. Todo iba sucediendo según lo previsto, hasta que se produjo un acontecimiento inesperado."
+    },
+    {
+      "id": "tmdb:12163",
+      "type": "movie",
+      "name": "El luchador",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hQpBhEHCFNYgakxpP6pAVB2k3fp.jpg",
+      "description": "Randy \"The Ram\" Robinson (Mickey Rourke) es un luchador profesional de wrestling que, tras haber sido una estrella en la década de los ochenta, trata de continuar su carrera en el circuito independiente, combatiendo en cuadriláteros de tercera categoría. Cuando se da cuenta de que los brutales golpes que ha recibido a lo largo de su carrera le empiezan a pasar factura, decide poner un poco de orden en su vida: intenta acercarse a Stephanie, la hija que abandonó (Evan Rachel Wood) y trata de superar la soledad con su amor por Cassidy, una streaper (Marisa Tomei)."
+    },
+    {
+      "id": "tmdb:32084",
+      "type": "movie",
+      "name": "Líbano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5AaCESolkF70D40AwCHr2yL3GwF.jpg",
+      "description": "En junio de 1982, durante la primera guerra en Líbano, un tanque, tripulado por jóvenes inexpertos en el arte de la guerra, es enviado para una misión aparentemente sencilla. El grupo de chicos debe dirigirse hacia un poblado supuestamente diezmado por el ejercito y completar su tarea en poco tiempo. Repentinamente, los soldados se ven envueltos en una situación fuera de control, cuando la misión que les han asignado falla. Motivados por el miedo y el instinto de supervivencia, ellos tratan de salir del poblado donde viven una pesadilla a cualquier costo."
+    },
+    {
+      "id": "tmdb:39210",
+      "type": "movie",
+      "name": "Somewhere",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg",
+      "description": "Johnny Marco (Stephen Dorff) es un actor de gran éxito cuya vida de excesos y lujo cambia por completo cuando, sin previo aviso, se presenta su hija de once años (Elle Fanning), fruto de un matrimonio fracasado. Johnny es una estrella de cine que vive en un lujoso hotel de Hollywood, conduce un ferrari y sale con bellas mujeres sin comprometerse con ninguna."
+    },
+    {
+      "id": "tmdb:77560",
+      "type": "movie",
+      "name": "Fausto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1L6TH55aZOrM6lQt2kiodkebvt4.jpg",
+      "description": "Ambientada en el siglo XIX. Se basa en la leyenda alemana de Fausto, un sabio que hace un pacto con el diablo, y en las adaptaciones literarias del mito por parte de Johann Wolfgang von Goethe y Thomas Mann."
+    },
+    {
+      "id": "tmdb:123377",
+      "type": "movie",
+      "name": "Pietà (Piedad)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lZJMlD4GNvzJL0GxvaL4JFYvDKU.jpg",
+      "description": "Drama centrado en dos personajes, un cobrador de préstamos solitario y sin escrúpulos (Lee Jung-Jin) y una mujer (Jo Min-Su) que se presenta un día pidiéndole disculpas por haberle abandonado, asegurando que es su madre biológica."
+    },
+    {
+      "id": "tmdb:216790",
+      "type": "movie",
+      "name": "Sacro GRA",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gsS3ZATJ2kqH02Xnw7RY9yksvdy.jpg",
+      "description": "Documental dedicado al transitado y enorme anillo de autopistas -Grande Raccordo Anulare, o GRA- que rodea la ciudad de Roma. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:110390",
+      "type": "movie",
+      "name": "Una paloma se posó en una rama a reflexionar sobre la existencia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4GVQDikgANHTZKPitF1fBIt8Fyq.jpg",
+      "description": "Narra la vida de dos perdedores de entre 50 y 60 años, dos vendedores de artículos de broma que viven en una casa abandonada, y que tienen tres encuentros con la muerte. Cual Don Quijote y Sancho Panza del momento actual, Sam y Jonathan nos conducen por un recorrido caleidoscopio a través del destino del ser humano."
+    },
+    {
+      "id": "tmdb:352162",
+      "type": "movie",
+      "name": "Desde allá",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3SqB4xa3LhMCUPtZKawsTysTrCo.jpg",
+      "description": "En medio de la convulsionada Caracas, Armando (50), dueño de un laboratorio de prótesis dentales, busca a hombres jóvenes en paradas de autobús y les ofrece dinero para que lo acompañen a su casa y observarles. Al mismo tiempo, Armando tiene la costumbre de espiar a un hombre de edad avanzada: sabe dónde vive, qué lugares frecuenta; algo en el pasado de ambos los une. Un día Armando se lleva a casa a Elder (18), líder de una pequeña banda de delincuentes juveniles. De este encuentro nacerá una relación que los cambiará para el resto de sus vidas."
+    },
+    {
+      "id": "tmdb:408542",
+      "type": "movie",
+      "name": "The Woman Who Left",
+      "poster": "http://127.0.0.1:8888/t/p/w500/srsCrtytxW3E0EIee2g8EyuW215.jpg",
+      "description": "Filipinas, años 90. Horacia ha pasado treinta años en un centro penitenciario y ha sido liberada después de que alguien confesase su presunto crimen. Abrumada por su nueva libertad, llega a la dolorosa conclusión de que su aristocrática ex-pareja le había tendido una trampa. A medida que se sucedan varios secuestros de ricos, Horacia encontrará en ello su oportunidad de planificar su venganza."
+    },
+    {
+      "id": "tmdb:399055",
+      "type": "movie",
+      "name": "La forma del agua",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ahsMZ2PCIVi5qGoPKjjeG3ZznjA.jpg",
+      "description": "Elisa es una joven muda que trabaja como conserje en un laboratorio en 1963, en plena Guerra Fría, donde se enamorará de un hombre anfibio que se encuentra ahí recluido."
+    },
+    {
+      "id": "tmdb:426426",
+      "type": "movie",
+      "name": "Roma",
+      "poster": "http://127.0.0.1:8888/t/p/w500/veWGVw33lnifG10fpkz3QmimVaI.jpg",
+      "description": "Cleo es la joven sirvienta de una familia que vive en la Colonia Roma, barrio de clase media-alta de Ciudad de México. En esta carta de amor a las mujeres que lo criaron, Cuarón se inspira en su propia infancia para pintar un retrato realista y emotivo de los conflictos domésticos y las jerarquías sociales durante la agitación política de la década de los 70."
+    },
+    {
+      "id": "tmdb:475557",
+      "type": "movie",
+      "name": "Joker",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+      "description": "Arthur Fleck es un hombre ignorado por la sociedad, cuya motivación en la vida es hacer reír. Pero una serie de trágicos acontecimientos le llevarán a ver el mundo de otra forma. Película basada en Joker, el popular personaje de DC Comics y archivillano de Batman, pero que en este film toma un cariz más realista y oscuro."
+    },
+    {
+      "id": "tmdb:581734",
+      "type": "movie",
+      "name": "Nomadland",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6CFE3b0iHmv3m2cRrmBXHIP2vhv.jpg",
+      "description": "En tiempos de la Gran Recesión, Fern, una mujer del poblado de Empire (Nevada, Estados Unidos), pierde su empleo en el 2011 tras el cierre de la fábrica de materiales de construcción donde trabajó junto con su esposo, quien recientemente falleció. Con sesenta años y sin otra alternativa, decide vender la mayoría de sus pertenencias y comprar una furgoneta para vivir y viajar por el país en busca de trabajo, como nómada de hoy en día."
+    },
+    {
+      "id": "tmdb:793998",
+      "type": "movie",
+      "name": "El acontecimiento",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3EwqppBdI3n42tgecg01fVeDOsb.jpg",
+      "description": "Francia, 1963. Anne, una joven y brillante estudiante con un futuro prometedor, descubre que está embarazada. De la noche a la mañana ve truncada la oportunidad de terminar sus estudios y huir de las asfixiantes restricciones de su entorno. Con los exámenes finales acercándose y un vientre que no para de crecer, Anne decide actuar, incluso si supone confrontar la vergüenza, el dolor y hasta ir a la cárcel por ello."
+    },
+    {
+      "id": "tmdb:1004663",
+      "type": "movie",
+      "name": "La Belleza y el Dolor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ohMfLasW7ngNn4jqgMzC2obMyLn.jpg",
+      "description": "Sigue la vida de la artista Nan Goldin y su activismo contra la dinastía farmacéutica de los Sackler, responsables de la mayor epidemia de opioides de la historia de Estados Unidos."
+    },
+    {
+      "id": "tmdb:792307",
+      "type": "movie",
+      "name": "Pobres criaturas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9OYMVcP2zyw0zpWOTuxlDo2MsMw.jpg",
+      "description": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. Bajo la protección de Baxter, Bella está ansiosa por aprender. Hambrienta de la mundanidad que le falta, Bella se escapa con Duncan Wedderburn, un sofisticado y perverso abogado, en una aventura vertiginosa a través de los continentes. Libre de los prejuicios de su época, Bella se vuelve firme en su propósito de defender la igualdad y la liberación."
+    },
+    {
+      "id": "tmdb:1088514",
+      "type": "movie",
+      "name": "La habitación de al lado",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg",
+      "description": "Ingrid, una exitosa novelista de autoficción que, se entera de que su amiga Martha, reportera de guerra, padece una grave enfermedad. Muy amigas en su juventud, aunque separadas desde hace tiempo, la cercana muerte de Martha volverá a unirlas."
+    },
+    {
+      "id": "tmdb:1159206",
+      "type": "movie",
+      "name": "Father Mother Sister Brother",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iLwZuafLq8WmM9xJjS2T9YXZvc.jpg",
+      "description": "Tres historias separadas sobre relaciones distantes entre hijos adultos y sus padres. Cada una de las tres partes tiene lugar en la actualidad, y en un país diferente. \"El Padre\" está ambientado en el noreste de EE. UU., \"La Madre\" en Dublín, Irlanda y \"La Hermana Hermano\" en París, Francia. La película es una serie de estudios de personajes, tranquilos, observacionales y sin prejuicios. Una comedia, pero entretejida con hilos de melancolía."
+    }
+  ]
 }
