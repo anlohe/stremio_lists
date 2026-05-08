@@ -1,3 +1,284 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:28966",
+      "type": "movie",
+      "name": "Alas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nYbFzLlNtLIcVOZTeAUUiafVLbS.jpg",
+      "description": "Jack Powell (Charles Rogers), un joven que vive en una pequeña ciudad de Estados Unidos en 1917, está enamorado de la sofisticada Sylvia Lewis (Jobyna Ralston) y se siente irritado por las constantes atenciones de la chica de la casa de al lado, Mary Preston (Clara Bown), Sylvia está a su vez enamorada del rico heredero David Armstrong (Richard Arlen), aunque su relación se ve interrumpida cuando los dos jóvenes se alistan en el Ejército. Tras un periodo de enfrentamiento, entran en las Fuerzas Aéreas y Jack y David conocen al cadete White (Gary Cooper), quien les sirve de inspiración para sus futuros combates aéreos.  Drama bélico que ha pasado a la historia por ser el primer film que ganó el Oscar a la mejor película, el año de la creación de los premios de la Academia americana (años 1927-1928)."
+    },
+    {
+      "id": "tmdb:65203",
+      "type": "movie",
+      "name": "La melodía de Broadway",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vcqqmFWvJfhauC4hOEytjFSx9Sm.jpg",
+      "description": "Queenie y Hank son dos hermanas que buscan triunfar en Broadway como cantantes y bailarinas. Queenie se enamora de Eddie Kearns, pero él prefiere a Hank, y se vuelven pareja. Con la ayuda de Eddie empiezan una carrera en los escenarios de vodevil... El primer gran musical de la historia del cine (recién estrenado el cine sonoro, en 1927) obtuvo el Oscar a la mejor película (recién creados los premios de la Academia en 1928). (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:143",
+      "type": "movie",
+      "name": "Sin novedad en el frente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/whhnoAEoobX7dasproRpBipHXJT.jpg",
+      "description": "Mítica película antibélica que plasma los sentimientos, sensaciones y desilusiones de un grupo de jóvenes estudiantes que son enviados al frente en la Primera Guerra Mundial (1914-1918). Es una adaptación de la novela homónima del escritor alemán Erich María Remarque. Su estreno provocó enfrentamientos entre nazis y comunistas."
+    },
+    {
+      "id": "tmdb:42861",
+      "type": "movie",
+      "name": "Cimarrón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mjUX8h3pswMTd6sVHz4bEPCNwE2.jpg",
+      "description": "Oscarizada superproducción de la época que narra las aflicciones y tribulaciones de una familia en el viejo Oeste a lo largo de cuatro décadas, desde su llegada a Oklahoma en 1889 hasta el surgimiento de sus aspiraciones políticas en los años 20. Amores, luchas, triunfos y separaciones, además de la famosa y verídica carrera de diligencias son los ingredientes de uno de los mayores éxitos de la RKO."
+    },
+    {
+      "id": "tmdb:33680",
+      "type": "movie",
+      "name": "Gran Hotel",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m0EYMXJLkqj3cIW7JAOUztVLcIU.jpg",
+      "description": "Las diferentes historias de los huéspedes de un elegante hotel es el argumento de este film de brillante reparto. Obtuvo tan sólo un Oscar, pero fue el de mejor película."
+    },
+    {
+      "id": "tmdb:56164",
+      "type": "movie",
+      "name": "Cabalgata",
+      "poster": "http://127.0.0.1:8888/t/p/w500/15ufV5e3XhMOzNT78991gOJ1BkL.jpg",
+      "description": "La historia de Gran Bretaña durante el primer tercio del siglo XX es reflejada a través de las desventuras de una familia que sufre toda clase de penurias y calamidades. Un drama épico, basado en la obra del famoso dramaturgo Noël Coward, que resultó la gran vencedora de la edición de los Oscar de 1933."
+    },
+    {
+      "id": "tmdb:3078",
+      "type": "movie",
+      "name": "Sucedió una noche",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yFpfjnVzKhUhw29OW3iF5d0ANN1.jpg",
+      "description": "Peter Warren, es un periodista desempleado que se topa con Ellie, la hija de un millonario que huyó del barco de Alexander Andrews, su padre, porque no acepta al hombre con el que ella se quiere casar. Peter ve la oportunidad de conseguir una buena historia, pero varios hechos acaban por crear un vínculo entre ellos."
+    },
+    {
+      "id": "tmdb:12311",
+      "type": "movie",
+      "name": "La tragedia de la Bounty",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AppEu29Ck2dF12FBSBjJmSGgBkg.jpg",
+      "description": "En 1789, en los Mares del Sur, la tripulación del buque británico Bounty decide rebelarse contra el tiránico y cruel capitán Bligh. El motín lo encabeza el primer oficial, que defiende los intereses de la tripulación y abandona al capitán en un bote."
+    },
+    {
+      "id": "tmdb:43277",
+      "type": "movie",
+      "name": "El gran Ziegfeld",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ccL5vri81QGzNemkh1c19d8CLda.jpg",
+      "description": "Desde sus comienzos como anunciante de feria, Florenz Ziegfeld consiguió ganar y perder en la vida antes de enamorar locamente a su esposa Anna Held."
+    },
+    {
+      "id": "tmdb:43278",
+      "type": "movie",
+      "name": "La vida de Emile Zola",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xGFEL96K9zVvg2v1oQpKz4zEL91.jpg",
+      "description": "Biografía del famoso escritor francés Emile Zola, que incide especialmente en su participación en el famoso \"Caso Dreyfuss\", que puso en jaque al ejército francés."
+    },
+    {
+      "id": "tmdb:34106",
+      "type": "movie",
+      "name": "Vive como quieras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bUuhW2Orm1TnYnCPhUBFOz8ddEv.jpg",
+      "description": "Alice Sycamore, la única persona con un poco de cordura en una familia llena de lunáticos, se enamora de su jefe, Tony Kirby, que pertenece a una familia muy rica y muy cursi. La diferencia entre el estilo de vida y la mentalidad de ambas familias se agudizan cuando los padres de él van a cenar a casa de ella, y la cena termina con la llegada de la policía y la detención de todos los presentes, acusados de anarquistas."
+    },
+    {
+      "id": "tmdb:770",
+      "type": "movie",
+      "name": "Lo que el viento se llevó",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg",
+      "description": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. Corren todavía tiempos felices en Tara, pero por poco tiempo, porque la Guerra de Secesión (1861-1865) está a punto de estallar. En la última fiesta, celebrada antes del comienzo de las hostilidades entre el norte y el sur, Scarlett conoce al simpático, cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que sólo piensa en sí mismo y que no tiene ninguna intención de participar en el conflicto. Lo que él desea es hacerse rico y conquistar el corazón de la hermosa Scarlett."
+    },
+    {
+      "id": "tmdb:223",
+      "type": "movie",
+      "name": "Rebeca",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mJV2zrflpTaAcFgfgQc2VJboZ0Y.jpg",
+      "description": "Al poco tiempo de perder a su esposa Rebeca, el aristócrata inglés Maxim De Winter conoce en Montecarlo a una joven humilde, dama de compañía de una señora americana. De Winter y la joven se casan y se van a vivir a la mansión inglesa de Manderley, residencia habitual de De Winter. Pronto la señora Winter se da cuenta de que no puede borrar en su marido el recuerdo de su difunta esposa."
+    },
+    {
+      "id": "tmdb:43266",
+      "type": "movie",
+      "name": "¡Qué verde era mi valle!",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5xCFo2NunmfRUtQyiZIqCT7krTJ.jpg",
+      "description": "En un pequeño pueblo de Gales, un padre y sus cinco hijos trabajan en las minas de carbón y la vida cotidiana fluye pacíficamente. Sin embargo, sus condiciones de trabajo son cada vez más difíciles y los hijos deciden dar un golpe, en contra de la opinión de su padre."
+    },
+    {
+      "id": "tmdb:27367",
+      "type": "movie",
+      "name": "La señora Miniver",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xEjthNTIVpKEV4dkz4ILX4ffYMZ.jpg",
+      "description": "Durante la Segunda Guerra Mundial, una familia inglesa, que vive en un pequeño pueblo, logra sobrevivir a los bombardeos alemanes. La madre se encuentra al frente de la casa esperando que su hijo y su marido regresen de la guerra."
+    },
+    {
+      "id": "tmdb:289",
+      "type": "movie",
+      "name": "Casablanca",
+      "poster": "http://127.0.0.1:8888/t/p/w500/a7EjycGNSYw6QqJqDooD9eQGZ4r.jpg",
+      "description": "Durante la Segunda Guerra Mundial, Casablanca era una ciudad a la que llegaban huyendo del nazismo gentes de todas partes: llegar era fácil, pero salir era casi imposible, especialmente si el nombre del fugitivo figuraba en las listas de la Gestapo. En esta ocasión el principal objetivo de la policía secreta alemana es el líder checo y héroe de la resistencia Victor Laszlo, cuya única esperanza es Rick Blaine, propietario del 'Rick’s Café' y antiguo amante de su mujer, Ilsa. Cuando Ilsa se ofrece a quedarse a cambio de un visado para sacar a Laszlo del país, Rick deberá elegir entre su propia felicidad o el idealismo que rigió su vida en el pasado."
+    },
+    {
+      "id": "tmdb:17661",
+      "type": "movie",
+      "name": "Siguiendo mi camino",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4IL2ZGconSNa1XpFtu833TclANe.jpg",
+      "description": "Historia de un simpático cura y su actividad a favor de su parroquia, así como las discrepancias con otro sacerdote mayor y más severo"
+    },
+    {
+      "id": "tmdb:28580",
+      "type": "movie",
+      "name": "Días sin huella",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kNXR9S1XJ89EuAZnirDC8SVhI8y.jpg",
+      "description": "Don Birnam es un escritor fracasado a causa de su adicción al alcohol, adicción que lo ha destruido física y moralmente y lo ha convertido en un hombre desprovisto de voluntad. Con tal de seguir bebiendo es capaz de todo, incluso de robar. Tanto su novia como su hermano intentan por todos los medios regenerarlo, pero sus esfuerzos parecen estériles."
+    },
+    {
+      "id": "tmdb:887",
+      "type": "movie",
+      "name": "Los mejores años de nuestra vida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/go8vB0DsCStVvr6vc1kv8LVmEep.jpg",
+      "description": "Tras la Segunda Guerra Mundial (1939-1945), los soldados supervivientes, algunos con taras físicas, regresan a los Estados Unidos. Aunque al principio se les trata como héroes, poco tiempo después comienzan a verse marginados."
+    },
+    {
+      "id": "tmdb:33667",
+      "type": "movie",
+      "name": "La barrera invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rqDbV9DHozJgy194SPTrnBXEf5J.jpg",
+      "description": "Philip Green es un escritor al que una revista de tirada nacional contrata para escribir una serie de artículos sobre antisemitismo en América. No sabe cómo abordar el tema, y decide hacerse pasar por judío para experimentar en propias carnes el grado de racismo y prejuicio que existe contra los judíos."
+    },
+    {
+      "id": "tmdb:23383",
+      "type": "movie",
+      "name": "Hamlet",
+      "poster": "http://127.0.0.1:8888/t/p/w500/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+      "description": "Después de haber asesinado a su hermano, el rey de Dinamarca, Claudius se casa con la reina y ocupa el trono danés. En medio del dolor, al príncipe Hamlet se le aparece el fantasma de su padre reclamando venganza contra su asesino. Hamlet decide entonces contratar a una compañía de actores ambulantes para que representen en la corte una obra en la que se muestra el asesinato de un rey a manos de su hermano y en idénticas circunstancias. Hamlet espera ver cómo la reacción de su tío confirma su culpa."
+    },
+    {
+      "id": "tmdb:25430",
+      "type": "movie",
+      "name": "El político",
+      "poster": "http://127.0.0.1:8888/t/p/w500/51L1K8GVyzvJB2tW8h4wdxq4OrG.jpg",
+      "description": "Willi Stark (Broderick Crawford), un hombre honrado y valiente, sufre una transformación el día que decide entrar en política y descubre que todo es juego sucio. Tras ser elegido gobernador, olvidando sus principios, lo primero que hace es apoderarse de la prensa y la radio. Convertido en un ser corrupto hará cuanto esté en su mano para permanecer en el poder."
+    },
+    {
+      "id": "tmdb:705",
+      "type": "movie",
+      "name": "Eva al desnudo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/or4l6YmNSQlkN5QRaAFsqxd0wWX.jpg",
+      "description": "Una joven que aspira a convertirse en actriz y triunfar en los escenarios se las ingenia para introducirse en un grupo de actores de teatro y hacerse amiga y confidente de una famosa y veterana actriz. El deseo de actuar y los celos la consumen hasta el punto de traicionar a sus compañeros en su escalada hacia el éxito. Ella halaga, atrae, seduce, pero también pisotea a todo el que se cruza en su camino: escritores, directores, productores. Sólo un inteligente crítico teatral adivina lo que se esconde tras su dulce apariencia, sólo él es capaz de ver a Eva al desnudo."
+    },
+    {
+      "id": "tmdb:2769",
+      "type": "movie",
+      "name": "Un americano en París",
+      "poster": "http://127.0.0.1:8888/t/p/w500/32WWix2u7MSTm0WjC608ArsPBP8.jpg",
+      "description": "Terminada la Segunda Guerra Mundial, Jerry Mulligan, un pintor americano, se queda en París y expone sus cuadros, que nadie compra, en Montparnasse. Un día tiene la suerte de conocer a una americana millonaria que decide promocionarlo. Al mismo tiempo, conoce a una dependienta y se enamora de ella."
+    },
+    {
+      "id": "tmdb:27191",
+      "type": "movie",
+      "name": "El mayor espectáculo del mundo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3hqfCssnhrdoer5od7F5xmziOWX.jpg",
+      "description": "Con el fin de conseguir una exitosa temporada, el empresario circense Brad Bramen, contrata al famoso trapecista Sebastián para emparejarlo con Holly, una de las trapecistas favoritas del público."
+    },
+    {
+      "id": "tmdb:11426",
+      "type": "movie",
+      "name": "De aquí a la eternidad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ea6NcYdlAsiaV1saXWKPLIHFDKx.jpg",
+      "description": "Al soldado Prewitt están a punto de concederle un traslado con el que abandonará Pearl Harbour. Pero el nuevo capitán Holmes le retiene con el pretexto de que es un gran boxeador. Los romances y los abusos están al orden del día en una base despreocupada por la Segunda Guerra Mundial. Sin embargo, el ataque japonés al enclave es inminente."
+    },
+    {
+      "id": "tmdb:654",
+      "type": "movie",
+      "name": "La ley del silencio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rf342b70NdNhZIIQWFKa8sSDyf6.jpg",
+      "description": "El exboxeador Terry Malloy podría haber sido un serio aspirante al título, pero se ve obligado a ganarse la vida trabajando para Johnny Friendly, el jefe de la conflictiva banda de gánsteres de la ciudad. Cuando dos de los matones de Friendly asesinan brutalmente a un hombre, Terry comienza a sentirse culpable con la vida que lleva, iniciando una peligrosa lucha para derrocar el imperio del hampa"
+    },
+    {
+      "id": "tmdb:15919",
+      "type": "movie",
+      "name": "Marty",
+      "poster": "http://127.0.0.1:8888/t/p/w500/79aC4arR3hA6jJw5uBtW5NByDO3.jpg",
+      "description": "Marty es un carnicero solterón que todavía vive con su madre. Suele salir con frecuencia con sus amigos por la noche, intentando encontrar a alguna chica con la que compartir su vida y hacer planes para el futuro."
+    },
+    {
+      "id": "tmdb:2897",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg",
+      "description": "Adaptación de la novela homónima de Julio Verne. Un ladrón ha robado 55.000 libras del banco de Inglaterra. Todos creen que ha sido Philleas Fogg, un auténtico caballero inglés, que ha hecho una apuesta con sus compañeros de club, asegurando que es capaz de dar la vuelta al mundo en 80 días."
+    },
+    {
+      "id": "tmdb:826",
+      "type": "movie",
+      "name": "El puente sobre el río Kwai",
+      "poster": "http://127.0.0.1:8888/t/p/w500/z5uKyonXIGiVub5RtJKaPgGevlI.jpg",
+      "description": "Durante la Segunda Guerra Mundial (1939-1945), un grupo de prisioneros británicos son obligados por los japoneses a construir un puente. Los oficiales, capitaneados por su flemático coronel, se opondrán a toda orden que viole la Convención de Ginebra sobre los derechos y las condiciones de vida de los prisioneros de guerra."
+    },
+    {
+      "id": "tmdb:17281",
+      "type": "movie",
+      "name": "Gigi",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1sF5o9Cs5GMx3cYmXD64WEQBLJn.jpg",
+      "description": "París, 1900. Gaston es un joven millonario que se aburre, a pesar de ser el soltero más perseguido de toda la ciudad. Gigi es casi una niña, no tiene todavía edad para bailes y amoríos. Pero Gaston es amigo de su familia y la visita con frecuencia. La abuela de Gigi sueña con una boda entre Gastón y su nieta. Pero los planes de Gaston con respecto a Gigi no tienen nada que ver con el matrimonio."
+    },
+    {
+      "id": "tmdb:665",
+      "type": "movie",
+      "name": "Ben-Hur",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg",
+      "description": "Antigua Roma, bajo el reinado de los emperadores Augusto y Tiberio (s. I d.C.). Judá Ben-Hur, hijo de una familia noble de Jerusalén, y Mesala, tribuno romano que dirige los ejércitos de ocupación, son dos antiguos amigos, pero un accidente involuntario los convierte en enemigos irreconciliables: Ben-Hur es acusado de atentar contra la vida del nuevo gobernador romano, y Mesala lo encarcela a él y a su familia. Mientras Ben-Hur es trasladado a galeras para cumplir su condena, un hombre llamado Jesús de Nazaret se apiada de él y le da de beber. En galeras conocerá al comandante de la nave y más tarde a un jeque árabe que participa con sus magníficos caballos en carreras de cuadrigas."
+    },
+    {
+      "id": "tmdb:284",
+      "type": "movie",
+      "name": "El apartamento",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2kJMgHi8vNY8a0UJiBU3HEyiqOa.jpg",
+      "description": "C.C. Baxter es un modesto pero ambicioso empleado de una compañía de seguros de Manhattan. Está soltero y vive solo en un discreto apartamento que presta ocasionalmente a sus superiores para sus citas amorosas. Tiene la esperanza de que estos favores le sirvan para mejorar su posición en la empresa. Pero la situación cambia cuando se enamora de una ascensorista que resulta ser la amante de uno de los jefes que usan su apartamento."
+    },
+    {
+      "id": "tmdb:1725",
+      "type": "movie",
+      "name": "West Side Story (Amor sin barreras)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AejrmDDmafBvaOLXWNct9fbJnZt.jpg",
+      "description": "En el West Side de Nueva York, un barrio marginal, se disputan la hegemonía dos bandas callejeras: los 'sharks', portorriqueños, y los 'jets', de ascendencia europea. El jefe de los primeros es Bernardo, que vive con su hermana María, quien acaba de llegar a Nueva York. Una noche, en un baile, coinciden los dos grupos y se desencadena una violenta pelea."
+    },
+    {
+      "id": "tmdb:947",
+      "type": "movie",
+      "name": "Lawrence de Arabia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg",
+      "description": "Biografía de T.E. Lawrence. El Cairo, 1917. Un conflictivo y enigmático oficial británico es enviado al desierto árabe durante la Gran Guerra en la campaña de ayuda a Arabia contra Turquía. En el desierto, se hace amigo de Sherif Ali Ben El Kharish y pone todo su empeño en la ayuda a los árabes. Éstos creen que Lawrence es otro amante del desierto que ayuda porque cree que Arabia es débil, mientras que sus superiores británicos creen que se ha vuelto loco. Cuando los planes de Lawrence consiguen llevarse a cabo con éxito, comienza a ganarse enemigos."
+    },
+    {
+      "id": "tmdb:5769",
+      "type": "movie",
+      "name": "Tom Jones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jKlKNxu79GnQKJuHEJUloyzU4GQ.jpg",
+      "description": "Basada en la novela homónima del escritor inglés Henry Fielding. Hijo ilegítimo de una pobre mujer que se vio obligada a abandonarlo poco después de nacer, Tom Jones (Albert Finney) fue adoptado y educado por el bondadoso señor Allworthy, en cuya casa creció feliz y despreocupadamente junto a Blifil, el sobrino de su protector. Con el tiempo, ambos se enamoraron de su encantadora vecina Sophie Western (Susannah York). Dominado por los celos, Blifil, el único heredero de la hacienda familiar, decidió expulsar a Tom de la casa."
+    },
+    {
+      "id": "tmdb:11113",
+      "type": "movie",
+      "name": "My Fair Lady (Mi bella dama)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/e9iY66L0QbSrfLtmFACvTrNVsZN.jpg",
+      "description": "Versión cinematográfica del mito de Pigmalión, inspirada en la obra teatral homónima del escritor irlandés G.B. Shaw. En una lluviosa noche de 1912, el excéntrico y snob lingüista Henry Higgins conoce a Eliza Doolittle, una harapienta y ordinaria vendedora de violetas. El vulgar lenguaje de la florista despierta tanto su interés que hace una arriesgada apuesta con su amigo, el coronel Pickering: se compromete a enseñarle a hablar correctamente el inglés y a hacerla pasar por una dama de la alta sociedad en un plazo de seis meses."
+    },
+    {
+      "id": "tmdb:15121",
+      "type": "movie",
+      "name": "Sonrisas y lágrimas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3mYxH1mwSmNoyZF4xvDvcEpH18F.jpg",
+      "description": "Austria, 1938. Maria es una alegre novicia que abandona la abadía de Salzburgo para convertirse en la institutriz de los siete hijos de un militar retirado, el capitán Von Trapp, viudo desde hace poco tiempo. La casa de los Von Trapp funciona como un cuartel, pero Maria consigue devolver la alegría a los niños y ganarse su respeto y cariño."
+    },
+    {
+      "id": "tmdb:874",
+      "type": "movie",
+      "name": "Un hombre para la eternidad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ktOGYwg9wWojDSfCInx9eMdmqnN.jpg",
+      "description": "Para divorciarse de su esposa Catalina de Aragón (hija de los Reyes Católicos y tía del emperador Carlos V) y contraer matrimonio con Ana Bolena, Enrique VIII (1509-1547) trata de obtener el apoyo de la aristocracia y del clero. Sir Thomas Moro, gran humanista (\"Utopía\", 1516), ferviente católico y hombre de confianza del monarca, se encuentra en una encrucijada: ¿debe actuar de acuerdo con su conciencia, arriesgándose a ser tachado de traidor y ejecutado, o debe ceder ante un rey que no tiene ningún reparo en adaptar la ley a sus necesidades?"
+    },
+    {
+      "id": "tmdb:10633",
+      "type": "movie",
+      "name": "En el calor de la noche",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lRkD04pmGpVSYsObL4LZctxiCt9.jpg",
+      "description": "En una pequeña población de Mississippi, el policía Sam Wood descubre el cadáver de un industrial. Poco después, detiene en la estación a un hombre negro que, tras ser interrogado por el jefe de la policía local, Billl Gillespie, resulta ser un inspector de la policía de Filadelfia llamado Virgil Tibbs. Ambos policías deciden colaborar para investigar el asesinato."
+    }
+  ]
 }
