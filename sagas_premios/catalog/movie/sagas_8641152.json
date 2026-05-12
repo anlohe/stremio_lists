@@ -1,3 +1,67 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:348",
+      "type": "movie",
+      "name": "Alien, el octavo pasajero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
+      "description": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación."
+    },
+    {
+      "id": "tmdb:679",
+      "type": "movie",
+      "name": "Aliens: El regreso",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+      "description": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad."
+    },
+    {
+      "id": "tmdb:8077",
+      "type": "movie",
+      "name": "Alien³",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mj4lGdK8dyivFDKoRXEUmkaUKKf.jpg",
+      "description": "Tras conseguir escapar con Newt, Hicks y Bishop de un planeta alienígena, la teniente Ellen Ripley recala accidentalmente en Fiorina 161, una remota cárcel galáctica cuyos peligrosos reclusos están absolutamente abandonados a su suerte."
+    },
+    {
+      "id": "tmdb:8078",
+      "type": "movie",
+      "name": "Alien: Resurrección",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg",
+      "description": "Más de doscientos años después de su muerte, Ellen Ripley vuelve a la vida gracias al empleo de técnicas avanzadas de clonación. Pero, durante el proceso, el ADN de Ripley se ha mezclado con el de la Reina Alien, por lo que Ripley empieza a desarrollar ciertas características de la peligrosa alienígena."
+    },
+    {
+      "id": "tmdb:70981",
+      "type": "movie",
+      "name": "Prometheus",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5oYpDom6T7c1YiL2j5IImKklws7.jpg",
+      "description": "Un grupo de científicos y exploradores emprende un viaje espacial a un remoto planeta, en el que sus límites físicos y mentales serán puestos a prueba. El motivo de la misión es que los humanos creen que allá podrán encontrar las respuestas a las preguntas más profundas y al mayor de los misterios: el origen de la vida en la Tierra."
+    },
+    {
+      "id": "tmdb:126889",
+      "type": "movie",
+      "name": "Alien: Covenant",
+      "poster": "http://127.0.0.1:8888/t/p/w500/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg",
+      "description": "Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil cuyo único habitante es un \"sintético\" llamado David (Michael Fassbender), superviviente de la malograda expedición Prometheus.  Secuela de \"Prometheus\" (2012), a su vez precuela de \"Alien, el octavo pasajero\" (1979)."
+    },
+    {
+      "id": "tmdb:945961",
+      "type": "movie",
+      "name": "Alien: Romulus",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+      "description": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien."
+    },
+    {
+      "id": "tmdb:395",
+      "type": "movie",
+      "name": "Alien vs. Predator",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",
+      "description": "El descubrimiento de una antigua pirámide enterrada bajo los hielos de la Antártida hace acudir hasta el continente helado a un equipo de científicos y aventureros. Una vez allí, hacen un descubrimiento aún más aterrador: dos razas de extraterrestres en guerra. Gane quien gane, nosotros perdemos. La increíble y terrorífica aventura comienza cuando el millonario industrial Charles Bishop Weyland reúne a un equipo internacional de arqueólogos, científicos y expertos en seguridad, dirigidos por la especialista en medioambiente y aventurera Alexa ”Lex” Woods, para investigar unas misteriosas ”emanaciones de calor” que surgen desde las profundidades de la Antártida."
+    },
+    {
+      "id": "tmdb:440",
+      "type": "movie",
+      "name": "Aliens vs. Predator 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
+      "description": "Cuando una nave exploradora Predator se estrella, aparece en un pueblo de Colorado. Los Aliens a bordo escapan y matan a todos los Predators excepto a uno. El último Predator superviviente debe ahora acabar con todos los Aliens, así como con el terrorífico Pred-Alien que fue engendrado en la anterior entrega. Mientras tanto, los habitantes del pueblo están siendo inutilmente atrapados en medio del último enfrentamiento entre estas dos criaturas míticas."
+    }
+  ]
 }

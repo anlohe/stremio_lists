@@ -1,3 +1,179 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:4886",
+      "type": "movie",
+      "name": "Diez negritos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kfDpvnl4ReYC4qtfMsB3J7YHC5C.jpg",
+      "description": "Adaptación de la novela homónima de Agatha Christie. Un misterioso personaje invita a diez personas a pasar un fin de semana en una isla, pero, cuando llegan, el anfitrión no está; lo que encuentran es una cinta grabada sobre un asesinato y los posibles sospechosos."
+    },
+    {
+      "id": "tmdb:37257",
+      "type": "movie",
+      "name": "Testigo de cargo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zvhSdC8NmanfKdmE2em57Eei5TG.jpg",
+      "description": "Leonard Vole, un hombre joven y atractivo, es acusado del asesinato de la señora French, una rica anciana con quien mantenía una relacion de carácter amistoso. El presunto móvil del crimen era la posibilidad de heredar los bienes de la difunta. A pesar de que las pruebas en su contra son demoledoras, Sir Wilfrid Roberts, un prestigioso abogado criminalista londinense, se hace cargo de su defensa."
+    },
+    {
+      "id": "tmdb:750",
+      "type": "movie",
+      "name": "El tren de las 4:50",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tqnUJyeirufO0q29PoSPaCpB27E.jpg",
+      "description": "Miss Marple cree haber presenciado un crimen: mientras viaja en el tren de Paddington y su tren se cruza con otro, cree ver por la ventanilla como, en el otro tren, una joven es estrangulada . Pero la policía no encuentra evidencias de que el crimen se haya cometido y cree que ha sido una alucinación de la anciana, con lo que ésta decide investigar por su cuenta. La primera de las cuatro películas en las que Margaret Rutherford interpretó a miss Marple."
+    },
+    {
+      "id": "tmdb:751",
+      "type": "movie",
+      "name": "Después del funeral",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lCLJ6yutSJc8PkiazcEh8dB6Juh.jpg",
+      "description": "Miss Marple y Mr Stinger son testigos de la muerte por ataque cardíaco de Mr. Enderby, un personaje muy anciano y muy rico. A pesar de las apariencias, tienen dudas sobre lo que ha sucedido realmente. Como la policía no comparte sus sospechas, Miss Marple deberá investigar por su cuenta. Segunda película de Margeret Rutherford en el papel de Miss Marple."
+    },
+    {
+      "id": "tmdb:757",
+      "type": "movie",
+      "name": "La señora McGinty ha muerto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/j6nBQZTUJ2vHNiOy3iSzrYmOUaA.jpg",
+      "description": "La señorita Marple se une a una compañía de teatro para demostrar la inocencia de un hombre acusado de asesinar a una ex actriz. Durante el juicio, el jurado decide que los hechos no están suficientemente probados. Tercera película de Margaret Rutherford en el papel de la señorita Marple."
+    },
+    {
+      "id": "tmdb:758",
+      "type": "movie",
+      "name": "Asesinato a bordo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zhKis19gGP4n2Ei8KhT6umCHvt.jpg",
+      "description": "Miss Marple pertenece al consejo de administración de un buque escuela y uno de sus miembros ha sido asesinado. El inspector que lleva la investigación concluye que la muerte se ha debido a un fallo cardíaco, pero miss Marple cree que ha sido envenenado, tras examinar la caja de rapé del muerto. Cuarta y última película de Margaret Rutherford en el papel de Miss Marple."
+    },
+    {
+      "id": "tmdb:4879",
+      "type": "movie",
+      "name": "Diez negritos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iFBY02sqbyNHEtfRpHAKi5m9KDZ.jpg",
+      "description": "Nueva versión de la célebre novela de Agatha Christie que traslada la trama a un remoto castillo de los Alpes austríacos."
+    },
+    {
+      "id": "tmdb:40821",
+      "type": "movie",
+      "name": "Noche sin fin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lAEo5774oRhqcQ5pyyOYyjER17S.jpg",
+      "description": "Michael conduce un Rolls Royce para los acaudalados americanos que están de vacaciones por Europa. Cuando conoce a Ellie, una encantadora jovencita americana, se atraen mutuamente y tienen un affaire. Pero son interrumpidos por una extraña y siniestra anciana, quien advierte a Ellie \"vete ahora antes de que te hagan daño”"
+    },
+    {
+      "id": "tmdb:4883",
+      "type": "movie",
+      "name": "Diez negritos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oWd27EfkWf9pqT4fdQdfbq4Et9x.jpg",
+      "description": "Versión de la famosa obra de Agatha Christie. Diez personas son invitadas a acudir a una lujosa y aislada mansión por el Sr. Owen, al que ninguno conoce. Cuando todos han llegado, se cierran los accesos a la casa y una voz grabada acusa a cada uno de un crimen que la ley no descubrió y por el que, asegura la grabación, ahora pagarán."
+    },
+    {
+      "id": "tmdb:4176",
+      "type": "movie",
+      "name": "Asesinato en el Orient Express",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mxqvVIP3gcAgnLZgfCJzlOnkZj3.jpg",
+      "description": "La investigación de un asesinato perpetrado durante un viaje en el legendario Orient Express conducida por del famoso detective Hercule Poirot para encontrar al culpable, tropieza con grandes dificultades, pues los ilustres pasajeros disponen de una coartada que parece excluirles como sospechosos."
+    },
+    {
+      "id": "tmdb:4192",
+      "type": "movie",
+      "name": "Muerte en el Nilo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xNMrF4eRxaPV8wqf2udKxDVCH9C.jpg",
+      "description": "A bordo de un lujoso barco fluvial, el Karnak, se dan cita diez personas que se ven implicadas en el misterioso asesinato de una rica heredera norteamericana. Mientras remontan las tranquilas aguas del Nilo, Hercules Poirot se hace cargo de la investigación y poco a poco va desentrañando el enigmático crimen."
+    },
+    {
+      "id": "tmdb:6028",
+      "type": "movie",
+      "name": "El espejo roto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7mmFxC9Y0d7xKvWBArm68SDdxBF.jpg",
+      "description": "La célebre detective aficionada Miss Marple vive en una pequeña y apacible aldea inglesa. La llegada de un equipo de rodaje de Hollywood altera la paz del lugar. El rodaje de una película sobre María Estuardo es fuente de continuos conflictos debido a la rivalidad entre las dos actrices protagonistas: Marine Rudd y Lola Brewster. En una recepción de gala se comete un asesinato. De la investigación se ocupa un sobrino de Miss Marple que es inspector de Scotland Yard, pero se muestra incapaz de resolver el caso. Por fortuna, tiene una tía extremadamente perspicaz."
+    },
+    {
+      "id": "tmdb:4193",
+      "type": "movie",
+      "name": "Muerte bajo el sol",
+      "poster": "http://127.0.0.1:8888/t/p/w500/utPJlU3OoBeCqVrjRA3gSXkxWym.jpg",
+      "description": "La investigación sobre un diamante falso lleva al detective Hércules Poirot a alojarse en un hotel donde coincide con Arlena, una actriz con un pasado tumultuoso a la que los demás huéspedes parecen odiar."
+    },
+    {
+      "id": "tmdb:5972",
+      "type": "movie",
+      "name": "Witness for the Prosecution",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sreUg3pWJGL24C1qV4HZLxkbZD7.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:6103",
+      "type": "movie",
+      "name": "La Muerte de Lord Edgware",
+      "poster": "http://127.0.0.1:8888/t/p/w500/klIFNF78wpVI4IAcntk3mGYJ9gs.jpg",
+      "description": "Durante una fiesta, la mujer de Lord Edgware comenta entre bromas, a algunos invitados, que ella sería capaz de matar a su marido si éste no le concediera el divorcio. Al día siguiente Lord Edgware es encontrado muerto..."
+    },
+    {
+      "id": "tmdb:6105",
+      "type": "movie",
+      "name": "El templete de Nasse House",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4E5VlfRXPoQJCHROkEnDzVfw165.jpg",
+      "description": "El matrimonio Folliat, encargado de organizar la fiesta del pueblo, le pide a su amiga Ariadne Oliver, escritora de libros de misterio, que planifique la puesta en escena de un falso asesinato. Ella acepta, pero, tras varias semanas de trabajo, le pide ayuda a su amigo Hercule Poirot, ya que tiene el presentimiento de que algo siniestro va a ocurrir."
+    },
+    {
+      "id": "tmdb:6107",
+      "type": "movie",
+      "name": "Tragedia en tres actos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2qEaWC5N5q2VcAsphXkljZlfvFH.jpg",
+      "description": "Trece invitados acuden a una fiesta en casa del célebre actor sir Charles Cartwright. Una noche desafortunada para el reverendo Stephen Babbington, quien, tras probar un cóctel, cae muerto. Cuando el vaso vuelve del laboratorio sin que se hayan detectado rastros de veneno, el detective Poirot tiene que enfrentarse a un gran misterio."
+    },
+    {
+      "id": "tmdb:4885",
+      "type": "movie",
+      "name": "Десять негритят",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1r050Led0OpxOUh9zFy5d1WPJ0m.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:4281",
+      "type": "movie",
+      "name": "Cita con la muerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/coObRdvAonWPf3KlU30Ym2Khfr3.jpg",
+      "description": "Cuando una multimillonaria, cuya fortuna es ambicionada por varias personas, muere asesinada, las sospechas recaen sobre sus posibles herederos. El detective Hércules Poirot es el encargado de investigar el crimen."
+    },
+    {
+      "id": "tmdb:103761",
+      "type": "movie",
+      "name": "Muerte en el safari",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nkh9NY3PMYqpCVQqo9yJFe8u0eq.jpg",
+      "description": "Unos turistas, que se encuentran de safari en plena jungla africana, ven como son asesinados uno detrás de otro. Adaptación del clásico de la célebre escritora inglesa Agatha Christie."
+    },
+    {
+      "id": "tmdb:6110",
+      "type": "movie",
+      "name": "Asesinato en el Orient Express",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gbWkAiFvD95KB6PdqxGHxvBOfBP.jpg",
+      "description": "Hercules Poirot, ahora en era moderna, investiga el famoso crimen en el afamado tren con un nuevo giro."
+    },
+    {
+      "id": "tmdb:419835",
+      "type": "movie",
+      "name": "La casa torcida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lHDeiMLTlQEI26r0HrzV8L5cBIC.jpg",
+      "description": "Aristides Leónides es el patriarca de una adinerada familia de origen griego que será asesinado poco después de que su nieta presente a la familia a su prometido, hijo de un detective de Scotland Yard, que será quien deberá resolver el crimen. Adaptación de la novela de Agatha Christie."
+    },
+    {
+      "id": "tmdb:392044",
+      "type": "movie",
+      "name": "Asesinato en el Orient Express",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v5F94xCSBrSDorvOQNHU4sqAcqZ.jpg",
+      "description": "Durante un viaje en el legendario tren Orient Express, el detective belga Hercules Poirot investiga un asesinato cometido en el trayecto, y a resultas del cual todos los pasajeros del tren son sospechosos del mismo."
+    },
+    {
+      "id": "tmdb:505026",
+      "type": "movie",
+      "name": "Muerte en el Nilo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4Fbl3qZSraPXdgmQQzQIDJA736N.jpg",
+      "description": "Las vacaciones egipcias del detective belga Hércules Poirot, a bordo de un glamuroso barco de vapor, se ven alteradas por la búsqueda de un asesino cuando la idílica luna de miel de una pareja perfecta se ve truncada de la forma más trágica."
+    },
+    {
+      "id": "tmdb:945729",
+      "type": "movie",
+      "name": "Misterio en Venecia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kWz6Aa2chxcNUgAQNooYS4yyLkC.jpg",
+      "description": "En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino."
+    }
+  ]
 }
