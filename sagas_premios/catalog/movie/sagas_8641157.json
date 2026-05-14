@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:19995",
+      "type": "movie",
+      "name": "Avatar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+      "description": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo."
+    },
+    {
+      "id": "tmdb:76600",
+      "type": "movie",
+      "name": "Avatar: El sentido del agua",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
+      "description": "Más de una década después de los acontecimientos de 'Avatar', los Na'vi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los hombres del cielo. Entonces comienzan los problemas que persiguen sin descanso a la familia Sully, que decide hacer un gran sacrificio para mantener a su pueblo a salvo y seguir ellos con vida."
+    },
+    {
+      "id": "tmdb:83533",
+      "type": "movie",
+      "name": "Avatar: Fuego y ceniza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+      "description": "Jake Sully y Neytiri enfrentan una nueva amenaza en Pandora: los Ash People, una tribu Na'vi violenta y sedienta de poder, liderada por la implacable Varang. Tras la devastadora guerra contra la RDA y la pérdida de su hijo mayor, la familia de Jake deberá luchar por su supervivencia y el futuro de Pandora en un conflicto que llevará a los personajes a sus límites emocionales y físicos. Con nuevos y antiguos aliados, esta épica visual y emocional redefine el destino de un mundo al borde del abismo."
+    }
+  ]
 }

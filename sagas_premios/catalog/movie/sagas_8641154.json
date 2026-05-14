@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:941",
+      "type": "movie",
+      "name": "Arma letal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg",
+      "description": "Antiguos soldados de la guerra del Vietnam han creado una poderosa red de tráfico de droga. Dos policias reciben el encargo de esclarecer un asesinato en el que esa peligrosa organización se halla implicada."
+    },
+    {
+      "id": "tmdb:942",
+      "type": "movie",
+      "name": "Arma letal 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/60lsR1XuNjmA676sXUJtmEgiY4X.jpg",
+      "description": "Una pareja de policías tiene como misión proteger a un individuo que va a testificar en contra de una organización de traficantes de droga. Las cosas se complican cuando uno de ellos decide iniciar la investigación por su cuenta sin comunicarlo a la comisaría."
+    },
+    {
+      "id": "tmdb:943",
+      "type": "movie",
+      "name": "Arma letal 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6AYVXfpC4tE7pYNpa6Zf6wKu6f2.jpg",
+      "description": "Riggs y Roger son una pareja de policías de Los Ángeles que se enfrentan a un difícil caso. Armas confiscadas y a punto de ser destruidas han desaparecido de las dependencias oficiales y están llegando a los delincuentes más peligrosos de la ciudad. El responsable resulta ser Travis, antiguo teniente expulsado del cuerpo por corrupción."
+    },
+    {
+      "id": "tmdb:944",
+      "type": "movie",
+      "name": "Arma letal 4",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fXlPJpyxlbFRz0WXhQDoFdYBfXq.jpg",
+      "description": "La pareja de policías formada por Martin Riggs y Roger Murtaugh vuelve a la carga para enfrentarse a un capo de la mafia asiática que ha extendido sus actividades a Los Angeles. En la investigación les ayudará un joven policía responsable de los quebraderos de cabeza familiares de Murtaugh, ya que ha dejado embarazada a su hija. En casa de Riggs, las cosas también se complican cuando su compañera espera un hijo y amenaza con hacerle pasar por el altar."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:9671",
+      "type": "movie",
+      "name": "Cocodrilo Dundee",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q0Msbpvpe6yuvIUCyJuBbQ9UhUj.jpg",
+      "description": "Michael Dundee es un amigable y rudo cazador de cocodrilos en el salvaje outback australiano que, por su original filosofía de la vida, es considerado como un héroe entre los suyos. Su fama llega a oídos de Sue Charlton, una reportera de Nueva York que decide ir a Australia para visitarle y, una vez allí, le convence para que le acompañe en su viaje de regreso a América."
+    },
+    {
+      "id": "tmdb:9396",
+      "type": "movie",
+      "name": "Cocodrilo Dundee II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pNKpKq8Ugx9NytDcnI1kb58mFSF.jpg",
+      "description": "Mick Dundee vive con la periodista Sue Charlton en su lujoso apartamento de Nueva York. Pero, tras el asesinato de Bob, el ex-marido de Sue, a manos de unos traficantes de drogas colombianos, Nick decide llevársela a Australia para poder protegerla mejor."
+    },
+    {
+      "id": "tmdb:9290",
+      "type": "movie",
+      "name": "Cocodrilo Dundee en Los Ángeles",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cruYZMxJdoMY23cR71J2QssFqm4.jpg",
+      "description": "Nuevas aventuras del famoso personaje creado por Paul Hogan, esta vez con su hijo, acaecidas en la \"jungla\" californiana. Mick Dundee vive en la actualidad con Sue, la mujer que le robó el corazón. El padre de Sue le ruega a su hija que se traslade urgentemente a California para hacerse cargo de la dirección de su periódico. En la selva de Los Ángeles \"Cocodrilo Dundee\", su mujer y su hijo vivirán las más divertidas y emocionantes aventuras investigando un misterio que les llevará a un estudio cinematográfico en Hollywood."
+    }
+  ]
 }

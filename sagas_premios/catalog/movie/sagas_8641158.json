@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:620",
+      "type": "movie",
+      "name": "Los cazafantasmas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg",
+      "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa \"Los Cazafantasmas\", dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio."
+    },
+    {
+      "id": "tmdb:2978",
+      "type": "movie",
+      "name": "Los cazafantasmas II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg",
+      "description": "Han pasado cinco años desde que los Cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stantz y su colega Winston Zeddemore se ganan la vida entreteniendo a niños en fiestas infantiles, y el mago tecnológico Egon Spengler continúa sus investigaciones sobre los efectos de las emociones humanas en el campo de energía psicomagnética. La relación de Dana Barrett con Venkman se disolvió; ella se casó con otro hombre y tuvo un hijo, pero el matrimonio fracasó. Ahora Dana vive sola en Nueva York, criando a Oscar, su bebé de ocho meses, y trabajando como restauradora de cuadros en el Museo de arte de Manhattan, junto a un excéntrico experto en pinturas del periodo romántico, Janosz Poha. Todo parece normal hasta que el cochecito de Oscar rueda por sí solo y se mete entre el peligroso tráfico de la ciudad."
+    },
+    {
+      "id": "tmdb:43074",
+      "type": "movie",
+      "name": "Cazafantasmas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg",
+      "description": "Manhattan, Nueva York. Después de casi treinta años sin saber de ellos, los fantasmas y demonios se han vuelto a escapar de los infiernos para destruir la ciudad. Esta vez un nuevo equipo de Cazafantasmas, formado por un grupo de cuatro mujeres, está dispuesto a terminar con cualquier amenaza espectral."
+    },
+    {
+      "id": "tmdb:425909",
+      "type": "movie",
+      "name": "Cazafantasmas: Más allá",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1jy2R4irQMZEaHvGkKoyuaKJPJO.jpg",
+      "description": "Al quedarse sin opciones y dinero, Callie, madre soltera, pone un pie en la pequeña ciudad de Summerville, Oklahoma, con sus dos hijos adolescentes, Phoebe y Trevor. Y ahora ya no hay vuelta atrás. Mientras la familia intenta establecerse en la destartalada casa del excéntrico difunto padre de Callie, secretos inesperados escondidos a plena vista, equipos misteriosos y un extraño vehículo pudriéndose en el granero parecen estar relacionados con la desconcertante actividad sísmica de la zona, y algo aún más impactante: el olvidado incidente del Hombre Malvavisco Stay-Puft en la ciudad de Nueva York de los años 80. Pero no ha habido ni un solo avistamiento de fantasmas desde los extraños acontecimientos de Los Cazafantasmas II (1989). ¿Se está repitiendo la historia? ¿Phoebe conectará los puntos, le dará voz a su abuelo y descubrirá la conexión de la familia con los Cazafantasmas originales (1984)?"
+    },
+    {
+      "id": "tmdb:967847",
+      "type": "movie",
+      "name": "Cazafantasmas: Imperio helado",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg",
+      "description": "Después de los eventos de Oklahoma, el equipo de Cazafantasmas regresa a donde comenzó todo: ¡Nueva York! La historia de la familia Spengler continúa con un nuevo grupo de Cazafantasmas."
+    }
+  ]
 }

@@ -1,3 +1,60 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:367873",
+      "type": "movie",
+      "name": "813",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qRvkwT26wmtR4DJWD8G2Zem3OL5.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:161297",
+      "type": "movie",
+      "name": "Arsène Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zmN5X4wM9DcMoiIMMfDxX8eoqbP.jpg",
+      "description": "Arsène Lupin (John Barrymore), un ladrón que se hace pasar por el Duque de Charmerace, vive en París y su único objetivo es desplumar a los ricos. Después del robo perpetrado en la mansión del millonario Gourney-Martin (Tully Marshall), el detective Guerchard (Lionel Barrymore) sospecha que el culpable es el famoso Lupin. En una fiesta, en la que coinciden Guerchard y Lupin, éste decide actuar: un corte abrupto de la electricidad y el robo de varios invitados, que sólo se dan cuenta cuando vuelve la luz. Gourney-Martin invita a su residencia campestre a Charmerace y a Sonia (Karen Morley), que, en realidad es una ladronzuela que trata de rehabilitarse colaborando con Guerchard."
+    },
+    {
+      "id": "tmdb:127812",
+      "type": "movie",
+      "name": "Arsène Lupin Returns",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3yHqgzR5uUQ7IUf1pGzsufn47g6.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:171594",
+      "type": "movie",
+      "name": "Vuelve Arsène Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dQgv1hNSNo7qL6YIHfF8n1rGTv1.jpg",
+      "description": "Una joven rica pero ingenua posee algunas joyas de valor incalculable. Ella misma no lo sabe, pero una banda de ladrones de joyas sí."
+    },
+    {
+      "id": "tmdb:91380",
+      "type": "movie",
+      "name": "Las aventuras de Arsenio Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dV43fKAhcuQqhGh8lcQfg9Pz2gF.jpg",
+      "description": "Arsenio Lupin es un célebre ladrón francés de guante blanco, que se esconde con la identidad del Duque de Charmerace. El káiser Guillermo de Alemania, incentivado por una de sus aristócratas, decide secuestrarlo para ver si es capaz de descubrir un escondite secreto de su castillo en el que guarda una importante joya."
+    },
+    {
+      "id": "tmdb:146581",
+      "type": "movie",
+      "name": "Signé : Arsène Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tNjGxqFen6bEALALT7mw4bxM3BE.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:4719",
+      "type": "movie",
+      "name": "Arsène Lupin contre Arsène Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kFAAf3imyD9fmM60T7aRXeihigA.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:11540",
+      "type": "movie",
+      "name": "Arsène Lupin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y57IB1vuOqTUrPHehlB5ewZfNh6.jpg",
+      "description": "Arsene Lupin es un ladrón sin preocupaciones, robando a la aristocracia parisina a través de su encanto formidable. Su encuentro con una aventurera hechizante, la condesa de Cagliostro, transformará el ratero novato en un ladrón de altos vuelos. Lanzado en el rastro del tesoro perdido de los reyes de Francia, que ambiciona una hermandad oscura realista, el joven virtuoso multiplica golpes de brillantez: un ataque a un tren que va a toda velocidad, persecución en las catacumbas parisinas, espectacular vuelo en la catedral de Rouen... Pero su misión se verá afectada por su pasión ciega por la condesa venenosa..."
+    }
+  ]
 }
