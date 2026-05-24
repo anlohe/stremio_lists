@@ -706,6 +706,13 @@
       "name": "Un simple accidente",
       "poster": "http://127.0.0.1:8888/t/p/w500/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
       "description": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión."
+    },
+    {
+      "id": "tmdb:1401459",
+      "type": "movie",
+      "name": "Fjord",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aJ5U8xJ63aWRFXxpJPGwj6wYX69.jpg",
+      "description": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada."
     }
   ]
 }
