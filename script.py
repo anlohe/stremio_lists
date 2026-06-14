@@ -2,11 +2,48 @@ import os
 import json
 import requests
 import time
+import regex
 
 # --- CONFIGURACIÓN DE SEGURIDAD V4 ---
 # Usamos directamente el Token de lectura que me proporcionaste
 TMDB_TOKEN = os.environ.get("TMDB_API_KEY")
 LANG = "es-ES" 
+
+NON_LATIN = regex.compile(
+    r'[\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Han}\p{Script=Hiragana}'
+    r'\p{Script=Katakana}\p{Script=Hangul}\p{Script=Devanagari}\p{Script=Thai}'
+    r'\p{Script=Hebrew}\p{Script=Greek}\p{Script=Tamil}\p{Script=Bengali}'
+    r'\p{Script=Telugu}\p{Script=Malayalam}\p{Script=Georgian}\p{Script=Armenian}]'
+)
+
+def resolver_titulo(tmdb_movie):
+    titulo = tmdb_movie.get('title') or tmdb_movie.get('original_title') or ""
+    original = tmdb_movie.get('original_title') or ""
+
+    if not NON_LATIN.search(titulo):
+        return titulo
+
+    tmdb_id = tmdb_movie.get('id')
+    headers = {
+        "accept": "application/json",
+        "Authorization": f"Bearer {TMDB_TOKEN}"
+    }
+    try:
+        url = f"https://api.themoviedb.org/3/movie/{tmdb_id}?append_to_response=translations"
+        r = requests.get(url, headers=headers)
+        r.raise_for_status()
+        data = r.json()
+        translations = data.get('translations', {}).get('translations', [])
+        en = next((t['data'].get('title') for t in translations if t.get('iso_639_1') == 'en'), None)
+        if en and not NON_LATIN.search(en):
+            return en
+    except Exception as e:
+        print(f"Aviso: no se pudo traducir titulo de {tmdb_id}: {e}")
+
+    if original and not NON_LATIN.search(original):
+        return original
+
+    return titulo
 
 def obtener_peliculas_tmdb(list_id):
     peliculas = []
@@ -51,7 +88,7 @@ def formatear_para_stremio(tmdb_movie):
     return {
         "id": stremio_id,
         "type": "movie",
-        "name": tmdb_movie.get('title') or tmdb_movie.get('original_title'),
+        "name": resolver_titulo(tmdb_movie),
         "poster": poster_url,
         "description": tmdb_movie.get('overview', 'Sin descripción en español.')
     }
