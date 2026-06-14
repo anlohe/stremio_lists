@@ -31,7 +31,7 @@
     {
       "id": "tmdb:154879",
       "type": "movie",
-      "name": "नीचा नगर",
+      "name": "Neecha Nagar",
       "poster": "http://127.0.0.1:8888/t/p/w500/6790uW3R2yU2w0qiWY3nt2Iki9e.jpg",
       "description": ""
     },
@@ -52,7 +52,7 @@
     {
       "id": "tmdb:154620",
       "type": "movie",
-      "name": "Великий перелом",
+      "name": "The Turning Point",
       "poster": "http://127.0.0.1:8888/t/p/w500/k2OmsIeAU8LUyAwybRLScZXqG43.jpg",
       "description": ""
     },
