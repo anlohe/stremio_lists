@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:431",
+      "type": "movie",
+      "name": "Cube",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ngM6WtSC1bzcST3QzbCiDYsxo7E.jpg",
+      "description": "Seis personas, desconocidas entre sí, despiertan un día y se encuentran atrapadas en una prisión extraña y surrealista, en un laberinto con un sin fin de habitaciones cúbicas dotadas de trampas mortales. Entre ellos hay un policía, un ladrón profesional, un prodigioso estudiante de matemáticas y un joven autista. Esta mezcla caprichosa de personalidades no está exenta de perversión. Ninguno de ellos sabe porqué o cómo ha llegado hasta allí, porqué está preso, pero enseguida surgirá la obsesión en este grupo por huir, por planificar una salida de tan horrible cárcel. Mientras tanto, varias preguntas sin respuestas: ¿quién ha podido crear este diabólico laberinto y por qué? ¿quién les ha encerrado en él y con qué objetivo?."
+    },
+    {
+      "id": "tmdb:437",
+      "type": "movie",
+      "name": "Cube 2: Hypercube",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gN5jiymsQW00AK7ZT2ftM7hVsWD.jpg",
+      "description": "Ocho personas despiertan encerradas en una extraña habitación con forma de cubo sin saber cómo llegaron hasta ahí. Pronto descubren que las leyes de la física no se aplican en ese extraño mundo, así que tendrán que descubrir los secretos del cubo para poder sobrevivir."
+    },
+    {
+      "id": "tmdb:438",
+      "type": "movie",
+      "name": "Cube Zero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/615Tr0lF3LxYU8vQeyMEwmPPS3f.jpg",
+      "description": "Precuela de \"Cube\". Rains se despierta en un laberinto de habitaciones perfectamente cúbicas. Lleva un extraño uniforme gris y un código de barras tatuado en su mano. No recuerda nada, ni su nombre. Pronto encontrará otros prisioneros del laberinto que están en su misma situación. A medida que se van desplazando por los cubos, irán muriendo uno a uno en las trampas que irán encontrando. Rains tiene un admirador secreto. Se trata de Wynn y forma parte del grupo de observadores cuyo trabajo es controlar al grupo de prisioneros. Se siente atraido por ella e intentará hacer alguna cosa para ayudarla. En el universo del cubo, nadie está a salvo. Los observadores son observados y los prisioneros huyen en busca de una salida que no saben donde les llevará."
+    },
+    {
+      "id": "tmdb:792678",
+      "type": "movie",
+      "name": "Atrapados en el Cubo (Cube)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gqsO5PpQo6VhtrQwaFYaMaZyTKo.jpg",
+      "description": "Un cubo misterioso. Seis hombres y mujeres se ven de repente atrapados en 'Cube'. No está claro dónde está, ni por qué están atrapados, ni si hay una salida, ni si sobrevivirán, ni siquiera qué es la habitación."
+    }
+  ]
 }

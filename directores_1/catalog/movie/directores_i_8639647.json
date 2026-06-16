@@ -24,16 +24,16 @@
     {
       "id": "tmdb:66963",
       "type": "movie",
-      "name": "Lucrèce Borgia",
+      "name": "Lucrecia Borgia",
       "poster": "http://127.0.0.1:8888/t/p/w500/ksLlze03QbYi5VPfJpZwH78vqgb.jpg",
-      "description": ""
+      "description": "A finales del siglo XV, Roma es defendida por César Borgia, el hijo mayor del papa Alejandro VI. Siguiendo el consejo del cruel Nicolás Maquiavelo, decide unificar Italia para tener mayor poder pero necesita casar a su hermana Lucrecia contra su voluntad."
     },
     {
       "id": "tmdb:258517",
       "type": "movie",
-      "name": "Un grand amour de Beethoven",
+      "name": "Un gran amor de Beethoven",
       "poster": "http://127.0.0.1:8888/t/p/w500/cE58ZeetSqHl0cQ7hq1Wv75JHML.jpg",
-      "description": ""
+      "description": "Describe la vida del compositor de música culta Ludwig van Beethoven, bendecido para la música y maldito en el amor. Finalmente, decide centrarse en la primera."
     },
     {
       "id": "tmdb:130633",
