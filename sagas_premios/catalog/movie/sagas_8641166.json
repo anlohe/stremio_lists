@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:157350",
+      "type": "movie",
+      "name": "Divergente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/libmZ7xJBkVWmoixPyF3EdTmNtt.jpg",
+      "description": "\"Divergente\" es la historia de una sociedad que se divide en cinco categorías: Verdad, Abnegación, Osadía, Cordialidad y Erudición. Todos los miembros de esta sociedad tienen que elegir a una edad temprana, los dieciséis años, a qué bando creen pertenecer, atendiendo a sus virtudes personales más destacadas. En este dilema se encuentra la protagonista, Beatrice, que sorprende a todos sus allegados y amigos con la decisión que toma. Beatrice, que pasa a llamarse más tarde Tris, tiene que buscar su lugar adecuado, pero ella no es como el resto. Guarda un secreto que podría ser definitivo para mantener el orden social descrito y también para salvar su propia vida."
+    },
+    {
+      "id": "tmdb:262500",
+      "type": "movie",
+      "name": "La serie Divergente: Insurgente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/auUoVDnrPTtfn9zqQ5KKUvjwRZN.jpg",
+      "description": "Tris (Shailene Woodley) y Cuatro (Theo James) son ahora fugitivos que son perseguidos por Jeanine (Kate Winslet), la líder de los eruditos. Tris deberá averiguar lo que su familia se sacrificó para proteger mientras los eruditos harán cualquier cosa para detenerlos. Atormentada por las elecciones de su pasado pero desesperada por proteger a los que ama, Tris, junto a Cuatro, se enfrentarán a un reto tras otro para desbloquear la verdad de su pasado y el futuro de su mundo. Secuela de \"Divergente\" (2014)."
+    },
+    {
+      "id": "tmdb:262504",
+      "type": "movie",
+      "name": "La serie Divergente: Leal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mrzK6fJY6sCNjBdD3JY1AHGQWKS.jpg",
+      "description": "Tras las revelaciones trascendentales de 'Insurgente', Tris debe escapar con Cuatro e ir más allá del muro que rodea Chicago. Por primera vez dejarán la única ciudad y familia que conocen. Una vez fuera, todo aquello que presuponían como cierto, pierde cualquier sentido tras la revelación de nuevas verdades. Tris y Cuatro deben decidir rápidamente en quién confiar mientras se inicia una guerra despiadada que amenaza a toda la humanidad. Para sobrevivir, Tris se verá forzada a tomar decisiones imposibles sobre el coraje, la lealtad, el sacrificio y el amor."
+    }
+  ]
 }

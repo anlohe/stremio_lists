@@ -1,3 +1,333 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:436617",
+      "type": "movie",
+      "name": "La muerte de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sHSg6sGDjTFshhNNDWAA1ovzIdB.jpg",
+      "description": "Drácula es un profesor de música que se ha vuelto loco y que persigue a los pacientes de un manicomio."
+    },
+    {
+      "id": "tmdb:653",
+      "type": "movie",
+      "name": "Nosferatu",
+      "poster": "http://127.0.0.1:8888/t/p/w500/z45rXmIF0zl4uxRc5XcSfz6hYO6.jpg",
+      "description": "Año 1838. En la ciudad de Wisborg viven felices el joven Hutter y su mujer Ellen, hasta que el oscuro agente inmobiliario Knock decide enviar a Hutter a Transilvania para cerrar un negocio con el conde Orlok. Se trata de la venta de una finca de Wisborg, que linda con la casa de Hutter. Durante el largo viaje Hutter pernocta en una posada, donde hojea un viejo tratado sobre vampiros que encuentra en su habitación. Una vez en el castillo, es recibido por el siniestro conde. Al día siguiente, Hutter amanece con dos pequeñas marcas en el cuello, que interpreta como picaduras de mosquito. Una vez firmado el contrato, descubre que el conde es, en realidad, un vampiro. Al verle partir hacia su nuevo hogar, Hutter teme por Ellen."
+    },
+    {
+      "id": "tmdb:138",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zf7eGmr4l9whGIKzEpLvaoNtn9I.jpg",
+      "description": "El conde Drácula abandona los Cárpatos y se traslada a Londres, llevándose como sirviente a un contable. Una vez instalado, se enamora de una joven que ya está prometida. Empieza a a visitarla por las noches y va bebiendo su sangre poco a poco para convertirla así en su esposa. Pero el malestar que sufre la joven alerta a su familia, que busca la ayuda del doctor Van Helsing."
+    },
+    {
+      "id": "tmdb:39259",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/goLWA36jUdpxhFOMMbYyt3Zh0ii.jpg",
+      "description": "El conde Drácula cambia su residencia desde los Cárpatos a occidente. Para ello se procura la ayuda del abogado Renfield que le visita para acompañarle en su mudanza como servidor. Una vez instalado, conoce a una joven, ya prometida, de quién se enamora. Comenzará a visitarla por las noches, para ir bebiendo su sangre poco a poco, y convertirla así en su esposa. Pero el malestar que sufre la joven alerta a su familia, que contacta con el doctor Van Helsing... Versión alternativa al Drácula de Tod Browning interpretado por Bela Lugosi, que se grabó simultáneamente a la versión de habla inglesa, usando de noche los mismos estudios cuando el equipo de Browning terminaba su jornada diaria de rodaje. Fue el primer y último intento de la Universal de intentar abarcar el mercado hispano."
+    },
+    {
+      "id": "tmdb:22440",
+      "type": "movie",
+      "name": "La hija de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sj2fnUuqtoPMjFaUolXP5MShQme.jpg",
+      "description": "Por vez primera cambia el sexo del vampiro en la historia del cine. La condesa Marya Zaleska, miembro de la elite londinense, no es más que la hija del famoso aristócrata transilvano; lo cual nos es revelado a mitad del (breve) metraje, aunque sus afición al esoterismo y la brujería -y, por supuesto, el título- nos hacían sospechar ya dicha filiación."
+    },
+    {
+      "id": "tmdb:32023",
+      "type": "movie",
+      "name": "El hijo de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nezFyGf3PMcw4hKdZ6t9EIymNq0.jpg",
+      "description": "El hijo del Conde Drácula, utilizando una identidad falsa (Alucard), viaja a una plantación del sur de los Estados Unidos invitado por Katherine, una bella joven que vive obsesionada por la muerte. Inmediatamente después de su llegada, el conde Alucard intenta seducirla."
+    },
+    {
+      "id": "tmdb:30793",
+      "type": "movie",
+      "name": "La mansión de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vRceJIXGUuz5ZLZrgHjZQ4nmSy4.jpg",
+      "description": "El Hombre Lobo y Drácula llegan al laboratorio del Dr. Edelman para pedirle una cura que los libere de sus instintos asesinos. Pero mientras el Hombre Lobo es sincero, Drácula unicamente está planeando acercarse a la encantadora enfermera del doctor, a quien quiere seducir para que se convierta en una de sus siniestras novias. El monstruo de Frankenstein y una joven jorobada completan el plantel de criaturas terroríficas."
+    },
+    {
+      "id": "tmdb:110336",
+      "type": "movie",
+      "name": "La sangre de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gcnOgLB2QXS44uzzGwhljx291zy.jpg",
+      "description": "Una adolescente bajo el poder de la hipnosis de una profesora se convierte en un sediento vampiro"
+    },
+    {
+      "id": "tmdb:11868",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/l9x7uuVNWjcqYsXC5OOc23gTRUe.jpg",
+      "description": "El conde Drácula decide abandonar su castillo de los Cárpatos y establecerse en Occidente. Pronto conoce a una joven de quien se enamora y a la que visita por las noches. Esta alarmante situación hace que la familia de la chica busque la ayuda del doctor Van Helsing."
+    },
+    {
+      "id": "tmdb:53187",
+      "type": "movie",
+      "name": "El retorno de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oZKvj7PUcByOW409dEENGDcHKGh.jpg",
+      "description": "Después de que un vampiro abandone los Balcanes, éste asesina a un artista checo, asume su identidad, y se muda en con unos americanos, primos del muerto."
+    },
+    {
+      "id": "tmdb:23220",
+      "type": "movie",
+      "name": "Las novias de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dLImH0T5QsLJdWWXZbsZsIgWosO.jpg",
+      "description": "Después de que el joven barón Meinster sufra la mordedura del conde Drácula, para impedir que actúe como un vampiro, su madre decide confinarlo en sus habitaciones. Sin embargo, una joven lo libera sin sospechar las consecuencias de su acción."
+    },
+    {
+      "id": "tmdb:17102",
+      "type": "movie",
+      "name": "Drácula, príncipe de las tinieblas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6E1jqeUyxLV41RGhgr5xs0WPVCL.jpg",
+      "description": "El padre Sandor, abad de Kleinberg, envía un mensaje a los miembros de una expedición que se dirige a las montañas, aconsejándoles no seguir adelante. A pesar del aviso, los Kent deciden continuar el viaje. Al anochecer, su aterrado cochero se niega a seguir avanzando y los abandona en medio del bosque. En tal circunstancia, aparece un misterioso carruaje negro que los conduce a un enorme y misterioso castillo, donde son hospitalariamente recibidos por el conde Drácula."
+    },
+    {
+      "id": "tmdb:56165",
+      "type": "movie",
+      "name": "Billy the Kid Versus Dracula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A822lbDC7VkH6ZBR5wbVYl8C6K1.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:29778",
+      "type": "movie",
+      "name": "Drácula vuelve de la tumba",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fVABxdF1jNBpQdowKxRoVjFRJ7N.jpg",
+      "description": "En las sombras de su Castillo, el Conce Drácula resucita gracias a la sangre que cae de una herida que tiene en la cabeza un sacerdote inconsciente, que estaba intentando practicar un exorcismo. Una vez más, el terror se extiende por Transilvania."
+    },
+    {
+      "id": "tmdb:29121",
+      "type": "movie",
+      "name": "Blood of Dracula's Castle",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mRmmdKl4IfweC4cS2ti9Taim1We.jpg",
+      "description": "Cuando una pareja hereda una remota mansión deciden ir a visitarla; pero al llegar descubren que allí se han instalado sin su permiso Drácula y su esposa, que mantienen un harén de doncellas encadenadas para tener suministro permanente de sangre."
+    },
+    {
+      "id": "tmdb:5620",
+      "type": "movie",
+      "name": "El conde Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fySZpp91XMWUOgd44fp9CzOdd3r.jpg",
+      "description": "Jonathan Harker llega al castillo del conde Drácula y al poco se da cuenta que su anfitrión no es un ser de este mundo, sino que es un atroz vampiro."
+    },
+    {
+      "id": "tmdb:29748",
+      "type": "movie",
+      "name": "El poder de la sangre de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yGJhJaYXDq12e8JgpuDuSiMOuHr.jpg",
+      "description": "Un depravado satanista, obsesionado con la idea de resucitar a Drácula, convence a tres caballeros para comprar unas reliquias pertenecientes al mismísimo Príncipe de las Tinieblas: su capa, un anillo y un frasco de sangre pulverizada. Reunidos en una vieja iglesia desconsagrada, practican un ritual en el que tienen que beber la sangre de Drácula. Los caballeros se niegan y acaban matando al joven satanista. Cuando Drácula vuelve a la vida, se venga de los tres hombres, utilizando para ello a sus propios hijos"
+    },
+    {
+      "id": "tmdb:34479",
+      "type": "movie",
+      "name": "Las cicatrices de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yYd0leGTdrPQjDdkOveLbKofW1z.jpg",
+      "description": "Cuando un chico (Dennis Waternan) y su novia (Jenny Hanley) van en busca de su mujeriego hermano (Christopher Matthews), terminan en el castillo de Drácula (Christopher Lee). Naturalmente el Conde codicia a la joven y, a medida que aumentan las víctimas, y los sirvientes son torturados, el heroico novio trata desesperadamente de rescatar a su dama en apuros..."
+    },
+    {
+      "id": "tmdb:3125",
+      "type": "movie",
+      "name": "Dracula vs. Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/okBup7vZhKPat0mO6SQ1HdLP0YZ.jpg",
+      "description": "El Dr. Duryea vacía cadáveres en su laboratorio para destilar un suero de sangre. Una noche, recibe la visita de Drácula, éste le ofrece el cuerpo del Frankenstein original para que lo reavive y así utilizarlo. Sin embargo, es imposible controlar a los dos monstruos. Empieza una lucha encarnizada sin merced."
+    },
+    {
+      "id": "tmdb:33020",
+      "type": "movie",
+      "name": "Drácula 73",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9qqq6J7g0lqdi7XJCCNiHCHNRXD.jpg",
+      "description": "Londres, años 70. Johnny Alucard, un discípulo de Drácula, organiza una ceremonia de magia negra en un desolado cementerio para resucitar al siniestro Conde. Entre las víctimas que Alucard atrae al cementerio está Jessica Van Helsing, nieta del más famoso cazador de vampiros de todos los tiempos. Su abuelo intentará salvarla utilizando todos los recursos necesarios para atrapar y destruir a Drácula."
+    },
+    {
+      "id": "tmdb:30566",
+      "type": "movie",
+      "name": "Drácula negro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/beyQ251rHFVhEWOYG1VYziSkT5r.jpg",
+      "description": "Un príncipe africano acude a Transilvania para pedir al conde Drácula que le ayude a combatir el tráfico de esclavos. Como es natural, el aristócrata se burla sarcásticamente y como castigo a su osadía lo vampiriza. En la época actual, dos propietarios de un negocio de decoración deciden trasladar a su negocio en Los Ángeles los muebles y objetos del castillo. Como es fácil suponer, entre los efectos que viajan al Nuevo Mundo está el ataúd de Blacula. Nuestro vampiro de color empezará por vampirizar a sus «compradores» para seguir con una serie de asesinatos, eliminando a todo aquél que descubre su condición de no-muerto."
+    },
+    {
+      "id": "tmdb:3199",
+      "type": "movie",
+      "name": "Dracula contra Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/s0ADDnZYHUr9TCsf9FGd9BP2SGa.jpg",
+      "description": "Jonathan Seward consigue localizar al conde Drácula en su castillo y matarlo clavándole una estaca en el corazón. Sin embargo, el doctor Frankenstein resucita al vampiro utilizando para ello la sangre de la cantante de un nightclub. El investigador y el vampiro, junto con el monstruo de Frankenstein y un ayudante mutante llamado Morpho, se unen con el fin de crear un ejército que gobierne el mundo."
+    },
+    {
+      "id": "tmdb:176762",
+      "type": "movie",
+      "name": "La hija de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9uyIf8rxDtYL3RfO4Vm0TwvsmNb.jpg",
+      "description": "Una joven visita a su abuela gravemente enferma en el patrimonio familiar. En su lecho de muerte, la anciana le revela a su nieta la maldición de la familia: todos son vampiros. La joven decide mudarse a la finca de su tío y su primo, y pronto se encuentra a sí misma víctima de la maldición."
+    },
+    {
+      "id": "tmdb:27411",
+      "type": "movie",
+      "name": "La saga de los Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bw0mDPQEcv629phm9v9qpVrVg1N.jpg",
+      "description": "Una joven pareja viaja a Transilvania para visitar el castillo del abuelo de ella. El abuelo no es otro que Vlad Tepes, el Conde Drácula, descendiente directo de Vlad el Empalador. Por el camino encontrarán chicas desangradas, lobos que aúllan y un cura que es mordido por dos bellas vampiresas. Cuando, por fin, la pareja llega al castillo se encuentra con una galería de grotescos e inquietantes personajes."
+    },
+    {
+      "id": "tmdb:27395",
+      "type": "movie",
+      "name": "El gran amor del conde Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vuNRKoRjQRKi4dC0l1t7QAsMrk8.jpg",
+      "description": "Cuatro mujeres y un hombre deciden refugiarse de la noche en un castillo. Por desgracia para ellos, el propietario del castillo, el Dr. Marlow resulta ser el mismísimo Conde Drácula."
+    },
+    {
+      "id": "tmdb:35669",
+      "type": "movie",
+      "name": "Los ritos satánicos de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/38vFSphv1GXwoa1kUwKWArym9B8.jpg",
+      "description": "Londres, años 70. El inspector Murray de Scotland Yard, investigando unas extrañas muertes, llega a la conclusión de que se enfrenta a un caso de vampirismo. Decide entonces pedir ayuda al profesor Van Helsing, famoso investigador experto en la materia y descendiente de un famoso cazador de vampiros. Al parecer, los asesinatos están relacionados con una secta satánica de la que forman parte destacados miembros del gobierno de su Majestad."
+    },
+    {
+      "id": "tmdb:42466",
+      "type": "movie",
+      "name": "¡Grita Blácula grita!",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lxzscvc7rBkvahgCCa4mxFeZZ8v.jpg",
+      "description": "Tras la muerte de una sacerdotisa vudú, su hijo Willis Daniel se considera su heredero. No obstante, Lisa, la aprendiz de su madre, es elegida como líder. Willis decide buscar venganza reviviendo al príncipe africano Blácula, pero pronto descubre que no puede controlarlo."
+    },
+    {
+      "id": "tmdb:86889",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qumEUdkwSDlmr24T0tqtLzVp7Dh.jpg",
+      "description": "Jonathan Harker viaja a Transilvania para cerrar un negocio inmobiliario con un misterioso conde que acaba de comprar varias propiedades en Londres. Después de un viaje preñado de ominosas señales, Harker es recogido en el Paso de Borgo por un siniestro carruaje que le lleva al castillo del conde."
+    },
+    {
+      "id": "tmdb:26703",
+      "type": "movie",
+      "name": "El perro de Satán (Zoltan)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mG9wTvxtHxes58hZwfA77mD4DmJ.jpg",
+      "description": "Zoltan era el compañero canino de un campesino rumano llamado Veidt. Una noche, el último de la estirpe de los Drácula, Igor Drácula, intenta - sin éxito - atacar a la hija del susodicho campesino y en su huida, en forma de murciélago, sacia su sed succionando la sangre de Zoltan... que pasa a convertirse en un perro-vampiro a las órdenes de su nuevo amo..."
+    },
+    {
+      "id": "tmdb:6404",
+      "type": "movie",
+      "name": "Nosferatu, vampiro de la noche",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ej8BnlGwoiWmugLLsNrRUdjCm4t.jpg",
+      "description": "Jonathan Harker viaja desde Wismar a Transilvania, al castillo del legendario conde Drácula, con el fin de venderle una mansión en su ciudad. Atraído por una fotografía de Lucy, la mujer de Harker, Nosferatu parte inmediatamente hacia Wismar, llevando con él muerte y el horror."
+    },
+    {
+      "id": "tmdb:33521",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gmxBjuuLeZcg0E13gUGHrY3XeYa.jpg",
+      "description": "El conde Drácula, un personaje tan seductor y atractivo como peligroso y carente de escrúpulos, entabla amistad con el Doctor Seward y su entorno. Al poco tiempo, Mina, una conocida del Doctor, muere misteriosamente sin una gota de sangre en su cuerpo..."
+    },
+    {
+      "id": "tmdb:28198",
+      "type": "movie",
+      "name": "Nosferatu en Venecia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dZ0EQE7RXiZpAcuLZJJot0f9xDC.jpg",
+      "description": "Después de ser resucitado por un grupo de gitanos, el peligroso y sanguinario vampiro Nosferatu viaja hasta Venecia, donde seduce a una princesa y se enfrenta a un caza vampiros."
+    },
+    {
+      "id": "tmdb:6114",
+      "type": "movie",
+      "name": "Drácula de Bram Stoker",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg",
+      "description": "Antes de convertirse en vampiro, el conde Drácula era el príncipe Vlad, quien tras conocer la muerte de su prometida, vendió su alma al diablo. Cuatro siglos después, en Londres, encuentra a Mina, reencarnación de su amor perdido."
+    },
+    {
+      "id": "tmdb:10577",
+      "type": "movie",
+      "name": "Drácula 2001",
+      "poster": "http://127.0.0.1:8888/t/p/w500/edvsj9K8CHRKrJ1Ir2rYNiN9R1m.jpg",
+      "description": "Cuando, tras cien años de confinamiento, Drácula es, al fin, liberado, se encuentra en un mundo dominado por la tentación y el caos, donde encaja a la perfección: es el siglo XXI. Decide viajar a los Estados Unidos, un lugar perfecto para seducir bellas jóvenes y luchar por la conquista del poder. Pero lo mueve también otra razón: sabe que en algún lugar de Nueva Orleáns hay una joven que es la única persona del mundo que comparte su oscuro legado."
+    },
+    {
+      "id": "tmdb:55616",
+      "type": "movie",
+      "name": "Dracula: Pages from a Virgin's Diary",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qioaICsGsr8Bu8yr6UGPLmV9crX.jpg",
+      "description": "En Londres están ocurriendo unos sucesos muy extraños. Lucy Westenra, una dama de la alta sociedad, padece una enfermedad que sólo el doctor Van Helsing puede curar: ha sido mordida por un vampiro. Éste es el comienzo de la lucha entre Van Helsing, los pretendientes de Lucy y el seductor vampiro extranjero."
+    },
+    {
+      "id": "tmdb:173802",
+      "type": "movie",
+      "name": "Killer Barbys vs. Dracula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wGwH5aYrp8ykfyiiLGrVAUcyJEN.jpg",
+      "description": "Irina, la directora de la oficina de turismo de Transilvania, ha traído al sur de España al personaje más célebre de su país, el Conde Drácula, para mostrar su cadáver en una campaña publicitaria de Transilvania. Cuando Silvia Superstar, la cantante de Killer Barbies, se entera de su llegada, intenta ponerse en contacto con él. Después oírla cantar, el Conde despierta de su sueño de siglos. Tras un coqueteo inocente, empieza un terrorífico juego. Irina, desesperada, le pide ayuda al Doctor Seward, famoso cazavampiros internacional, y a su ayudante Albinus para acabar con las sangrientas aventuras del Conde."
+    },
+    {
+      "id": "tmdb:57190",
+      "type": "movie",
+      "name": "Vlad La maldición de Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wTEJdNKH7MWbU1OMhV9NTr1IrRx.jpg",
+      "description": "En el corazón de las remotas montañas de los Cárpatos en Rumania, 4 estudiantes inician un viaje de grandes descubrimientos. Pero uno de ellos oculta un secreto que desatará una fuerza maligna sin precedentes, un mal que causará la muerte de algunos y que cambiará a los supervivientes para siempre."
+    },
+    {
+      "id": "tmdb:10578",
+      "type": "movie",
+      "name": "Drácula II: Resurrección",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg",
+      "description": "Narra la historia de un grupo de estudiantes de medicina que encuentran el cuerpo del vampiro más famoso de la historia. Tras aceptar una jugosa oferta de dinero por extraer del cuerpo la sangre, los jóvenes vivirán la experiencia más terrorífica de sus vidas... cuando el peligroso vampiro vuelva a la vida y les persigua ávido de sangre."
+    },
+    {
+      "id": "tmdb:10838",
+      "type": "movie",
+      "name": "Drácula 3000",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1v2mmharhmhNEWtcQfTy0whH3Cp.jpg",
+      "description": "En el año 3000 una nave de salvamento que se encuentra en una misión interestelar rutinaria halla los restos del transportador Demeter, desaparecido 100 años antes. Emocionados ante la perspectiva de obtener una recompensa si lo remolcan, Mina, Van Helsing y el resto de la tripulación abordan la nave abandonada. Uno a uno irán desapareciendo hasta que no quede ninguna duda de que una antigua maldición ha estado latente en la nave a la espera de nuevas víctimas... (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:10579",
+      "type": "movie",
+      "name": "Drácula III: Legado",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9vdaFMhDRRPUAhW3dNvBBAfquso.jpg",
+      "description": "El Padre Uffizi y Luke van en busca de Elizabeth, amada de Luke que fue infestada y “secuestrada” en la segunda parte. Así que viajan hasta Bucarest, capital de Rumania, y en plena guerra civil se mezclan entre el ejército y los rebeldes para llegar hasta Elizabeth y el rey de los chupasangres."
+    },
+    {
+      "id": "tmdb:40631",
+      "type": "movie",
+      "name": "Dracula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/d3f2Be6nIIrdu7B9yl5jup2ZL8w.jpg",
+      "description": "Un joven aristócrata, con el mundo a sus pies, está a punto de casarse con el amor de su vida cuando descubre que ha heredado una temible enfermedad: la sífilis. Su desesperación por burlar la muerte le impulsa a invocar a un monstruo de llevará la destrucción a su entorno: el Conde Drácula. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:135812",
+      "type": "movie",
+      "name": "Drácula 3D",
+      "poster": "http://127.0.0.1:8888/t/p/w500/n1EsoM2cotsQRmvNnQJlOeC1jNe.jpg",
+      "description": "Ambientada en la Transilvania del siglo XIX, Drácula 3D narra la historia de Jonathan Harker, un bibliotecario que viaja hasta Passo Borgo para trabajar en la gran biblioteca del castillo del Conde Drácula. El joven no tardará en descubrir las extrañas costumbres del Conde y de las mujeres que cohabitan con él. Pero los intereses de este misterioso hombre se dirigen principalmente a la mujer de Jonathan, Mina, una joven con la que cree estar unida a través de los tiempos. Su obsesión le llevará a propagar la muerte a su alrededor, hasta que sus intenciones y su naturaleza vampírica sea revelada.  En esta nueva versión del vampiro más conocido de la historia de la literatura y el cine, no faltan las grandes dosis de sangre y colmillos afilados."
+    },
+    {
+      "id": "tmdb:49017",
+      "type": "movie",
+      "name": "Drácula, la leyenda jamás contada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gEJqywFJ6NC7udiUYoB1Z0we2LV.jpg",
+      "description": "Los orígenes del mito se revelan en esta película ambientada en los años de reinado de Vlad Tepes, príncipe de Rumania que inspiró la leyenda por sus peculiares métodos para provocar el miedo entre su población y sus enemigos. Una mezcla de mitología e historia para recoger cómo se transformó el sanguinario emperador en el primer vampiro de la historia. Uno de los más terribles y sádicos personajes de Europa que inspiró la clásica obra literaria de Bram Stoker mezclando el terror sobrenatural, las leyendas y pinceladas de amor, para cautivar por completo."
+    },
+    {
+      "id": "tmdb:649609",
+      "type": "movie",
+      "name": "Renfield",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5dRS9I4zAxsUm3za9dg1nFDDwoO.jpg",
+      "description": "En este moderno y monstruoso relato sobre el fiel ayudante de Drácula, Renfield se ve obligado a procurarle víctimas a su amo y hacer todo aquello que este le ordene, por inmoral que sea. Pero ahora, tras siglos de servidumbre, Renfield está listo para descubrir si hay vida lejos de la alargada sombra del Príncipe de las Tinieblas. ¿El problema? Que no sabe cómo romper esa relación de dependencia."
+    },
+    {
+      "id": "tmdb:394151",
+      "type": "movie",
+      "name": "Nosferatu : A Symphony Of Horror",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dD9B9Z9YoW1mrtmHPQ26LlhApka.jpg",
+      "description": "La película original de 1922, \"Nosferatu\", se considera una de las películas más importantes de la historia y una piedra angular del género vampírico. Ahora, más de cien años después, el sanguinario Conde Orlok resurge para proyectar una sombra sobrenatural en una versión en formato largometraje de la clásica obra maestra del terror. Presentada fielmente al estilo del terror de la época dorada, y combinando elementos escénicos de la película original con nuevo sonido y música, esta nueva \"Nosferatu\" es una remezcla cinematográfica inédita de la atemporal historia de vampiros, ¡y una visita sobrenatural a la tierra de fantasmas y espectros donde la sangre es vida!"
+    },
+    {
+      "id": "tmdb:426063",
+      "type": "movie",
+      "name": "Nosferatu",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+      "description": "Historia gótica de obsesión entre una joven hechizada y el aterrador vampiro encaprichado de ella que causa un indescriptible terror a su paso."
+    },
+    {
+      "id": "tmdb:1246049",
+      "type": "movie",
+      "name": "Drácula",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
+      "description": "Tras una devastadora pérdida, el príncipe Vlad II, conde Drácula (Caleb Landy Jones), renuncia a Dios y es maldecido a la vida eterna, condenado a vagar solitario a lo largo de los siglos. Este es el relato sobre la historia de amor jamás contada del infame vampiro, que desafiará al destino y la mortalidad en busca de su amor perdido."
+    }
+  ]
 }

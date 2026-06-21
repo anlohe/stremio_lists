@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:18987",
+      "type": "movie",
+      "name": "El jorobado de Notre Dame",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3oheTQrTuqS1jPUW6GOc65ZbM5u.jpg",
+      "description": "Mientras baila en una plaza, la gitana Esmeralda es descubierta por Jehan. Obsesionado por su belleza, el hombre ordenará a Quasimodo, el campanero jorobado de Notre Dame, secuestrarla. Pero cuando Quasimodo es capturado y azotado, Esmeralda será la única que le demuestre su bondad."
+    },
+    {
+      "id": "tmdb:31685",
+      "type": "movie",
+      "name": "Esmeralda la Zíngara",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xoJpPPaZ0CuGL45IoymWhtvVFlO.jpg",
+      "description": "París, Francia, 1482. El juez Frollo, al servicio del benévolo rey Luis XI, se enamora de Esmeralda, una joven gitana. El jorobado Quasimodo, protegido de Frollo y campanero de Notre Dame, vive en paz entre las campanas, en las alturas de la inmensa catedral, hasta que el retorcido magistrado lo involucra en sus maliciosos planes, desesperado por liberarse del supuesto hechizo de Esmeralda, que él cree que es obra del diablo."
+    },
+    {
+      "id": "tmdb:11594",
+      "type": "movie",
+      "name": "El jorobado de Notre Dame",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1szxPqxkMp1FD9QMMhmkeuMZHk2.jpg",
+      "description": "Adaptación del clásico de Victor Hugo, con una exuberante Gina Lollobrigida como Esmeralda y el siempre excelente Anthony Quinn interpretando al tierno jorobado enamorado de la bella zíngara."
+    },
+    {
+      "id": "tmdb:80385",
+      "type": "movie",
+      "name": "The Hunchback of Notre Dame",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AltsK3wrdWJLUmwO3axZjjPNsvf.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:148636",
+      "type": "movie",
+      "name": "El jorobado de Notre Dame",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zVH7GB5c02X4upMhsZYqhkEpOXp.jpg",
+      "description": "París, siglo XVI. Esmeralda, una bella mujer gitana, canta y baila en un carnaval de mendigos, bajo la atenta mirada de tres hombres. Este encuentro marca un punto de inflexión en la vida de todos ellos. Gringoire, el idealista, pasa de ser un hombre de palabras a un hombre de acción cuando Esmeralda corre peligro. En la catedral, el sacerdote Dom Claude Frollo se acerca a la ventana, atraído por la voz de Esmeralda. Él, que ha dedicado toda su vida a Dios, no puede evitar sentir pasión por esta chica."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:112842",
+      "type": "movie",
+      "name": "Detective Dick Tracy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6fpQCSEMxFUNMIYYm2T1JlgwWgj.jpg",
+      "description": "Dick se enfrenta a una serie de brutales asesinatos en los que las víctimas, todas de diferentes orígenes sociales y económicos, son brutalmente cortadas en pedazos. Los sospechosos abundan, pero Tracy, que consigue una pista de que habrá quince asesinatos en total, debe encontrar el hilo común entre las víctimas antes de que haya más asesinatos."
+    },
+    {
+      "id": "tmdb:70702",
+      "type": "movie",
+      "name": "Dick Tracy contra Siniestro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sUJNIJqSPIX2hEFu82OjaqZJK1m.jpg",
+      "description": "El delincuente \"Siniestro\" (Boris Karloff) sale de la cárcel tras cumplir condena. Su amigo Melody le espera para poner en marcha un plan que consiste en atracar bancos usando un gas que deja paralizado a todo el que lo respira. El famoso detective Dick Tracy (Ralph Byrd) deberá abortar los planes de los malhechores. (FA)"
+    },
+    {
+      "id": "tmdb:8592",
+      "type": "movie",
+      "name": "Dick Tracy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qWVg35ieeTKjWeX2bJLRe8YYd2A.jpg",
+      "description": "El mafioso Big Boy Caprice asesina a su rival Labios Manlis para hacerse con el control de la ciudad y quedarse con su chica, la cantante Suspiros Mahoney. El detective Dick Tracy se encargará de impedir que consiga sus propósitos. En esta guerra aparecerá un tercer personaje misterioso conocido como The Blank."
+    }
+  ]
 }

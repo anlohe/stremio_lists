@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:9737",
+      "type": "movie",
+      "name": "Dos policías rebeldes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ZYpSdXaTMFYCGbmVmXOFbdJmSv.jpg",
+      "description": "Un alijo de heroína valorada en unos 100 millones de dólares es robado del mismísimo depósito de la policía. El caso le será asignado a los agentes Burnett y Lowery, una pareja muy peculiar por los métodos que utilizan. La única pista que tienen para comenzar es la de un testigo que les ayudará a identificar a los atracadores y a la que tendrán que proteger."
+    },
+    {
+      "id": "tmdb:8961",
+      "type": "movie",
+      "name": "Dos policías rebeldes II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qyHDZB87UQF9cu6uuQzhhaKGvuo.jpg",
+      "description": "Los detectives de narcóticos Mike Lowrey y Marcus Burnett han sido asignados a un nuevo caso en Miami, donde un astuto narcotraficante ha iniciado una sangrienta guerra. Además la amistad de los dos agentes se complica cuando Mike empieza a sentir algo por la hermana de Marcus..."
+    },
+    {
+      "id": "tmdb:38700",
+      "type": "movie",
+      "name": "Bad Boys for Life",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg",
+      "description": "El Departamento de Policía de Miami y su equipo de élite AMMO intentan derribar a Armando Armas, jefe de un cartel de la droga. Armando es un asesino de sangre fría con una naturaleza viciosa y contaminante. Él está comprometido con el trabajo del cartel y es enviado por su madre Isabel, para matar a Mike."
+    },
+    {
+      "id": "tmdb:573435",
+      "type": "movie",
+      "name": "Bad Boys: Ride or Die",
+      "poster": "http://127.0.0.1:8888/t/p/w500/53y0ETa1TGdVrMEVx7oLW86ay8r.jpg",
+      "description": "Los policías más famosos del mundo regresan con su icónica mezcla de acción al límite y comedia escandalosa, pero esta vez con un giro inesperado: ¡Los mejores de Miami se dan a la fuga! Cuarta entrega de la saga 'Dos policías rebeldes'."
+    }
+  ]
 }

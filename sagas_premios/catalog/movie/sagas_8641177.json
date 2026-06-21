@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:23033",
+      "type": "movie",
+      "name": "El libro de la selva",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xi3TN3UqsBirUq2lZegw3fgyfJZ.jpg",
+      "description": "Adaptación del famoso relato de Kipling ambientado en la India colonial británica que narra las aventuras de Mowgli, un niño abandonado en la selva, que se cría entre animales salvajes."
+    },
+    {
+      "id": "tmdb:10714",
+      "type": "movie",
+      "name": "El libro de la selva: la aventura continúa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AedijiQwZkeezX7k5pcc0zBNtbP.jpg",
+      "description": "Nueva version de los personajes de Kipling. Abandonado en la selva y criado por los animales, Mowgli vuelve a la civilización por amor a la hija de un militar inglés. Esta decisión cambiará radicalmente su vida y le convertirá en la expectación de la colonia británica en la India."
+    },
+    {
+      "id": "tmdb:278927",
+      "type": "movie",
+      "name": "El libro de la selva",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pQGB08Kxyt3TLN4L01E175BRcvu.jpg",
+      "description": "Después de ser abandonado en la selva, una familia de lobos cría al pequeño cachorro humano Mowgli. Gracias a la manada de lobos, sale adelante hasta ser capaz de enfrentarse por sí mismo a los peligros de la selva. Pero con la llegada del peligroso Shere Khan, Mowgli deja de ser bien recibido. Este temible tigre, resentido por las heridas que le ha ocasionado el hombre, ha prometido eliminar toda amenaza humana en la selva. Así que a Mowgli no le queda más remedio que abandonar el único hogar que ha conocido en toda su vida.  El pequeño niño humano emprenderá entonces un arriesgado y fascinante viaje de autodescubrimiento, para regresar junto a su especie, acompañado de la siempre fiel Bagheera, la pantera mentora del niño, y el despreocupado y divertido oso Baloo.  Esta nueva adaptación de El Libro de la selva de Rudyard Kipling, que combina acción real con escenarios fotorrealistas y animales generados por ordenador, corre a cargo de Disney."
+    },
+    {
+      "id": "tmdb:407436",
+      "type": "movie",
+      "name": "Mowgli: La leyenda de la selva",
+      "poster": "http://127.0.0.1:8888/t/p/w500/c8qsep5WOHfHUxEK3D2a9RUDRAw.jpg",
+      "description": "Trata sobre la educación de Mowgli, criado por una manada de lobos en las selvas de India. Mientras aprende las reglas, a menudo complicadas, de la jungla. Bajo la tutela de un oso llamado Baloo y una pantera llamada Bagheera, Mowgli llega a ser aceptado por los animales de la jungla como uno más de ellos. Por todos menos uno: el temible tigre Shere Khan. Pero puede haber peligros mayores acechando en la jungla, cuando Mowgli se enfrenta a sus orígenes humanos."
+    }
+  ]
 }

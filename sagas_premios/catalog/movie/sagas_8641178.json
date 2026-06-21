@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:10973",
+      "type": "movie",
+      "name": "La mujer y el monstruo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4lCMHzXiNyLV48e1hODegGguG9x.jpg",
+      "description": "Una expedición científica en busca de fósiles en el río Amazonas es interrumpida por un sorprendente e inesperado hallazgo: Gill-Man el legendario monstruo de la laguna negra. Los exploradores capturan a la criatura con fines de investigación, pero el engendro logra escapar. Entre el miedo y el caos desatado por el desconocido paradero en el que puede hallarse Gill-Man, éste vuelve para secuestra a la preciosa Kay, prometida de uno de los investigadores de la expedición, de la cual el animal se ha enamorado."
+    },
+    {
+      "id": "tmdb:40761",
+      "type": "movie",
+      "name": "El regreso del monstruo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fkoKfIGCllb2Ud7qwTSc2u4osl1.jpg",
+      "description": "Secuela de \"La mujer y el monstruo\" (The Creature from the Black Lagoon, 1954), también rodada en 3-D."
+    },
+    {
+      "id": "tmdb:39408",
+      "type": "movie",
+      "name": "El monstruo camina entre nosotros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lygDmTXJgynNuHkXH0PjJidXQ0F.jpg",
+      "description": "El Monstruo de la Laguna es sometido a algunos tratamientos de cirugía que intentan darle un aspecto humano y un gusto por el oxígeno que en sus húmedos días del Amazonas no poseía."
+    }
+  ]
 }

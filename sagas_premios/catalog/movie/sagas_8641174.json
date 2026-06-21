@@ -1,3 +1,67 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:10787",
+      "type": "movie",
+      "name": "El hombre invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hW9zHASawkDleUH0pzKKUvqpnhD.jpg",
+      "description": "Adaptación de una novela de H.G. Wells sobre un hombre que posee la facultad de hacerse invisible."
+    },
+    {
+      "id": "tmdb:28421",
+      "type": "movie",
+      "name": "El hombre invisible vuelve",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zc311kC4gXMP6wNZ3COlP1RAMGF.jpg",
+      "description": "Un hombre que va a ser ejecutado, acusado del asesinato de su hermano, recibe la visita del Dr. Griffin, hermano del científico que años atrás descubrió la fórmula de invisibilidad. El condenado huye gracias a que se hace invisible, y trata de demostrar su inocencia, pero la locura que va unida a los efectos secundarios de la fórmula para ser invisible harán acto de presencia..."
+    },
+    {
+      "id": "tmdb:28423",
+      "type": "movie",
+      "name": "La mujer invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nKNPmqiwU3CXqsHVIIkT0SpmFoP.jpg",
+      "description": "El profesor Gibbs inventa una máquina que puede hacer invisible a la gente, y la usa con Kitty Carroll, una atractiva y aventurera modelo. Pero unos gansters roban la máquina para su jefe, así que tendrán que enfrentarse a la mujer invisible."
+    },
+    {
+      "id": "tmdb:28426",
+      "type": "movie",
+      "name": "El espía invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tbu3SsiBlsvtXkFPAF73aiHRvWH.jpg",
+      "description": "El nieto del Hombre Invisible y su novia, que trabajan para los servicios secretos británicos, tienen una fórmula que les permite volverse invisibles y la usan para espiar a los nazis. Así es como consiguen desbaratar sus planes para atacar a los Estados Unidos."
+    },
+    {
+      "id": "tmdb:28425",
+      "type": "movie",
+      "name": "La venganza del hombre invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lgyO5QHjcY6hr1RD6buSQO1fEZ4.jpg",
+      "description": "El doctor Drury vuelve invisible a Robert Griffin, un asesino psicópata, quien tiene el problema que cuando quiere volver a la visibilidad debe inyectarse sangre de otra persona, matándola en el proceso. Griffin aprovechará su invisibilidad para vengarse de unos antigüos amigos a los que acusa de robarle y haber intentado matarle."
+    },
+    {
+      "id": "tmdb:75294",
+      "type": "movie",
+      "name": "The Invisible Man",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4GP4zRVCzIClJxuloUgkua2Jria.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:9383",
+      "type": "movie",
+      "name": "El hombre sin sombra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mdG4NenxGsvbBDhvi3tQ4L7TaHm.jpg",
+      "description": "El descubrimiento de un brillante científico lo hace invisible, pero lo transforma en un omnipotente y peligroso megalómano."
+    },
+    {
+      "id": "tmdb:8997",
+      "type": "movie",
+      "name": "El hombre sin sombra 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uvi8cpM8VMzOBzOVkLpu5BOInwX.jpg",
+      "description": "Michael Griffin es un asesino invisible que se convierte en un criminal perturbado a causa de un experimento con un suero que convierte en invisible a quien lo toma, y que a él le está volviendo loco y le está matando lenta y dolorosamente. Maggie Dalton, una bella bióloga que se dedica a la investigación, es la única persona que puede mantenerle con vida..."
+    },
+    {
+      "id": "tmdb:570670",
+      "type": "movie",
+      "name": "El hombre invisible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg",
+      "description": "Dos semanas después de escapar de su tóxica relación con el rico y brillante científico Adrian Griffin, Cecilia está convencida de que Adrian va a aparecer en cualquier momento… hasta que recibe una nota comunicándole el suicidio de su expareja."
+    }
+  ]
 }

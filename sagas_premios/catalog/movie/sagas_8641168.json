@@ -1,3 +1,74 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:3016",
+      "type": "movie",
+      "name": "El hombre y la bestia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/u8OL0RbTNzqqB1WmkxroTBXohnv.jpg",
+      "description": "Famosa adaptación del clásico de Robert Louis Stevenson. En esta ocasión, es John Barrymore el amable doctor Jekyll, que sufre de un terrible trastorno de doble personalidad que le hace convertirse de vez en cuando en el terrible Mr. Hyde."
+    },
+    {
+      "id": "tmdb:3019",
+      "type": "movie",
+      "name": "El hombre y el monstruo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sZO7F6f9TTd3cXlX8W9nDbXoeam.jpg",
+      "description": "Ante un auditorio científico el doctor Henry Jekyll expone su teoría de que el ser humano está dividido en dos personalidades, una positiva y otra negativa, y que ambas se pueden separar, pero no logra convencer a sus oyentes. Después de visitar a su prometida Muriel, y paseando con su amigo el doctor Lanyonal que intenta convencer de que su idea es viable, conoce a una joven artista de music-hall, Champagne Ivy. En su laboratorio Jekyll experimenta con una droga y se transforma en el señor Hyde y, bajo esta personalidad y por medio de amenazas, se convierte en amante de Ivy..."
+    },
+    {
+      "id": "tmdb:3022",
+      "type": "movie",
+      "name": "El extraño caso del Dr. Jekyll",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nKMEULZpikCvCwaFvkyHOnQ0vg9.jpg",
+      "description": "Un prestigioso científico vive obsesionado con la idea de encontrar una fórmula que le permita aislar los impulsos malignos del ser humano. Cuando lo consigue, decide experimentar consigo mismo y se bebe la poción que ha inventado. A partir de ese momento, se convierte en un monstruo de maldad que deambula por las calles durante la noche cometiendo todo tipo de fechorías. Adaptación de la obra homónima de Robert Louis Stevenson."
+    },
+    {
+      "id": "tmdb:3024",
+      "type": "movie",
+      "name": "La terrible historia del Dr. Jekyll y Mr. Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rM50LlT2Z0rtJ86bCTq7oWiG18I.jpg",
+      "description": "Jack Palance incorpora el doble papel del apacible Doctor Jeckyll, cuyos experimentos le transforman en el brutal Mr. Hyde. El clásico de Robert Louise Stevenson describe fielmente la espantosa doble vida del científico que asesina a jóvenes muchachas por la noche."
+    },
+    {
+      "id": "tmdb:30855",
+      "type": "movie",
+      "name": "Dr. Jekyll y su hermana Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zyGXl8d7zk7ujgeo9iKbi7KYcC5.jpg",
+      "description": "El Dr Jekyll experimenta en mujeres recién fallecidas, determinado a descubrir un elixir para la inmortalidad. En sus investigaciones, fabrica un brebaje que le convierte en una hermosa mujer, que se hace pasar por su hermana Hyde, y que se dedica a asesinar mujeres jóvenes para, de ese modo, poder continuar sus investigaciones como Jekyll. Sin embargo, con cada transformación, la hermana Hyde se convierte en la personalidad más dominante, dispuesta a suprimir al Dr. Jekyll para siempre."
+    },
+    {
+      "id": "tmdb:115423",
+      "type": "movie",
+      "name": "Doctor Jekyll y el Hombre Lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2Z2LGBij6bVdWCi5PtAyDkI7Vsm.jpg",
+      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre-lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su \"alter ego\", que comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
+    },
+    {
+      "id": "tmdb:3027",
+      "type": "movie",
+      "name": "Dr. Jekyll y Mr. Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wuu2eV3CgACXGgQ1aM199rROOny.jpg",
+      "description": "Versión musical de la novela de Robert Louise Stevenson."
+    },
+    {
+      "id": "tmdb:32322",
+      "type": "movie",
+      "name": "Dr. Black, Mr. Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9WXLu4xGKrvl3HBpp3slyxeyTRA.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:48747",
+      "type": "movie",
+      "name": "Jekyll & Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hj12czMNEw0OVzXmbBXvdidR7lr.jpg",
+      "description": "En las calles de Londres una escurridiza figura ha despertado el temor de sus habitantes. Se le achacan varios asaltos a mujeres, incendios e incluso asesinatos. La policía cree haber identificado al sospechoso y lo persigue, pero en su huida empuja a un muchacho que cae bajo los cascos de un caballo y resulta gravemente herido."
+    },
+    {
+      "id": "tmdb:444628",
+      "type": "movie",
+      "name": "Dr. Jekyll and Mr. Hyde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pK3Q6vSsoYsYLyHhSYnHo5rn8EN.jpg",
+      "description": "El extraño caso del Dr. Jekyll y el Sr. Hyde es en realidad la historia de Gabriel John Utterson, un abogado y buen amigo del Dr. Henry Jekyll. Más importante aún, Utterson es un caballero victoriano, que se guía por un código de caballería para permanecer leal a sus amigos y mantener su estatus en la sociedad. Es la lealtad lo que lleva a Utterson a jugar al detective en un esfuerzo por proteger a Jekyll del malicioso e intrigante Sr. Hyde. Finalmente, Utterson se ve introducido en un mundo en el que no está preparado para entrar ni aceptar."
+    }
+  ]
 }

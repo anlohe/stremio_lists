@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:11849",
+      "type": "movie",
+      "name": "Dragones y Mazmorras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sbRvmSTAXl5iZ9o3YrXVjIx7K5Q.jpg",
+      "description": "Profion, un mago maligno, está tramando destronar a la nueva emperatriz de un legendario país. Ella recluta un grupo de aventureros y un pícaro que deben encontrar un objeto mágico que frustrará el plan del mago. Se trata de la Barra del Control del Dragón, cuyo portador adquiere la capacidad de controlar dragones. Pero el mago también encarga a sus ayudantes la búsqueda de la Barra."
+    },
+    {
+      "id": "tmdb:9288",
+      "type": "movie",
+      "name": "Dragones y mazmorras: La ira del Dios dragón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/c38R4xbicfxElyKDgfkxEhi8iRB.jpg",
+      "description": "El malvado hechicero Damodar desafía un peligroso vórtice para robar el orbe elemental negro, el cual le servirá para preparar un plan siniestro de venganza contra el reino de Ismir. Berek, un guerrero, y Melora, una bruja aficionada reunen a cuatro guerreros más, para luchar contra el ejército de criaturas espantosas de Damodar, y así poder recuperar el orbe que devuelva la estabilidad al reino."
+    },
+    {
+      "id": "tmdb:135858",
+      "type": "movie",
+      "name": "Dragones y mazmorras: El libro de la vil oscuridad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/n3eezeLwKTQwgkqbySs0v74nXeP.jpg",
+      "description": "Un noble guerrero debe luchar contra dragones y demonios mientras mantiene su código moral mientras se une secretamente a un grupo de villanos para rescatar a su padre secuestrado de Shathrax, el Mind Flayer, que amenaza con destruir el mundo."
+    },
+    {
+      "id": "tmdb:493529",
+      "type": "movie",
+      "name": "Dungeons & Dragons: Honor entre ladrones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6dW83oZuprt6mw1rIJrTJjuSVX3.jpg",
+      "description": "Un ladrón encantador y una banda de aventureros increíbles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen rematadamente mal cuando se topan con las personas equivocadas. Adaptación cinematográfica del primer juego de rol de la historia, publicado por primera vez en 1974."
+    }
+  ]
 }

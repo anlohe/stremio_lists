@@ -1,3 +1,137 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:27970",
+      "type": "movie",
+      "name": "El lobo humano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/78kD3Fpvgd8qubKMbhS5dKofjR8.jpg",
+      "description": "Wilfred Glendon, doctor en botánica, emprende un viaje al Tíbet con el fin de localizar una extraña flor que crece únicamente en esa región bajo el influjo de la Luna. En el momento en que recoge un ejemplar, sufre el ataque de un hombre lobo que lo deja herido y con el estigma del licántropo. De regreso en Londres, recibe la visita del doctor Yogami, la persona que lo atacó. Éste le informa de que la flor que recogió es el único remedio para aletargar durante una noche el mal de luna"
+    },
+    {
+      "id": "tmdb:13666",
+      "type": "movie",
+      "name": "El hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rJPYNI8WSq51bEUKgwTkYcQxN5c.jpg",
+      "description": "Tras varios años en Estados Unidos, el hijo de un noble inglés regresa a la mansión de su padre en Gales. Una noche que asiste a una feria zíngara es mordido por un lobo y su vida comienza a cambiar cuando teme ser el responsable de las muertes que se están produciendo en la localidad."
+    },
+    {
+      "id": "tmdb:3076",
+      "type": "movie",
+      "name": "Frankenstein y el hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v7EuvrTAAIGImkLYw2nhe2r6BKM.jpg",
+      "description": "El resucitado Hombre Lobo, buscando una cura para su enfermedad acude en busca de la ayuda del doctor Frankenstein. Cuando llega a su castillo descubre que el Dr. ha muerto a manos del los habitantes del pueblo, y levanta las sospechas de éstos, que comienzan a perseguirlo. En su huida se esconde en las galerías del castillo donde libera del hielo al monstruo de Frankentein."
+    },
+    {
+      "id": "tmdb:28752",
+      "type": "movie",
+      "name": "La maldición del Hombre Lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gLcygjY9c79CCciRhGg1H1GcGAC.jpg",
+      "description": "Tras ser violada, una joven sirvienta sordomuda da a luz a una criatura aparentemente normal. Pero a medida que el niño crece comienza a dar señales de un extraño comportamiento; sus incontrolables reacciones durante las noches de luna llena anuncian una terrorífica metamorfosis."
+    },
+    {
+      "id": "tmdb:28403",
+      "type": "movie",
+      "name": "La noche de Walpurgis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1y9DLk2jmeswUxYhCrSkQ9bqsFh.jpg",
+      "description": "En una oscura sala dos forenses retiran una bala de plata de un cadáver, que vuelve a la vida y mata a los dos médicos. Waldemar Daninsky, el hombre lobo, ha resucitado. Dos jóvenes universitarias que han estado trabajando en un estudio sobre superstición y magia negra creen haber localizado la tumba de la condesa Wandesa Darvula de Nadasdy, la terrible adoradora del Diablo. Las dos jóvenes viajan al norte de Francia en busca de la tumba, pero se pierden en un bosque. Waldemar las encuentra y las invita a su casa. A la mañana siguiente, las muchachas y Waldemar descubren la tumba de Wandesa cerca de las ruinas de una vieja abadía."
+    },
+    {
+      "id": "tmdb:115423",
+      "type": "movie",
+      "name": "Doctor Jekyll y el Hombre Lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2Z2LGBij6bVdWCi5PtAyDkI7Vsm.jpg",
+      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre-lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su \"alter ego\", que comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
+    },
+    {
+      "id": "tmdb:156310",
+      "type": "movie",
+      "name": "El hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3LypV5ukcjuMWGGCQtNh76vxsna.jpg",
+      "description": "Un hombre descubre que su familia tiene una maldición de hombre lobo sobre ellos."
+    },
+    {
+      "id": "tmdb:29906",
+      "type": "movie",
+      "name": "El retorno del Hombre Lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k7Br169vf3ubeTNx42jlYquLMVg.jpg",
+      "description": "Tres jóvenes estudiantes alemanas, tras un accidentado viaje, llegan a los Cárpatos y descubren la tumba de la Bathory, cuya leyenda de vampiro sangriento ha permanecido a través de los siglos. Una de ellas, Erika, tras una macabra ceremonia, resucita al monstruo..."
+    },
+    {
+      "id": "tmdb:814",
+      "type": "movie",
+      "name": "Un hombre lobo americano en Londres",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9sAJdIZgFZEqz3Kyg97RA97CP9n.jpg",
+      "description": "Dos mochileros norteamericanos, David Kessler y Jack están de viaje por Europa. Caminando por una zona rural de Inglaterra, la población local los mira mal cuando entran en un bar. Al salir, reciben todo tipo de extrañas advertencias: 'Manténganse en la carretera y aléjense de los pantanos' y 'Cuidado con la luna'. Aun así, los jóvenes se adentran en la oscuridad y no se dan cuenta que están siendo seguidos por una terrible criatura."
+    },
+    {
+      "id": "tmdb:11298",
+      "type": "movie",
+      "name": "Aullidos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kQNKyEjUZrNk2HeIDU5XpmEePa1.jpg",
+      "description": "Karen, una popular presentadora de televisión de Los Ángeles, sufre una crisis nerviosa al estar a punto de ser asaltada por un violador. Para superar el trauma sigue el consejo de un psicólogo que le recomienda retirarse a descansar al campo. Viaja entonces a la costa norte de California, y allí su marido sufre un cambio de personalidad al ser atacado por un extraño animal, mitad hombre, mitad lobo."
+    },
+    {
+      "id": "tmdb:11824",
+      "type": "movie",
+      "name": "Teen Wolf (De pelo en pecho)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5cKky9Cu3JZ2KTqOUgjRFH6F6tj.jpg",
+      "description": "Un adolescente descubre que se está produciendo una mutación en su cuerpo. Aunque en un principio su estado le provoca una terrible preocupación, poco a poco irá desarrollando sus nuevas, ágiles y peludas cualidades para ligar con las chicas y ganar al baloncesto."
+    },
+    {
+      "id": "tmdb:15582",
+      "type": "movie",
+      "name": "Teen Wolf II (De pelo en pecho 2)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4EoCQV3rCGAzxsrkZnj8sCAYHbk.jpg",
+      "description": "Todd Howard es un joven como cualquier otro que empieza la Universidad. Sólo tiene algo que lo distingue de los demás: como su primo y su tío, tiene la capacidad de convertirse en lobo. Las cosas empezarán a irle muy bien a todos los niveles cuando se transforme en licántropo. Pero no todo será tan fácil como parece al principio. Poco a poco, con su repentino cambio de personalidad, perderá también a gente a la que aprecia y deberá replantearse si realmente vale la pena ser la estrella de la Universidad. Jason Bateman toma el relevo de Michael J. Fox en esta secuela de \"Teen Wolf\", que narra en tono de comedia juvenil las aventuras de un adolescente que se convierte en hombre-lobo."
+    },
+    {
+      "id": "tmdb:354606",
+      "type": "movie",
+      "name": "Colmillos, el hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4LO0haZW9TuwjjEVfTsCRaZoBiX.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:10395",
+      "type": "movie",
+      "name": "Lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1I1FLNb97bXX7MCmgp095hw0obu.jpg",
+      "description": "Un hombre que conduce de noche atropella a un animal. Cuando sale del vehículo, observa con admiración que se trata de un lobo por el que es mordido en un descuido. Una vez incorporado a su vida cotidiana comienza a notar una serie de extraños síntomas."
+    },
+    {
+      "id": "tmdb:7978",
+      "type": "movie",
+      "name": "El hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uknmBWJ624nXUDTDn5hTJjV0kcv.jpg",
+      "description": "La infancia de Lawrence Talbot se acabó bruscamente la noche que murió su madre. Se marchó de su pueblo, Blackmoor, y tardó décadas en recuperarse e intentar olvidar. Cuando Gwen Conliffe, la prometida de su hermano, le encuentra y le ruega que la ayude a buscar a su amor, que se encuentra desaparecido, Lawrence Talbot regresa a casa. Entonces se entera de que algo brutal, salvaje, con una sed insaciable de sangre ha matado a muchos campesinos. Empieza a encajar las piezas del sangriento rompecabezas y descubre que existe una antigua maldición que convierte a las víctimas en hombres lobo las noches de luna llena. Para acabar con la carnicería y proteger a la mujer de la que se ha enamorado, Lawrence Talbot debe destruir a la temible criatura que se esconde en los bosques cercanos a Blackmoor. Este hombre sencillo con un pasado doloroso sale en busca de la bestia y descubre que él también tiene un lado primitivo que ni siquiera podía imaginar."
+    },
+    {
+      "id": "tmdb:75623",
+      "type": "movie",
+      "name": "Aullidos: El Renacimiento",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5EFRGohNLyQcZMXaq7aGnxov2BU.jpg",
+      "description": "En la víspera de la noche de graduación, Will Kidman finalmente conseguirá captar la atención de la chica que siempre le ha gustado: la solitaria Eliana Wynter. Sin embargo, no tardará en descubrir un oscuro secreto de su pasado… que está a punto de convertirle en hombre lobo. Ahora, deberá luchar contra su destino, salvar su amor y sus vidas… Ellos deberán luchar contra la sed de sangre que comienza a crecer en Will así como escapar de un ejército de bestias que quiere acabar con ellos…"
+    },
+    {
+      "id": "tmdb:132137",
+      "type": "movie",
+      "name": "Hombre lobo: La bestia entre nosotros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/car9akw43NyrmvYRWcoGwsSE2Xg.jpg",
+      "description": "Una monstruosa criatura aterroriza en el siglo XIX una aldea europea en las noches de luna llena y un joven tendrá que luchar para proteger a sus seres queridos en Werewolf: The Beast Among Us, una nueva adicción de Universal a su lardo legado de monstruos clásicos. Mientras estudia con un médico local, Daniel presencia las terribles consecuencias de los ataques de un hombre lobo. Observa como la temible reputación de la bestia atrae a cazarecompensas, buscadores de emociones fuertes y charlatanes hasta el pequeño pueblo, mientras sueña con acabar personalmente con el monstruo. Cuando un misterioso extranjero y su equipo de cazadores de hombres lobo llegan al pueblo, se ofrece a unirse a ellos a pesar de las protestas de su madre. Pero no tardarán en descubrir que esta criatura es más fuerte, más lista y más peligrosa de lo que ellos han enfrentado antes. Pronto los habitantes empiezan a levantarse unos contra otros para encontrar la verdadera identidad de la bestia."
+    },
+    {
+      "id": "tmdb:877703",
+      "type": "movie",
+      "name": "Teen Wolf: La película",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pPyTcJSlDZAAyxfEqEMVpLBJW7g.jpg",
+      "description": "La luna llena se eleva en Beacon Hills, y con ella ha surgido un mal aterrador. Los lobos están aullando una vez más, pidiendo el regreso de Banshees, Werecoyotes, Hellhounds, Kitsunes y todos los demás cambiaformas en la noche. Pero solo un hombre lobo como Scott McCall, que ya no es un adolescente pero sigue siendo un Alfa, puede reunir nuevos aliados y reunir a amigos de confianza para luchar contra lo que podría ser el enemigo más poderoso y letal al que se han enfrentado jamás."
+    },
+    {
+      "id": "tmdb:710295",
+      "type": "movie",
+      "name": "Hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6bYzhQ4DbuyEKmekOJosDBTfAyu.jpg",
+      "description": "Blake es un hombre casado y padre de familia residente en San Francisco que hereda la remota casa donde creció en una zona rural de Oregón tras la desaparición de su propio padre, dado por muerto. En plena crisis de pareja con su enérgica esposa Charlotte, Blake la convence para tomarse un descanso de la gran ciudad y visitar la propiedad con su hija Ginger. Todo se tuerce cuando, de camino a la granja y en plena noche, la familia sufre el brutal ataque de un animal al que no consiguen ver y, en un intento desesperado por huir, se atrincheran dentro de la casa mientras la criatura merodea por la zona. Pero, con el paso de las horas, Blake comienza a comportarse de un modo extraño y a convertirse en algo irreconocible..."
+    }
+  ]
 }

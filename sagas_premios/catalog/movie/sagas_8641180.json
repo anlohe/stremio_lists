@@ -1,3 +1,74 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:871",
+      "type": "movie",
+      "name": "El planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg",
+      "description": "George Taylor forma parte de una tripulación de astronautas a bordo de una nave espacial -en una misión de larga duración- que se estrella en un planeta desconocido y aparentemente carente de vida inteligente. Sin embargo, pronto se da cuenta de que el lugar está gobernado por una raza de simios inteligentes que esclavizan a los seres humanos, que carecen de la facultad del habla. Cuando su líder, el doctor Zaius, descubre con horror la facultad de hablar de Taylor, decide que lo mejor es exterminarlo."
+    },
+    {
+      "id": "tmdb:1685",
+      "type": "movie",
+      "name": "Regreso al planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wNh22vYIfd2Xr6zBoh8ZQGivt1L.jpg",
+      "description": "Una nueva nave procedente del espacio y del tiempo aterriza al mando del astronauta Brent, que acude en busca del desaparecido George Taylor. Vuelve a encontrarse con los simios que dominan el mundo, relegando a los humanos a la esclavitud. Sin embargo, con la ayuda de la doctora Zira seguirá las huellas de Taylor hasta la Zona Prohibida, en cuyas catacumbas, lo que son las ruinas del metro de Nueva York, encuentra a una raza humana mutante con poderes telepáticos."
+    },
+    {
+      "id": "tmdb:1687",
+      "type": "movie",
+      "name": "Huida del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mCbFub0UiNQi3SBSOjwGNLhEroc.jpg",
+      "description": "Tres simios, la doctora Zira, Cornelius y el doctor Milo, han conseguido sobrevivir al desastre nuclear en su planeta y, tras arreglar la nave de los humanos, viajan en el tiempo hasta llegar a la Tierra de finales del siglo XX. Al llegar, mientras son estudiados en un centro de investigación para determinar su nivel de inteligencia, se niegan a revelar lo que saben sobre la civilización humana."
+    },
+    {
+      "id": "tmdb:1688",
+      "type": "movie",
+      "name": "La rebelión de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/J80xXgT6Mw8EiiQeHcEdJ4LfxC.jpg",
+      "description": "Estados Unidos, 1991. Tras una epidemia que mató a todos los gatos y perros de la Tierra, los hombres decidieron adoptar como mascotas a los monos, que acabaron convertidos en sirvientes. Se creó entonces un centro para civilizar a los ejemplares salvajes, por medio de la violencia. Armando ha criado en secreto a César, el hijo de dos simios parlantes: Zira y Cornelius. Cuando César comprueba lo que los hombres están haciendo con los de su especie, manifiesta públicamente su desacuerdo y, desde ese momento, se ve obligado a ocultarse. Al descubrir que puede comunicarse con los suyos telepáticamente, empieza a tramar una insurrección: incita a la desobediencia general, arma a los suyos y empieza a entender que la inteligencia es poder."
+    },
+    {
+      "id": "tmdb:1705",
+      "type": "movie",
+      "name": "La conquista del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9kQ0wmBzoL4EZEF2jTft58AhBuv.jpg",
+      "description": "César, el simio que capitaneó la revuelta contra la raza humana, es un benévolo gobernante que fomenta la convivencia con los hombres, a pesar de la oposición del general Aldo, jefe militar de los simios. No obstante, los hombres que han sobrevivido al holocausto nuclear son considerados ciudadanos de segunda clase. César decide realizar un viaje a la \"Ciudad Prohibida\" con MacDonald y el sabio Virgil, en busca de unas cintas en las que estaría grabada la muerte de sus padres. Durante el viaje, es observado por un grupo de hombres mutantes que viven en la devastada zona de guerra. Éste es el motivo por el que el General Aldo desafiará la autoridad de César y, además, provocará un enfrentamiento entre simios y hombres, para dirimir quién gobernará el planeta."
+    },
+    {
+      "id": "tmdb:869",
+      "type": "movie",
+      "name": "El planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
+      "description": "Año 2029. En una misión rutinaria, el astronauta Leo Davidson pierde el control de su nave y aterriza en un extraño planeta, habitado por una raza de simios de inteligencia similar a la de los humanos y que tratan a éstos como a animales. Con la ayuda de una chimpancé llamada Ari y de una pequeña banda de humanos rebeldes, Leo encabeza el enfrentamineto contra el terrible ejército dirigido por el general Thade y su hombre de confianza, el guerrero Attar. La clave es llegar a un templo sagrado que se encuentra en la zona prohibida del planeta."
+    },
+    {
+      "id": "tmdb:61791",
+      "type": "movie",
+      "name": "El origen del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6TqjIMQV11NkHMuriprN3xNoN6o.jpg",
+      "description": "Will Rodman es un joven científico que está investigando con monos para obtener un tratamiento contra el alzheimer, una enfermedad que afecta a su padre. Uno de esos primates, al que llaman César, experimenta una evolución en su inteligencia tan notable que el protagonista decide llevárselo a su casa para protegerlo. Le ayudará una bella primatóloga llamada Caroline."
+    },
+    {
+      "id": "tmdb:119450",
+      "type": "movie",
+      "name": "El amanecer del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mP5Wr0YkO3EDqc6vkvtdifi7KKI.jpg",
+      "description": "Un grupo de simios con grandes cualidades para la supervivencia toma las calles, liderado por César, un simio dotado de una inteligencia y unos instintos superiores para cualquier primate. Ante la necesidad de libertad, esta raza animal decide no doblegarse ante los humanos. Tendrá que luchar contra un grupo de humanos que han sobrevivido a una fuerte epidemia, desatada en la década anterior. Ambas partes han establecido una tregua, pero se verá interrumpida."
+    },
+    {
+      "id": "tmdb:281338",
+      "type": "movie",
+      "name": "La guerra del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iAm7IAqfK6VL2h1yh9QbpcctaT.jpg",
+      "description": "César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros en una búsqueda por vengar a su especie. Cuando finalmente se encuentren, Cesar y el Coronel protagonizarán una batalla que pondrá en juego el futuro de ambas especies y el del mismo planeta. Tercera película de la nueva saga de El Planeta de los Simios."
+    },
+    {
+      "id": "tmdb:653346",
+      "type": "movie",
+      "name": "El reino del planeta de los simios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+      "description": "Ambientada varias generaciones en el futuro tras el reinado de César, en la que los simios son la especie dominante que vive en armonía y los humanos se han visto reducidos a vivir en la sombra. Mientras un nuevo y tiránico líder simio construye su imperio, un joven simio emprende un angustioso viaje que le llevará a cuestionarse todo lo que sabe sobre el pasado y a tomar decisiones que definirán el futuro de simios y humanos por igual."
+    }
+  ]
 }

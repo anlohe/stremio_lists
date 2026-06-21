@@ -1,3 +1,60 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:106",
+      "type": "movie",
+      "name": "Depredador",
+      "poster": "http://127.0.0.1:8888/t/p/w500/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+      "description": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos"
+    },
+    {
+      "id": "tmdb:169",
+      "type": "movie",
+      "name": "Depredador 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+      "description": "Un grupo de policías de Los Angeles se enfrenta a un misterioso asesino que descuartiza a sus víctimas con un salvajismo inusitado. Pronto, el jefe del grupo, el capitán Harrigan, descubrirá que su enemigo es un alienígena llegado a la Tierra con el único propósito de practicar la caza."
+    },
+    {
+      "id": "tmdb:34851",
+      "type": "movie",
+      "name": "Predators",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg",
+      "description": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos —mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte—, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres."
+    },
+    {
+      "id": "tmdb:346910",
+      "type": "movie",
+      "name": "Predator",
+      "poster": "http://127.0.0.1:8888/t/p/w500/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
+      "description": "Cuando el pequeño Rory (Jacob Tremblay) activa accidentalmente el regreso a la Tierra de los yautjas, desencadenará la vuelta de los cazadores más letales del universo, una especie extraterrestre caracterizada por convertir en su trofeo al resto de criaturas y por obtener su poder a través de la hibridación. Ahora, estos alienígenas han mejorado su ADN y ahora son aún más peligrosos, fuertes, inteligentes y mortales. Por eso, solo un grupo de exsoldados y una profesora de ciencias podrán evitar el fin de la humanidad."
+    },
+    {
+      "id": "tmdb:766507",
+      "type": "movie",
+      "name": "Predator: La presa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sNAMqQ9T7YnXnvUSufeWzaRgK6Y.jpg",
+      "description": "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios."
+    },
+    {
+      "id": "tmdb:1242898",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
+      "description": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo."
+    },
+    {
+      "id": "tmdb:395",
+      "type": "movie",
+      "name": "Alien vs. Predator",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",
+      "description": "El descubrimiento de una antigua pirámide enterrada bajo los hielos de la Antártida hace acudir hasta el continente helado a un equipo de científicos y aventureros. Una vez allí, hacen un descubrimiento aún más aterrador: dos razas de extraterrestres en guerra. Gane quien gane, nosotros perdemos. La increíble y terrorífica aventura comienza cuando el millonario industrial Charles Bishop Weyland reúne a un equipo internacional de arqueólogos, científicos y expertos en seguridad, dirigidos por la especialista en medioambiente y aventurera Alexa ”Lex” Woods, para investigar unas misteriosas ”emanaciones de calor” que surgen desde las profundidades de la Antártida."
+    },
+    {
+      "id": "tmdb:440",
+      "type": "movie",
+      "name": "Aliens vs. Predator 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
+      "description": "Cuando una nave exploradora Predator se estrella, aparece en un pueblo de Colorado. Los Aliens a bordo escapan y matan a todos los Predators excepto a uno. El último Predator superviviente debe ahora acabar con todos los Aliens, así como con el terrorífico Pred-Alien que fue engendrado en la anterior entrega. Mientras tanto, los habitantes del pueblo están siendo inutilmente atrapados en medio del último enfrentamiento entre estas dos criaturas míticas."
+    }
+  ]
 }

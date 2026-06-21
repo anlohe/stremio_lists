@@ -1,3 +1,53 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:964",
+      "type": "movie",
+      "name": "El fantasma de la Ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7pN9oFWN5yH8v5Nt5nrMbkL2hCJ.jpg",
+      "description": "En los sótanos de la Ópera de París vive oculto el misterioso Eric, el hombre de voz de ángel y rostro desfigurado de demonio, que acecha entre pared y pared a la hermosa soprano Christine Daeé, a la que desea catapultar hasta la cima de la fama; pero cuando se entera de que la cantante está prometida al apuesto vizconde Raoul, se vuelve loco de celos."
+    },
+    {
+      "id": "tmdb:15855",
+      "type": "movie",
+      "name": "El fantasma de la Ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3jkmehKBHah6awaNChpLGYd2hW6.jpg",
+      "description": "Un violinista de la Ópera de París, locamente enamorado de Christine Dubois, una joven aspirante a soprano, es despedido porque su mano izquierda ya no es tan hábil como antes. Solo y sin dinero, después de haberlo gastado todo en pagar -sin que ella lo sepa- las lecciones de canto de Christine, decide publicar un concierto con el fin de completar la instrucción de la soprano y de hacerse famoso. Pero, a causa de un malentendido, ataca a su editor, y la secretaria de éste le desfigura el rostro con ácido. Se refugia entonces en los sótanos de la Ópera y, desde entonces, actúa como un fantasma cuya sombra amenazadora acecha en la sombra y siembra el pánico entre el público."
+    },
+    {
+      "id": "tmdb:46330",
+      "type": "movie",
+      "name": "El fantasma de la ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jCLcDqb44S3WQBRyVwAcwbHncKA.jpg",
+      "description": "Cuando la \"prima donna\" de la Ópera de París se retira, Christine Charles es elegida para sustituirla, pero es despedida por rechazar las insinuaciones del empresario. Esa misma noche es raptada por un enano deforme, que la lleva a las catacumbas de la Ópera, donde encuentra a un hombre horriblemente mutilado que vive escondido allí. Él conoce el secreto del Fantasma de la Ópera y le cuenta una escalofriante historia de injusticia, depravación y codicia."
+    },
+    {
+      "id": "tmdb:354479",
+      "type": "movie",
+      "name": "The Phantom of the Opera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ggLtNTTQ1ukz0L5daUJ81RAeF19.jpg",
+      "description": "La diva de la Ópera de Budapest se suicida después de que el propietario arruinara su carrera por haber rechazado sus insinuaciones pero su director-esposo, al que se creía muerto en un incendio, planea vengarse de todos los que considera responsables de su suicidio."
+    },
+    {
+      "id": "tmdb:86962",
+      "type": "movie",
+      "name": "El fantasma de la ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k58fmy3RPOZBi0cULLxlMIpOtIt.jpg",
+      "description": "Cuando Christine Day descubre accidentalmente una rara pieza musical, revive a su compositor, Erik Destler. A través de su fascinación por la música, se transporta a la época de Destler, 1889, y se lanza al estrellato cantando su ópera como nadie más puede hacerlo. Pero contra el emocionante telón de fondo de la ópera acecha un peligro espantoso, el Fantasma, y Christine pronto se convierte en el objeto de su implacable deseo."
+    },
+    {
+      "id": "tmdb:10593",
+      "type": "movie",
+      "name": "El fantasma de la ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6tIs4doqSGWpS0ze9AxZRjyTVWP.jpg",
+      "description": "Una serie de espeluznantes accidentes y brutales asesinatos dejan un sangriento rastro en la cavernas subterráneas que hay bajo los sótanos del Teatro de la Ópera. Nacido en esas tenebrosas cloacas, un hombre-monstruo criado por las ratas, acecha. La oscura y grotesca vida de ese fantasma cambiará al enamorarse locamente de una hermosa y joven cantante, a la que seduce con sus encantos. Una revisión del clásico, con altas dosis de erotismo."
+    },
+    {
+      "id": "tmdb:9833",
+      "type": "movie",
+      "name": "El fantasma de la ópera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pFU7x7kurooXazRiPdHsN5YAdPH.jpg",
+      "description": "Deforme de nacimiento, un hombre amargado conocido únicamente como el Fantasma vive en las alcantarillas debajo del teatro de la Ópera de París. Se enamora de la solitaria cantante del coro Christine, y en secreto la coge bajo su tutela mientras aterroriza al resto de la gente de la ópera y demanda que a Christine le den papeles protagonistas. Las cosas van a peor cuando Christine se reencuentra con un conocido de su infancia, Raoul, y ambos se enamoran."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:841",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5qTvYDiy7bIdXyknlId9xZPDoF.jpg",
+      "description": "Por orden imperial la familia Atreides deberá hacerse cargo de la explotación del desértico planeta de Arrakis, conocido también como Dune, el único planeta donde se encuentra 'la especia', una potente droga que, además, es necesaria para los vuelos espaciales."
+    },
+    {
+      "id": "tmdb:438631",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "http://127.0.0.1:8888/t/p/w500/szcew6yyjcDvaL0isaPBk2e3nkF.jpg",
+      "description": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune."
+    },
+    {
+      "id": "tmdb:693134",
+      "type": "movie",
+      "name": "Dune: Parte dos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg",
+      "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever."
+    }
+  ]
 }
