@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1669",
+      "type": "movie",
+      "name": "La caza del Octubre Rojo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6EGFvgiOaQB7HHV0gD581SKlPM9.jpg",
+      "description": "Un submarino nuclear, bajo el mando de un prestigioso general de la Unión soviética, se interna en el Océano Atlántico con rumbo a los Estados Unidos. La CIA, que ignora si pretende atacarles o desertar de su país, encarga al agente Jack Ryan que se ponga en contacto con él para saber sus verdaderas intenciones. Entretenida cinta de suspense y acción. Fue la primera entrega de una saga sobre las aventuras de Jack Ryan, el brillante analista y agente de la inteligencia americana creado por Tom Clancy."
+    },
+    {
+      "id": "tmdb:9869",
+      "type": "movie",
+      "name": "Juego de patriotas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9W0499Pyhhl6bLaO2qjxIU8xt79.jpg",
+      "description": "Jack Ryan es un ex agente de la CIA. Salir de aquel mundillo, tan peculiar, donde el peligro y la acción forman parte del día a día, no ha sido una decisión fácil. Pero no se arrepiente porque ahora, por primera vez, tiene una vida familiar. Durante unas vacaciones en Londres, por casualidad, mientras pasean por la ciudad, son testigos de un atentado contra Lord Holmes, un distinguido miembro de la Familia Real Británica. En medio de la confusión, los gritos y las llamas, su entrenamiento en la CIA hace reaccionar a Ryan automáticamente. Sale a defender a Lord Holmes y al hacerlo, le salva la vida, aunque para ello tiene que matar a uno de los terroristas. El atentado es atribuido al I.R.A."
+    },
+    {
+      "id": "tmdb:9331",
+      "type": "movie",
+      "name": "Peligro inminente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/12iBmLbwRT7xUxdomQhphsVh3GK.jpg",
+      "description": "Cuando el Almirante James Greer cae gravemente enfermo, Ryan es nombrado subdirector de inteligencia de la CIA. Su primera misión: investigar el asesinato de uno de los amigos personales del presidente, un importante hombre de negocios secretamente conectado con el tráfico de drogas colombiano. Pero sin que Ryan lo sepa, la CIA ha enviado una fuerza paramilitar, dirigida por el temible Mr. Clark, contra el cartel de la droga colombiana. Atrapado entre dos fuegos, Ryan decide arriesgar su carrera y su vida por la única causa en la que aún cree: la verdad."
+    },
+    {
+      "id": "tmdb:137094",
+      "type": "movie",
+      "name": "Jack Ryan. Operación Sombra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eNpySHnJeP8tq5ctN6QCkECe8HI.jpg",
+      "description": "Jack Ryan (Chris Pine) es un veterano de guerra que lleva una doble vida: es un ejecutivo de Wall Street y además trabaja de forma encubierta como analista de la CIA. Cuando descubre un complot meticulosamente planeado para hundir la economía norteamericana y sembrar el caos en todo el mundo, deciden que él es el hombre más adecuado para impedirlo debido a su habilidad para interpretar datos globales. Jack tendrá que viajar a Moscú para intentar descubrir toda la verdad, porque de ello depende la vida de millones personas, pero eso implica moverse en un mundo en el que no puede fiarse de nadie."
+    },
+    {
+      "id": "tmdb:1380291",
+      "type": "movie",
+      "name": "Jack Ryan. Guerra encubierta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",
+      "description": "En esta nueva película, Jack Ryan se ve empujado de vuelta al espionaje cuando una misión secreta internacional destapa una conspiración mortal. Contra reloj, se une a Mike November y James Greer, sus aliados de la CIA, y a Emma Marlow, una perspicaz agente del MI6, para enfrentarse a una unidad de operaciones encubiertas en una batalla muy personal y arriesgada."
+    }
+  ]
 }

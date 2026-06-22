@@ -1,3 +1,137 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:775",
+      "type": "movie",
+      "name": "El viaje a la Luna",
+      "poster": "http://127.0.0.1:8888/t/p/w500/l58KDN46lKx5RPzu1encomzSuJU.jpg",
+      "description": "El profesor Barbenfouillis y cinco de sus colegas de la Academia de Astronomía viajan a la Luna a bordo de un cohete propulsado por un cañón gigante. Una vez sobre la superficie lunar, los audaces exploradores afrontan los muchos peligros que ocultan las cuevas del misterioso satélite."
+    },
+    {
+      "id": "tmdb:2963",
+      "type": "movie",
+      "name": "Viaje a través de lo imposible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8aoNxqdbd4EGJ66ooeaRwm3QxQF.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:114136",
+      "type": "movie",
+      "name": "20.000 leguas de viaje submarino",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2q0cOPxJpWo2OPZsCRJik7tE5rr.jpg",
+      "description": "Libre adaptación de la obra de Julio Verne, narrándose el sueño de un marinero, que imagina ser piloto de una ingeniosa máquina subacuática."
+    },
+    {
+      "id": "tmdb:114146",
+      "type": "movie",
+      "name": "A la conquista del polo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7gkHJWusoxXPPugufKJvPEOn58I.jpg",
+      "description": "Un aerobús rematado en cabeza gallinácea conduce a los expedicionarios liderados por el profesor Maboul (Georges Méliés) rumbo al Polo Norte, donde se toparán con un gigante de hielo, para, al rato, escupirlo a requerimiento de sus compañeros. Los viajeros regresarán triunfalmente a su destino tras un paseo por los hielos perpetuos."
+    },
+    {
+      "id": "tmdb:64551",
+      "type": "movie",
+      "name": "Miguel Strogoff",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ajny1QghQph8NhtvMVSmqprdnpZ.jpg",
+      "description": "Narra la historia de un correo del zar de Rusia que debe entregar una carta al duque, en la que le previene del traidor Iván Ogaref que quiere asesinarlo y entregar su ciudad a los Khanes mongoles. En su apresurado camino se encuentra con Nadia, una joven que va a la misma ciudad, Irkuskt, para ver a su padre. Los mongoles capturan a Miguel Strogoff, que logra escapar curiosamente y entrega la carta al duque, evitando la invasión mongola."
+    },
+    {
+      "id": "tmdb:173",
+      "type": "movie",
+      "name": "20.000 leguas de viaje submarino",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zxsZrugzqLcrBYQRprI4Be89E4R.jpg",
+      "description": "Adaptación de la novela homónima de Julio Verne. En 1870, debido a los relatos de marineros que aseguran haber visto un monstruo marino al sur del Pacífico, los Estados Unidos fletan un buque de guerra para destruir a la bestia que altera la tranquilidad de los mares. Pero, cuando el monstruo los ataca, de nada sirve todo su poderío bélico para evitar el desastre. Tras el hundimiento del buque, los tripulantes son rescatados por el propio \"monstruo\", que resulta ser un buque capaz de sumergirse en el mar, algo inédito hasta entonces."
+    },
+    {
+      "id": "tmdb:2897",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg",
+      "description": "Adaptación de la novela homónima de Julio Verne. Un ladrón ha robado 55.000 libras del banco de Inglaterra. Todos creen que ha sido Philleas Fogg, un auténtico caballero inglés, que ha hecho una apuesta con sus compañeros de club, asegurando que es capaz de dar la vuelta al mundo en 80 días."
+    },
+    {
+      "id": "tmdb:77418",
+      "type": "movie",
+      "name": "Miguel Strogoff, el Correo del Zar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oG91sC0hPPDfpI4QWo6YIr0IEio.jpg",
+      "description": "Cuando el emir Feofar Kan, caudillo de las hordas tártaras, se alza en armas e invade las estepas de la Siberia oriental, el zar Alejandro II de Rusia encomienda al valiente oficial Miguel Strogoff una peligrosa misión."
+    },
+    {
+      "id": "tmdb:44969",
+      "type": "movie",
+      "name": "De la Tierra a la Luna",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6e2olDdaLkxfZmDHyT0s099iemp.jpg",
+      "description": "Adaptación de la novela homónima de Julio Verne. Un inventor ha descubierto una nueva fuente de energía, el Poder X, y decide utilizarlo para potenciar el lanzamiento de un cohete tripulado con destino a la Luna. El científico dirige la expedición, de la que también forman parte su secretario, su archienemigo y la hija de éste."
+    },
+    {
+      "id": "tmdb:11571",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ivdTeQo2WVgYacARsSvo4S1VpQn.jpg",
+      "description": "En una vieja librería, el profesor Lidenbrock descubre un extraño manuscrito de un científico llamado Arne Sakuusen, en el que describe un fantástico y maravilloso viaje al centro de la Tierra. El profesor Lidenbrock cuenta a su sobrino Glauben y a su prometida Axel el descubrimiento del manuscrito, y los tres deciden emprender el viaje siguiendo las indicaciones de Sakuusen. Comienzan entonces la aventura internándose en un volcán inactivo por el que descienden hacia el centro de la Tierra. En el viaje tendrán que solventar algunos problemas y sus vidas correrán peligro al enfrentarse a terremotos y tormentas subterráneas."
+    },
+    {
+      "id": "tmdb:18993",
+      "type": "movie",
+      "name": "La isla misteriosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wX7OzvLFGdk3W6A3iRUtGNeEvnY.jpg",
+      "description": "Durante la guerra de secesión norteamericana, un grupo de prisioneros sudistas logra escapar a bordo de un globo. Sin rumbo y en medio de una gran tormenta, llegan a una isla desconocida. Su primer paso es sobrevivir y explorar la isla, para saber si existe alguna clase de vida en ella."
+    },
+    {
+      "id": "tmdb:38165",
+      "type": "movie",
+      "name": "La isla misteriosa y el Capitán Nemo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fg617Zafb7u2OJWqrDCwMDV2qfR.jpg",
+      "description": "1865, Guerra Civil Estadounidense: Cinco prisioneros de guerra logran escapar en globo de Fort Richmond. Atrapados en una tormenta y con el globo dañado, se encuentran \"naufragando\" en una isla volcánica desierta en algún lugar del Pacífico. Justo antes de un aterrizaje forzoso, su líder, el brillante ingeniero Cyrus Smith, cae y muere aparentemente en las furiosas aguas, pero luego aparece completamente ileso y sin recordar cómo fue salvado. Sus compañeros de naufragio son: el famoso periodista Gedeon Spilett, el marinero Bonaventure Pencroff, el niño huérfano Harbert Brown y el sirviente negro de Smith, Nab. El perro Top también se unió a ellos en la fuga."
+    },
+    {
+      "id": "tmdb:28481",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3OzZiKbSlycCYxaBvEAU2EwlgP5.jpg",
+      "description": "Adaptación del clásico de Julio Verne. Un científico organiza una fabulosa expedición para llegar al centro geográfico de la Tierra. Un viaje en el que irá acompañado por una pareja de novios y un pastor. Un viaje donde encontrarán todo tipo de seres y muchos peligros."
+    },
+    {
+      "id": "tmdb:2965",
+      "type": "movie",
+      "name": "20.000 leguas de viaje submarino",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8kVSztb6A7gA0K4eFJIxjzgdiH0.jpg",
+      "description": "A finales del siglo XIX, muchos barcos son atacados por una especie de balena gigante. El profesor Aronnax, con su hija zoóloga y el arponero Ned Land, inician una expedición para descubir qué extraño ser es quien les ataca. En una de sus embestidas, caen en el mar, siendo recogidos por un submarino que capitanea Nemo."
+    },
+    {
+      "id": "tmdb:10204",
+      "type": "movie",
+      "name": "La vuelta al mundo en 80 días",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6breBZSHhT4Upm6TBV6ZJD3i9zN.jpg",
+      "description": "Phileas Fogg, un excéntrico inventor londinense, acaba de descubrir los secretos del vuelo aéreo, la electricidad, y hasta los patines en línea, pero la sociedad victoriana le toma por demente. Desesperado por ser tomado en serio, Fogg reta a Lord Kelvin, cabeza visible de la Real Academia de las Ciencias, mediante una increíble apuesta: afirma que será capaz de circunnavegar el globo terráqueo en menos de 80 días. Acompañado de su ayuda de cámara Passepartout y Monique, la artista francesa en busca de aventuras, Fogg se embarca en una trepidante y frenética carrera alrededor del mundo que les llevará por tierra, mar y aire hasta los lugares más exóticos del planeta."
+    },
+    {
+      "id": "tmdb:88751",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg",
+      "description": "Durante una expedición científica en Islandia, el visionario científico Trevor Anderson (Brendan Fraser), su sobrino Sean (Josh Hutcherson) y su hermosa guía regional, Hannah (Anita Briem), quedan atrapados en una cueva. La única posibilidad de escapar de allí es adentrándose en las entrañas de la Tierra. Recorriendo mundos jamás vistos, el trío se encuentra cara a cara con criaturas increíbles. Pero la actividad volcánica del lugar es cada vez más intensa, por lo que deberán encontrar urgentemente una manera de poder volver a la superficie antes de que sea demasiado tarde."
+    },
+    {
+      "id": "tmdb:45361",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/on6hrhmind13nVHVtk8M6IepEjh.jpg",
+      "description": "Cuando un accidente deja a un grupo de investigadores atrapados bajo la corteza terrestre, un equipo de perforación, dirigido por Joseph Harnet, debe rescatarlos. Pero una vez bajo tierra, el equipo descubre un universo subterráneo misterioso y aterrador."
+    },
+    {
+      "id": "tmdb:90363",
+      "type": "movie",
+      "name": "La isla misteriosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kaaFdsDxCKQXtikIhuD0dWvIUuz.jpg",
+      "description": "Adaptación cinematográfica de \"La isla misteriosa\" (1874), novela de Julio Verne. Durante la guerra civil americana (1861-1865) el hambre y la muerte asolan la ciudad de Richmond (Virginia). Cinco prisioneros de guerra deciden escapar montados en un un globo de aire caliente. Después de viajar a la deriva durante la noche, aterrizan en una isla desierta, pero pronto se dan cuenta que no están solos."
+    },
+    {
+      "id": "tmdb:72545",
+      "type": "movie",
+      "name": "Viaje al centro de la Tierra II. La isla misteriosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hAy2yUav8QPnDzfOGihNI527NjY.jpg",
+      "description": "Sean (Hutcherson) recibe una llamada de socorro desde una misteriosa isla, que no aparece en los mapas. Se trata de un lugar con extrañas formas de vida. Sean emprenderá la búsqueda acompañado de su padrastro (Johnson), de un piloto de helicóptero (Guzman) y su hermosa y temperamental hija (Hudgens). Secuela de \"Viaje al centro de la tierra 3D\"."
+    }
+  ]
 }

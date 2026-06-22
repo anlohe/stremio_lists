@@ -1,3 +1,109 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:119744",
+      "type": "movie",
+      "name": "Vida y Pasión de Jesucristo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gDNqLlnk81xqUr2Uemj4lNd0C2u.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:175839",
+      "type": "movie",
+      "name": "I.N.R.I.",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fm9o9NeOp91irOJqxueofSIwxaB.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:49633",
+      "type": "movie",
+      "name": "El rey de reyes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qJThyOfQVeEctEVVtK3LTDVL5S6.jpg",
+      "description": "Una de las primeras películas del cine mudo que abordaron la narración bíblica de Jesucristo. En esta ocasión, contada desde el punto de vista de María Magdalena (Dorothy Cumming), antigua cortesana al servicio de los romanos que es redimida por el amor de Jesús (H.B. Warner). En 1961, Nicholas Ray hizo un remake con Jeffrey Hunter en el papel principal."
+    },
+    {
+      "id": "tmdb:36362",
+      "type": "movie",
+      "name": "Rey de reyes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A9NtJy2DyKg2pH7Z46pPVz8WkkU.jpg",
+      "description": "Cuando las legiones de Roma conquistan Palestina, en un establo de un pueblo llamado Belén nace un niño que es adorado por pastores y por tres magos de Oriente que acuden a él guiados por una estrella. Ante el rumor de que ha nacido el Mesías, el rey Herodes ordena asesinar a todos los recién nacidos."
+    },
+    {
+      "id": "tmdb:24192",
+      "type": "movie",
+      "name": "El evangelio según San Mateo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6hcxPxaAMfp0EMScEnj4OVrAYrk.jpg",
+      "description": "En clave neorrealista, pero sin apartarse del texto bíblico, el polémico Pasolini realiza un cercano retrato de Jesús de Nazaret."
+    },
+    {
+      "id": "tmdb:2428",
+      "type": "movie",
+      "name": "La historia más grande jamás contada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oZYMq9twuEN9C3TPhbZgw7bcIle.jpg",
+      "description": "Superproducción sobre la vida de Jesús de Nazaret que contó con un extenso y conocido reparto en el que destaca Max von Sydow como Jesucristo. A partir de los Evangelios narra la vida de Jesús en la Palestina ocupada por Roma: su nacimiento en Belén, su infancia en Nazaret, los tres años de vida pública, la Última Cena, la traición de su discípulo Judas, su juicio, crucifixión y posterior resurrección."
+    },
+    {
+      "id": "tmdb:12545",
+      "type": "movie",
+      "name": "Jesucristo Superstar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9HXCuCoeWx3jktWHU2Cw4OkrexT.jpg",
+      "description": "Famoso musical de rock, basado en una exitosa obra de Broadway, que relata la historia de Jesús de Nazaret por medio de canciones. Se vendieron millones de discos de su banda sonora en todo el mundo."
+    },
+    {
+      "id": "tmdb:98091",
+      "type": "movie",
+      "name": "El camino del Evangelio. Una historia de Jesús",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tvf0eUtpxcgescDU0czwM68WIoq.jpg",
+      "description": "Johnny Cash aparece y narra este relato de la vida, muerte y resurrección de Jesús."
+    },
+    {
+      "id": "tmdb:45139",
+      "type": "movie",
+      "name": "Jesús",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fmWdrHyCMnSWgNN12l9UnrIH0Ym.jpg",
+      "description": "Jesús (también conocida como \"La vida pública de Jesús\") es una película de 1979, dirigida por John Krish y Peter Sykes y protagonizada por Brian Deacon como Jesús de Nazaret. Esta película corre a través de la vida de Jesús empezando con su nacimiento y culminando con su ascensión a su hogar celestial. El Evangelio de San Lucas de la Santa Biblia, fue escogido como la base del diálogo y acción para la película. Cinco años de cuidadosa preparación antecedieron la filmación en Israel en los lugares donde se llevaron a cabo los hechos reales en el evangelio. Las escenas son emocionantes y muestran muchos de sus milagros."
+    },
+    {
+      "id": "tmdb:248811",
+      "type": "movie",
+      "name": "Un niño llamado Jesús",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mgI6pP7xpRM5jgpfVHxxRP4QS9d.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:11051",
+      "type": "movie",
+      "name": "La última tentación de Cristo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/su4LK5bzWazBRyc5bHlG85inTXx.jpg",
+      "description": "Jesús, un carpintero de Nazaret, decide atender la constante llamada de Dios. Pero cuando está a punto de completar su misión, debe hacer frente a la mayor de las tentaciones y realizar un sacrificio para salvar a todos los hombres."
+    },
+    {
+      "id": "tmdb:2331",
+      "type": "movie",
+      "name": "Jesús",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aMP6I5YTj3DWdb3n6yENzidIfmF.jpg",
+      "description": "Vida obra y muerte de Jesus de Nazareth.  Jesús, hijo de José y María, trabaja como carpintero recorriendo las tierras de Galilea. Desde bien pequeño, descubre que es hijo de Dios y que ha venido a la Tierra para redimir al hombre de todos sus pecados. El pueblo de Israel, dominado por Roma, intenta ver en él un libertador que expulse al Gobernador Poncio Pilatos, un hombre que desde su llegada muestra un insultante menosprecio por el pueblo judío."
+    },
+    {
+      "id": "tmdb:615",
+      "type": "movie",
+      "name": "La pasión de Cristo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qPSyfz3yzTHXh1s8KRNy5YMNQJL.jpg",
+      "description": "Año 33 de nuestra era. En la provincia romana de Judea, un misterioso carpintero llamado Jesús de Nazareth comienza a anunciar la llegada del \"reino de Dios\" y se rodea de un grupo de humildes pescadores: los Apóstoles. Durante siglos, el pueblo judío había esperado la llegada del Mesías - personaje providencial que liberaría su sagrada patria e instauraría un nuevo orden basado en la justicia-. Las enseñanzas de Jesús atraen a una gran multitud de seguidores que lo reconocen como el Mesías. Alarmado por la situación, el Sanedrín, con la ayuda de Judas Iscariote, uno de los doce Apóstoles, arresta a Jesús. Acusado de traición a Roma, Cristo es entregado a Poncio Pilato, quien, para evitar un motín, lo condena a a morir en la cruz como un vulgar criminal."
+    },
+    {
+      "id": "tmdb:235260",
+      "type": "movie",
+      "name": "Hijo de Dios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pJ2qK5r3zqXhB0MQxkAmEPZSSXF.jpg",
+      "description": "El actor portugués Diogo Morgalo, que ya protagonizó la adaptación televisiva “La Biblia” para History Channel, vuelve a encarnar a Jesucristo en esta biografía que cuenta la historia de Jesús de Nazaret desde su nacimiento hasta su resurrección."
+    },
+    {
+      "id": "tmdb:310119",
+      "type": "movie",
+      "name": "Últimos días en el desierto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/79BULManZPxqhLuM3XMnSIrzfzM.jpg",
+      "description": "En medio de un árido paisaje, ante la fatiga y las alucinaciones por el calor y la solitaria estancia desde hace más de una luna, Jesús tiene un encuentro con el Diablo, quien está más que ansioso de tentar al exhausto viajero."
+    }
+  ]
 }

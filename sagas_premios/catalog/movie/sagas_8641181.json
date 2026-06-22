@@ -1,3 +1,95 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:19957",
+      "type": "movie",
+      "name": "Los caballeros del rey Arturo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5cmvVAeW4EIRmzwKqPp7d6qJh5F.jpg",
+      "description": "Después de una dura guerra, el rey Arturo, con la ayuda de Lanzarote, su caballero más fiel, consigue unificar toda Inglaterra bajo su mando. Después de ser derrotado por Arturo, Sir Mordred descubre la relación entre Ginebra, la esposa del rey, y Lanzarote, y se servirá de este hecho para acabar con el reinado de Arturo."
+    },
+    {
+      "id": "tmdb:18978",
+      "type": "movie",
+      "name": "Camelot",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9lhIusDpvKgceUpFG507IJQlZ42.jpg",
+      "description": "Adaptación cinematográfica del musical homónimo, estrenado en Broadway en 1960, sobre la legendaria historia medieval del reino de Camelot. El caballero francés Lancelot du Lac o Lanzarote del Lago (Franco Nero) llega a la corte del rey Arturo (Richard Harris), en Camelot, para integrarse en la Orden de la Mesa redonda, recién creada por el soberano inglés. Lancelot se enamora de la reina Ginebra (Vanessa Redgrave) y su amor es correspondido. Cuando Arturo se entera, monta en cólera y destruye la famosa mesa."
+    },
+    {
+      "id": "tmdb:55848",
+      "type": "movie",
+      "name": "Lancelot du Lac",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mvHFca4ndirMPdgU8eWSVXgtSbT.jpg",
+      "description": "Versión \"a la francesa\" de la historia de Camelot, el rey Arturo y los caballeros de la tabla redonda. La austeridad propia de los filmes de Bresson no restó un ápice de interés a esta alabada versión de la leyenda inglesa."
+    },
+    {
+      "id": "tmdb:75733",
+      "type": "movie",
+      "name": "Perceval el galo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wwAV6104tEkI7eiTTrDYOQ1QKrq.jpg",
+      "description": "Inspirada en la novela de Chrétien de Troyes, \"Perceval, el cuento del grial\" (siglo XII), narra las andanzas de Perceval desde que fue armado caballero por el rey Arturo y se adiestró con los Caballeros de la Mesa Redonda. A diferencia de otras adaptaciones de la leyenda, Rohmer sitúa a los personajes en un artificial y teatral reino. Un coro participa en la historia y, a menudo, los personajes narran sus hazañas a partir de versos tomados del texto original."
+    },
+    {
+      "id": "tmdb:11527",
+      "type": "movie",
+      "name": "Excalibur",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oPAC1Bso6KsViv8YhzJ60pl9y04.jpg",
+      "description": "En los bosques que rodean el castillo de Tintagel, Uther Pendragon, tras una larga y cruenta guerra, le ruega al mago Merlín que le haga propicia la seducción de la novia de su nuevo aliado, el Duque de Cornwall. Merlín accede a sus deseos, pero con la condición de que el fruto de su lujuria sea para él. Esa misma noche, Arturo es concebido y, dieciocho años después, los nobles de un reino cuyo trono está vacío compiten para hacerse con el derecho de liberar la espada encantada, llamada Excalibur, de la piedra en la que fue incrustada al morir Uther."
+    },
+    {
+      "id": "tmdb:30584",
+      "type": "movie",
+      "name": "El caballero verde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iOXoC7CKLFNQOus9hFNzZRSWOMl.jpg",
+      "description": "Gawain es un escudero del rey Arturo. Un día, irrumpe en Camelot un extraño caballero verde, armado con un hacha, desafiando a que alguien luche con él. Gawain sale en defensa de su rey y decapita al caballero, pero este resucita."
+    },
+    {
+      "id": "tmdb:134542",
+      "type": "movie",
+      "name": "Merlín y la espada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3KTrdrr7HQcsVlLhqHROSkGvp0m.jpg",
+      "description": "La esposa del rey Arturo es raptada por la malvada hermana de él. El rey envía a Lancelot a rescatar a su mujer, pero ambos se enamoran..."
+    },
+    {
+      "id": "tmdb:6520",
+      "type": "movie",
+      "name": "El primer caballero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/p8JX9Tor5VhRExWvnC5nKy1aOqT.jpg",
+      "description": "Amor, honor, traición y pasión en el Reino de Camelot. Cuando Lady Ginebra contrae matrimonio con el rey Arturo, lo hace movida por dos razones: el respeto y la admiración que siente por él y la necesidad de que proteja su reino, Leonesse. Pero el destino hace que se cruce en su camino el apuesto caballero Lanzarote, recién llegado a Camelot. Surge de inmediato el amor entre ellos, colocando a Ginebra en la tesitura de elegir entre el rey o Lanzarote."
+    },
+    {
+      "id": "tmdb:9477",
+      "type": "movie",
+      "name": "El rey Arturo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/izq63rhv6XDY1Yw8ms4ckug9Qay.jpg",
+      "description": "Arturo está deseando abandonar Bretaña para regresar a la paz y estabilidad de Roma. Pero antes, una última misión le hace comprender tanto a él como a los caballeros de la Mesa Redonda (Lancelot, Galahad, Bors,Tristán y Gawain) que, tras la caída de Roma (476 d.C.), lo que Bretaña necesita es un rey que la defienda de la amenaza de la invasión sajona en un tiempo nuevo. Guiado por Merlín y por la valiente y hermosa Ginebra, Arturo tendrá que encontrar en sí mismo la fuerza necesaria para cambiar el curso de la historia."
+    },
+    {
+      "id": "tmdb:447427",
+      "type": "movie",
+      "name": "King Arthur: Excalibur Rising",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg",
+      "description": "Una re-imaginación de la leyenda artúrica se centra alrededor de Owain, el hijo ilegítimo de Arturo, que debe aprender a asumir el manto de su padre como rey."
+    },
+    {
+      "id": "tmdb:274857",
+      "type": "movie",
+      "name": "Rey Arturo: la leyenda de Excalibur",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wl2LLrxuCRoAP1TDOz8Et8exwsx.jpg",
+      "description": "Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey."
+    },
+    {
+      "id": "tmdb:635237",
+      "type": "movie",
+      "name": "Arturo y Merlín: Caballeros de Camelot",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yGbag3HRmIzCH0a4sHglapwr2DQ.jpg",
+      "description": "El Rey Arturo regresa a casa después de luchar contra el Imperio Romano. Su hijo ilegítimo ha corrompido el trono de Camelot y el Rey Arturo debe reunirse con el mago Merlín y los Caballeros de la Mesa Redonda para luchar por recuperar su corona."
+    },
+    {
+      "id": "tmdb:559907",
+      "type": "movie",
+      "name": "El Caballero Verde",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3N9t9Ak4aT3JDzq3UBNgySINmNu.jpg",
+      "description": "El obstinado sobrino del rey Arturo (Dev Patel), se embarca en una temeraria misión para enfrentarse a \"el caballero verde\", un misterioso gigante que aparece un día en Camelot. Aunque pone en riesgo su cabeza, emprende una aventura épica para demostrar su valía ante su familia y la corte."
+    }
+  ]
 }

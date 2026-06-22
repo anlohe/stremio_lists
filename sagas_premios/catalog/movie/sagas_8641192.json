@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2109",
+      "type": "movie",
+      "name": "Hora punta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wQjBF386gMhiaQucVWwQYdtJ22s.jpg",
+      "description": "Dos detectives diferentes son asignados en un mismo caso. Ambos tendrán que adaptarse a las costumbres del otro para poder concluir su trabajo con éxito, pero no va a ser una tarea fácil. El detective inspector Lee es el rey de las artes marciales y pertenece a la Royal Hong Kong Police. Su pupila preferida es la hija de once años del Cónsul chino, de la cual el inspector Lee es su guardaespaldas y su mejor amigo. Esta muchacha es capturada y llevada a los Estados Unidos por un peligroso grupo criminal. Hasta allí tendrá que viajar el inspector y, donde se unirá a la investigación con un departamento del FBI y, concretamente, al detective James Carter, un arrogante e impulsivo agente de policía. La explosiva pareja tendrá que enfrentarse a una banda de criminales muy peligrosa, y contarán con la ayuda de Tania Johnson, una experta en artefactos explosivos."
+    },
+    {
+      "id": "tmdb:5175",
+      "type": "movie",
+      "name": "Hora punta 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/no3uHLYK0lQyjXiIXIj82fgUsZX.jpg",
+      "description": "El detective James Carter se encuentra de vacaciones en Hong Kong con su buen amigo el detective Lee. Mientras Carter está ansioso por dedicarse a la juerga y las mujeres, Lee tiene que enfrentarse con un jefe de las Tríadas, responsable del asesinato de dos funcionarios de la embajada norteamericana. Conforme avancen en la investigación, descubrirán una trama de distribución de billetes falsos."
+    },
+    {
+      "id": "tmdb:5174",
+      "type": "movie",
+      "name": "Hora punta 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hwtdRkBWtKfoSClaOJwxHq8Xa2b.jpg",
+      "description": "El corazón de París esconde un secreto mortal. Al otro lado del mundo, en Los Ángeles, el embajador Han está a punto de divulgar ese secreto. Tiene en su poder información sobre los mecanismos internos de las Tríadas, el sindicato del crimen más poderoso y más conocido del mundo. El embajador ha descubierto la identidad de Shy Shen, elemento clave del vasto anillo del crimen, y está a punto de revelarlo al Tribunal Penal Mundial, hasta que la bala de un asesino lo silencia para siempre. Las Tríadas harán cualquier cosa para asegurarse de que sus secretos permanezcan enterrados, y solamente existe una esperanza para poder detenerlos… El detective Carter, del departamento de policía de Los Ángeles, y el inspector chino Lee viajan a París para detener una conspiración criminal a nivel global y para salvar la vida de un viejo amigo: la hija del embajador Han, Soo Yung."
+    }
+  ]
 }

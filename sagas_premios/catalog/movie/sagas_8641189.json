@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:984",
+      "type": "movie",
+      "name": "Harry el sucio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gJ3VDY75PGksnba8aTOueb5Gtm4.jpg",
+      "description": "Harry Callahan es un duro policía que se ha criado en la calle. Sus compañeros le llaman Harry el Sucio por sus particulares métodos de lucha contra el crimen y porque siempre se encarga de los trabajos más desagradables. En San Francisco, un francotirador ha matado ya a dos personas. Harry será el encargado de resolver el caso."
+    },
+    {
+      "id": "tmdb:10648",
+      "type": "movie",
+      "name": "Harry el fuerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zaiCwmc4iEBjAQgl7Xisg80B00l.jpg",
+      "description": "Los principales asesinos de la ciudad están siendo asesinados en San Francisco. Uno a uno, los criminales que han escapado de una acción judicial están recibiendo la justicia que merecen, un tipo de justicia que haría pensar que el detective de homicidios Harry Callahan está utilizando sus métodos implacables. Pero los asesinos han juzgado mal a Harry, que deberá enfrentarse esta vez a un inesperado escuadrón de la muerte que lleva placa policial. Su enemigo verdadero es el sistema. Pero Harry ha jurado proteger el sistema con su Magnum 44."
+    },
+    {
+      "id": "tmdb:10649",
+      "type": "movie",
+      "name": "Harry el ejecutor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5wRKjXMuHJhK3usSEVS0XZW9aER.jpg",
+      "description": "Tercera entrega de las andanzas del controvertido y duro policía de San Francisco, Harry Callahan, de nuevo interpretado por Clint Eastwood. Esta vez, se enfrenta a un grupo de sádicos terroristas que se hacen llamar 'Acción Revolucionaria del Pueblo' y que tratan de dominar la ciudad. Callahan y su nueva ayudante, Kate Moore, deberán rescatar al alcalde, a quien los terroristas han secuestrado."
+    },
+    {
+      "id": "tmdb:10650",
+      "type": "movie",
+      "name": "Impacto súbito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sIOF7hhwfN7wFJOtf3sVePjyuc9.jpg",
+      "description": "Callahan es un experimentado detective de policía del departamento de homicidios de San Francisco, famoso por sus drásticos métodos, que provocan fuertes enfrentamientos con sus superiores. Tiene que desplazarse a San Paulo, pequeño pueblo situado al norte de California, donde sigue la pista del autor de la muerte de unos hombres, a los que han encontrado con unos disparos en la frente y en los genitales. Allí conoce a una solitaria artista llamada Jennifer Spencer."
+    },
+    {
+      "id": "tmdb:10651",
+      "type": "movie",
+      "name": "La lista negra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7MxSnI2ck7pE8HTFWpV1dkP0CW3.jpg",
+      "description": "Quinta y última entrega de la saga policiaca que nace con 'Harry, el sucio', protagonizada por el controvertido inspector de la policía de Los Ángeles, Harry Callahan. Una lista de ocho personas célebres circula por San Francisco y se están haciendo macabras apuestas, que consisten en adivinar quién de esas personas morirá primero. Uno de los nombres es el del famoso inspector Callahan, que investiga el caso."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:14869",
+      "type": "movie",
+      "name": "G.I. Joe",
+      "poster": "http://127.0.0.1:8888/t/p/w500/55BMS8gGhXhhVYEDnM0ktRgQNF.jpg",
+      "description": "G. I. Joe es el nombre en clave de una fuerza especial altamente entrenada cuya misión fundamental es defender la libertad humana y la paz mundial. Los valerosos Joes son hombres y mujeres de coraje, dueños de una mezcla dinámica de talentos especiales, personalidad e ingenuidad. Dotados de algunas de las armas más sofisticadas que puedan concebirse, estos individuos constituyen la fuerza más formidable de combate del mundo."
+    },
+    {
+      "id": "tmdb:72559",
+      "type": "movie",
+      "name": "G.I. Joe: La venganza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/heX1PtYdzXgfYpEnuWtRqc4rH4x.jpg",
+      "description": "En esta ocasión, los G.I Joes no solo tendrán que luchar contra su enemigo mortal, Cobra, sino que además se verán obligados a lidiar con las amenazas de dentro del gobierno que ponen en peligro su propia existencia.Dirigida por Jon M. Chu, y producida por Lorenzo di Bonaventura y Brian Goldner, con un guión de Rhett Reese y Paul Wernick. Basada en los personajes de G.I. Joe® de Hasbro."
+    },
+    {
+      "id": "tmdb:568620",
+      "type": "movie",
+      "name": "Snake Eyes: El origen",
+      "poster": "http://127.0.0.1:8888/t/p/w500/paU2I3oEvXdj0UcELlQcwC360rZ.jpg",
+      "description": "Snake Eyes es un solitario y tenaz guerrero que se une a al antiguo clan japonés de los Arashikage luego de salvarle la vida al heredero del clan. Al llegar a Japón, los Arashikage le enseñan a Snake Eyes los caminos del guerrero ninja y le dan algo que siempre quiso tener: un hogar. Pero, al revelarse los secretos sobre su pasado, pondrán a prueba el honor y la lealtad de Snake Eyes, incluso si eso significa perder la confianza de los más cercanos a él."
+    }
+  ]
 }

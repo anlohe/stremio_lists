@@ -1,3 +1,214 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:3035",
+      "type": "movie",
+      "name": "El doctor Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qHXeXUHebXaExr1r3h2RtO1j2QB.jpg",
+      "description": "El doctor Henry Von Frankenstein acomete un experimento tenebroso: construir, a partir de fragmentos de cadáveres, un nuevo ser humano. Con la ayuda de su criado Fritz, se adentra durante la noche en los cementerios de la localidad para arrancar a los cadáveres las partes que necesita. Lo que ignora es que el cerebro que ha utilizado en su experimento había pertenecido a un criminal."
+    },
+    {
+      "id": "tmdb:229",
+      "type": "movie",
+      "name": "La novia de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7FZPVHG3Llotb1rUzHWouSzevYV.jpg",
+      "description": "Después de la huida del monstruo creado por el doctor Frankenstein, el siniestro Dr. Praetorius propone al científico la creación de una compañera para el monstruo."
+    },
+    {
+      "id": "tmdb:3077",
+      "type": "movie",
+      "name": "La sombra de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nDXgNCONbxbZZ0pBQkBStWzj8It.jpg",
+      "description": "De vuelta al ancestral castillo 25 años después de la muerte del monstruo, el hijo del doctor Frankenstein conoce a Ygor, un pastor loco que esconde a la terrible criatura. Buscando limpiar el nombre de la familia, revive al monstruo y lo intenta rehabilitar."
+    },
+    {
+      "id": "tmdb:3074",
+      "type": "movie",
+      "name": "El fantasma de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k3mx8pQdXdb87v68p6xc5uf7lhq.jpg",
+      "description": "Otro hijo del viejo Frankenstein (Cedrick Hardwicke) intenta aclarar la verdad sobre el monstruo (Lon Chaney Jr.) y debe lidiar con un ambicioso colega (Lionel Atwill) y con el jorobado Ygor (Bela Lugosi). Ejemplo efectivo de comedia negra, con transplantes de cerebro, un monstruo que trepa a los tejados para bajar el globo de una niña, aparatos de ciencia loca, y una implausible y divertida trama de conquista del mundo por parte de Ygor, en su más alto rango de protagonismo en toda la saga."
+    },
+    {
+      "id": "tmdb:3076",
+      "type": "movie",
+      "name": "Frankenstein y el hombre lobo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v7EuvrTAAIGImkLYw2nhe2r6BKM.jpg",
+      "description": "El resucitado Hombre Lobo, buscando una cura para su enfermedad acude en busca de la ayuda del doctor Frankenstein. Cuando llega a su castillo descubre que el Dr. ha muerto a manos del los habitantes del pueblo, y levanta las sospechas de éstos, que comienzan a perseguirlo. En su huida se esconde en las galerías del castillo donde libera del hielo al monstruo de Frankentein."
+    },
+    {
+      "id": "tmdb:3079",
+      "type": "movie",
+      "name": "La maldición de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xIbmQbvtohLVt5Xh1xU0Lvgho22.jpg",
+      "description": "Condenado a muerte por una serie de crímenes que no ha cometido, el Barón Victor Frankenstein trata en vano de explicar a sus carceleros que el autor de esas muertes es un monstruoso ser, creado por él en su laboratorio secreto. Su diabólica ambición de crear vida llevó a Frankenstein a desafiar a Dios, fabricando un ser abominable a partir de cadáveres."
+    },
+    {
+      "id": "tmdb:3127",
+      "type": "movie",
+      "name": "La venganza de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tGsxYE9spa3QybLVHHr59UvNQqZ.jpg",
+      "description": "El doctor Frankenstein escapa a la muerte en la guillotina y se dedica a ejercer como médico de cabecera bajo el nombre de doctor Stein; pero no ha olvidado su proyecto de crear un ser humano."
+    },
+    {
+      "id": "tmdb:3164",
+      "type": "movie",
+      "name": "Frankenstein 1970",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qD8bMcFbfCyXsTAoPJhi2tedMvN.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:3124",
+      "type": "movie",
+      "name": "La maldad de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6e96hrJhFefvyXPMbfUcmx2IaY1.jpg",
+      "description": "Tras ser destruido el laboratorio donde trabajaba en sus experimentos, el Barón Frankenstein regresa a su pueblo natal, Karlstaad, de donde fue expulsado años atrás, en busca de las riquezas de su mansión para poder seguir sufragando su trabajo. Una vez allí, encuentra el monstruo que creó, el cual se ha preservado en las montañas gracias al hielo y decide intentar volver a darle vida. Pero algo en el cerebro de la criatura falla, por lo cual el Dr. Frankenstein recurre a los servicios del hipnotizador Zoltan."
+    },
+    {
+      "id": "tmdb:3149",
+      "type": "movie",
+      "name": "Jesse James contra la hija de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v4CQ0oP2ISRReZABJNcVWrvetCY.jpg",
+      "description": "Jesse James, el famoso pistolero del oeste americano, huyendo de la justicia, se refugia en un misterioso castillo. El castillo está habitado por el barón Frankenstein, su hija y su criado Igor. Las intenciones del barón son someter a Jesse a sus macabros experimentos. Esta vez, el famoso pistolero tendrá que enfrentarse a algo más serio."
+    },
+    {
+      "id": "tmdb:3104",
+      "type": "movie",
+      "name": "Frankenstein creó a la mujer",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vCxztUsenpG5MjyFSVnoLROOBz9.jpg",
+      "description": "El barón Frankenstein y el doctor Hertz intentan trasplantar las almas de los muertos a otros cuerpos. Después de que su ayudante Hans, acusado injustamente del asesinato del padre de su novia Christina, sea condenado a muerte y ajusticiado, desentierran su cadáver y se apoderan de su alma. Mientras tanto, Christina, consumida por el dolor, se suicida. Entonces, los dos investigadores se proponen resucitarla transfiriéndole el alma de Hans. El experimento es un éxito, pero Frankenstein descubre que los actos de Christina están guiados por la sed de venganza de su novio."
+    },
+    {
+      "id": "tmdb:3075",
+      "type": "movie",
+      "name": "El cerebro de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/okDUq9OHNLbYHyIGhXiUAC0sfpH.jpg",
+      "description": "El doctor Frankenstein, con la ayuda de una joven pareja a la que chantajea, secuestra al doctor Brandt, un antiguo colega suyo que se encuentra recluido en un manicomio. Su propósito es obtener una importante información médica que sólo él puede proporcionarle; pero Brandt muere y, entonces, Frankenstein decide trasplantar su cerebro a otro cuerpo."
+    },
+    {
+      "id": "tmdb:3145",
+      "type": "movie",
+      "name": "El horror de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oDykjjM0V20XeoyBq73C2lq17c2.jpg",
+      "description": "Victor Frankenstein, descendiente del Baron Von Frankenstein, un infame científico, trabaja en los experimentos de su antepasado. Después de conseguir resucitar a una tortuga, emprende proyectos más ambiciosos, que incluyen la creación de un hombre."
+    },
+    {
+      "id": "tmdb:3125",
+      "type": "movie",
+      "name": "Dracula vs. Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/okBup7vZhKPat0mO6SQ1HdLP0YZ.jpg",
+      "description": "El Dr. Duryea vacía cadáveres en su laboratorio para destilar un suero de sangre. Una noche, recibe la visita de Drácula, éste le ofrece el cuerpo del Frankenstein original para que lo reavive y así utilizarlo. Sin embargo, es imposible controlar a los dos monstruos. Empieza una lucha encarnizada sin merced."
+    },
+    {
+      "id": "tmdb:3199",
+      "type": "movie",
+      "name": "Dracula contra Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/s0ADDnZYHUr9TCsf9FGd9BP2SGa.jpg",
+      "description": "Jonathan Seward consigue localizar al conde Drácula en su castillo y matarlo clavándole una estaca en el corazón. Sin embargo, el doctor Frankenstein resucita al vampiro utilizando para ello la sangre de la cantante de un nightclub. El investigador y el vampiro, junto con el monstruo de Frankenstein y un ayudante mutante llamado Morpho, se unen con el fin de crear un ejército que gobierne el mundo."
+    },
+    {
+      "id": "tmdb:3163",
+      "type": "movie",
+      "name": "La maldición de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1nPBSF8d0vFf7j3ZHCSaVjbpSCd.jpg",
+      "description": "El doctor Frankenstein ensaya otro de sus diabólicos experimentos, tratando de dotar a sus criaturas de facultades intelectuales, robando el cerebro a seres humanos para dárselos a ellas. El doctor Cagliostro está decidido a dominar el mundo. Para lograr su propósito ordena asesinar al doctor Frankenstein y apoderarse de su tremendo monstruo, misión de la cual se encargan el siniestro Caronte y una extraña y sensual mujer-pájaro que se abalanza sobre Frankenstein. Contra este diabólico plan combate el doctor Seward que está dispuesto a todo con tal de acabar con el malvado Cagliostro."
+    },
+    {
+      "id": "tmdb:3162",
+      "type": "movie",
+      "name": "Blackenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qUDG9xyeogKzGa2QZu8zRNtu6sH.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:3105",
+      "type": "movie",
+      "name": "La verdadera historia de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wxHSN2US1roCE6SDUE2UnGAaQJ0.jpg",
+      "description": "Fiel versión televisiva de la novela de Mary Shelley. A diferencia del monstruo cinematográfico de Karloff, la criatura encarnada por Sarrazin no tiene un rostro cosido con tornillos, es un ser humano reanimado artificialmente que empieza a degenerarse poco a poco tanto física como psíquicamente. En algunos países fue presentada en salas cinematográficas (con una versión reducida de 123 min.), pero también se difundió por televisión."
+    },
+    {
+      "id": "tmdb:3117",
+      "type": "movie",
+      "name": "Frankenstein y el monstruo del infierno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/28tnE7KN6J19FpQPSE4CvRxZsao.jpg",
+      "description": "El barón Victor Frankenstein, recluido en un sanatorio mental con el nombre de Carl Victor, sigue haciendo experimentos. Cuenta con la ayuda de Simon Heider, un joven médico, para llevar a cabo un nuevo proyecto en el que utiliza como cobaya el cuerpo de un interno violento. Con ellos colabora también la hermosa Sarah. Las manos de un artesano y el cerebro de un brillante profesor completan el organismo de la criatura. Éste es el último de los numerosos films de la Hammer sobre Frankenstein."
+    },
+    {
+      "id": "tmdb:3072",
+      "type": "movie",
+      "name": "La resurrección de Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/r5l1RDSOShMrUmRtiADxrq3ig00.jpg",
+      "description": "Siglo XXI. Partiendo de ciertos experimentos con un nuevo tipo de arma, que provoca fisuras espacio-temporales, se decide enviar a un científico al siglo XIX, a Ginebra. Allí conoce al doctor Frankenstein, que ha fabricado una terrible criatura, y también a una angelical escritora de diecinueve años llamada Mary Shelley, que escribirá la historia del doctor y su creación."
+    },
+    {
+      "id": "tmdb:777674",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t0gIqMitESJ7huLVpIDNdmv7L3t.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:3036",
+      "type": "movie",
+      "name": "Frankenstein de Mary Shelley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7GfuEPctwozCMdLyX2zdbhAEW7D.jpg",
+      "description": "La prematura muerte de su madre durante un parto, arranca violentamente a Víctor Frankenstein de su idílica vida en Ginebra. Desde ese día, la posibilidad de vencer a la muerte será su obsesión y, por ello, decide estudiar medicina en Inglostadt. Allí conoce al siniestro profesor Waldman, de quien se rumorea que pasó su juventud estudiando la posibilidad de crear un ser humano. Víctor no sólo se interesa por sus experimentos, sino que está dispuesto a llegar hasta el fondo de la cuestión cueste lo que cueste."
+    },
+    {
+      "id": "tmdb:3056",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gmeccZOjv2l12NM7dTjHXTYHaC4.jpg",
+      "description": "La detective O´Connor investiga una serie de terribles asesinatos que le conducirán hasta el Doctor Frankenstein y su monstruosa criatura. Sus descubrimientos irán revelando la extraña transformación que el Doctor y la criatura habrán ido sufriendo a lo largo de 200 años... y los diferentes caminos que tomarán creador y monstruo en busca del bien y el mal. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:3071",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rBKZ2JzX7XXWoR5VV9nyXIlrGHQ.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:100241",
+      "type": "movie",
+      "name": "Yo, Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mUZh4lHJDUN8tQodoePjTn33S1H.jpg",
+      "description": "Esta nueva versión se narra desde una perspectiva totalmente novedosa, la situación del conocido personaje dos siglos después de que el doctor Victor Frankenstein le diera vida. Presupone que este ser ha sobrevivido tanto tiempo debido a una manipulación génetica realizada durante su creación, llegando a nuestros días.  Ahora, Frankestein vive en una oscura y violenta ciudad, sumida por una terrible guerra. Lo curioso de esta contienda es que ambos bandos están compuestos por seres inmortales como él."
+    },
+    {
+      "id": "tmdb:337029",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kzTvgsGFd7zpGbwDsA4p8Nkdzj9.jpg",
+      "description": "Una pareja de científicos han conseguido crear vida humana, un nuevo Frankenstein ha nacido desde lo más profundo de un laboratorio. A pesar que este Frankenstein aprende rápido, no acaba de controlar sus emociones, volviéndose inestable y peligroso, escapando del laboratorio."
+    },
+    {
+      "id": "tmdb:228066",
+      "type": "movie",
+      "name": "Victor Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg",
+      "description": "La historia de Frankenstein contada desde la perspectiva de su asistente Igor, desde la juventud de ambos hasta que se convirtió en el hombre que todos conocemos."
+    },
+    {
+      "id": "tmdb:1114072",
+      "type": "movie",
+      "name": "Frankenstein: Legacy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:1062722",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+      "description": "Un científico brillante y obsesivo, Victor Frankenstein, en su ambición por desafiar a la muerte, da vida a una criatura ensamblada con partes de cadáveres. Pese a tratarse de una proeza científica, Frankenstein considera que la criatura carece de inteligencia y la rechaza. Dolida, esta se rebela contra su creador."
+    },
+    {
+      "id": "tmdb:1159831",
+      "type": "movie",
+      "name": "¡La novia!",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
+      "description": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical."
+    }
+  ]
 }

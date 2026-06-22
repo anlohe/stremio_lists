@@ -1,3 +1,81 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1678",
+      "type": "movie",
+      "name": "Godzilla, Japón bajo el terror del monstruo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg",
+      "description": "Las misteriosas destrucciones de barcos en el Pacífico provocan el pánico. Los nativos de una isla afirman que el culpable es una criatura legendaria, Godzilla, un lagarto mutante convertido en un gigantesco monstruo a causa de unas radiaciones atómicas. Godzilla se dispone a atacar las principales ciudades del Japón."
+    },
+    {
+      "id": "tmdb:1679",
+      "type": "movie",
+      "name": "El Rey de Los Monstruos (Godzilla Contraataca)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3twE5Btcw061WnswGqYMNqBYQ2E.jpg",
+      "description": "Godzilla, resucitada por arte de magia tras su muerte al final del primer título, se enfrenta esta vez a un nuevo monstruo, Anguilas, un extraño gigante cuadrúpedo acorazado, y tras destruir parcialmente la ciudad de Osaka, acaba enterrada en el hielo de una pequeña isla a causa de los bombardeos de los aviones del ejército japonés. Segunda película de la saga Godzilla."
+    },
+    {
+      "id": "tmdb:1680",
+      "type": "movie",
+      "name": "King Kong contra Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/863wOhX5gJmyRTb9E3CiQ87yOLD.jpg",
+      "description": "Versión japonesa. Una expedición organizada por el director de publicidad de un compañía de farmacéuticos, viaja a la isla Farou para recoger bayas rojas y captura a King Kong para usarlo en una campaña publicitaria. Cuando Godzilla se libera de un iceberg se genra un frenesí mediático con el combate de lucha libre mas grande de la historia."
+    },
+    {
+      "id": "tmdb:421467",
+      "type": "movie",
+      "name": "El retorno de Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2rqFk9AWfYkA6TOUxLNXi5JR0nC.jpg",
+      "description": "Tras el ataque a un barco pesquero, el único tripulante superviviente se da cuenta de que no es otro que un Godzilla resucitado. Sin embargo, los esfuerzos por sacar a la luz la historia son reprimidos por el gobierno japonés ante la creciente tensión política entre Estados Unidos y la Unión Soviética, ambos dispuestos a bombardear Japón para detener al monstruo."
+    },
+    {
+      "id": "tmdb:929",
+      "type": "movie",
+      "name": "Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y50YnyDwvGgqGdRXbOrcV6BvBeQ.jpg",
+      "description": "Las pruebas nucleares realizadas por los franceses en el Pacífico originan la aparición en el océano de un reptil mutante, de enormes dimensiones, localizado tras el ataque a un barco pescador japonés. Sin embargo, la criatura no se va a limitar a vivir en el agua: Godzilla se dirige con rumbo fijo a Nueva York, en cuyas calles causará el pánico."
+    },
+    {
+      "id": "tmdb:124905",
+      "type": "movie",
+      "name": "Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg",
+      "description": "Gareth Edwards dirige este \"reboot\", que se sitúa antes en el tiempo que la película de 1998 dirigida por Roland Emmerich, que nos llevará a conocer los orígenes del famoso monstruo japonés gigante Godzilla.  Protagonizada por Bryan Cranston, ganador del Globo de Oro por Breaking Bad, que da vida a Joe Brody un científico que descubre que algo terrible está a punto de suceder cuando una serie de tsunamis comienzan a llegar a las costas, anticipando la llegada de numerosos monstruos de gran tamaño mientras el ejército intenta defenderse en vano."
+    },
+    {
+      "id": "tmdb:315011",
+      "type": "movie",
+      "name": "Shin Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uhls3dFqMZyesWWrIHoaCvoIUQC.jpg",
+      "description": "Cuando un monstruo enorme y con branquias emerge de las profundidades y arrasa la ciudad, el gobierno se apresura a salvar a sus ciudadanos. Un equipo de voluntarios improvisado corta una red de trámites burocráticos para descubrir la debilidad del monstruo y sus misteriosos vínculos con una superpotencia extranjera. Pero el tiempo no está de su lado: la mayor catástrofe que jamás haya asolado el mundo está a punto de ocurrir ante sus propios ojos."
+    },
+    {
+      "id": "tmdb:373571",
+      "type": "movie",
+      "name": "Godzilla: Rey de los Monstruos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg",
+      "description": "Los criptozoólogos de la agencia Monarch se enfrentan a un grupo de enormes monstruos: Godzilla, Mothra, Rodan y el enemigo de la humanidad, King Ghidorah. Estas ancianas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta."
+    },
+    {
+      "id": "tmdb:399566",
+      "type": "movie",
+      "name": "Godzilla vs. Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg",
+      "description": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra."
+    },
+    {
+      "id": "tmdb:940721",
+      "type": "movie",
+      "name": "Godzilla Minus One",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
+      "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable."
+    },
+    {
+      "id": "tmdb:823464",
+      "type": "movie",
+      "name": "Godzilla y Kong: El nuevo imperio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre."
+    }
+  ]
 }

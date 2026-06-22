@@ -1,3 +1,18 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:927",
+      "type": "movie",
+      "name": "Gremlins",
+      "poster": "http://127.0.0.1:8888/t/p/w500/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg",
+      "description": "Rand es un viajante que un día regala a su hijo Billy una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del Sol."
+    },
+    {
+      "id": "tmdb:928",
+      "type": "movie",
+      "name": "Gremlins 2: La nueva generación",
+      "poster": "http://127.0.0.1:8888/t/p/w500/th4AlCahUDHJItNutBGhAe48Vc.jpg",
+      "description": "Tras la muerte de su cuidador, un simpático Gremlin es llevado a un laboratorio donde se encuentra con su antiguo dueño. Debido a un despiste, el animalillo se moja, multiplicándose en temibles duendecillos que se apoderarán del rascacielos más moderno de Nueva York."
+    }
+  ]
 }

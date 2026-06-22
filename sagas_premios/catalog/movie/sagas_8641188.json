@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:11454",
+      "type": "movie",
+      "name": "Hunter",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wmHocNihxPpngL6wJ32ec63SEux.jpg",
+      "description": "Will Graham (William Petersen) regresa a la policía persuadido por un compañero. Encargado de la difícil tarea de dar caza a un escurridizo asesino que ataca sólo los días de luna llena, Graham decide emplear métodos poco convencionales. De este modo, recurre al doctor Hannibal Lecter (Brian Cox), otro asesino en serie, para entrar en la mente del asesino, pero esto le llevará a estar expuesto a la inteligencia de un genio poniendo en peligro su salud mental."
+    },
+    {
+      "id": "tmdb:274",
+      "type": "movie",
+      "name": "El silencio de los corderos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8FdQQ3cUCs9goEOr1qUFaHackoJ.jpg",
+      "description": "Clarice Starling, del FBI, se aventura a una prisión de máxima seguridad para analizar el cerebro enfermo de Hannibal Lecter, un psiquiatra convertido en caníbal."
+    },
+    {
+      "id": "tmdb:9740",
+      "type": "movie",
+      "name": "Hannibal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+      "description": "Han pasado diez años desde que el doctor Hannibal, después de su entrevista con la agente del FBI Clarice Starling, escapara del hospital de máxima seguridad en el que estaba recluido. Lecter vive ahora en Italia, pero Starling no ha podido olvidar sus encuentros con él: su fría voz sigue resonando en sus sueños. Mason Verger también recuerda a Lecter: fue su sexta víctima y, pese a quedar horriblemente desfigurado, logró sobrevivir. Tras heredar una fortuna, Verger decide emplearla para satisfacer sus deseos de venganza. Pero pronto se da cuenta de que, para sacar a Lecter de su escondrijo, debe ponerle delante un cebo irresistible: Clarice Starling."
+    },
+    {
+      "id": "tmdb:9533",
+      "type": "movie",
+      "name": "El dragón rojo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg",
+      "description": "Un investigador del FBI especializado en analizar la mente y el comportamiento de los asesinos en serie se ve obligado a recurrir a Hannibal Lecter, a quien mandó a la cárcel, para que le ayude en el caso de un asesino de familias, cuyo patrón de conducta le resulta imposible desentrañar."
+    },
+    {
+      "id": "tmdb:1248",
+      "type": "movie",
+      "name": "Hannibal, el origen del mal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AfIIQ5lMbqpCa3UQCwHVieLRpyE.jpg",
+      "description": "Historia de la juventud de Hannibal Lecter, basada en una novela de Thomas Harris salida a la venta en Estados Unidos en diciembre del 2006. La historia de Lecter comienza en Europa del Este, a finales de la Segunda Guerra Mundial. Hannibal, aún un niño, es testigo del asesinato de sus padres; sin embargo, ésta será la menor de las terribles atrocidades que presenciará y que le cambiarán para siempre."
+    }
+  ]
 }

@@ -1,3 +1,179 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:646",
+      "type": "movie",
+      "name": "Agente 007 contra el Dr. No",
+      "poster": "http://127.0.0.1:8888/t/p/w500/51Sy8Uu8Qwz6WWeqY17zHqXZU5d.jpg",
+      "description": "James Bond llega a Jamaica con la misión de investigar los asesinatos de un agente especial británico y su secretaria. Pero, al mismo tiempo, descubre la existencia de una siniestra organización en la isla Crab Key. En esta ocasión su enemigo es el Doctor No, que, ayudado por su cómplice, el profesor Dent, se propone ejecutar un siniestro plan: desviar la trayectoria de los cohetes de Cabo Cañaveral."
+    },
+    {
+      "id": "tmdb:657",
+      "type": "movie",
+      "name": "Desde Rusia con amor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/thl6AUDMzpY7ikEaZa1XEhHr3z.jpg",
+      "description": "Una máquina que descifra los más complicados sistemas de comunicación es el objetivo del agente británico James Bond, que esta vez tiene que viajar hasta Estambul para desarrollar su misión."
+    },
+    {
+      "id": "tmdb:658",
+      "type": "movie",
+      "name": "James Bond contra Goldfinger",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tA0AqFwuFvQCzLdBzEnIlK4RayX.jpg",
+      "description": "Un malvado magnate, Auric Goldfinger, quiere hacer estallar una bomba atómica en Fort Knox, donde está toda la reserva federal de oro de los Estados Unidos, para poder así incrementar enormemente el precio del metal dorado."
+    },
+    {
+      "id": "tmdb:660",
+      "type": "movie",
+      "name": "Operación Trueno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oSmeCP9Jh5FJstIwYulK88u6TGB.jpg",
+      "description": "La organización secreta Spectra se propone infiltrar en la base inglesa de la OTAN a un impostor llamado Angelo, y así lograr apoderarse de un bombardero Vulcan Vindicator equipado con dos bombas nucleares. Cuando logra su propósito, la organización amenaza con destruir una ciudad de EE.UU. o Inglaterra si no le dan 100 millones de libras esterlinas. El agente 007 es el encargado de seguir el caso, y en las Islas Bahamas conoce a Dominó, atractiva amante del misterioso Emilio Largo, que aparenta ser un ocioso millonario pero que en realidad es el número dos de Spectra. Mientras intenta localizar el avión secuestrado, James Bond debe enfrentarse con la cabecilla de los asesinos, Fiona Volpe, y con los secuaces de Emilio Largo."
+    },
+    {
+      "id": "tmdb:667",
+      "type": "movie",
+      "name": "Sólo se vive dos veces",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wMNRcC9NUaR1L5awvfLYGqcLkOq.jpg",
+      "description": "Dos naves espaciales, una norteamericana y otra rusa, han sido secuestradas en la órbita terrestre. Todo depende ahora de la intervención del Agente 007 -Sean Connery- para prevenir una guerra nuclear entre las dos superpotencias. Su misión consistirá en viajar hasta Japón y desenmascarar a la peligrosa organización Spectra y a su diabólico líder, Ernest Stavro Blofeld -Donald Pleasence."
+    },
+    {
+      "id": "tmdb:668",
+      "type": "movie",
+      "name": "007 al servicio secreto de su Majestad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4vhQzueYZHKkaKFNY150TR0FjjO.jpg",
+      "description": "Tras la marcha temporal de Connery, el actor australiano George Lazenby toma el relevo en esta nueva aventura del agente británico 007, que en esta ocasión se asocia a un mafioso -con cuya sensual hija Tracy Di Vicenzo (Diana Rigg) se llega a casar-, para unir sus fuerzas en la lucha contra la malvada organización Spectra. Ambientada en los alpes suizos, el malvado Stavro Blofeld -Savalas- amenaza al mundo entero con un malvado plan: desarrollar y lanzar una peligrosa bacteria que podría acabar con millones de personal en todo el planeta. La ausencia del actor escocés y el poco carisma de Lazenby hicieron de esta entrega uno de sus mayores fracasos comerciales, pero en años posteriores no han faltado los defensores que la reivindican como una de las más interesantes de toda la saga."
+    },
+    {
+      "id": "tmdb:681",
+      "type": "movie",
+      "name": "Diamantes para la eternidad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg",
+      "description": "Tras pasar unas merecidas vacaciones en Francia, el agente secreto James Bond recibe una llamada del Jefe M para realizar una peligrosa misión relacionada con unos diamantes en bruto desaparecidos."
+    },
+    {
+      "id": "tmdb:253",
+      "type": "movie",
+      "name": "Vive y deja morir",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qBELm7q6mgRzmutILvWIxFd3Fhe.jpg",
+      "description": "En tan sólo veinticuatro horas, tres agentes del servicio secreto británico que investigaban una red de tráfico de drogas aparecen asesinados en extrañas circunstancias. Todas las pistas conducen a Mr. Big, y a un diplomático llamado Katanga. El agente 007, James Bond, es enviado a Nueva York para investigar al enigmático personaje."
+    },
+    {
+      "id": "tmdb:682",
+      "type": "movie",
+      "name": "El hombre de la pistola de oro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8EIjhHuUK3CdyGyLRMWXCYBtxUZ.jpg",
+      "description": "El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, más conocido como el hombre de la pistola de oro, que tratará de deshacerse de Bond con los más sofisticados recursos."
+    },
+    {
+      "id": "tmdb:691",
+      "type": "movie",
+      "name": "La espía que me amó",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mbLDXDyPUPpjrL2jtc7jfwMN30B.jpg",
+      "description": "La misteriosa desaparición de dos submarinos nucleares hace que colaboren los mejores operativos de los servicios secretos británico y soviético: James Bond y la mayor Amasova. Detrás de todo se encuentra el magnate Stromberg, cuya finalidad es la destrucción de la \"corrupta\" humanidad para fundar una civilización pura bajo el mar."
+    },
+    {
+      "id": "tmdb:698",
+      "type": "movie",
+      "name": "Moonraker",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kyisfNtn0cmQA4e39H9VCa5CkN6.jpg",
+      "description": "El agente secreto James Bond recibe de sus superiores la orden de localizar el paradero de la nave espacial Moonraker, que ha desaparecido misteriosamente. Sus primeras investigaciones le llevan a seguir la pista del millonario Hugo Drax, constructor de la cápsula. Después de investigar en Venecia y en Río de Janeiro, Bond es capturado por Drax, y descubre que el villano posee una base de lanzamiento para cohetes espaciales, con los que se propone esparcir un gas tóxico que acabe con le vida terrestre, siendo ésta la primera fase de un perverso plan que el agente, ayudado por la Doctora Goodhead, intentará frustrar."
+    },
+    {
+      "id": "tmdb:699",
+      "type": "movie",
+      "name": "Sólo para sus ojos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nrnqY3O3TEjiKYvCKv4aZf02wUv.jpg",
+      "description": "El agente 007 debe acudir a recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos."
+    },
+    {
+      "id": "tmdb:700",
+      "type": "movie",
+      "name": "Octopussy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/d09gjEZ7zGjimVCdkjZsrp3UWbJ.jpg",
+      "description": "El agente 009, compañero de James Bond, es asesinado en Berlín Oriental, aunque consigue llegar a la residencia del embajador británico antes de morir, llevando consigo una valiosísima pieza de orfebrería: un huevo de Pascua, creado por Fabergé. En Londres, especialistas del Servicio Secreto constatan que se trata de una falsificación de la joya original, que será subastada en breve. El hecho de que en un corto período de tiempo se hayan vendido piezas parecidas despierta las sospechas de los responsables de Inteligencia, que temen una maniobra rusa que estaría encaminada a recaudar fondos que irían destinados a oscuras operaciones. Tras la pista de Kamal Khan, turbio traficante de objetos de arte, James Bond llega a la India, lugar en el que descubrirá la relación entre el sospechoso, una misteriosa mujer conocida como Octopussy y el General Orlov, implicados todos ellos en una conspiración que pretende desatar un conflicto nuclear."
+    },
+    {
+      "id": "tmdb:707",
+      "type": "movie",
+      "name": "Panorama para matar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ygkLLN9sNMkkwRY6rtpljNCKcDw.jpg",
+      "description": "Bond recibe la misión de desenmascarar a Max Zorin, un misterioso empresario, y aparente espía de la KGB, que amenaza con dominar el mundo por medio de sus revolucionarios microchips. Aliado a poderosas empresas de tecnología punta, su objetivo es destruir la falla de San Andrés, provocando un terremoto de irreversibles consecuencias."
+    },
+    {
+      "id": "tmdb:708",
+      "type": "movie",
+      "name": "Alta tensión",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gwJV5Vr4XbLWfPqYUTCJwTEhZUq.jpg",
+      "description": "El agente 007 se enfrenta a una nueva misión en Bratislava: ha sido designado expresamente por el general Koskov para que lo proteja al desertar de la KGB. Tras escapar hacia Austria, Koskov se reúne con la organización de Bond en Londres para ponerlos al corriente de los planes de general Puskin, que tiene la intención de asesinar a una serie de agentes británicos. Bond no cree la historia de Koskov, más aún cuando éste es capturado de nuevo por la KGB. Para dar con el paradero de Koskov, Bond regresa a Bratislav, donde encuentra a la novia del general, que también corre peligro. La ayuda a escapar, y descubre que Koskov se halla en Tanger junto al general Whitaker, traficante de armas."
+    },
+    {
+      "id": "tmdb:709",
+      "type": "movie",
+      "name": "Licencia para matar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/NvPWZNgY2rsxGKcSAjjvbz577t.jpg",
+      "description": "El agente 007 a la caza y captura de un peligroso narcotraficante latinoamericano, con implicaciones personales de por medio: el capo de la droga mató a un amigo suyo, y Bond desea vengarse."
+    },
+    {
+      "id": "tmdb:710",
+      "type": "movie",
+      "name": "GoldenEye",
+      "poster": "http://127.0.0.1:8888/t/p/w500/plvWFyL4tQXgWOae0P8A4hECWLD.jpg",
+      "description": "En sus vacaciones, el agente Bond se encuentra con la bella y letal Xenia Onatopp, que intenta hacerse con los planos de un nuevo helicóptero invulnerable a las interferencias. Mientras tanto la programadora del ejército ruso Natalya Siminova es la única superviviente de su equipo a un macabro plan del general Ourumov para hacerse con Goldeneye, un arma espacial ultrasecreta que emite pulsos nucleares que inutilizan cualquier equipo electrónico. Bond formará equipo con Natalya para descubrir a los malhechores tras el robo."
+    },
+    {
+      "id": "tmdb:714",
+      "type": "movie",
+      "name": "El mañana nunca muere",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wTdoSzAbbV1OIRuWEtNyG4eujg7.jpg",
+      "description": "El gran magnate de los medios de comunicación Elliot Carver tan sólo precisa hacerse con los derechos de emisión en China para completar su emporio global. Para conseguirlo desarrolla un maquiavélico plan para hacer estallar una guerra entre Gran Bretaña y China, mediante el hundimiento de un buque de guerra inglés. James Bond se embarcará en una misión contrareloj para descubrir quién está detrás del peligroso incidente."
+    },
+    {
+      "id": "tmdb:36643",
+      "type": "movie",
+      "name": "El mundo nunca es suficiente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg",
+      "description": "Tras la muerte del magnate británico del petróleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda su billonaria fortuna en yacimientos petrolíferos en el mar Caspio. El agente 007, sintiéndose culpable de la muerte de su padre, se convierte en su guardaespaldas. Su fortuna atraerá la atención de la prensa internacional y también de su asesino, Renard, un hombre con una bala alojada en el cerebro que le impide sentir dolor físico y cuya única obsesión es la venganza."
+    },
+    {
+      "id": "tmdb:36669",
+      "type": "movie",
+      "name": "Muere otro día",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tmpgo09w8qQ8rhbA3q22PYpJcmz.jpg",
+      "description": "El agente 007 investiga secretamente los planes de Zao, el hijo del pacifista coronel Moon del ejército de Corea del Norte. El MI6 sospecha que Zao pueda tener planes ambiciosos que pongan en peligro la estabilidad mundial y esas sospechas se confirman cuando 007 descubre que Zao planea, efectivamente, unificar los ejércitos de las dos Coreas, atacar Japón y posteriormente, enfrentarse a los Estados Unidos. Antes de que pueda escapar Bond es descubierto por Zao quien le apresa y tortura. En su camino se cruza Jinx y Miranda Frost, quienes jugarán papeles vitales en su última aventura."
+    },
+    {
+      "id": "tmdb:36557",
+      "type": "movie",
+      "name": "Casino Royale",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg",
+      "description": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua."
+    },
+    {
+      "id": "tmdb:10764",
+      "type": "movie",
+      "name": "Quantum of Solace",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zXkvsMkHbvFT9FMw7U9df0ZDuhb.jpg",
+      "description": "Traicionado por Vesper, la mujer a la que amaba, 007 se plantea su nueva misión como algo personal. Durante su investigación, Bond y M interrogan a Mr. White, que les revela que la organización que chantajeó a Vesper es mucho más compleja y peligrosa de lo que imaginan. El servicio de inteligencia forense vincula a un traidor del Mi6 con una cuenta bancaria en Haití, donde Bond conoce a la bella pero combativa Camille, una mujer que tiene sus propios motivos para vengarse. Gracias a Camille, Bond descubre la existencia de Dominic Greene, despiadado hombre de negocios y miembro importante de la misteriosa organización."
+    },
+    {
+      "id": "tmdb:37724",
+      "type": "movie",
+      "name": "Skyfall",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lz5kTkm3az7Ww0uTLRvCGgudnaa.jpg",
+      "description": "En Skyfall, la lealtad de James Bond hacia M será puesta a prueba cuando el pasado de M vuelve para atormentarla. Su vida se verá en peligro, de modo que el agente 007 deberá localizar y eliminar la amenaza, sin importar el precio personal que tendrá que pagar. Tras el fracaso de la última y fatídica misión de Bond y revelarse la identidad de varios agentes secretos en distintos puntos del planeta, la sede del MI6 es atacada, obligando a M a trasladar su agencia. Debido a estos sucesos, su autoridad y posición se verán amenazados por Mallory, el nuevo Presidente del Comité de Inteligencia y Seguridad. Ahora, el MI6 se enfrenta a amenazas tanto externas como internas por lo que M decide acudir al único aliado en quien puede confiar: Bond. El agente 007 desaparece en las sombras con una única aliada: la agente de campo Eve. Juntos le seguirán la pista al misterioso Silva."
+    },
+    {
+      "id": "tmdb:206647",
+      "type": "movie",
+      "name": "Spectre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg",
+      "description": "Un críptico mensaje del pasado envía a James Bond a una misión secreta a México D.F. y luego a Roma, donde conoce a Lucía Sciarra, la hermosa viuda de un infame criminal. Bond se infiltra en una reunión secreta y descubre la existencia de una siniestra organización conocida como SPECTRE. Mientras tanto, en Londres, el nuevo director del Centro para la Seguridad Nacional cuestiona las acciones de Bond y pone en duda la importancia del MI6, encabezado por M. De modo encubierto Bond recluta a Moneypenny y Q para que le ayuden a buscar a Madeleine Swann, la hija de su antiguo archienemigo, el Sr. White, que quizá tenga la clave para desentrañar el misterio de SPECTRE. A medida que Bond avanza en su misión, descubre una estremecedora conexión entre él mismo y el enemigo que busca."
+    },
+    {
+      "id": "tmdb:370172",
+      "type": "movie",
+      "name": "Sin tiempo para morir",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4yk2270JA6QpnN8xkuRsnPVXgdP.jpg",
+      "description": "James Bond se encuentra disfrutando de unas merecidas vacaciones en Jamaica. Sin embargo, su paz termina cuando su amigo de la CIA, Felix Leiter, lo busca para una nueva misión que implica rescatar a un importante científico que ha sido secuestrado."
+    }
+  ]
 }

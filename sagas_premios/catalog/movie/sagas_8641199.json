@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:245891",
+      "type": "movie",
+      "name": "John Wick",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg",
+      "description": "John Wick es un antiguo asesino a sueldo de Nueva York que se había retirado de la profesión después de perder a su esposa. Pero, al descubrir la oscura trama que la mafia había planeado para acabar con él, arrebatándole lo que más quería, volverá a introducirse en el negocio, esta vez por su cuenta, para vengarse."
+    },
+    {
+      "id": "tmdb:324552",
+      "type": "movie",
+      "name": "John Wick II. Pacto de sangre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg",
+      "description": "El legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo."
+    },
+    {
+      "id": "tmdb:458156",
+      "type": "movie",
+      "name": "John Wick III. Parabellum",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg",
+      "description": "John Wick (Keanu Reeves) regresa a la acción, solo que esta vez con una recompensa de 14 millones de dólares sobre su cabeza y con un ejército de mercenarios intentando darle caza. Tras asesinar a uno de los miembros del gremio de asesinos al que pertenecía, Wick es expulsado de la organización, pasando a convertirse en el centro de atención de multitud de asesinos a sueldo que esperan detrás de cada esquina para tratar de deshacerse de él."
+    },
+    {
+      "id": "tmdb:603692",
+      "type": "movie",
+      "name": "John Wick 4",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg",
+      "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos."
+    },
+    {
+      "id": "tmdb:541671",
+      "type": "movie",
+      "name": "Ballerina",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg",
+      "description": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado."
+    }
+  ]
 }

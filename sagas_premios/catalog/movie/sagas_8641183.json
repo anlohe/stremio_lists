@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:3604",
+      "type": "movie",
+      "name": "Flash Gordon",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg",
+      "description": "El doctor Zarkov, un científico expulsado de la NASA, viaja en un cohete espacial, junto al joven jugador de rugby Flash Gordon y su amiga Dale Arden. Los tres intentarán salvar al planeta de la amenaza de Ming, el emperador del lejano reino Mongo, que ha lanzado una de sus lunas para que choque contra la Tierra."
+    },
+    {
+      "id": "tmdb:3687",
+      "type": "movie",
+      "name": "Flesh Gordon",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fYx7pbnW4NbsRTooHdu73t4JADG.jpg",
+      "description": "Alegre sátira de Flash Gordon. Un rayo-sexo se apunta a la tierra causando toda clase de problemas, por lo que Flesh viaja al planeta porno para detener los planes de Wang."
+    },
+    {
+      "id": "tmdb:3688",
+      "type": "movie",
+      "name": "Flesh Gordon Meets the Cosmic Cheerleaders",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mHdkAxWjPNjwHwMgNkC68ZBazh1.jpg",
+      "description": ""
+    }
+  ]
 }

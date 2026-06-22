@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2501",
+      "type": "movie",
+      "name": "The Bourne Identity: El caso Bourne",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yYH7sqMQ1NJNd6scW44D1WjBmAw.jpg",
+      "description": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios en artes lingüísticas, marciales y de autodefensa que sugieren una profesión de riesgo. Confuso y desorientado, emprende una frenética búsqueda para descubrir quién es y por qué su vida ha tomado un giro tan peligroso."
+    },
+    {
+      "id": "tmdb:2502",
+      "type": "movie",
+      "name": "El mito de Bourne",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kTFFwQHdaTUb5MJmB8KBGO7lh7N.jpg",
+      "description": "Jason Bourne pensaba que había dejado atrás su pasado dos años antes. Durante ese tiempo, atormentado por un pasado que no consigue recordar, Bourne y Marie se trasladan de una ciudad a otra, viviendo de manera anónima y clandestina. Tratan de huir de una amenaza que creen percibir en la mirada de cualquier extraño, en cada llamada telefónica \"equivocada\". Cuando un agente aparece por la tranquila villa en la que se alojan, la pareja huye precipitadamente. Pero el juego del ratón y el gato ha vuelto a comenzar, obligando a entrar en acción a Bourne para enfrentarse a un grupo de implacables asesinos profesionales."
+    },
+    {
+      "id": "tmdb:2503",
+      "type": "movie",
+      "name": "El ultimátum de Bourne",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ifuhCKw2DZ3ROlz7oSFxtJnznR7.jpg",
+      "description": "Jason Bourne sigue investigando quién es y qué hay realmente detrás del programa secreto de la CIA llamado Treadstone. Ahora un reportero británico de \"The Guardian\" le pone sobre una nueva pista con el nombre de Blackbriar. Bourne dará con él en Londres, en un intento de encajar las últimas piezas de ese pasado que él aún intenta recuperar."
+    },
+    {
+      "id": "tmdb:49040",
+      "type": "movie",
+      "name": "El legado de Bourne",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pWVaLBdcVrTqSTBKIJLinmuxRso.jpg",
+      "description": "El agente Aaron Cross es un producto del eficiente programa Outcome. Este programa diseña y entrena agentes cuya función consiste en actuar en solitario en misiones de alto riesgo. Sin embargo, en el momento en que la historia del agente Bourne está a punto de salir a la luz, los altos mandos de la agencia deciden tomar una solución drástica al respecto."
+    },
+    {
+      "id": "tmdb:324668",
+      "type": "movie",
+      "name": "Jason Bourne",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jv58uIvzudh2MiBW7VERz9552me.jpg",
+      "description": "Jason Bourne ha recuperado su memoria, pero eso no significa que el más letal agente de los cuerpos de élite de la CIA lo sepa todo. Han pasado 12 años desde la última vez que Bourne operara en las sombras. Pero todavía le quedan muchas preguntas por responder. En medio de un mundo convulso, azotado por la crisis económica y la guerra cibernética, Jason Bourne vuelve a surgir, de forma inesperada, cuando desde el pasado reaparece Nicky Parsons con información sobre él de vital importancia. Desde un lugar oscuro y torturado, Bourne reanudará la búsqueda de respuestas sobre su pasado."
+    }
+  ]
 }

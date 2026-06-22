@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1487",
+      "type": "movie",
+      "name": "Hellboy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5PWLsq6g52HqBMVJPVj64Q77p1L.jpg",
+      "description": "Nacido de las llamas del infierno hace sesenta años durante la Segunda Guerra Mundial, Hellboy (Ron Perlman) fue enviado a la Tierra por el loco diabólico Grigori Rasputín (Karel Roden) para hacer el mal. Destinado a ser un presagio del Apocalipsis, Hellboy fue rescatado por las Fuerzas Aliadas lideradas por el profesor Broom (John Hurt), fundador del clandestino I.I.P.D. (Instituto para la Investigación Paranormal y de Defensa), que lo crió como un hijo y desarrolló sus extraordinarios poderes paranormales. A pesar de sus oscuros orígenes, Hellboy se convierte en un extraño héroe del bien, que lucha contra las fuerzas del mal que amenazan nuestro mundo."
+    },
+    {
+      "id": "tmdb:11253",
+      "type": "movie",
+      "name": "Hellboy II: El ejército dorado",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3iD8i2t8UkgeL8TOJOy6hQvUKmW.jpg",
+      "description": "Tras la ruptura de un acuerdo milenario entre la humanidad y los poderes invisibles de un mundo fantástico, el infierno en la Tierra está cada vez más cerca. Un líder despiadado, que se maneja tanto en el mundo de los humanos como en el de las criaturas, decide traicionar a sus ancestros, y despierta a un ejército imparable de criaturas diabólicas. Ahora, en este momento de debilidad, el superhéroe más duro deberá combatir contra el imparable líder y su ejército. Es rojo, caliente e incomprendido es Hellboy (Ron Perlman)."
+    },
+    {
+      "id": "tmdb:456740",
+      "type": "movie",
+      "name": "Hellboy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gh1ln4LefTfWheKW5MYZuRjVHqV.jpg",
+      "description": "La Agencia para la Investigación y Defensa Paranormal (AIDP) encomienda a Hellboy la tarea de derrotar a un espíritu ancestral: Nimue, conocida como \"La Reina de la Sangre\". Nimue fue la amante del mismísimo Merlín durante el reinado del Rey Arturo, de él aprendió los hechizos que la llevaron a ser una de las brujas más poderosas… Pero la locura se apoderó de ella y aprisionó al mago para toda la eternidad. Hace siglos consiguieron acabar con esta villana, enterrándola profundamente, pero ha vuelto de entre los muertos con la intención de destruir a la humanidad con su magia negra."
+    },
+    {
+      "id": "tmdb:1087822",
+      "type": "movie",
+      "name": "Hellboy: El Hombre Retorcido",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8bC7X52Bgy50hFfMY80NAB7fqPk.jpg",
+      "description": "Hellboy (Jack Kesy) y una agente novata (Adeline Rudolph) del AIDP (Agencia para la investigación y defensa paranormal) se quedan varados en los Apalaches rurales de los años 50 y descubren una pequeña comunidad embrujada, liderada por el Hombre Retorcido."
+    }
+  ]
 }
