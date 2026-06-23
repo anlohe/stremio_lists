@@ -1,3 +1,102 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:11",
+      "type": "movie",
+      "name": "La guerra de las galaxias",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "description": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia."
+    },
+    {
+      "id": "tmdb:1891",
+      "type": "movie",
+      "name": "El imperio contraataca",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eU7KcNAOeZj9PBIcGUMSsuJz8qj.jpg",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader."
+    },
+    {
+      "id": "tmdb:1892",
+      "type": "movie",
+      "name": "El retorno del Jedi",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg",
+      "description": "Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica culmina en un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia."
+    },
+    {
+      "id": "tmdb:1884",
+      "type": "movie",
+      "name": "La aventura de los Ewoks",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tnDvyPj55BoxyLPOgkLDGTL3VAE.jpg",
+      "description": "Los miembros de la familia Towani se ven separados cuando su nave choca en la superficie de la luna de Endor. Los padres no tardan en ser capturados por el gigante Gorax, mientras que su hijo Mace y su hija Cincel están desaparecidos. Los Ewoks encuentran a los niños en los restos de la nave, y éstos deberán ganarse la confianza de los pequeños habitantes de Endor para iniciar la aventura de rescatar a sus padres"
+    },
+    {
+      "id": "tmdb:10372",
+      "type": "movie",
+      "name": "La batalla del planeta de los Ewoks",
+      "poster": "http://127.0.0.1:8888/t/p/w500/or2IqyxJiaGL3AFGK45JQjXdlL2.jpg",
+      "description": "Un ejército de merodeadores, bajo las órdenes del Rey Terak y la bruja Charal, atacan el Poblado Ewok. Cindel y Wicket huyen al bosque, donde se encuentran con Teek y el ermitaño Noa. Cindel y Wicket necesitarán la ayuda de Noa para derrotar a los merodeadores..."
+    },
+    {
+      "id": "tmdb:1893",
+      "type": "movie",
+      "name": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4rjatbWmGGmu0DZs6WNpXaUWqWN.jpg",
+      "description": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine..."
+    },
+    {
+      "id": "tmdb:1894",
+      "type": "movie",
+      "name": "La guerra de las galaxias. Episodio II: El ataque de los clones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg",
+      "description": "Corren tenebrosos tiempos para la República. Ésta continúa envuelta en luchas y sumida en el caos. Un movimiento separatista, formado por centenares de planetas y poderosas alianzas y y lideradas por el misterioso conde Dooku, abre nuevas amenazas para la galaxia, a la que ni siquiera los Jedi parecen poder poner freno. Estas maniobras, planeadas hace mucho por una poderosa fuerza, conducen al estallido de las guerras clones y al principio del fin de la República. Para allanar el camino, los separatistas intentan asesinar a la senadora Padme Amidala. Para evitar futuros atentados, su seguridad es encomendada a dos caballeros Jedi..."
+    },
+    {
+      "id": "tmdb:1895",
+      "type": "movie",
+      "name": "La guerra de las galaxias. Episodio III: La venganza de los Sith",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5dj0ERxM8NxoiWBdlY6TT9PJmKi.jpg",
+      "description": "Último capítulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecerá el General Grievous, un ser implacable mitad-alien mitad-robot, el líder del ejército separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron prácticamente exterminados por los Jedi hace mil años, pero la orden del mal sobrevivió en la clandestinidad."
+    },
+    {
+      "id": "tmdb:140607",
+      "type": "movie",
+      "name": "Star Wars: El despertar de la fuerza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+      "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja."
+    },
+    {
+      "id": "tmdb:330459",
+      "type": "movie",
+      "name": "Rogue One: Una historia de Star Wars",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
+      "description": "El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine."
+    },
+    {
+      "id": "tmdb:181808",
+      "type": "movie",
+      "name": "Star Wars: Los últimos Jedi",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
+      "description": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida."
+    },
+    {
+      "id": "tmdb:348350",
+      "type": "movie",
+      "name": "Han Solo: Una historia de Star Wars",
+      "poster": "http://127.0.0.1:8888/t/p/w500/44pBWKtUQNc0zDat1PX1pOGVNtV.jpg",
+      "description": "Precuela de la saga Star Wars, en la que se conocerán los primeros pasos que dio el personaje de Han Solo, desde joven hasta convertirse en el antihéroe que vimos en \"Una nueva esperanza\", antes de que se encontrase con Luke y Obi-Wan en la cantina de Mos Eisley."
+    },
+    {
+      "id": "tmdb:181812",
+      "type": "movie",
+      "name": "Star Wars: El ascenso de Skywalker",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oeQxq6If4DcW6ADIYCF9SQwKov.jpg",
+      "description": "Un año después de los eventos de \"Los últimos Jedi\", los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo. Final de la trilogía iniciada con \"El despertar de la Fuerza\"."
+    },
+    {
+      "id": "tmdb:1228710",
+      "type": "movie",
+      "name": "The Mandalorian and Grogu",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "description": "Continuación de la serie \"The Mandalorian\" en forma de película. El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu."
+    }
+  ]
 }

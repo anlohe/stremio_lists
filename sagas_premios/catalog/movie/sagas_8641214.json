@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1498",
+      "type": "movie",
+      "name": "Tortugas Ninja",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uDJipJy4zwIN9F7stcaTGwfD9yP.jpg",
+      "description": "Después de haber sido contaminadas con una misteriosa sustancia química, llamada Ooze, cuatro tortugas que viven en las alcantarillas de Nueva York se transforman y mutan, de repente, en grandes tortugas. Ahora pueden hablar y caminar como un ser humano. Entrenadas por una vieja pero sabia rata (el Maestro Splinter) las cuatro tortugas, Leonardo, Miguel Ángel, Donatello y Rafael, aprenderán técnicas ninja para enfrentarse a los más peligrosos criminales. Sus enemigos son los miembros de una secta llamada \"El clan del pie\", liderada por Shredder, quien quiere convertirse en el amo del mundo."
+    },
+    {
+      "id": "tmdb:1497",
+      "type": "movie",
+      "name": "Las tortugas ninja II. El secreto de los mocos verdes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/a6eDXofVwUVBIOINI9qsemQ1hG0.jpg",
+      "description": "El malvado Shredder tiene un único y perverso plan: acabar con los cuatro superhéroes Tortugas Ninja Mutantes, Raphael, Leonardo, Michelangelo y Donatello. Para ello, secuestra al profesor Jordan Perry, creador del \"moco verde\" que hace posible la mutación de las Tortugas. Poco después, Shredder aplica la preciada sustancia a dos criaturas que acaba de reclutar, convirtiéndolos en terribles e imponentes guerreros ninja que lucharán e intentarán terminar con los superhéroes. Sin embargo, éstos logran hacen frente al peligroso criminal, con la ayuda de su maestro Splinter, la elegante periodista April y el repartidor de pizzas Keno."
+    },
+    {
+      "id": "tmdb:1499",
+      "type": "movie",
+      "name": "Las Tortugas Ninja III",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mMSdr7aidcp4LBfJ9FOPnaOsylg.jpg",
+      "description": "Cuando un cetro mágico transporta por accidente a April al Japón del siglo XVII, los chicos se lanzan en su busca y aparecen, a través de la alcantarilla, ¡en la tierra de los samuráis! Ahora deben enfrentarse a Nortaga, el malvado Señor de la guerra, y recuperar el cetro que los transportará de vuelta a lo más profundo del metro de Nueva York."
+    },
+    {
+      "id": "tmdb:98566",
+      "type": "movie",
+      "name": "Ninja Turtles",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8n4ceqgtYeWjcvpzFAb67sG0Ksr.jpg",
+      "description": "Nueva York está en peligro debido a que Shredder y El Clan del Pie, dominan la ciudad y ejercen un férreo control sobre todo, incluyendo policía y políticos. Pero cuatro héroes, Leonardo, Michelangelo, Donatello y Raphael, saldrán de las alcantarillas y con la ayuda de la reportera April y su compañero Vern Fenwick intentarán salvar la ciudad."
+    },
+    {
+      "id": "tmdb:308531",
+      "type": "movie",
+      "name": "Ninja Turtles: Fuera de las sombras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t24yGNL0aLFFfN9X3TkoV1sCSAA.jpg",
+      "description": "Michelangelo, Donatello, Leonardo y Raphael regresan junto con April O’Neil, Vern Fenwick y un nuevo vigilante enmascarado, Casey Jones, para combatir a unos villanos aún más malignos y poderosos. El súper villano Shredder escapa de prisión y une sus fuerzas con el científico loco Baxter Stockman y sus dos secuaces, Bebob y Rocksteady, para llevar a cabo un diabólico plan para conquistar el mundo. Mientras las Tortugas se preparan para enfrentarse a Shredder y su banda, tendrán que luchar también con un nuevo enemigo, incluso más poderoso, y también con intenciones malignas: El General Krang."
+    }
+  ]
 }

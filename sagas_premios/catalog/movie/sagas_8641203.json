@@ -1,3 +1,18 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2059",
+      "type": "movie",
+      "name": "La búsqueda",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2c0gn21jGROhZEvdrraXV35mAKd.jpg",
+      "description": "Benjamin Franklin Gates ha dedicado su vida a buscar el legendario tesoro de los Caballeros Templarios, del que se decía que estaba escondido en algún lugar de Estados Unidos. Durante siete generaciones, la familia Gates, siguiendo las pistas que dejaron los 'Padres Fundadores' de Estados Unidos, recorrieron el país en busca del tesoro. Cuando, por fin, Ben descubre la pista definitiva: un mapa oculto en el reverso de la Declaración de Independencia, la noticia llega a oídos de su rival Ian Howe. Para impedir que el documento caiga en manos de alguien tan peligroso, Gates cuenta con la ayuda de su compañero de aventuras Riley, un genio de la tecnología, y de Abigail Chase, la atractiva conservadora de los Archivos Nacionales."
+    },
+    {
+      "id": "tmdb:6637",
+      "type": "movie",
+      "name": "La búsqueda 2: El diario secreto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9gVoUTjFqxdkNxywEySRzYNzzhk.jpg",
+      "description": "El buscador de tesoros Ben Gates (Cage) se ve de nuevo envuelto en una extraordinaria aventura, en la que se combinan períodos desconocidos de la historia y tesoros ocultos. Cuando una página del diario de John Wilkes Booth, el asesino de Abraham Lincoln, sale a la luz, el tatarabuelo de Ben se ve implicado como el principal instigador del magnicidio. Decidido a probar la inocencia de su antepasado, Ben y su equipo emprenden un viaje que los lleva a descubrir uno de los tesoros más buscados del mundo."
+    }
+  ]
 }

@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:562",
+      "type": "movie",
+      "name": "Jungla de cristal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m54tK4wKjc1w2dp7QInG0munGao.jpg",
+      "description": "John McClane, un duro policía neoyorquino, acude a Los Angeles para pasar unos días de vacaciones con sus hijos y su esposa Holly. En el transcurso de la fiesta navideña que la empresa de Holly da en el moderno edificio Nakatoni, éste es asaltado por un supuesto grupo terrorista liderado por un megalómano llamado Hans Gruber."
+    },
+    {
+      "id": "tmdb:1573",
+      "type": "movie",
+      "name": "La jungla 2: Alerta roja",
+      "poster": "http://127.0.0.1:8888/t/p/w500/19PBdteqhLAgN6rZUDIU0Ka6qLH.jpg",
+      "description": "Es Navidad. El policía del departamento de Los Angeles, teniente John McLane, espera en el aeropuerto de Dulles de Washington a que aterrice el avión en el que viaja su esposa. Mientras tanto, el coronel del ejército Stuart, un militar bien entrando, expulsado del congreso, junto con otros mercenarios profesionales, montan una base de operaciones cerca de dicho aeropuerto, con el objetivo de liberar a un dictador sudamericano derrocado, considerado el mayor traficante del mundo, y que dentro de 58 minutos aterrizará en Dulles en calidad de prisionero político. Stuart anula todos los sistemas que permiten aterrizar a los demás aviones, condenados a permanecer en el aire con el riesgo de agotárseles el combustible. Exige, además, que un Boeing 747 esté a su disposición para huir con el dictador una vez liberado, pero McClane intentará que no prospere..."
+    },
+    {
+      "id": "tmdb:1572",
+      "type": "movie",
+      "name": "Jungla de cristal: la venganza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uLVcPispwVVa5LMpAWwQngFcm8.jpg",
+      "description": "Un hombre que se llama a sí mismo 'Simon' inicia una oleada de terror por las calles de Nueva York. Hará detonar una serie de bombas por la ciudad a menos que el agente John McClane acceda a jugar a un juego llamado 'Simón dice'. Con la ayuda de Zeus, un electricista del Harlem, comienza una trepidante carrera para averiguar las adivinanzas y las intenciones del terrorista."
+    },
+    {
+      "id": "tmdb:1571",
+      "type": "movie",
+      "name": "La jungla 4.0",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8jC7C4dAohb2CdWrEmAPyeTMT3f.jpg",
+      "description": "En Estados Unidos, la infraestructura de ordenadores que controla todo tipo de comunicaciones, transportes y energías sufre un devastador parón por parte de un grupo terrorista. El cerebro que se esconde tras esta trama ha tenido en cuenta hasta el más mínimo detalle de este devastador plan. Con lo que no había contado era con John McClane (Bruce Willis), un policía de la vieja escuela que conoce una o dos cosas acerca de cómo frustrar amenazas terroristas, el hombre adecuado para este tipo de trabajos..."
+    },
+    {
+      "id": "tmdb:47964",
+      "type": "movie",
+      "name": "La jungla de cristal V. Un buen día para morir",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1WQ3EWu8P3mML3pV9D3PKbvfwxb.jpg",
+      "description": "Conservando la destreza y la actitud perseverante características de las anteriores entregas, que le han convertido en el mayor rival de todos los criminales que atentan contra la libertad de la humanidad y que han permitiendo la salvación de ésta en distintas situaciones y circunstancias, John McClane deberá viajar a Rusia para rescatar a su hijo que se encuentra encerrado en una prisión bajo las órdenes de un déspota líder ruso.  Padre e hijo tendrán que unir fuerzas para luchar contra su adversario, conseguir liberarse y mantenerse con vida. Así, los protagonistas se verán envueltos en una sucesión de extrema hostilidad que no solo pondrá su vida en peligro, también la del resto de ciudadanos. Su deber será hacer todo lo posible por conservar algo tan esencial en la sociedad actual como es la democracia, una libertad de la que el perverso y autoritario líder antagonista querrá apoderarse."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2907",
+      "type": "movie",
+      "name": "La familia Addams",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg",
+      "description": "El delirante y gótico estilo de vida de la peculiar familia Addams se ve amenazado peligrosamente cuando el codicioso dúo que forman madre e hijo, con la ayuda de un abogado sin ningún escrúpulos, conspiran para hacerse con la fortuna familiar..."
+    },
+    {
+      "id": "tmdb:2758",
+      "type": "movie",
+      "name": "La familia Addams: La tradición continúa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg",
+      "description": "Fue amor al primer susto cuando Gomez y Morticia acogieron a un nuevo miembro en el grupo familiar -Pubert, su delicado, blandito y bigotudo niño. Fue entonces cuando Fétido se enamoró de la voluptuosa niñera. Pero tras algunas investigaciones, Miércoles y Pugsley descubren que la inocente niñera es en realidad una viuda negra asesina que planea añadir a Fétido a su colección de maridos muertos."
+    },
+    {
+      "id": "tmdb:11508",
+      "type": "movie",
+      "name": "La familia Addams III. La reunión",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mBLE3q3pNkoX6niMxqMNyKoFzMi.jpg",
+      "description": "Los Addams reciben una invitación para asistir a una reunión familiar organizada por unos parientes lejanos. Como es de esperar, Morticia, Gómez y los niños no caben en sí de júbilo y viajan con toda la ilusión del mundo al lugar de la reunión. Pero, cuando lleguen, descubrirán la triste realidad: han sido invitados a la fiesta por culpa de un error informático y sus supuestos parientes resultan ser una familia aburrida y convencional."
+    }
+  ]
 }

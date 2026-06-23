@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:425",
+      "type": "movie",
+      "name": "Ice Age: La edad de hielo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",
+      "description": "Hace muchos, muchos años, tantos como 20.000, una pequeña ardirata de nombre Scrat quería esconder una bellota en el hielo. Pero lo que hace es provocar una semicatástrofe que provoca que todos los animales migren hacia el sur, hacia tierras más cálidas. Bueno, lo que se dice todos, todos, no. Porque hay uno que lleva la contraria: se trata del mamut Manfred, un auténtico lobo solitario vagabundo y soberbio que va hacia el norte sólo porque los demás están yendo hacia el sur."
+    },
+    {
+      "id": "tmdb:950",
+      "type": "movie",
+      "name": "Ice Age 2: El deshielo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q3D7vBGrJVrVrZSJjVQN8lN0e6c.jpg",
+      "description": "¡Tus héroes favoritos han vuelto con otra magnífica aventura en esta gélida secuela del magnífico éxito mundial Ice Age! Y esta vez la cosa se calienta como la temperatura ambiente para Manny, Sid, Diego y Scrat, que abandonan su valle para escapar a una auténtica inundación de problemas y emprenden un divertidísimo viaje por un paisaje en pleno deshielo durante el cual conocen a Ellie."
+    },
+    {
+      "id": "tmdb:8355",
+      "type": "movie",
+      "name": "Ice Age 3: El origen de los dinosaurios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zufHIdp8szvgkt8VCnJEF2fo1tN.jpg",
+      "description": "Tercera parte de las aventuras de Diego, Scrat y compañía. En esta ocasión, les tocará lidiar con varios dinosaurios. Scrat sigue intentando apoderarse de la muy escurridiza bellota; Manny y Ellie esperan el nacimiento de su mini-mamut; Sid, el perezoso, se mete en un buen lío al formar de repente una familia propia tras encontrarse unos huevos de dinosaurio."
+    },
+    {
+      "id": "tmdb:57800",
+      "type": "movie",
+      "name": "Ice Age 4: La formación de los continentes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg",
+      "description": "La loca persecución de Scrat por su escurridiza bellota desde el principio de los tiempos, tiene consecuencias que cambiarán el mundo: un cataclismo continental que desencadenará la mayor de las aventuras para Manny, Diego y Sid. En medio de estas agitaciones, Sid se reencuentra con su Abuelita Gruñona y la manada tropieza con una extraña cuadrilla de piratas de altamar decididos a impedirles su regreso a casa."
+    },
+    {
+      "id": "tmdb:278154",
+      "type": "movie",
+      "name": "Ice Age: El gran cataclismo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vgxlqI40AUXmpBzcwlLsYZI5EcR.jpg",
+      "description": "En la nueva historia veremos a Scrat y su mítica bellota en el espacio, donde accidentalmente desencadenará una serie de acontecimientos que amenazarán la Edad de Hielo. Para salvarse, Sid, Manny, Diego y el resto de la manada deberán salir de su hogar y embarcarse en una aventura llena de comedia y aventuras, viajando por tierras exóticas donde se encontrarán con nuevos y peculiares personajes."
+    },
+    {
+      "id": "tmdb:774825",
+      "type": "movie",
+      "name": "Ice Age. Las aventuras de Buck",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iDah4ZcDX3F316LcLlmNNAzsRqF.jpg",
+      "description": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido."
+    }
+  ]
 }

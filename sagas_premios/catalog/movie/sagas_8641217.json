@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:8009",
+      "type": "movie",
+      "name": "Los inmortales",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg",
+      "description": "Son Inmortales, destinados a vivir eternamente. Deben retarse a duelos a través de los tiempos hasta que sólo quede uno. Sólo decapitados por la hoja de una espada pueden liberarse de su eterna lucha y conseguir el Premio: un poder inimaginable. Desde las tierras altas de Escocia del siglo XVI hasta el Nueva York de nuestros días, los Inmortales luchan por su recompensa, mientras el destino de los mortales se sostiene en un frágil equilibrio."
+    },
+    {
+      "id": "tmdb:8010",
+      "type": "movie",
+      "name": "Los inmortales II. El desafío",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7heLDCYLDBOsxRhuxPhNMc3Wt78.jpg",
+      "description": "Katana es el dictador del planeta Zeist del que procede Connor Mcleod. Este último tiene setenta y cinco años, y espera en la tierra que le llegue su hora calmadamente tras una larga e intensa vida. Pero los problemas vuelven a surgir en su vida cuando el autoritario Katana quiere acabar con él. Para poder hacerle frente, recurre a un extraño conjuro que le convierte en un joven de treinta años y que consigue hacer volver a Ramírez, su amigo."
+    },
+    {
+      "id": "tmdb:8011",
+      "type": "movie",
+      "name": "Los inmortales III. El hechicero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AhPvP5c3kXOUdkk7zRCcFCymiYF.jpg",
+      "description": "MacLeod se enfrenta al malvado Kane, en el Japón feudal, pues hasta allí se ha desplazado el héroe en busca de un maestro de la magia para que le transmita sus conocimientos. En un salto en el tiempo ambos vuelven a enfrentarse en el siglo XX."
+    },
+    {
+      "id": "tmdb:12211",
+      "type": "movie",
+      "name": "Los inmortales IV. Juego final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5lVlajdAMI2WnX5X8OnguITpmZM.jpg",
+      "description": "Connor MacLeod está cansado de su condición de inmortal y de ver cómo sobrevive a todos los que ama. Se recluye en un santuario en el que los inmortales pueden reposar en paz, sin tener que luchar. Pero el santuario es atacado por un viejo enemigo, Jacob Kell, que, después de asesinar a todos los que se encontraban retirados, excepto Connor, se ha convertido en el inmortal más poderoso. Ahora, Connor y su hermano Duncan tendrán que detenerlo y evitar así que sea el malvado Kell el último inmortal que quede."
+    },
+    {
+      "id": "tmdb:13360",
+      "type": "movie",
+      "name": "Los inmortales. El origen",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9mKXsmDDYpnKKuviOxMTQxr2q86.jpg",
+      "description": "El mundo está sumido en el caos. Duncan MacLeod, el Inmortal, recorre la ciudad que se desmorona, mientras va recordando los tiempos felices que vivió junto a su amada. Desesperado y solo, MacLeod se encuentra con su antigua banda, entre ellos con su misterioso amigo Methos, y un mortal, Watcher Joe Dawson. Reunido este pequeño grupo, juntos deciden encontrar el origen del primer Inmortal y la fuente de su inmortalidad."
+    }
+  ]
 }

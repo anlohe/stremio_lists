@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:34584",
+      "type": "movie",
+      "name": "La historia interminable",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rXAJUv3QfGxIEo8pVAjRPS58paB.jpg",
+      "description": "Bastián Baltasar Bux es un niño de once años que descubre en una antigua librería un libro titulado “La historia interminable”, el cual posee poderes mágicos. Esa magia hace que el mismo Bastián se convierta en un héroe de esa historia que parece no terminarse nunca, en la que se unirá a Atreyu, otro niño, con el objetivo de salvar al mundo de fantasía.Escondido en el desván de su colegio, Bastián devora durante las horas de clase este enigmático libro, que relata la destrucción de todo un mundo lleno de fantasía. Una especie de \"Nada\" misteriosa destruye todo el país y a todas las criaturas que lo habitan. A medida que avanza en su lectura, Bastián se da cuenta de que la salvación de Fantasía depende de él; de que consiga entrar en el libro."
+    },
+    {
+      "id": "tmdb:34636",
+      "type": "movie",
+      "name": "La historia interminable II. El siguiente capítulo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bmxZK2By8BsHrfGOlEERIX4TYRA.jpg",
+      "description": "Continuación de las aventuras del joven Bastian Bux. En esta ocasión Bastian, agobiado por su situación en su vida real, recurre de nuevo al libro mágico."
+    },
+    {
+      "id": "tmdb:27793",
+      "type": "movie",
+      "name": "La historia interminable III. Las aventuras de Bastian",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aQtQZwYsJxGnSk5dqLqnIuyNgov.jpg",
+      "description": "El deseo de Bastian de tener un hermano o hermana se convierte finalmente en realidad cuando su padre anuncia que se va a volver a casar. Desafortunadamente, Bastian no congenia con su hermanastra Nicole. Sus problemas aumentan cuando se convierte en víctima de Los Bestias, una banda de fanfarrones de su nuevo colegio. Ocultándose de ellos en la biblioteca del colegio, Bastian encuentra por casualidad su libro preferido, -La historia interminable-, se esconde en un cuarto oscuro y pide el deseo de regresar a Fantasía. Desconcertados por su desaparición, Los Bestias deciden abandonar su búsqueda, pero descubren el libro en el suelo. Slip, el líder de la pandilla, comienza a leerlo y se da cuenta del poder que posee."
+    }
+  ]
 }

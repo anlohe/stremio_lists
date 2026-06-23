@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:70160",
+      "type": "movie",
+      "name": "Los juegos del hambre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qSEn7KsGchT7qB08HlviyeTPrEr.jpg",
+      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem; un imponente Capitolio ejerce un control riguroso sobre los 12 distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, unos juegos que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza."
+    },
+    {
+      "id": "tmdb:101299",
+      "type": "movie",
+      "name": "Los Juegos del Hambre: En llamas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oxnKI1qiHz7xC0mNthC7dSqTcot.jpg",
+      "description": "Tras vencer en los 74º Juegos del Hambre anuales, la joven Katniss Everdeen y su compañero Peeta Mellark regresan a casa. Atrás dejaron a sus amigos y su familia, teniendo ambos que participar en la 'gira de la victoria' por todos los distritos. Durante ese largo viaje, Katniss se da cuenta de que se está gestando una rebelión, pero en el Capitolio todo sigue igual y bajo estricto control del Presidente Snow, que está organizando los 75º Juegos del Hambre, denominados 'El Vasallaje de los Veinticinco': una competición especial con una inesperada novedad que cambiará Panem para siempre."
+    },
+    {
+      "id": "tmdb:131631",
+      "type": "movie",
+      "name": "Los juegos del hambre III. Sinsajo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg",
+      "description": "Katniss Everdeen se encuentra en el Distrito 13 después de destrozar los Juegos para siempre. Bajo el liderazgo de la comandante Coin y el consejo de sus amigos más leales, Katniss extiende sus alas mientras lucha por salvar a Peeta Mellark y a una nación alentada por su valentía..."
+    },
+    {
+      "id": "tmdb:131634",
+      "type": "movie",
+      "name": "Los juegos del hambre IV. Sinsajo II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg",
+      "description": "La última entrega de 'Los Juegos del Hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow. Con la ayuda de algunos amigos, entre ellos Gale, Finnick y Peeta, arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow."
+    },
+    {
+      "id": "tmdb:695721",
+      "type": "movie",
+      "name": "Los juegos del hambre. Balada de pájaros cantores y serpientes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2vIK81ikjvdewSLmrwIg7AMoJIv.jpg",
+      "description": "Ambientada en un Panem postapocalíptico, nos traslada varias décadas antes del comienzo de las aventuras de Katniss Everdeen. El joven Coriolanus Snow será el mentor de Lucy Gray Baird, la chica elegida para ser homenajeada del empobrecido Distrito 12. La joven sorprenderá a todos cantando en la ceremonia de apertura de los Décimos Juegos del Hambre en los que Snow intentará aprovecharse de su talento y encanto para sobrevivir."
+    }
+  ]
 }

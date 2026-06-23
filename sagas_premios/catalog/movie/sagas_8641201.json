@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1885",
+      "type": "movie",
+      "name": "Karate Kid, el momento de la verdad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg",
+      "description": "Daniel Larusso llega a Los Angeles procedente de la costa Este de Estados Unidos dispuesto a hacer nuevos amigos. Sin embargo, se convierte en el blanco de los ataques de los Cobras, un hostil grupo de estudiantes de kárate, cuando comienza a salir con Ali, la antigua novia del cabecilla del grupo. En tal situación, no tiene más remedio que pedirle ayuda a Miyagi, un maestro de artes marciales, para que le enseñe kárate. Bajo la tutela de Miyagi, Daniel desarrolla no sólo sus aptitudes físicas, sino también la seguridad en sí mismo que necesita para superar todos los obstáculos."
+    },
+    {
+      "id": "tmdb:8856",
+      "type": "movie",
+      "name": "Karate Kid II, la historia continúa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fOfjKdFdzDbbArgxk1sOLpQ211g.jpg",
+      "description": "Daniel y el señor Miyagi viajan a Okinawa, a la pequeña aldea en la que el anciano nació y de la que tuvo que marcharse por un asunto de honor. Su padre está gravemente enfermo y quiere verlo, pero también le espera su antiguo amor de juventud. La llegada del señor MIyagi reabre unas heridas que el tiempo y la distancia parecían haber borrado."
+    },
+    {
+      "id": "tmdb:10495",
+      "type": "movie",
+      "name": "Karate Kid III. El desafío final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1vpDcoILmWHuqd2HNFMncSEuIyV.jpg",
+      "description": "El joven karateka Daniel Larusso libra su batalla mas difícil cuando el malvado Kreese le arrastra a una complicada situacion, al obligarle a defender su título de campeón del torneo del Valley. Su maestro Miyagi no está de acuerdo y el joven rompe con él. Daniel tendra un nuevo profesor, que más que como karateka realmente le entrena como si fuera un asesino. Cuando Daniel comprende que el kárate sólo debe usarse para defender el honor y la vida, regresa a las enseñanzas de su viejo maestro."
+    },
+    {
+      "id": "tmdb:11231",
+      "type": "movie",
+      "name": "El nuevo Karate Kid",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4BTiBFW4jbMEUewbOWqidkEjrL.jpg",
+      "description": "Julie perdió a sus padres cuando sólo era una niña. Ahora, a sus 17 años, vive con el señor Miyagi, un anciano japonés amigo de su abuela. La joven además tiene problemas en el instituto con una banda de muchachos que juegan a proteger a su país de enemigos interiores que ya no respetan el viejo orden."
+    },
+    {
+      "id": "tmdb:38575",
+      "type": "movie",
+      "name": "Karate Kid",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
+      "description": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han."
+    },
+    {
+      "id": "tmdb:1011477",
+      "type": "movie",
+      "name": "Karate Kid: Legends",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jP1OIX4KI7eFjxNpHyJff9VcBcP.jpg",
+      "description": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Li lucha por dejar atrás su pasado mientras intenta encajar con sus nuevos compañeros de clase y, aunque no quiere pelear, los problemas parecen encontrarle en todas partes. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales. Nueva película de la saga \"Karate Kid\", conectada al universo de \"Cobra Kai\"."
+    }
+  ]
 }

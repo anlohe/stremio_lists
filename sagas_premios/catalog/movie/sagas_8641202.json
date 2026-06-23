@@ -1,3 +1,67 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:244",
+      "type": "movie",
+      "name": "King Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7WQcJuFtwkT3PsK3V6kBzK0F4Ko.jpg",
+      "description": "Un equipo de cine va a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí descubren la existencia de una civilización prehistórica y de una tribu ancestral que secuestra a la atractiva Ann, la actriz protagonista, para ofrecerla en sacrificio ritual a King, un gigantesco gorila."
+    },
+    {
+      "id": "tmdb:43149",
+      "type": "movie",
+      "name": "El hijo de Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3g2YYxfRRfGwNqwgcHmbqB1VeGh.jpg",
+      "description": "Tras el desastroso final de su anterior aventura, Carl Denham monta otra expedición y parte de nuevo desde Nueva York para regresar a la isla de Kong. Allí descubre a su hijo, un gorila blanco que simpatizará con los exploradores."
+    },
+    {
+      "id": "tmdb:1680",
+      "type": "movie",
+      "name": "King Kong contra Godzilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/863wOhX5gJmyRTb9E3CiQ87yOLD.jpg",
+      "description": "Versión japonesa. Una expedición organizada por el director de publicidad de un compañía de farmacéuticos, viaja a la isla Farou para recoger bayas rojas y captura a King Kong para usarlo en una campaña publicitaria. Cuando Godzilla se libera de un iceberg se genra un frenesí mediático con el combate de lucha libre mas grande de la historia."
+    },
+    {
+      "id": "tmdb:10730",
+      "type": "movie",
+      "name": "King Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pcwZuaFdOR9PZxbkCDNccE7xGjL.jpg",
+      "description": "La \"Petrox Company\" envía una expedición, dirigida por Fred Wilson, a la Micronesia con la intención de encontrar petróleo. Con ellos va Jack Prescott, cuyo objetivo es encontrar un monstruo prehistórico. Durante la travesía, se encuentran un bote con una mujer que se ha salvado del naufragio del barco en que viajaba con un productor de cine. Cuando desembarcan, descubren una gran empalizada, y dentro observan que unos nativos colocan a una mujer nativa en una plataforma, mientras invocan a una misteriosa deidad animal."
+    },
+    {
+      "id": "tmdb:31947",
+      "type": "movie",
+      "name": "King Kong II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rQPX3caRsqloOIRSGBIsntayrOx.jpg",
+      "description": "Gracias a técnicas muy modernas, unos científicos consiguen mantener a King Kong en coma durante diez años; pero para salvarle la vida necesitan hacerle una transfusión de sangre, y no hay ningún animal que tenga un plasma parecido. En la isla de Borneo, el explorador y aventurero Hans Mitchell caza a Lady Kong, un ejemplar de gorila hembra similar y la traslada a Atlanta. Una vez despierto, King Kong siente la presencia de Lady Kong, la busca y los dos huyen a un bosque cercano. Allí son perseguidos de nuevo, pero la doctora Franklin, que se ha encargado del primate durante diez años, y Hans Mitchell han formado una pareja decidida a todo con tal de ayudar a los gigantescos animales."
+    },
+    {
+      "id": "tmdb:254",
+      "type": "movie",
+      "name": "King Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
+      "description": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York."
+    },
+    {
+      "id": "tmdb:293167",
+      "type": "movie",
+      "name": "Kong. La isla Calavera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/myOdovPayRRitZDZSutI07eNANM.jpg",
+      "description": "En los años 70, un variopinto grupo de exploradores y soldados es reclutado para viajar a una misteriosa isla del Pacífico. Entre ellos están el capitán James Conrad, el teniente coronel Packard y una foto-periodista. Pero al adentrarse en esta bella pero traicionera isla, los exploradores encontrarán algo absolutamente sorprendente. Sin saberlo, estarán invadiendo los dominios del mítico Kong, el gigante gorila rey de esta isla. Será Marlow, un peculiar habitante del lugar, quien les enseñe los secretos de Isla Calavera, además del resto de seres monstruosos que la habitan."
+    },
+    {
+      "id": "tmdb:399566",
+      "type": "movie",
+      "name": "Godzilla vs. Kong",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg",
+      "description": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra."
+    },
+    {
+      "id": "tmdb:823464",
+      "type": "movie",
+      "name": "Godzilla y Kong: El nuevo imperio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+      "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre."
+    }
+  ]
 }

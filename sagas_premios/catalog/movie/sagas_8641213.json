@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:43860",
+      "type": "movie",
+      "name": "Las minas del rey Salomón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eudQCIbInZJVBc5wxtuAwSQ8vWh.jpg",
+      "description": "El famoso cazador de África Central Allan Quatermain es contratado por una hermosa joven, Kathy O´brien, para encontrar a su padre, un cazador de fortunas que se ha extraviado cuando buscaba las míticas minas del rey Salomón. En el transcurso del viaje vivirán todo tipo de peligros y aventuras."
+    },
+    {
+      "id": "tmdb:43388",
+      "type": "movie",
+      "name": "Las minas del rey Salomón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/g7rcMYUCbnpwOy9G52AENfuV2yP.jpg",
+      "description": "El marido de Elizabeth Curtis ha desaparecido en algún lugar de África mientras intentaba encontrar las minas de diamantes del rey Salomón. Para encontrarlo, Elizabeth contrata al aventurero y explorador Alan Quartermain y le ofrece una recompensa de 5.000 libras."
+    },
+    {
+      "id": "tmdb:135504",
+      "type": "movie",
+      "name": "Regreso a las minas del rey Salomón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7BDfSXAAk6RZzkKLHwdPXVhE4DB.jpg",
+      "description": "Continuación de las legendarias ”Minas del rey Salomón”. El hijo del protagonista de aquélla, está dispuesto a encontrar como sea las famosas minas, por lo que no tarda en organizar un safari en colaboración con un antiguo compañero de su padre. El grupo de exploradores debe enfrentarse a continuos peligros para encontrar uno de los mayores y mejor guardados tesoros del planeta."
+    },
+    {
+      "id": "tmdb:198221",
+      "type": "movie",
+      "name": "El tesoro del rey Salomón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xvEc7i91EJofJcTyu20Z3o1O4vd.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:9838",
+      "type": "movie",
+      "name": "Las minas del rey Salomón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jHrjJGM3bizZXaiI35aWWN3MTj5.jpg",
+      "description": "Allan Quatermain, un famoso cazador, emprende un safari por el corazón de Africa. Al mismo tiempo, Elizabeth Curtis, acompañada de su hermano John, se interna en la zona más inhóspita del continente para buscar a su marido, desaparecido mientras buscaba las minas del Rey."
+    },
+    {
+      "id": "tmdb:9710",
+      "type": "movie",
+      "name": "Allan Quatermain y la ciudad perdida de oro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hGgJZ1Cp3YxAsJzfeac4KChfT5i.jpg",
+      "description": "Cuando ya iba a partir en barco a América para casarse allá con su novia Jesse Huston, el cazador inglés Allan Quatermain rescata en la selva a un moribundo amigo, Dumont, quien es perseguido por misteriosos nativos. Antes de ser asesinado, Dumont le informa que Robeson Quatermain, hermano de Allan, se encuentra en Milosis, la ciudad de oro de una antigua leyenda, gobernada por una raza blanca. Posponiendo su viaje a USA, Quatermain parte en busca de su hermano, acompañado por Jesse, el gigantesco zulú Umslopogaas y el cobarde hindú Swarma. Tras atravesar desiertos y selvas plagadas de todo tipo de peligros fantásticos y enfrentar a los salvajes Eshowe, el grupo llega a la dorada Milosis, ciudad gobernada por primitivos hombres blancos, gobernados por las reinas Nyleptha y Sorais."
+    }
+  ]
 }

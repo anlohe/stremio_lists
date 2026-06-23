@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:411",
+      "type": "movie",
+      "name": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg",
+      "description": "La historia narra las aventuras de cuatro hermanos: Lucy, Edmund, Susan y Peter, que durante la Segunda Guerra Mundial descubren el mundo de Narnia, al que acceden a través de un armario mágico mientras juegan al escondite en la casa de campo de un viejo profesor. En Narnia descubrirán un mundo increíble habitado por animales que hablan, duendes, faunos, centauros y gigantes al que la Bruja Blanca- Jadis- ha condenado al invierno eterno. Con la ayuda del león Aslan, el noble soberano, los niños lucharán para vencer el poder que la Bruja Blanca ejerce sobre Narnia en una espectacular batalla y conseguir así liberarle de la maldición del frío."
+    },
+    {
+      "id": "tmdb:2454",
+      "type": "movie",
+      "name": "Las crónicas de Narnia: El príncipe Caspian",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ccXSnN0bMBYc7Pno5chkpy7UYcq.jpg",
+      "description": "Un año después de los increíbles acontecimientos de \"El León, la Bruja y el Armario\", los reyes y las reinas de Narnia -los 4 hermanos Pevensie- vuelven a reunirse en ese remoto y fantástico mundo, donde descubrirán que han pasado más de 1.300 años, calculados en tiempo narniano. Durante su ausencia, la Edad de Oro de Narnia ha terminado, y los Telmarinos han conquistado el reino de Narnia, que ahora está dominado por el malvado Rey Miraz. Los cuatro niños no tardarán en conocer un nuevo y extraño personaje: el joven Príncipe Caspian, heredero legítimo al trono que se ha visto obligado a esconderse ya que su tío Miraz trama su asesinato para colocar a su hijo recién nacido en el trono. Los Narnianos, liderados por los poderosos caballeros Peter y Caspian, se embarcan en un extraordinario viaje para encontrar a Aslan, liberar Narnia del yugo tiránico de Miraz y restaurar la magia y la paz en el territorio."
+    },
+    {
+      "id": "tmdb:10140",
+      "type": "movie",
+      "name": "Las crónicas de Narnia: La travesía del viajero del alba",
+      "poster": "http://127.0.0.1:8888/t/p/w500/i1VNVBUkai81eRQTS16zXllnN52.jpg",
+      "description": "Tercera entrega de la saga literaria creada por C.S. Lewis. En esta ocasión, los hermanos Edmund y Lucy Pevensie y su primo Eustace embarcan en la nave \"El Viajero del Alba\" para buscar a los siete caballeros que han sido expulsados del reino por Miraz, el usurpador del trono de Narnia."
+    }
+  ]
 }

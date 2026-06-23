@@ -1,3 +1,53 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:9336",
+      "type": "movie",
+      "name": "Loca academia de policía",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wmphZLnqARmCvjFvYkBAMhlsmNl.jpg",
+      "description": "En la academia de policía están a punto de finalizar sus pruebas preparatorias para el cuerpo un numeroso grupo de veteranos. Durante un tiempo, coinciden con los novatos de nuevo ingreso, que serán el centro de un montón de bromas que muchas veces se lo harán pasar muy mal."
+    },
+    {
+      "id": "tmdb:10157",
+      "type": "movie",
+      "name": "Loca academia de policía 2: Su primera misión",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8oddoFLwlVk96dpMSSWU2rrGhIS.jpg",
+      "description": "Mahoney y sus amigos se han graduado ya en la academia de policía y se les asigna su primera misión. ¿Estarán preparados para enfrentarse a una peligrosa banda callejera de gamberros?"
+    },
+    {
+      "id": "tmdb:12118",
+      "type": "movie",
+      "name": "Loca academia de policía 3: De vuelta a la escuela",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6D3CuPOQH4WDMRjvjrlY2mQeE1t.jpg",
+      "description": "La academia está a punto de desaparecer. Para evitarlo, la única solución es luchar por su supervivencia contra su competidora, la academia del comandante Mauser."
+    },
+    {
+      "id": "tmdb:10587",
+      "type": "movie",
+      "name": "Loca academia de policía 4: Los ciudadanos se defienden",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1zOZuFnzn6x7MR10i9DFCgrR4uD.jpg",
+      "description": "Reclutado por el comandante Lassard, un grupo de voluntarios llega a la Academia para ser formados en un programa de patrullas civiles."
+    },
+    {
+      "id": "tmdb:11825",
+      "type": "movie",
+      "name": "Loca academia de policía 5: Operación Miami Beach",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9S73LkNaNdku4lJ7aPTqeA8W96B.jpg",
+      "description": "El viejo capitán Lassard, el jefe de la academia de policía, vuela a Miami para recibir un galardón. Con él también viaja el cínico capitán Harris, que desea ocupar su puesto. Harris quiere ocupar un buen sitio durante el evento, delante de toda la jerarquía policial. Al llegar al aeropuerto, Lassard confunde su bolsa de viaje..."
+    },
+    {
+      "id": "tmdb:11895",
+      "type": "movie",
+      "name": "Loca academia de policía 6: Ciudad sitiada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hB4qarPxjdfpqKoiTv1eRnQN2BS.jpg",
+      "description": "El comandante Lassard y su variopinto equipo de policías son asignados a la difícil misión de detener a una banda de ladrones de bancos y joyerías que tiene aterrorizada a la ciudad. La banda, formada por tres delincuentes, cuyo éxito criminal es inversamente proporcional a su inteligencia, son también la pesadilla del capitán Harris que, junto al comandante, no parará hasta detener al responsable último de los robos, el malvado Mr. Big."
+    },
+    {
+      "id": "tmdb:11546",
+      "type": "movie",
+      "name": "Loca academia de policía: Misión en Moscú",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iZMEM9FHmfpgelWS3IvjSbDWZ9q.jpg",
+      "description": "Ahora, los agentes más famosos y peculiares de Florida viajan hasta Rusia para colaborar con la policía soviética. El objetivo es atrapar a un criminal llamado Konali, que se ha hecho con un programa informático capaz de controlar sofisticados sistemas de seguridad de todo el mundo, cometiendo robos en todo el planeta."
+    }
+  ]
 }

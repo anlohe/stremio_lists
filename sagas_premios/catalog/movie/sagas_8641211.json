@@ -1,3 +1,81 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:936",
+      "type": "movie",
+      "name": "La pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg",
+      "description": "La seductora Princesa Dala (Claudia Cardinale) llega con su preciosa “pantera rosa\", una magnífica joya en forma de felino, a un lujoso hotel, en el que conoce al elegante y amable Sir Charles (David Niven), bajo cuya inofensiva apariencia se oculta, sin embargo, un despiadado ladrón profesional conocido como “el fantasma”. De impedir que el astuto delincuente se salga con la suya, se encarga el inspector más torpe de la policía francesa, nada más y nada menos que el famoso Jacques Clouseau (Peter Sellers)."
+    },
+    {
+      "id": "tmdb:1594",
+      "type": "movie",
+      "name": "El nuevo caso del inspector Clouseau",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hkRfSzFAH6JUg8IoVBJunsN8mxY.jpg",
+      "description": "Nuevas aventuras del inspector francés Jacques Clouseau, inepto detective que en esta ocasión intentará resolver un caso en el que una doncella es acusada de asesinar a su amante."
+    },
+    {
+      "id": "tmdb:11573",
+      "type": "movie",
+      "name": "El rey del peligro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9tqoMKvVW0lhB2zpVweYBVrhXlr.jpg",
+      "description": "Es la maldición de la policía francesa: inepto, chapucero e ingenuo, el inspector Clouseau vuelve a la acción. Esta vez requiere sus servicios Scotland Yard para que atrape a una banda de inteligentes ladrones que han asaltado simultáneamente doce bancos suizos. Lo sorprendente del caso es que los ladrones llevaban una máscara con la cara de Clouseau. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:11843",
+      "type": "movie",
+      "name": "El regreso de la pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5WFrM2LMpKPYnMEmUZUEGvW2fSW.jpg",
+      "description": "Un valioso diamante conocido como la \"Pantera Rosa\" ha sido robado, y sólo hay una pista: un guante blanco, la inconfundible firma del mundialmente famoso ladrón apodado \"El Fantasma\" (Christopher Plummer). Aunque se creía que se había retirado, para el inspector Clouseau (Peter Sellers) es el primer sospechoso. Decidido a limpiar su nombre, \"El Fantasma\" se lanza a la búsqueda del verdadero ladrón y engaña a Clouseau con una serie de pistas falsas."
+    },
+    {
+      "id": "tmdb:12268",
+      "type": "movie",
+      "name": "La pantera rosa ataca de nuevo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1ScezpcJUv1IhaSr4J0I3ON0ojH.jpg",
+      "description": "Mientras el jefe del inspector Clouseau, Paul Dreyfus, se recupera paulatinamente de una crisis nerviosa provocada por su temible subordinado, éste decide acudir al hospital a visitarlo. Al verlo en su habitación, Dreyfus, sufre un arrebato de locura y jura que en lo sucesivo dedicará su vida a la venganza."
+    },
+    {
+      "id": "tmdb:6081",
+      "type": "movie",
+      "name": "La venganza de la pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dHsrjJW4oyom093MZlL9062Pwpa.jpg",
+      "description": "El inspector Jacques Clouseau, condecorado por sus servicios a Francia por el mismo presidente de la Nación, se enfrenta, por primera vez, con la mafia. El jefe de esta organización en Francia, Douvier, quiere acabar con el inspector definitivamente. Este asesinato puede servir también, para que el Padrino de la mafia en Estados Unidos deje de criticar la falta de acción de la organización en Francia. Guy Algo, el teniente de Douvier, piensa en lo fácil que puede ser deshacerse de Clouseau..."
+    },
+    {
+      "id": "tmdb:9699",
+      "type": "movie",
+      "name": "Tras la pista de la pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fbtRScGtxA8qUkaW9YVnhLHgEUC.jpg",
+      "description": "El fabuloso diamante La Pantera Rosa ha sido robado de la Cámara Acorazada de Joyas en Lugash. El inspector jefe Jacques Clouseau es asignado al caso por el explícito deseo del presidente Haleesh, lo que deja totalmente consternado al inspector jefe Dreyfus."
+    },
+    {
+      "id": "tmdb:36576",
+      "type": "movie",
+      "name": "La maldición de la pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/anxyKtibvaQJ6zWM9rGbxTiq6fY.jpg",
+      "description": "El inspector Clouseau ha desaparecido y \"el mejor detective del mundo\" es requerido para encontrarle. Un ordenador será el encargado de seleccionar a ese detective, pero es boicoteado y la misión le es encargada al \"peor detective del mundo\"."
+    },
+    {
+      "id": "tmdb:46828",
+      "type": "movie",
+      "name": "El hijo de la Pantera Rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hwpI4xjdidi6gV4uYqQ1f5tnKst.jpg",
+      "description": "Cuando la princesa Yasmin de Lugash es secuestrada, el comisario Dreyfuss se hace cargo del caso. Para llevar a cabo la investigación, asignan al comisario un ayudante: un gendarme local llamado Jacques. Pronto Dreyfuss comienza a observar en el agente ciertas características que le resultan muy familiares."
+    },
+    {
+      "id": "tmdb:12096",
+      "type": "movie",
+      "name": "La pantera rosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5wYfVgR8hIGeeCk8vifYHZteWdk.jpg",
+      "description": "Cuando el entrenador de un equipo de fútbol es asesinado en un estadio, su valioso anillo con el diamante Pantera Rosa es robado. El ambicioso Director Dreyfus asignará el caso al torpe Clouseau para que lo resuelva, nombrándole al mismo tiempo inspector. Sin embargo, su verdadera intención es distraer a la prensa mientras trata de resolver el mismo el caso."
+    },
+    {
+      "id": "tmdb:15159",
+      "type": "movie",
+      "name": "La pantera rosa II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iBcd8bJIgIaKCGNFp6SjWaqZnQh.jpg",
+      "description": "El Inspector Jacques Clouseau forma un equipo de detectives internacionales tan torpes como él. Su misión es capturar a un ladrón especializado en el robo de objetos históricos, el cual viaja por todo el mundo."
+    }
+  ]
 }

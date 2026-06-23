@@ -1,3 +1,102 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:15849",
+      "type": "movie",
+      "name": "La momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sOkKfiUGBGZIFyjG6jQ3mCprgYY.jpg",
+      "description": "Un grupo de arqueólogos británicos invaden la tumba de un cadáver momificado que resulta ser un sumo sacerdote del antiguo Egipto. La momia, que revivirá accidentalmente 3.700 años después de su muerte, intentará raptar a una joven de ascendencia egipcia que se parece a la princesa que amó en vida y que fue el motivo de su ejecución."
+    },
+    {
+      "id": "tmdb:31498",
+      "type": "movie",
+      "name": "La mano de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/diaFBoh26ItdkeJiwNXZRcRN1Sa.jpg",
+      "description": "Un grupo de escépticos arqueólogos, que desprecian las leyendas y supersticiones populares, buscando la tumba perdida de una princesa egipcia, se encuentra con el guardián del sepulcro: una milenaria momia dispuesta a matarlos a todos."
+    },
+    {
+      "id": "tmdb:29239",
+      "type": "movie",
+      "name": "La tumba de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A6UbQDfDi4p2My3hWiwxW7mOAy.jpg",
+      "description": "Un fanático instruido por un adorador egipcio utiliza el secreto para revivir a la momia para que cumplimente su venganza."
+    },
+    {
+      "id": "tmdb:29243",
+      "type": "movie",
+      "name": "El fantasma de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mVD6Yf1vv4YG5rWJhGUocxk4Mr3.jpg",
+      "description": "La Momia busca por todas partes la última reencarnación de su amada, la princesa Ananka. Mientras tanto, el Sumo Sacerdote de la Secta instruye a uno de sus acólitos sobre la manera de resucitar a la Momia hirviendo unas hierbas milenarias."
+    },
+    {
+      "id": "tmdb:29242",
+      "type": "movie",
+      "name": "La maldición de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oQTFDQCgvevETTXmCbV5TBCFRZP.jpg",
+      "description": "Un proyecto de riego en los pantanos de Louisiana desentierra a Kharis, la momia que fue enterrada en las arenas movedizas hace 25 años."
+    },
+    {
+      "id": "tmdb:18990",
+      "type": "movie",
+      "name": "La momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/w3XEtgi8W9tuPQnLVFCPVxtweyC.jpg",
+      "description": "Dos arqueólogos, padre e hijo, dirigen una expedición que está estudiando en Egipto la tumba de la reina Anaka. El padre comete el inmenso error de leer en voz alta un conjuro que devuelve la vida a Kharis, el guardián de la reina, el cual, a partir de ese momento, no tiene más objetivo que eliminar a quienes han turbado el reposo de Anaka."
+    },
+    {
+      "id": "tmdb:39044",
+      "type": "movie",
+      "name": "La maldición de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1DdEHgHmitZN2dfXoqE4IUgnQx2.jpg",
+      "description": "Poco después de descubrir la tumba de Ra Antef, el profesor Dubois es asesinado en el desierto egipcio. Desoyendo todas las amenazas y advertencias, Alexander King, un showman americano que es quien financia la expedición, hace que el sarcófago del joven faraón recorrar toda Europa y los Estados Unidos. Pero la primera noche del espectáculo, King rompe los sellos de la momia Ra Antef y hace un asombroso descubrimiento..."
+    },
+    {
+      "id": "tmdb:39262",
+      "type": "movie",
+      "name": "El sudario de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bHWIncz6asTzkBeQYO1KmxztS9v.jpg",
+      "description": "Una pequeña expedición arqueológica conducida por Sir Basil Walden (André Morell) descubre la tumba escondida de Kah-to-Bey. A pesar de las advertencias del guardián de mirada siniestra, Hasmid Ali (Roger Delgado), se llevan a Kahto-Bey al Cairo y lo guardan junto a la momia de Prem, su devoto esclavo y protector. Los jerogílficos del sudario que cubre el cuerpo de Kahto-Bey son leídos en voz alta por Ali haciendo que Prem vuelva a la vida. Empieza una espiral imparable de locura, misterio y asesinatos."
+    },
+    {
+      "id": "tmdb:39263",
+      "type": "movie",
+      "name": "La sangre en la tumba de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7AJn31MkAk2g73KflznWHfxq3eT.jpg",
+      "description": "Tera (Valerie Leon) es una reina egipcia que es momificada, no sin antes habérsele amputado una mano... Basada en el cuento de Bram Stoker \"Jewel of the Seven Stars\"."
+    },
+    {
+      "id": "tmdb:564",
+      "type": "movie",
+      "name": "La momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aGRMxB5ve2nSKsq8ww6PyUwhWpP.jpg",
+      "description": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada."
+    },
+    {
+      "id": "tmdb:1734",
+      "type": "movie",
+      "name": "La momia II. El regreso de la momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg",
+      "description": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo."
+    },
+    {
+      "id": "tmdb:1735",
+      "type": "movie",
+      "name": "La momia III. La tumba del emperador Dragón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wktniKrRfM6yXI2zEsLz9M3gNWP.jpg",
+      "description": "Condenados por una bruja traidora a permanecer en muerte aparente para la eternidad, el despiadado emperador chino Dragón y sus diez mil guerreros han esperado en su amplia tumba de barro, olvidados de todos, durante cientos de años, cual ejército de terracota. Pero cuando el joven aventurero y arqueólogo Alex O'Connel es engañado para que despierte de su sueño eterno al temible gobernante, no le queda más remedio que pedir ayuda a las únicas personas que saben más que él acerca de los no muertos: sus padres."
+    },
+    {
+      "id": "tmdb:282035",
+      "type": "movie",
+      "name": "La momia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6JEbMNds0ZRBD5AYcIIhCqRVgQU.jpg",
+      "description": "A pesar de estar enterrada en una tumba en lo más profundo del desierto, una antigua princesa (Sofia Boutella) cuyo destino le fue arrebatado injustamente, se despierta en la época actual, trayendo consigo una maldición que ha crecido hasta límites insospechados con el paso de miles de años."
+    },
+    {
+      "id": "tmdb:1304313",
+      "type": "movie",
+      "name": "La momia de Lee Cronin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sKYkjA9H4Qlzz5M1oqGCFVsTOfL.jpg",
+      "description": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla."
+    }
+  ]
 }
