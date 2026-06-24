@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:27578",
+      "type": "movie",
+      "name": "Los mercenarios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg",
+      "description": "Un grupo de mercenarios es contratado para infiltrarse en un país sudamericano y derrocar a su despiadado y corrupto dictador. Una vez allí, se verán atrapados en una telaraña de engaño y traición. Una vez fracasada la misión, tendrán que enfrentarse a un reto aún más difícil; salvar la unidad del grupo y la amistad que los ha unido durante largos años."
+    },
+    {
+      "id": "tmdb:76163",
+      "type": "movie",
+      "name": "Los mercenarios 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nnx0puR1AvuYH4iAg0WHH1QcYzE.jpg",
+      "description": "Barney Ross, Lee Christmas, Yin Yang, Gunner Jensen, Toll Road, Hale Caesar y Billy, un nuevo colega, se vuelven a reunir cuando el señor Church les encarga un trabajo aparentemente sencillo y muy lucrativo. Sin embargo, el plan se tuerce cuando un peligroso terrorista llamado Villain les tiende una emboscada. Entonces su único deseo será vengarse. Así es como van sembrando a su paso la destrucción y el caos entre sus enemigos hasta que se encuentran con una amenaza inesperada: cinco toneladas de plutonio apto para uso militar, una cantidad más que suficiente para cambiar el equilibrio de poder en el mundo."
+    },
+    {
+      "id": "tmdb:138103",
+      "type": "movie",
+      "name": "Los mercenarios 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sQbQo0BcCRWdw7vgwyK3ZdCraJ0.jpg",
+      "description": "El grupo de los mercenarios, dirigidos por Barney, durante una misión en África, se encuentran frente a frente con Stonebanks, el otro miembro fundador del grupo, al que Barney creía muerto. Stonebanks es ahora un rico y despiadado traficante de armas que el gobierno de los EEUU quiere capturar con vida para llevarlo al tribunal internacional de la Haya."
+    },
+    {
+      "id": "tmdb:299054",
+      "type": "movie",
+      "name": "Los mercenarios 4",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2qxRrkayxSYiib4JCYRM3sasQe0.jpg",
+      "description": "Cuarta entrega de la saga Los Mercenarios. El veterano mercenario Barney “Esquizo” Ross (Sylvester Stallone) y su equipo de estrellas, formado por los hombres más duros (Jason Statham, Dolph Lundgren, 50 Cent, Megan Fox…), afrontan un nuevo desafío, en una trama cargada de acción. Para superarlo y salir airosos, deberán recurrir a su ingenio, experiencia y a la fuerza bruta que los caracteriza."
+    }
+  ]
 }

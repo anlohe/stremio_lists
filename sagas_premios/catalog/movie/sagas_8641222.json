@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:11687",
+      "type": "movie",
+      "name": "Los visitantes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/c5DeFQGW5YJRzo0NU1MYFVHlVbL.jpg",
+      "description": "Unos peculiares personajes de la Edad Media son trasladados por arte de magia a la postrimerías del siglo XX. Completamente desorientados en un mundo que les resulta absolutamente desconocido y hostil, intentarán por todos los medios regresar a su época. Al mismo tiempo, sus hábitos y costumbres medievales sembrarán el desconcierto en los demás. Estrenada en 1993, se convirtió en el éxito comercial más importante del cine francés en los últimos 20 años."
+    },
+    {
+      "id": "tmdb:10353",
+      "type": "movie",
+      "name": "Los visitantes regresan por el túnel del tiempo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pVeWQwwocHFzxaoEJV7YP93Zqd8.jpg",
+      "description": "Secuela de una de las comedias más populares del cine francés sobre las aventuras del caballero Godefroy y su escudero a través del tiempo. En esta segunda parte, tras conseguir regresar a la época medieval, Godefroy deberá viajar de nuevo hasta nuestros días para recuperar las joyas sagradas de la familia."
+    },
+    {
+      "id": "tmdb:56715",
+      "type": "movie",
+      "name": "Los visitantes cruzan el charco",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vHoaCAv5deVdaJTRHqNBv6XOrL1.jpg",
+      "description": "Thibault, un noble medieval francés y su prometida sufren un terrible contratiempo el mismo día de su boda. Desesperado y afligido, Thibault implora a un brujo que le administre la poción que permite viajar en el tiempo y así poder volver atrás para impedir la tragedia acaecida. Sin embargo, un pequeño error envía al enamorado aristócrata y su fiel escudero 800 años en el futuro... hasta el Chicago de nuestros días."
+    },
+    {
+      "id": "tmdb:248705",
+      "type": "movie",
+      "name": "Los visitantes la lían en la Revolución francesa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5KlNON0IrmZGzkWgQai6myTPKfH.jpg",
+      "description": "Godofredo de Miramonte y su fiel sirviente Delcojón se ven proyectados en una época de profundas convulsiones políticas y sociales: la revolución francesa, concretamente en el período de terror. En ese momento de grandes peligros, los descendientes de Delcojón, revolucionarios convencidos, confiscan el castillo y todos los bienes a los descendientes de Godofredo, aristócratas arrogantes huidos cuya vida pende de un hilo."
+    }
+  ]
 }

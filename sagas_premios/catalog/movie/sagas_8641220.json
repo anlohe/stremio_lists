@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:966",
+      "type": "movie",
+      "name": "Los siete magníficos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg",
+      "description": "Unos bandidos atacan y arrasan cada año las tierras de unos granjeros. Ante esto, varios de ellos deciden buscar a hombres que puedan defenderles. Conseguirán reunir siete hombres, cada uno de los cuales presume de una característica especial."
+    },
+    {
+      "id": "tmdb:12639",
+      "type": "movie",
+      "name": "El regreso de los siete magníficos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg",
+      "description": "Después del asalto a un pueblo, dónde los hombres son apresados y tratados como esclavos, Chris Adams (Yul Brynner) agrupa a seis pistoleros para defender la zona atacada, que se ha convertido en la sede de los bandidos que operan al margen de la ley."
+    },
+    {
+      "id": "tmdb:12625",
+      "type": "movie",
+      "name": "La furia de los siete magníficos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2xeWCu9Qjhz6BgOG23xroFCWn1D.jpg",
+      "description": "Los soldados del dictador mejicano Díaz han capturado a un apasionado líder revolucionario (Fernando Rey); su lugarteniente ofrece a un famoso forajido (George Kennedy) una recompensa por liberarlo y devolver la esperanza al pueblo mejicano. Pero antes, el mercenario tendrá que reunir a su cuadrilla de guerrilleros fronterizos, entre los que se cuentan los pistoleros y los artilleros más osados del Oeste. Los siete magníficos se embarcarán entonces en la aventura más arriesgada de su vida y descubrirán que existen causas cuyo valor está muy por encima del dinero. Tercera parte de la saga iniciada por John Sturges en 1960 con \"Los Siete Magníficos\", que a su vez se inspiró en \"Los Siete Samuráis\" de Akira Kurosawa\"."
+    },
+    {
+      "id": "tmdb:43417",
+      "type": "movie",
+      "name": "El desafío de los siete magníficos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nMFS7d8XxaNcoOUML0oAK9tbe8t.jpg",
+      "description": "En la cárcel de Sheridan, en el territorio de Arizona, hay un muchacho de tan sólo 18 años llamado Shelley, que es puesto en libertad a requerimiento de la esposa de Chris, el sheriff. Pero, inmediatamente, el joven se une a la banda del mexicano Juan de Toro y asalta un banco. Durante el atraco, Chris es herido y su esposa secuestrada por la banda de forajidos..."
+    },
+    {
+      "id": "tmdb:14460",
+      "type": "movie",
+      "name": "Los siete magníficos del espacio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ngew26jOG8YhhEdvQiDfb4O357p.jpg",
+      "description": "Los sucesivos y reiterados ataques sufridos por los habitantes de un pequeño planeta en una lejana galaxia hacen que contraten a un ejército de mercenarios para que les proteja de los invasores. Remake del film de Kurosawa \"Los siete samuráis\", cambiando la ambientación japonesa por un futuro al estilo \"La guerra de las galaxias\"."
+    },
+    {
+      "id": "tmdb:333484",
+      "type": "movie",
+      "name": "Los siete magníficos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uotXQy2IKigAA6vvUIUsBPNHkH0.jpg",
+      "description": "Siete forajidos son contratados por los desesperados habitantes del pueblo de Rose Creek para que les defiendan de la amenaza de un despiadado extorsionador llamado Bartholomew Bogue. Mientras preparan el pueblo para la violenta confrontación que saben se avecina inevitablemente, estos siete mercenarios se encontrarán luchando por algo más que el simple dinero."
+    }
+  ]
 }

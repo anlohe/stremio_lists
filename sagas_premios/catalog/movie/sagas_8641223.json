@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:9659",
+      "type": "movie",
+      "name": "Mad Max. Salvajes de la autopista",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vWa1DEwV5RbAOiuAm0WNXD3Aydw.jpg",
+      "description": "En las autopistas desiertas de una Australia desconocida, tiene lugar una guerra sin merced entre motoristas forajidos y policías Interceptor, que intentan triunfar sobre la gentuza al volante de coches con motores trucados. En un mundo en plena decadencia, la moral se difuminará en el escenario post apocalíptico donde lo único que tiene valor es el bien más preciado: la gasolina. La depravación, crueldad y salvajismo reinan en las bandas que no dudarán en perseguir y acabar con cualquiera que se ponga entre ellos y su ansia destruir y ser los amos de la carretera. Max se cruzará en su camino y lo que empieza como un acto de justicia no tardará en tornarse una lucha personal para acabar con ellos."
+    },
+    {
+      "id": "tmdb:8810",
+      "type": "movie",
+      "name": "Mad Max II. El guerrero de la carretera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/udpVgRB3xz5ZN553apthn4TyT6G.jpg",
+      "description": "Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes constantemente atacada por un grupo de violentos guerreros que intenta arrebatarle un tanque de gasolina. Max decide ayudar a los defensores del tanque utilizando un enorme camión como trampa. La banda de guerreros persigue al camión, pensando que transporta miles de litros de gasolina."
+    },
+    {
+      "id": "tmdb:9355",
+      "type": "movie",
+      "name": "Mad Max III. Más allá de la cúpula del trueno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pgmOX4PQl5xPAdAx18zPPnQjQKs.jpg",
+      "description": "Tras la catástrofe nuclear, Mad Max cruza un desierto donde pierde su caravana de camellos. Llega a una ciudad donde le proponen cambiárselos a cambio de que ataque al tirano de la ciudad subterránea, un enano que fabrica gas metano con excrementos de cerdo."
+    },
+    {
+      "id": "tmdb:76341",
+      "type": "movie",
+      "name": "Mad Max: Furia en la carretera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fnY0VRsb31A5RLVCBjuR6EFUlo2.jpg",
+      "description": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones."
+    },
+    {
+      "id": "tmdb:786892",
+      "type": "movie",
+      "name": "Mad Max. Furiosa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
+      "description": "En un mundo postapocalíptico donde todo ha perdido su valor, los pocos supervivientes se guían por la ley del más fuerte. Sin aprecio por la vida, lo único que despierta un brutal interés es la gasolina, sinónimo de poder y objetivo de bandas armadas hasta los dientes y sin escrúpulos. En este contexto conoceremos la  historia de la arrebatadoramente despiadada, salvaje y joven Furiosa, quien cae en manos de una horda de motoristas y debe sobrevivir a muchas pruebas mientras reúne los medios para encontrar el camino de vuelta a casa. Precuela de 'Mad Max: Furia en la carretera' (2015)."
+    }
+  ]
 }

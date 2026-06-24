@@ -1,3 +1,81 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:82731",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ekBTfja6hc8v4nmggM2f6PowX2W.jpg",
+      "description": "Francia, siglo XVII. D'Artagnan, Porthos, Arthos y Aramis, los mosqueteros más famosos, tienen que hacer frente a un complot político urdido por el cardenal Richelieu contra Luis XIII, cuya finalidad sería arrebatarle el poder al rey. Por otra parte, para salvar el honor de la Reina, D'Artagnan y sus amigos tendrán que eludir las trampas que les tiende Milady De Winter, la maquiavélica espía del Cardenal y enemiga mortal de los mosqueteros."
+    },
+    {
+      "id": "tmdb:144919",
+      "type": "movie",
+      "name": "Por la dama y el honor",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cd1yA0DZBf104yNIeUf4F8FdFZq.jpg",
+      "description": "El joven y valeroso D’Artagnan llega a París y busca a su padrino, el capitán de Treville, jefe del cuerpo de los mosqueteros del rey Luis XIII (1610-1643), en el que quiere ingresar. Allí conoce a Aramis, Porthos y Athos, tres prodigiosos espadachines, a los que, no obstante, D’Artagnan no duda en retar a un duelo. Pero, para ganarse el respeto de los mosqueteros, el joven tendrá que enfrentarse a los malvados sicarios del cardenal Richelieu, enemigo mortal de la Corona. Defendiendo la causa de la reina Ana de Austria, esposa de Luis XIII, se enamora de Constance, la hermosa dama de compañía de la Reina.\r Esta fue la primera versión sonora sobre la novela de Dumas. Con un dinámico guión de Dudley Nichols, la trama sigue fielmente la novela original, destacando las peleas a espada y la aparición de Margot Grahame como Milady De Winter."
+    },
+    {
+      "id": "tmdb:41609",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aOeGNFwTXC4bI5WfSpdK8vK3hIo.jpg",
+      "description": "Francia, siglo XVII. D'Artagnan, un joven y valeroso gascón, viaja a París con la intención de ingresar en la compañía de los mosqueteros del rey, a cuyo frente está el señor de Treville. En el camino tiene un mal encuentro con el conde de Rochefort y Milady De Winter, ambos colaboradores del cardenal Richelieu, primer ministro de Luis XIII (1610-1643). Una vez en la capital, tiene la mala suerte de enfrentarse a los más valerosos y fieles mosqueteros del Rey: Athos, Porthos y Aramis."
+    },
+    {
+      "id": "tmdb:2926",
+      "type": "movie",
+      "name": "Los tres mosqueteros. Los diamantes de la reina",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cHAf36HKT29Ae5x8JGLhZRcn5ys.jpg",
+      "description": "Francia, siglo XVII. El joven y valeroso D'Artagnan se dirige a París para cumplir su sueño de ingresar en el cuerpo de los mosqueteros. Al llegar tiene un enfrentamiento con Athos, Porthos y Aramis, sin sospechar quiénes son. A continuación, se entera de que el Cardenal Richelieu ha disuelto la guardia de los mosqueteros, a pesar de lo cual ellos, con la ayuda de D'Artagnan, están decididos a seguir protegiendo al rey Luis XIII de las intrigas del Cardenal."
+    },
+    {
+      "id": "tmdb:12310",
+      "type": "movie",
+      "name": "Los cuatro mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uPzqQK4qUIjp7ewhNvl4NjGVY0T.jpg",
+      "description": "Después del ingreso de D'Artagnan en los mosqueteros, los hugonotes (puritanos franceses) ocupan La Rochelle. El duque de Buckingham, amante de la reina de Francia, envía una flota para ayudar a los rebeldes. Richelieu recluta a Rochefort para que secuestre a Constance, mensajera de la Reina y amante de D'Artagnan. Mientras Milady parte hacia Inglaterra para liquidar a Buckingham, los mosqueteros luchan contra los rebeldes."
+    },
+    {
+      "id": "tmdb:41946",
+      "type": "movie",
+      "name": "El regreso de los mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jPAC4VbhUgs2QIFFe73p8N9pQcx.jpg",
+      "description": "Francia, siglo XVII. Han transcurrido casi veinte desde el encuentro del joven D'Artagnan con Athos, Porthos y Aramis, los tres mosqueteros del rey. Tras la muerte de Milady de Winter, su hija Justine conspira con el cardenal Mazarino para controlar la Corona. Los mosqueteros tendrán que unir sus fuerzas para salvar a Francia de su maligna influencia."
+    },
+    {
+      "id": "tmdb:10057",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fCDO6GptlUwhe5D1YCHIaVPuhgF.jpg",
+      "description": "Un habilidoso espadachín de provincias, D´Artagnan, viaja a París con la intención de cumplir su sueño de seguir los pasos de su padre: unirse al cuerpo de mosqueteros de la guardia del Rey. Entretanto el diabólico consejero real, el Cardenal Richelieu, con la ayuda del Capitán Rochefort, ha desmantelado la guardia del Rey en un intento de facilitar sus aspiraciones de usurpar su poder y gobernar Francia."
+    },
+    {
+      "id": "tmdb:11370",
+      "type": "movie",
+      "name": "El mosquetero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5jLwKd5CyuyVqqoIRsEYOlXWDDc.jpg",
+      "description": "D'Artagnan abandona Gascuña, su región natal, con un doble objetivo: unirse a los mosqueteros del Rey y encontrar al hombre que asesinó a sus padres catorce años antes. Una vez en París, conoce a Aramis, Athos y Portos, que han sido expulsados de la Guardia Real y llevan una vida desordenada. Además, el intrigante cardenal Richelieu ha conseguido implicar a Tréville, el caballeroso jefe de los mosqueteros, en un turbio asesinato. Pero D'Artagnan no se quedará de brazos cruzados. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:52451",
+      "type": "movie",
+      "name": "Los tres mosqueteros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AuCJOLhSl3dsQ2DoRNuN1L9tVUF.jpg",
+      "description": "Francia, siglo XVII. Athos, Porthos y Aramis son tres prodigiosos espadachines que pertenecen al cuerpo de mosqueteros del rey Luis XIII de Francia (1610-1643). A París llega un joven y valeroso gascón que ingresa en la guardia del Rey para hacerse mosquetero. Los cuatro tendrán que hacer frente a una maquiavélica conspiración urdida por el cardenal Richelieu para derrocar al rey. Adaptación actualizada de la novela homónima de Alejandro Dumas."
+    },
+    {
+      "id": "tmdb:796185",
+      "type": "movie",
+      "name": "Los tres mosqueteros. D'Artagnan",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg",
+      "description": "D'Artagnan intenta salvar a una joven víctima de un secuestro. La búsqueda de los secuestradores le llevan a una alianza con Athos, Porthos y Aramis, tres de los mosqueteros del rey, mientras luchan para detener la guerra."
+    },
+    {
+      "id": "tmdb:845111",
+      "type": "movie",
+      "name": "Los tres mosqueteros. Milady",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cxttOyp3kVIuR86bUOLOcfkYpYN.jpg",
+      "description": "Desde el museo del Louvre al Palacio de Buckingham, pasando por las alcantarillas de París al asedio de La Rochelle... En un reino dividido por guerras religiosas y bajo la amenaza constante de la invasión británica, un grupo de hombres y mujeres empuñarán sus espadas y unirán su destino al de Francia."
+    }
+  ]
 }
