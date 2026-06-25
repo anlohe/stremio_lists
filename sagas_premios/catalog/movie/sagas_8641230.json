@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:299",
+      "type": "movie",
+      "name": "La cuadrilla de los once",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wDJzbzmcv02ZqutDr2MwredPN0y.jpg",
+      "description": "Once amigos, compañeros de armas en la II Guerra Mundial (1939-1945), planean robar, en una sola noche, cinco de los mayores casinos de Las Vegas. En el año 2001 Steven Soderbergh hizo un remake con un gran reparto: George Clooney, Brad Pitt y Julia Roberts."
+    },
+    {
+      "id": "tmdb:161",
+      "type": "movie",
+      "name": "Ocean's Eleven. Hagan juego",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg",
+      "description": "Danny Ocean es un carismático ladrón que, tan sólo 24 horas después de cumplir una larga condena en prisión, ya está planeando su próximo delito. Su objetivo: realizar el mayor atraco de casinos de la historia. Para ello formará un equipo de once hombres, cada uno de ellos el mejor en su campo. Sin embargo surgirá un problema inesperado: el dueño de los locales, Terry Benedic, está saliendo con Tess, su ex-mujer."
+    },
+    {
+      "id": "tmdb:163",
+      "type": "movie",
+      "name": "Ocean's Twelve",
+      "poster": "http://127.0.0.1:8888/t/p/w500/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg",
+      "description": "Han pasado tres años desde que Danny Ocean (George Clooney) y su equipo –liderado por el detallista Rusty Ryan (Brad Pitt), el prometedor carterista Linus Caldwell (Matt Damon), el experto en explosivos Basher Tarr (Don Cheadle) y el desvalijador de cajas fuertes Frank Catton (Bernie Mac)– llevaron a cabo uno de los más audaces y lucrativos atracos de la historia, robando al despiadado empresario Terry Benedict (Andy Garcia) hasta el último centavo que guardaba en su impenetrable cámara acorazada de Las Vegas. Después de repartir los 160 millones de dólares conseguidos, cada uno de los conocidos miembros del equipo de Ocean ha tratado de portarse bien, pasar desapercibido y llevar una vida legal... pero eso ha resultado ser difícil, para disgusto de Tess (Julia Roberts), la esposa de Danny."
+    },
+    {
+      "id": "tmdb:298",
+      "type": "movie",
+      "name": "Ocean's Thirteen",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3iczTMycAI1YXKOKFsBdcV1Ys7U.jpg",
+      "description": "Danny Ocean y su banda sólo tendrían una razón para realizar su golpe más ambicioso y arriesgado: defender a uno de los suyos. Willy Bank, el despiadado propietario de un casino, nunca hubiera imaginado que todo se iba a poner en su contra cuando traicionó a Reuben Tishkoff, amigo y mentor de Danny Ocean. Pero Bank se equivocó… para su desgracia. Quizás pudo derrotar a uno de los miembros originales de la banda, pero dejó a los demás en pie y les dio un propósito compartido: derrotar a Bank en la noche de la gran inauguración de su nuevo casino."
+    },
+    {
+      "id": "tmdb:402900",
+      "type": "movie",
+      "name": "Ocean's Eight",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vOeIpBx4sGQUvWDHFjdzXaKEZ4P.jpg",
+      "description": "Debbie, hermana exconvicta de Danny Ocean, será la líder de un nuevo equipo de ladrones profesionales. Con la ayuda de su mano derecha planeará robar un valioso collar que está en manos de un malvado galerista."
+    }
+  ]
 }

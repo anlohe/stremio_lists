@@ -1,3 +1,53 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:329",
+      "type": "movie",
+      "name": "Jurassic Park (Parque Jurásico)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/h831eszSFmEyr94WKcgscqPIRbh.jpg",
+      "description": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia."
+    },
+    {
+      "id": "tmdb:330",
+      "type": "movie",
+      "name": "El mundo perdido: Jurassic Park",
+      "poster": "http://127.0.0.1:8888/t/p/w500/80pXV9DEd81rBGqmlPBLbvr6h9a.jpg",
+      "description": "Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada zona B: el lugar que servía como laboratorio genético. Después de que John Hammond llevara a la empresa a la bancarrota, su sobrino Peter ha tomado las riendas y está dispuesto a levantar la compañía explotando la peligrosa zona."
+    },
+    {
+      "id": "tmdb:331",
+      "type": "movie",
+      "name": "Jurassic Park III (Parque Jurásico III)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5GM4Nqc79PFE3IOqNKwmOxAWkX1.jpg",
+      "description": "El doctor Alan Grant, ansioso por conseguir fondos que financien su estudio sobre la inteligencia del velociraptor, acepta la oferta de pareja de millonarios, Paul y Amanda Kirby, para sobrevolar la Isla Sorna, en Puerto Rico, poblada por dinosaurios creados genéticamente para un parque recreativo. Tras producirse un aterrizaje forzoso en la isla, Alan descubre que los Kirby estaban buscando a su hijo adolescente, perdido en la isla tras un accidente de parapente."
+    },
+    {
+      "id": "tmdb:135397",
+      "type": "movie",
+      "name": "Jurassic World",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg",
+      "description": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque."
+    },
+    {
+      "id": "tmdb:351286",
+      "type": "movie",
+      "name": "Jurassic World. El reino caído",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg",
+      "description": "Tras cuatro años de abandono del complejo turístico Jurassic World, la isla Nublar sólo está habitada por los dinosaurios supervivientes. Cuando el volcán inactivo de la isla comienza a cobrar vida, Owen y Claire montan una campaña para rescatar a los dinosaurios restantes en la isla."
+    },
+    {
+      "id": "tmdb:507086",
+      "type": "movie",
+      "name": "Jurassic World: Dominion",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sXeWfpT1EhG7f4uBouqraOhmouH.jpg",
+      "description": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación."
+    },
+    {
+      "id": "tmdb:1234821",
+      "type": "movie",
+      "name": "Jurassic World: El renacer",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2sbGd7kDhMicDkT097FR9a2JyGU.jpg",
+      "description": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir."
+    }
+  ]
 }

@@ -1,3 +1,60 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:954",
+      "type": "movie",
+      "name": "Misión imposible",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg",
+      "description": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia."
+    },
+    {
+      "id": "tmdb:955",
+      "type": "movie",
+      "name": "Misión imposible 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
+      "description": "El agente especial Ethan Hunt tiene una nueva misión: evitar que un despiadado ex-agente y ahora terrorista internacional se haga con un virus mortal que podría soltar sobre Australia causando millones de víctimas. Para evitarlo, contará otra vez con la inestimable ayuda del genio informático Luther Stickell, del experto conductor Billy Baird y de la presencia de la sensual y exótica ladrona internacional Nhye, que en el pasado mantuvo una relación sentimental con el criminal y que ahora se siente atraída por Hunt."
+    },
+    {
+      "id": "tmdb:956",
+      "type": "movie",
+      "name": "Misión imposible 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
+      "description": "Tras haber llevado a cabo diversas misiones, el agente especial Ethan Hunt se ha retirado del servicio activo y se ha prometido con su amada Julia. Pero, cuando es secuestrado uno de los agentes entrenados por él, volverá de nuevo a la acción. También tendrá que enfrentarse a Owen Davian, un individuo sin escrúpulos que trafica con armas y con información."
+    },
+    {
+      "id": "tmdb:56292",
+      "type": "movie",
+      "name": "Misión imposible: Protocolo fantasma",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y0hjsPyieqxcunEcAxb9mrrE09c.jpg",
+      "description": "El agente Ethan Hunt, acusado de un atentado terrorista con bombas contra el Kremlin, es desautorizado junto con toda la organización, al poner en marcha el presidente el llamado 'Protocolo fantasma'. Abandonado a su suerte y sin recursos, el objetivo de Ethan es rehabilitar el buen nombre de su agencia e impedir un nuevo ataque. Pero emprende esta misión con un equipo formado por fugitivos, cuyos motivos personales no conoce bien."
+    },
+    {
+      "id": "tmdb:177677",
+      "type": "movie",
+      "name": "Misión imposible: Nación secreta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q5twcJdIx9Swtl7CyzfvgQckWVK.jpg",
+      "description": "Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados. Estos grupos están empeñados en crear un nuevo orden mundial mediante una serie de ataques terroristas cada vez más graves. Ethan reúne a su equipo y une sus fuerzas con la agente británica renegada Ilsa Faust, quien puede que sea o no miembro de esta nación secreta, mientras el grupo se va enfrentando a su misión más imposible hasta la fecha…"
+    },
+    {
+      "id": "tmdb:353081",
+      "type": "movie",
+      "name": "Misión: Imposible - Fallout",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cUlWqDLEYMN3OWlOZ0U18WcIw5F.jpg",
+      "description": "En ocasiones, hasta las mejores intenciones pueden volverse en contra. Después de una misión fallida, Ethan Hunt y su equipo IMF, junto con algunos aliados conocidos, se enfrentarán a una nueva carrera contrarreloj."
+    },
+    {
+      "id": "tmdb:575264",
+      "type": "movie",
+      "name": "Misión: Imposible - Sentencia mortal parte uno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+      "description": "Ethan Hunt y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso."
+    },
+    {
+      "id": "tmdb:575265",
+      "type": "movie",
+      "name": "Misión: Imposible - Sentencia final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mKK7cVNg4mQmKl0Qry9fvr5AqP7.jpg",
+      "description": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\"."
+    }
+  ]
 }

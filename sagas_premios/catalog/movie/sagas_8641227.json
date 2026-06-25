@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:15472",
+      "type": "movie",
+      "name": "Millennium. Los hombres que no amaban a las mujeres",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uzG01EgpRvB5Nk0HtM54YAlePjP.jpg",
+      "description": "Un rico industrial llamado Henrik Vanger contrata al periodista Mikael Blomqvist para que averigüe qué fue de su sobrina Harriet, que desapareció sin dejar rastro hace 40 años. Adaptación al cine de la primera parte de la trilogía \"Millenium\" del escritor sueco Stieg Larsson."
+    },
+    {
+      "id": "tmdb:24253",
+      "type": "movie",
+      "name": "Millennium II. La chica que soñaba con una cerilla y un bidón de gasolina",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5AeBJIcU4Z9wmtN3GI9E2dUY21N.jpg",
+      "description": "Lisbeth Salander es buscada por la policía, tras verse envuelta en el asesinato de dos colaboradores de Millennium, a punto de sacar a la luz un escándalo sobre el comercio sexual en Suecia. Sin embargo, Lisbeth es más un ángel vengador que una víctima indefensa, y arremete con justa ira sobre los que la han herido... Segunda parte de la trilogía Millennium, adaptaciones de las exitosas novelas de Stieg Larsson."
+    },
+    {
+      "id": "tmdb:33613",
+      "type": "movie",
+      "name": "Millennium III. La reina en el palacio de las corrientes de aire",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2YGLkB9apsLvlKiOde6P7Z90qPS.jpg",
+      "description": "En este desenlace de la saga Millennium la tensión se dispara. Tras el agónico final de La chica que soñaba con una cerilla y un bidón de gasolina, puede que Lisbeth Salander haya sobrevivido a ser enterrada viva pero sus problemas están lejos de haber acabado. Está acusada de triple asesinato y fuerzas poderosas intentan silenciarla de una vez por todas. Mientras, Michael Blomkvist escarba en su oscuro pasado y pronto encuentra sus huellas."
+    },
+    {
+      "id": "tmdb:65754",
+      "type": "movie",
+      "name": "Millennium. Los hombres que no amaban a las mujeres",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zNQ7J318BLMekHUxSUldRdbhJVT.jpg",
+      "description": "Esperando poder distanciarse de la acusación de difamación que pesa sobre él, el periodista Mikael Blomkvist se traslada a una isla remota en el norte de Suecia donde la muerte aún no resuelta de una joven atormenta a su tío cuarenta años después. Alojado en una cabaña de la isla donde el asesino puede estar aún rondando, la investigación de Blomkvist le lleva a dibujar los secretos y mentiras de esta poderosa y rica familia junto a una rara aliada, la tatuada y hacker punki, Lisbeth Salander..."
+    },
+    {
+      "id": "tmdb:446807",
+      "type": "movie",
+      "name": "Millennium. Lo que no te mata te hace más fuerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5mMht8LnrO3fuKltsCYa908fSnM.jpg",
+      "description": "La joven hacker Lisbeth Salander y el periodista Mikael Blomkvist se encuentran atrapados en una red de espías, ciberdelincuentes y funcionarios corruptos del gobierno. Adaptación de la novela \"Lo que no te mata te hace más fuerte\" de David Lagercrantz, una continuación literaria de la saga 'Millennium' creada originalmente por Stieg Larsson."
+    }
+  ]
 }

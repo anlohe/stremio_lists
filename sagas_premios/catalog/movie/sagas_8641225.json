@@ -1,3 +1,18 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:11649",
+      "type": "movie",
+      "name": "Masters del universo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6UTNuS4WhpIPqRbEmj9QBRPIkCt.jpg",
+      "description": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical."
+    },
+    {
+      "id": "tmdb:454639",
+      "type": "movie",
+      "name": "He-Man y los masters del universo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
+      "description": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\"."
+    }
+  ]
 }
