@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:546554",
+      "type": "movie",
+      "name": "Puñales por la espalda",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7scJ3fVmwdSpGG87wvxH3kk0RPc.jpg",
+      "description": "Cuando el renombrado novelista de misterio Harlan Thrombey es encontrado muerto en su mansión justo después de su 85 cumpleaños, el inquisitivo y cortés detective Benoit Blanc es misteriosamente reclutado para investigar. Se moverá entre una red de pistas falsas y mentiras interesadas para tratar de descubrir la verdad tras la prematura muerte del escritor."
+    },
+    {
+      "id": "tmdb:661374",
+      "type": "movie",
+      "name": "Puñales por la espalda: El misterio de Glass Onion",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yXGsWQURm614onIpb3iBcp1iLz8.jpg",
+      "description": "Cuando el multimillonario Miles Bron invita a algunos de sus allegados a una escapada a su isla griega privada, pronto queda claro que no todo es perfecto en el paraíso. Y cuando alguien aparece muerto, ¿quién mejor que Benoit Blanc para desentrañar todas las capas del misterio?"
+    },
+    {
+      "id": "tmdb:812583",
+      "type": "movie",
+      "name": "Puñales por la espalda: De entre los muertos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/trGWfaYTkzkalkosXfxidpLum50.jpg",
+      "description": "El detective Benoit Blanc se une a un joven y honesto sacerdote para investigar un crimen totalmente imposible en la iglesia de un pequeño pueblo con una oscura historia."
+    }
+  ]
 }

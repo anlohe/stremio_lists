@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2787",
+      "type": "movie",
+      "name": "Pitch Black",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nDwwmxCZTA8CGv8FmiJJzIMG2LB.jpg",
+      "description": "Durante un viaje interestelar, un carguero espacial sufre una avería a causa de una tormenta de asteroides, viéndose obligado a efectuar un aterrizaje de emergencia en el que muere parte del pasaje. Un asesino muy peligroso, Riddick, que formaba parte de la carga, huye del lugar dejando a los supervivientes con dos preocupaciones, él y unas peligrosas criaturas nocturnas que salen a la superficie cuando los tres soles del planeta se oscurecen a causa de un eclipse."
+    },
+    {
+      "id": "tmdb:2789",
+      "type": "movie",
+      "name": "Las crónicas de Riddick",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tOOskqjivQo5cJjtLxLWfpPVxkf.jpg",
+      "description": "Riddick se ha pasado los últimos cinco años vagando por la galaxia, tratando de huir de los mercenarios que lo buscan. Ahora se encuentra en el planeta Helion, hogar de una sociedad progresista y multicultural que ha sido invadida por Lord Marshal, un déspota que tiene sometidos a los seres humanos gracias a su ejército de guerreros, los Necróferos."
+    },
+    {
+      "id": "tmdb:87421",
+      "type": "movie",
+      "name": "Riddick",
+      "poster": "http://127.0.0.1:8888/t/p/w500/CDmNSBacnZ8OAPJt1C4nbZwu02.jpg",
+      "description": "Abandonado a su suerte por su propia especie y dado por muerto en un devastado planeta, Riddick, ahora convertido en criminal, tendrá que luchar para mantenerse con vida."
+    }
+  ]
 }

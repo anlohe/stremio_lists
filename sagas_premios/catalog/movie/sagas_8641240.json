@@ -1,3 +1,60 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:23253",
+      "type": "movie",
+      "name": "El Robinson moderno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v9o0gtCiEfJaFjzbyDEnusezzES.jpg",
+      "description": "Un atrevido aventurero desafía a un par de amigos, a poder sobrevivir, el solo, en una isla perdida en medio de los mares del sur."
+    },
+    {
+      "id": "tmdb:54979",
+      "type": "movie",
+      "name": "Robinson Crusoe",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jZU3j6mVlidq5G1Hr6wpfS1Pwlj.jpg",
+      "description": "En 1659, el inglés Robinson Crusoe, el único sobreviviente de un naufragio, llega a una isla desierta. Tras varios años de soledad, descubre que la isla está habitada por salvajes. Tras enfrentarse con ellos, salva a un nativo a quien le pone el nombre de Viernes. Juntos vivirán en la isla algunos años más hasta que aparecen otros náufragos."
+    },
+    {
+      "id": "tmdb:7348",
+      "type": "movie",
+      "name": "Robinson Crusoe en Marte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m6dt4zuTUdAS6lz1prlBFPezYqu.jpg",
+      "description": "Adaptación de la novela de Daniel Defoe \"Robinson Crusoe\". Un astronauta se queda solo y abandonado en el planeta rojo después de la muerte de su compañero."
+    },
+    {
+      "id": "tmdb:54227",
+      "type": "movie",
+      "name": "El teniente Robinson",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yy1TnA75BYNyuGjwZEPuzwiq2EV.jpg",
+      "description": "Tras un accidente de su avión, el teniente Robinson Crusoe (Dick Van Dyke) consigue saltar en paracaídas y tiempo después aparece inconsciente en una playa. El lugar parece estar desierto, por lo que hace todo lo posible por arreglárselas solo. Poco después encontrará un chimpancé y una bella nativa que, por un castigo, ha sido enviada a la isla para morir. El joven teniente decide entonces intentar protegerla."
+    },
+    {
+      "id": "tmdb:91471",
+      "type": "movie",
+      "name": "Yo, Viernes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fdK17PQRIlq9TxFgalxHsqZuSGM.jpg",
+      "description": "Inspirada en \"Robinson Crusoe\", la famosa novela del escritor inglés Daniel Defoe. El narrador de la historia es \"Viernes\". Los días de soledad de Robinson Crusoe (Peter O'Toole) tocan su fin, cuando un indígena (Richard Roundtree), único superviviente de un rito tribal, aparece en la isla. Crusoe le da el nombre de \"Viernes\", y lo toma a su servicio como criado. Como pertenecen a culturas radicalmente distintas, los conflictos cotidianos entre ambos son inevitables: Robinson pretende que Viernes aprenda y adopte sus costumbres, pero el nativo no puede ni quiere olvidar sus orígenes. Sin embargo, se da perfecta cuenta de que para sobrevivir en el extraño mundo del hombre blanco, no tendrá más remedio que actuar con astucia y cumplir, aunque sea aparentemente, sus normas."
+    },
+    {
+      "id": "tmdb:41953",
+      "type": "movie",
+      "name": "Crusoe",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vx6QhJa0AwfTvMnj1J9dYj0JysD.jpg",
+      "description": "Virginia, 1810. Robinson Crusoe, un negrero cruel y despótico,acaba de convencer a un rico comerciante de esclavos para que financie un nuevo viaje a África para capturar nativos para su lucrativo negocio. Sin embargo, durante una tormenta, el barco naufraga y Crusoe se encuentra en una isla desierta con la única compañía de Scamp, el perro del barco. Su día a día se convierte en una constante prueba de supervivencia."
+    },
+    {
+      "id": "tmdb:11210",
+      "type": "movie",
+      "name": "Robinson Crusoe",
+      "poster": "http://127.0.0.1:8888/t/p/w500/93uRPzVpf4ZVjDfswmpsrAmBS4w.jpg",
+      "description": "Adaptación de la novela homónima de Daniel Defoe. El inglés Robinson Crusoe, el único superviviente de un naufragio, va a parar a una isla desierta, donde tendrá que enfrentarse con la naturaleza y la soledad, y también con una tribu de caníbales, a quienes arrebata un nativo al que bautiza como Viernes. El nativo pertenece a una tribu de la que ha sido expulsado, por lo que decide quedarse a vivir con Crusoe."
+    },
+    {
+      "id": "tmdb:62119",
+      "type": "movie",
+      "name": "Robinson Crusoe",
+      "poster": "http://127.0.0.1:8888/t/p/w500/isMmsoWhN0ebhOpbiM82Rc2kkH.jpg",
+      "description": "La clásica historia de Robinson Crusoe, un hombre que es arrastrado a una isla desierta después de un naufragio."
+    }
+  ]
 }

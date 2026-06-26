@@ -1,3 +1,67 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1366",
+      "type": "movie",
+      "name": "Rocky",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yyoGappf3WxXRrHz23yNbH2MffI.jpg",
+      "description": "Rocky Balboa es un desconocido boxeador a quien se le ofrece la posibilidad de pelear por el título mundial de los pesos pesados. Con mucha fuerza de voluntad, Rocky se preparará concienzudamente para este combate, y también para los cambios que producirá en su vida."
+    },
+    {
+      "id": "tmdb:1367",
+      "type": "movie",
+      "name": "Rocky II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+      "description": "Rocky Balboa, el boxeador de Philadelphia, disfruta de su efímera fama después de estar a punto de derrotar al campeón mundial de los pesos pesados Apollo Creed. Las ofertas publicitarias para el anuncio de productos no van bien debido a la limitada educación y falta de sofisticación del púgil. Por ello, y debido a la falta de dinero y al embarazo de su mujer Adrian, acepta la demanda de revancha del \"casi derrotado\" Creed."
+    },
+    {
+      "id": "tmdb:1371",
+      "type": "movie",
+      "name": "Rocky III",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg",
+      "description": "Tras haber defendido el título diez veces, el campeón mundial de boxeo Rocky Balboa ha decidido retirarse. Sin embargo Clubber Lang, un boxeador muy agresivo que ha ido escalando puestos a base de destrozar a sus rivales, desea arrebatarle el título. Pese a la negativa de Rocky, Clubber consigue provocarle para que acepte el desafío, y esta vez el resultado del combate se presume bastante incierto."
+    },
+    {
+      "id": "tmdb:1374",
+      "type": "movie",
+      "name": "Rocky IV",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "description": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago."
+    },
+    {
+      "id": "tmdb:1375",
+      "type": "movie",
+      "name": "Rocky V",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kbt9oSpAX8TkmpV2T72p0Cl41vR.jpg",
+      "description": "Rocky, arruinado y retirado del boxeo, se ve obligado a volver a su barrio de siempre. Allí conoce a un joven con aptitudes para boxear y decide entrenarle."
+    },
+    {
+      "id": "tmdb:1246",
+      "type": "movie",
+      "name": "Rocky VI. Rocky Balboa",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8oN30JAimKk2LcLOusSYpGvMPgG.jpg",
+      "description": "El mundo del boxeo está tan devaluado que el campeón Mason Dixon no encuentra un rival a su altura. Han pasado 30 años desde que a Rocky Balboa, un hombre sin futuro, se le presentó la oportunidad de boxear y enfrentarse contra el gran campeón Apollo Creed. El coraje y perseverancia de Rocky, tanto en la vida como en el ring, alimentó las esperanzas de millones de personas. Ahora, ya retirado, se pasa las tardes contando viejas historias a los clientes del Adrian's, el restaurante que lleva el nombre de su esposa, por la que todavía guarda un silencioso luto. Apenas ve a su hijo, que está demasiado centrado en su propia vida. El paso del tiempo y los golpes recibidos lo han hecho más humilde y lo han envejecido, pero en el fondo aún sigue siendo un luchador."
+    },
+    {
+      "id": "tmdb:312221",
+      "type": "movie",
+      "name": "Creed. La leyenda de Rocky",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fTdozSSr2cTZcioldjfVUbBzhrW.jpg",
+      "description": "Adonis Johnson no llego a conocer a su padre, el campeón del mundo de los pesos pesados Apollo Creed, que falleció antes de que él naciera. Sin embargo, nadie puede negar que lleva el boxeo en la sangre, por lo que pone rumbo a Filadelfia, el lugar en el que se celebró el legendario combate entre su padre y Rocky Balboa. Una vez allí, Adonis busca a Rocky y le pide que sea su entrenador. A pesar de que este insiste en que ya ha dejado ese mundo para siempre, Rocky ve en Adonis la fuerza y determinación que tenía su enconado rival, y que terminó por convertirse en su mejor amigo. Finalmente, acepta entrenarle a pesar de estar librando su propio combate contra un rival más letal que cualquiera a los que se enfrentó en el cuadrilátero."
+    },
+    {
+      "id": "tmdb:480530",
+      "type": "movie",
+      "name": "Creed II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2t53WEu1Ck7qAMS3theMnQK2N2c.jpg",
+      "description": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia..."
+    },
+    {
+      "id": "tmdb:677179",
+      "type": "movie",
+      "name": "Creed III",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+      "description": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder."
+    }
+  ]
 }

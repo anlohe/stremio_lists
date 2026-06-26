@@ -1,3 +1,67 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:71066",
+      "type": "movie",
+      "name": "Robin de los bosques",
+      "poster": "http://127.0.0.1:8888/t/p/w500/baqMnZbAFPsfbaAOPRU1eJlCRdj.jpg",
+      "description": "Ricardo Corazón de León (Wallace Beery), rey amado y respetado por su pueblo, decide ir a las Cruzadas al frente de su ejército, dejando temporalmente a su hermano, el príncipe Juan (Sam De Grasse), como regente del trono. En ausencia de Ricardo, el príncipe y traicionero Juan gobierna despiadadamente con mano de hierro, convirtiendo Inglaterra en un lugar donde impera la crueldad y la violencia. A está tiranía hará frente el Conde de Huntington (Douglas Fairbanks), un valiente guerrero que, informado de la situación del país, pondrá en peligro su vida y honor para oponerse al traidor. Por ello, se verá fuera de la ley, teniendo que ejercer como el forajido Robin Hood, campeón de los débiles y oprimidos, que defenderá al pueblo frente al cruel príncipe Juan y tendrá que ocultarse en el bosque de Sherwood."
+    },
+    {
+      "id": "tmdb:10907",
+      "type": "movie",
+      "name": "Robin de los bosques",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bCXYN015wb10UTPgXZxcd2RAjBI.jpg",
+      "description": "Robin de Locksey regresa a Inglaterra tras combatir contra los infieles en las Cruzadas, pero Juan sin Tierra, el hermano del Rey Ricardo I, ha usurpado el trono y gobierna como un tirano, por lo que el noble sajón decide refugiarse en el bosque de Sherwood y luchar contra él para devolverle la corona a Ricardo."
+    },
+    {
+      "id": "tmdb:110248",
+      "type": "movie",
+      "name": "El hijo de Robin de los Bosques",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nxlTRrrv6JoMTCvFHtQGBVPd6XO.jpg",
+      "description": "Robert de Nottingham (Cornel Wilde) capitanea a los temibles arqueros del bosque de Sherwood cuya misión es imponer la justicia en Inglaterra. La Corona ha sido de nuevo usurpada, y el legítimo rey debe ser repuesto en el trono. Para lograr sus objetivos, Robert contará con la ayuda de la reina (Jill Esmond) y de la hermosa Catherine (Anita Louise). (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:123186",
+      "type": "movie",
+      "name": "Los hombres del bosque de Sherwood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gHUNCJSPArAkWUI0eXuoidE8Nf8.jpg",
+      "description": "Inglaterra. 1194. El rey Ricardo Corazón de León está prisionero en Alemania después de luchar en las Cruzadas. Su hermano, el príncipe John, toma el trono en su ausencia. Un hombre aparece asesinado en el bosque de Sherwood y se culpa a Robin Hood. Robin no sólo es inocente sino que la víctima formaba parte de una misión para liberar al rey Ricardo y asegurar su vuelta a Inglaterra. Robin Hood tendrá que luchar por la liberación del rey Ricardo y por demostrar su inocencia."
+    },
+    {
+      "id": "tmdb:115972",
+      "type": "movie",
+      "name": "La espada del bosque de Sherwood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4on3ELOGU1oh5bRgKF98YBkNwa6.jpg",
+      "description": "Robin de Loxley y sus hombres descubren un complot para derrocar a Hubert Walter, Canciller del rey y Arzobispo de Canterbury. Los conspiradores son el Sheriff de Nottingham y el Conde de Newark."
+    },
+    {
+      "id": "tmdb:10786",
+      "type": "movie",
+      "name": "Robin y Marian",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eRaYiNt0piwfB1LdeUJnMnFcxXs.jpg",
+      "description": "Desilusionados por los años que perdieron luchando como cruzados en Tierra Santa, Robin Hood y su amigo Little John regresan a Inglaterra y se dan cuenta de que todo ha vuelto a ser como antes."
+    },
+    {
+      "id": "tmdb:8367",
+      "type": "movie",
+      "name": "Robin Hood. Príncipe de los ladrones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg",
+      "description": "Robin Hood regresa a su país de origen, cansado tras haber pasado los últimos cinco años luchando en las Cruzadas. A su vuelta se topa con el terror de la población ante el gobierno déspota del hermano Juan del rey Ricardo Corazón de León, un tirano que está en el poder, aprovechando la ausencia de éste. El guerrero, ante esta situación, jura defender a los pobres y para ello se une a las bandas de proscritos que han tomado el bosque de Sherwood como su único hogar libre."
+    },
+    {
+      "id": "tmdb:20662",
+      "type": "movie",
+      "name": "Robin Hood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8jI4VDUWPVM4I91xBhObCLMQhnM.jpg",
+      "description": "Inglaterra, siglo XIII. Robin Longstride, un magnífico arquero al servicio del rey Ricardo Corazón de León, vuelve de las cruzadas en tierra santa saqueando poblados mientras lucha contra las tropas francesas. Cuando Ricardo muere bajo una fecha francesa, Robin se traslada a Nottingham con el objetivo de cumplir una promesa que hizo a Sir Robert Loxley antes de morir: devolver una espada a su padre, Sir Walter Loxley. Allí conoce a lady Marion, su viuda, una mujer con carácter. Mientras tanto, en un país debilitado por una larga guerra, regido por Juan, un rey débil y poco eficaz, contra las rebeliones internas y las amenazas externas maquinadas por el pérfido Godfrey, Robin y sus hombres se dejan llevar hacia una aventura mayor: deciden ayudar a impedir que el país caiga irremediablemente en una sangrienta guerra civil, y devolver la gloria a Inglaterra."
+    },
+    {
+      "id": "tmdb:375588",
+      "type": "movie",
+      "name": "Robin Hood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tSxcUPAC1ihAtDpAQX2rydOucns.jpg",
+      "description": "Cuando el joven Robin Hood (Taron Egerton) regresa a su hogar, endurecido, tras luchar como guerrero en Las Cruzadas, descubre un reino en el que la corrupción es la moneda de cambio de la corona inglesa. En ese momento, junto a su compañero Little John (Jamie Foxx), toma la decisión de formar una banda de bandidos y liderar una audaz rebelión en la que se enfrentarán al malvado Sheriff de Nottingham (Ben Mendelsohn)."
+    }
+  ]
 }

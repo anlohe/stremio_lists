@@ -1,3 +1,53 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1576",
+      "type": "movie",
+      "name": "Resident Evil",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg",
+      "description": "En un centro clandestino de investigación genética -con fines militares- de una poderosa multinacional se produce un brote vírico que contamina todo el edificio. Para contener la fuga el ordenador que controla el centro sella toda la instalación y, en un principio se cree que mueren todos los empleados, pero en realidad se han convertido en feroces zombis..."
+    },
+    {
+      "id": "tmdb:1577",
+      "type": "movie",
+      "name": "Resident Evil 2: Apocalipsis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8tNrm8TgAeSgH35rPs2WJD26Hnf.jpg",
+      "description": "Un virus mortal ha sido liberado sobre la población de Raccoon City. Alice (Milla Jovovich), una de las supervivientes del desastre bioquímico, se encuentra en el corazón de esta devastada ciudad. Sometida a experimentos que han alterado su genética, ahora posee fuerza, sentidos y destreza sobrehumana. Estas habilidades, y más, serán las que deba utilizar quien quiera sobrevivir en esta nueva aventura. Junto con otros supervivientes deberá escapar de la cada vez más peligrosa Raccoon City. Para alcanzar su meta necesitarán luchar contra las fuerzas de la Umbrella Corporation, las violentas criaturas de bioingeniería creadas en sus laboratorios, los zombies que plagan la ciudad y, finalmente, enfrentarse a la más colosal y mortal de estas creaciones: Nemesis."
+    },
+    {
+      "id": "tmdb:7737",
+      "type": "movie",
+      "name": "Resident Evil III. Extinción",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lP0cconRQqe6O4c6L2mVADDvFyt.jpg",
+      "description": "Tercera entrega de la saga basada en los famosos videojuegos. En esta ocasión, nuestra heroína, Milla Jovovich, junto con los supervivientes de la catástrofe acontecida en la ciudad de Raccoon deben atravesar el desierto de Nevada con la esperanza de llegar a Alaska, antes de que los de la Corporación Umbrella les alcancen."
+    },
+    {
+      "id": "tmdb:35791",
+      "type": "movie",
+      "name": "Resident Evil IV. Ultratumba",
+      "poster": "http://127.0.0.1:8888/t/p/w500/j7obkD5UQUydpBOBRpToLWIWkwq.jpg",
+      "description": "En un mundo asolado por un virus infeccioso que convierte a sus víctimas en muertos vivientes, Alice continúa buscando supervivientes para ponerlos a salvo. Su batalla a muerte con la Corporación Umbrella llega a alturas insospechadas, pero Alice, inesperadamente, recibe ayuda de una vieja amiga. Nuevas pistas, con la promesa de un paraíso a salvo de muertos vivientes, los conduce hasta Los Ángeles, pero cuando llegan, la ciudad está infectada con miles de muertos vivientes. Alice y sus compañeros están a punto de caer en una trampa mortal."
+    },
+    {
+      "id": "tmdb:71679",
+      "type": "movie",
+      "name": "Resident Evil V. Venganza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yYZQXdfGNPMjBi18suxPuWii6MP.jpg",
+      "description": "El virus de la corporación Umbrella sigue haciendo estragos en La Tierra convirtiendo a la población en legiones de muertos sedientos de sangre. La última esperanza de la humanidad, Alice, despierta en el centro de operaciones de la compañía donde comienza a conocer más detalles de su pasado. Alice seguirá persiguiendo a los responsables del virus llevándola por Tokio, Nueva York, Washington y Moscú donde le será revelado algo que la hará plantearse todo lo que la ha sucedido hasta ahora. Con la ayuda de sus nuevos aliados, Alice deberá sobrevivir el tiempo suficiente para escapar de un mundo hostil... La cuenta atrás ha comenzado."
+    },
+    {
+      "id": "tmdb:173897",
+      "type": "movie",
+      "name": "Resident Evil VI",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cC2dEleI8zDT045QhuqVjf527yv.jpg",
+      "description": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-, ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo, Alice tendrá que unir fuerzas con viejos amigos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad, que está al borde de la extinción."
+    },
+    {
+      "id": "tmdb:460458",
+      "type": "movie",
+      "name": "Resident Evil. Bienvenidos a Raccoon City",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg",
+      "description": "Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche."
+    }
+  ]
 }

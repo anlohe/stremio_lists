@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:4731",
+      "type": "movie",
+      "name": "Sandokán el magnífico",
+      "poster": "http://127.0.0.1:8888/t/p/w500/urXBWP8th6GKIgJq0tBp9DQHIwW.jpg",
+      "description": "Durante el reinado de la reina Victoria, estalla una rebelión en la colonia de Borneo encabezada por Sandokan, también conocido como El tigre de Mompracem. Como represalia, los británicos encarcelan a su padre, el viejo sultán de Muluder. Yánez, un portugués afiliado al movimiento de resistencia contra los ingleses, junto con Sandokan y un grupo de compañeros, desembarcan en la isla de Labuan para secuestrar a Lord Guillonk, el gobernador del lugar, e impedir así la ejecución del sultán. El ataque sorpresa surge efecto, aunque el padre de Sandokan acaba muriendo en la cárcel."
+    },
+    {
+      "id": "tmdb:286566",
+      "type": "movie",
+      "name": "La venganza de Sandokán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uu9O7kmvfh2OGf64wvXejDOxPxC.jpg",
+      "description": "Sandokan, tras la muerte de su nodriza descubre que es el verdadero heredero al reino de sarawak y que su familia fue brutalmente asesinada por los rebeldes con el traidor William Drooks a la cabeza. Ahora el bravo pirata Sandokan, que es temido y conocido por 'El Tigre de Malasia' solo tiene una idea en la cabeza: vengar la muerte de su familia y recuperar el trono de Sarawak. Contará con la ayuda de su fiel amigo Yañes y Tremal-Naik."
+    },
+    {
+      "id": "tmdb:74605",
+      "type": "movie",
+      "name": "Los piratas de Malasia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mf9zhkmBQpckOjDiSLeGswsTKGm.jpg",
+      "description": "El príncipe Sarawah ve como su reino es invadido por el cuerpo expedicionario de Lord Brook, procedente de Bombay. Los británicos, entregados a todo tipo de excesos, no pueden evitar que se escape la princesa Jada, mientras uno de los supervivientes al ataque, parte en busca de Sandokan, que acude en ayuda del príncipe."
+    },
+    {
+      "id": "tmdb:202235",
+      "type": "movie",
+      "name": "Sandokán contra el leopardo de Sarawak",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m1Ry2dZWvmdP13pJxK27G38LriF.jpg",
+      "description": "Samoa, la joven y bella prometida de Sandokan, es secuestrada por su primo Charles Druk. Con este secuestro, el despechado Druk piensa vengarse de Sandokan por la muerte de su padre. Samoa es hipnotizada y mantenida oculta en unas cuevas. Su futuro esposo, Sandokan, señor de Malasia, hará todo lo posible por liberarla de su cautiverio."
+    }
+  ]
 }

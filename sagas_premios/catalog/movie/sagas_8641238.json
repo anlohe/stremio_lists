@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:591",
+      "type": "movie",
+      "name": "El código Da Vinci",
+      "poster": "http://127.0.0.1:8888/t/p/w500/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg",
+      "description": "El catedrático y afamado simbologista Robert Langdon se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años..."
+    },
+    {
+      "id": "tmdb:13448",
+      "type": "movie",
+      "name": "Ángeles y demonios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kLTpEwwVyquJmWak9qKGc4icFMK.jpg",
+      "description": "Robert Langdon descubre la prueba de la reaparición de una antigua hermandad secreta conocida como los Illuminati: la más poderosa organización secreta en la historia, que a su vez también se enfrenta a una amenaza que hace que peligre su existencia: la Iglesia Católica. Cuando Langdon se entera de que los Illuminati conspiran en contra de la Iglesia intentando detonar una bomba de antimateria, él se dirige a Roma, donde une fuerzas con Vittoria Vetra."
+    },
+    {
+      "id": "tmdb:207932",
+      "type": "movie",
+      "name": "Inferno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lCGqpwsgjegq26fMiR54ugJtIc6.jpg",
+      "description": "Robert Langdon se despierta en una habitación de hospital en Florencia, Italia, sin memoria de lo que ha ocurrido en los últimos días. De repente se encuentra a sí mismo, una vez más, el blanco de una cacería humana importante. Pero con la ayuda de la Dra Sienna Brooks, y su conocimiento de la simbología, Langdon va a tratar de recuperar su libertad, y la pérdida de los recuerdos, todo al mismo tiempo que resuelve los más intrincados enigmas que ha enfrentado."
+    }
+  ]
 }
