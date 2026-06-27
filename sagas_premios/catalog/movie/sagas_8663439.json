@@ -29,13 +29,6 @@
       "description": "Adaptación de la célebre novela homónima de Robert Louis Stevenson (1850-1894). Jim Hawkins es un muchacho que trabaja en la posada de sus padres. Un día aparece por allí un viejo marinero que huye de sus camaradas. Tiene una cicatriz en la cara y un viejo cofre que contiene el mapa de un tesoro."
     },
     {
-      "id": "tmdb:10874",
-      "type": "movie",
-      "name": "Los teleñecos en la Isla del Tesoro",
-      "poster": "http://127.0.0.1:8888/t/p/w500/zPqY5uvKI78j4aXrCSXBIyyP9rQ.jpg",
-      "description": "Cuando el joven Jim Hawkins recibe el mapa de un tesoro, se lanza a una divertida aventura junto a sus amigos Gonzo, Rizzo y el pirata patapalo Long John Silver (Tim Curry). Jim, junto al Capitán Smollet (la rana Gustavo) y su tripulación de Teleñecos, navegará hacia una remota isla. Allí Silver y sus secuaces capturan al joven Jim y le quitan el mapa del tesoro, lo que obliga a Smollet y sus amigos a preparar un plan de rescate con la ayuda de la Reina de los Jabalíes, Peggy."
-    },
-    {
       "id": "tmdb:128979",
       "type": "movie",
       "name": "La isla del tesoro",

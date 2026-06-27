@@ -1,3 +1,263 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:342831",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qxbSnrfaPbfM2jYuS7OGOfExtOK.jpg",
+      "description": "Cuando un par de estafadores retienen a la joven Alice Faulkner contra su voluntad para descubrir el paradero de unas cartas cuya difusión podría causar un escándalo que afectaría a la familia real, Sherlock Holmes decid encargarse del caso."
+    },
+    {
+      "id": "tmdb:53800",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/h47fXPnziW2eroljJ9UWSIJpB4J.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:992",
+      "type": "movie",
+      "name": "El moderno Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+      "description": "Película sobre el mundo del cine, Keaton es un proyeccionista que sueña con ser un detective cuando, milagrosamente, se encuentra dentro de la película que está proyectando. Allí intentará salvar a su amada de las garras del villano. Una de las más aclamadas cintas de cine mudo llena de gags visuales y con un portentoso Buster Keaton."
+    },
+    {
+      "id": "tmdb:371351",
+      "type": "movie",
+      "name": "El regreso de Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xjMwpbxI9JcC7Ck9DDwfV5kJlIQ.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:163171",
+      "type": "movie",
+      "name": "Una aventura de Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vxJIIZHhhKFtFDgofD2kxe97GDz.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:27118",
+      "type": "movie",
+      "name": "Sherlock Holmes. El perro de los Baskerville",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5ZX0vq7Dbww9OGFYi48wTk4koRM.jpg",
+      "description": "Durante más de doscientos años una maldición parece haber caído sobre la aristocrática familia de los Baskerville. Cuando Sir Charles es hallado muerto en extrañas circunstancias, el legendario Sherlock Holmes y su compañero Watson comienzan a investigar y llegan a la conclusión de que la próxima víctima será Sir Henry, el único miembro vivo de la familia y, por tanto, el heredero universal de la fortuna de los Baskerville."
+    },
+    {
+      "id": "tmdb:17481",
+      "type": "movie",
+      "name": "Las aventuras de Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5MpIKWh8G1BaPBfrv3249sw1vPR.jpg",
+      "description": "El detective Sherlock Holmes (Basil Rathbone) encara su mayor desafío cuando el genio del mal, el profesor Moriarty (George Zucco), planea robar nada menos que las joyas de la corona."
+    },
+    {
+      "id": "tmdb:27117",
+      "type": "movie",
+      "name": "Sherlock Holmes. La voz del terror",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9SKznibX1zFH9gGfgPIcA8EBnET.jpg",
+      "description": "La historia traslada a una época en la que el conflicto con la Alemania nazi es la orden del día. En esos días, una serie de emisiones de radio llegan de parte del bando alemán, en la que se relatan operaciones recientes de estos en contra del ejército británico, muchas de estas acciones se llevan a cabo a misiones de alto secreto británico, por lo que hay algo que no funciona bien en el alto mando, así que solicitarán la ayuda del gran detective para poder llegar al fondo del asunto."
+    },
+    {
+      "id": "tmdb:18706",
+      "type": "movie",
+      "name": "Sherlock Holmes. El arma secreta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4PkAMyYHOz1AuKerEWniuOHnP17.jpg",
+      "description": "El detective Sherlock Holmes (Basil Rathbone) y su fiel ayudante el doctor Watson (Nigel Bruce) se enfrentan al colaboracionista nazi Profesor Moriarty. Moriarty tiene entre sus planes secuestrar a un científico británico que ha creado una nueva mira de bombardero para atacar al ejército alemán."
+    },
+    {
+      "id": "tmdb:44383",
+      "type": "movie",
+      "name": "Sherlock Holmes en Washington",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gZyuDGUdK2eViE9vQAKb5Q241tF.jpg",
+      "description": "En la II Guerra Mundial, un agente secreto británico que lleva consigo un valioso y vital documento es secuestrado de camino a Washington. El gobierno británico llama a Sherlock Holmes para recuperarlo."
+    },
+    {
+      "id": "tmdb:50553",
+      "type": "movie",
+      "name": "Sherlock Holmes desafía a la muerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/WH3TKlQzyAgAQWkZ2ULGivCsVp.jpg",
+      "description": "Segunda Guerra Mundial (1939-1945). Los propietarios de la tétrica mansión Musgrave han cedido al ejército su casa como lugar de reposo para los militares aquejados de estrés postraumático. El doctor Watson (Nigel Bruce) se ocupa de la salud de los soldados. Pronto, no podía ser de otra forma, empiezan a producirse misteriosos asesinatos."
+    },
+    {
+      "id": "tmdb:2443",
+      "type": "movie",
+      "name": "Sherlock Holmes. La mujer araña",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qZcAckBYFN1AXAtHubWhwmBKXeQ.jpg",
+      "description": "En esta nueva aventura de Holmes en la época de la II Guerra Mundial, en Inglaterra, Sherlock Holmes finge estar muerto para investigar una serie de aparentes suicidios unidos entre sí por supuestas picaduras de araña. Esto lo llevará a enfrentarse con uno de los rivales más peligrosos que haya conocido. Su sospecha pronto se centra en la atractiva pero al parecer, altamente peligrosa, Andrea Spedding."
+    },
+    {
+      "id": "tmdb:33423",
+      "type": "movie",
+      "name": "Sherlock Holmes. La garra escarlata",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wV9siZXOwFjVQgrcA9mgATNYC5v.jpg",
+      "description": "En una aldea canadiense existe una antigua leyenda sobre un fantasma que, al parecer, años atrás mató a tres vecinos. Los aldeanos temen que el mostruo vuelva, ya que se han visto extrañas formas luminosas y, además, se han encontrado algunas ovejas brutalmente degolladas. Mientras tanto, Sherlock Holmes y el doctor Watson asisten en Quebec a una reunión de la Real Sociedad Canadiense de las Ciencias Ocultas, donde discuten con Lord Penrose sobre la vieja leyenda aldeana. Lord Penrose, tras conocer la noticia de la muerte de su mujer, recibe una carta escrita por la difunta poco antes de morir, suplicando ayuda. Cuando Holmes va a la aldea para investigar el caso, en seguida comprende que el asesino que busca es un maestro en el arte del disfraz."
+    },
+    {
+      "id": "tmdb:33421",
+      "type": "movie",
+      "name": "Sherlock Holmes. La perla maldita",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zZGf5LWLRIQZ7dmn3ejhQDhQAza.jpg",
+      "description": "Sherlock Holmes, debido a un exceso de confianza en sí mismo, comete un error que le obliga a encontrar una perla que ha sido robada de un museo por un ladrón profesional. A medida que avanza su investigación, se producen una serie de brutales asesinatos que, aparentemente, han sido cometidos por Creeper, una fuerza maléfica."
+    },
+    {
+      "id": "tmdb:33419",
+      "type": "movie",
+      "name": "Sherlock Holmes. La casa del miedo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vaWy6ko20VARE8SwnSZVf2kFswn.jpg",
+      "description": "Sherlock Holmes investiga una serie de asesinatos ocurridos en un castillo. Lo más sorprendente es que todas las víctimas tienen pepitas de naranja en la boca."
+    },
+    {
+      "id": "tmdb:34327",
+      "type": "movie",
+      "name": "Sherlock Holmes. El caso de los dedos cortados",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5L8I3iRHSwF1Rrkis1bJmgkmVUM.jpg",
+      "description": "Sherlock Holmes y el Dr. Watson investigan el caso de un asesino en serie que mutila el dedo índice a todas sus víctimas."
+    },
+    {
+      "id": "tmdb:50401",
+      "type": "movie",
+      "name": "Sherlock Holmes. Persecución en Argel",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7jHppgXKHmf8CfECW1XKa3LYeAM.jpg",
+      "description": "A bordo de un trasatlántico, Holmes y Watson cumplen una misión: escoltar al príncipe Nicolás, que es el heredero del trono; pero en el mismo barco viajan también unos asesinos que intentan acabar con la vida del príncipe."
+    },
+    {
+      "id": "tmdb:20408",
+      "type": "movie",
+      "name": "Sherlock Holmes. Terror en la noche",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8msJsssDFbbE8hCHKeHC9VxJzaD.jpg",
+      "description": "Sherlock Holmes debe custodiar la Estrella de Rodesia, un valioso diamante que pertenece a Lady Carstairs. Roland, el hijo de la dama, teme que durante el viaje en tren de Londres a Edimburgo pueda ocurrirle algo a la cotizada joya. Y sus temores se cumplen: Roland es asesinado en el tren y el diamante desaparece. Es entonces cuando interviene Holmes, que con la ayuda de Watson y del inspector Lestrade, intenta recuperar la joya."
+    },
+    {
+      "id": "tmdb:20417",
+      "type": "movie",
+      "name": "Sherlock Holmes. Vestida para un asesinato",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3LuRFdHAHm0hPbCkHoIgN1JKVpK.jpg",
+      "description": "Unos ladrones compiten con el famoso detective Sherlock Holmes en la búsqueda de un tesoro robado. Uno de los autores del crimen, que se halla en prisión, sabe que el tesoro está escondido en tres cajas de música que fueron subastadas antes de que sus compinches pudieran apoderarse de ellas. Holmes y Watson emprenderán una vertiginosa carrera para encontrarlas."
+    },
+    {
+      "id": "tmdb:11791",
+      "type": "movie",
+      "name": "El perro de los Baskerville",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zfsPuNCI7ZmIv1ODoW7Zn01JH5L.jpg",
+      "description": "Adaptación de una novela del escritor inglés Arthur Conan Doyle. Sobre los Baskerville pesa una maldición que ha traído muerte y desgracias sin cuento a las sucesivas generaciones de la familia. Cuando Sir Charles Baskerville aparece muerto en los páramos, Sherlock Holmes sospecha que el único miembro de la familia que permanece vivo, Sir Henry, será la siguiente víctima, pero no a causa de la maldición, sino debido a la ambición de alguien que saldría muy beneficiado de su muerte. El famoso detective sabe que debe descubrir al asesino antes de que sea demasiado tarde."
+    },
+    {
+      "id": "tmdb:43010",
+      "type": "movie",
+      "name": "El collar de la muerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jbSHXdr4kOmQb9gldXeXn9Dardv.jpg",
+      "description": "Sherlock Holmes y el Dr. Watson se embarcan en la búsqueda del antiguo collar de Cleopatra, que ha sido robado."
+    },
+    {
+      "id": "tmdb:5185",
+      "type": "movie",
+      "name": "La vida privada de Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/69952HEshAr6Mx3Kp7Xd5NYThql.jpg",
+      "description": "Sherlock Holmes y el doctor Watson parten hacia Escocia para investigar la desaparición del marido de una bella mujer. Una vez allí, descubren que en el caso está involucrada una sociedad que pertenece al Servicio Secreto de su Majestad. Pero, antes de que pueda aplicar sus extraordinarias dotes de deducción para resolver el asunto, Holmes comete un error que, además de arruinar su reputación, podría también poner en peligro la seguridad de Gran Bretaña."
+    },
+    {
+      "id": "tmdb:27200",
+      "type": "movie",
+      "name": "Sherlock Holmes en Nueva York",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xUi50WK3sUnnrYJtjUXfFV2hsRW.jpg",
+      "description": "Holmes tiene que acudir a toda prisa a la ciudad de Nueva York después de descubrir que su antiguo némesis, Moriarty, ha secuestrado al hijo de su antiguo amor, la actriz Irene Adler."
+    },
+    {
+      "id": "tmdb:34374",
+      "type": "movie",
+      "name": "Asesinato por decreto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/z64u1wTokWef8JpBXr0S7iMITUw.jpg",
+      "description": "Londres, 1888. En el barrio de Whitechapel se producen una serie de violentos y sanguinarios crímenes que tienen algo en común: las víctimas son siempre prostitutas asesinadas en oscuros callejones. El asesino será pronto conocido con el nombre de Jack el Destripador. En Baker Street, Sherlock Holmes y su ayudante el Doctor Watson empiezan a investigar por su cuenta los horribles crímenes que tienen aterrorizada a la ciudad. A pesar de que el jefe de Scotland Yard preferiría no hacerlo, no tiene más remedio que pedirles ayuda para resolver el caso. A medida que pasa el tiempo, el asesino ataca también a personas de la alta sociedad, y se descubre una misteriosa conspiración en la que participan masones y miembros de la familia real."
+    },
+    {
+      "id": "tmdb:192899",
+      "type": "movie",
+      "name": "Sherlock Holmes. El signo de los cuatro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yU0yVIswpZLPCPFigM2aRvKsTwj.jpg",
+      "description": "Cada año, desde que murió su padre, la señorita Moran ha recibido una extraña perla. Cuando es invitada a conocer a su benefactor, pide consejo a Sherlock Holmes. El misterio se complica extraordinariamente y termina con una emocionante persecución por los canales de Londres en busca de un tesoro indio de valor incalculable. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:28771",
+      "type": "movie",
+      "name": "Sherlock Holmes y la máscara de la muerte",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oEGkAgqd7SRS7tOPZ9SPSvSoeVp.jpg",
+      "description": "Holmes (Peter Cushing) y el Dr. Watson (John Mills) reflexionan sobre casos en que las víctimas parecen haber sido asustadas hasta la muerte."
+    },
+    {
+      "id": "tmdb:11904",
+      "type": "movie",
+      "name": "El secreto de la pirámide",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9ptoey1KprZos5BEMIWuFnZIWDC.jpg",
+      "description": "Cuando una plaga de extraños y horribles asesinatos mantienen en suspenso a Londres, el joven Sherlock Holmes y su nuevo amigo Watson se ven involucrados casi sin advertirlo en un oscuro misterio. ¡Evidentemente, algo se está tramando! Y el detective en ciernes se encuentra dispuesto a resolver el caso más sorprendente de su extraordinaria carrera."
+    },
+    {
+      "id": "tmdb:12582",
+      "type": "movie",
+      "name": "Sin pistas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/arv9FRvFwh9y29qbnrgSLyBS4A6.jpg",
+      "description": "El Dr. Watson busca a un actor que interprete a Holmes, pero sólo encuentra a uno que es mujeriego, bebedor y vago. Aunque celoso de la atención que recibe el falso detective, deberá contar con él porque pronto llega un caso: el robo de las planchas de la casa del tesoro del reino Británico."
+    },
+    {
+      "id": "tmdb:89738",
+      "type": "movie",
+      "name": "El crucifijo de sangre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yW6PMVqNLA5WgLWlWfb8XcF35Nu.jpg",
+      "description": "En la década de 1850, en la India, se comete un asesinato en torno a un increíble tesoro, y cuatro militares británicos firman un pacto de secreto. En 1887, una maldición parece pesar sobre ellos, y Sherlock Holmes habrá de investigar."
+    },
+    {
+      "id": "tmdb:108432",
+      "type": "movie",
+      "name": "Sherlock Holmes y la prima dona",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fq5asd3FzuLTzfPITWkOpxRo0at.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:79106",
+      "type": "movie",
+      "name": "Sherlock Holmes. Incidente en las cataratas Victoria",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wLFifMWbjGnLo8Zc8hy1qu9ofs3.jpg",
+      "description": "El rey Eduardo le pide a Sherlock Holmes que realice una tarea más antes de su retiro: proteger la Estrella de África en un viaje a Ciudad del Cabo. Pronto se roba la legendaria joya y varias personas terminan siendo asesinadas."
+    },
+    {
+      "id": "tmdb:10528",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+      "description": "Mostrando unas habilidades para luchar tan letales como su legendaria agudeza intelectual, Holmes peleará como nunca para acabar con un nuevo enemigo y desenmarañar así un complot mortal que podría destruir el país."
+    },
+    {
+      "id": "tmdb:33555",
+      "type": "movie",
+      "name": "Sherlock Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wsJkEzktZV83DXlQItsO1ooGGq0.jpg",
+      "description": "Sherlock Holmes y Watson están tras la pista de un cerebro criminal y científico que parece controlar monstruos y creaciones que desafían sus creencias."
+    },
+    {
+      "id": "tmdb:58574",
+      "type": "movie",
+      "name": "Sherlock Holmes: Juego de sombras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cDu2Ti4uwF1yq6jgjsybe7UzZDI.jpg",
+      "description": "Sherlock Holmes siempre ha sido el tipo más listo de la habitación… hasta ahora. El Profesor Moriarty, un genio del crimen, hace acto de aparición, y no sólo es el símil intelectual de Holmes, pero su capacidad para el mal, junto con una falta total de conciencia, en realidad puede darle una ventaja sobre el reconocido detective. Cuando encuentran muerto al príncipe heredero de Austria, la evidencia, según lo interpretado por el Inspector Lestrade, apunta al suicidio. Pero Sherlock Holmes deduce que el príncipe ha sido víctima de un asesinato, un crimen que sólo es una pieza de un rompecabezas mucho más grande y portentoso diseñado por Moriarty. Mezclando los negocios con el placer, las pistas conducen a Holmes a un club de caballeros donde él y su hermano, Mycroft Holmes brindan por la despedida de soltero del Dr. Watson."
+    },
+    {
+      "id": "tmdb:122191",
+      "type": "movie",
+      "name": "Holmes y Watson. Madrid Days",
+      "poster": "http://127.0.0.1:8888/t/p/w500/w4TJg8msU8qd3YFzvGXOPnZMsle.jpg",
+      "description": "Después de tener algunos sueños sobre un crimen con un patrón similar con los crímenes del Jack el Destripador, Sherlock Holmes y el Doctor Watson se trasladan a Madrid para investigar las muertes de algunas mujeres cometidas al estilo del Destripador. En España, Watson se reúne con un viejo amigo, el Dr. Delgado, que presenta a Holmes y Watson en la alta sociedad de la ciudad, conociendo gente importante como el compositor Isaac Albéniz, el escritor Benito Pérez Galdos o el joven periodista José (Josito) Alcántara, Sigue los asesinatos a través de sus reportajes para La Gaceta, un importante noticiero madrileño. Otras personas son la Duquesa de Lima, su sobrina Elena (un interés amoroso de Watson) y el Marqués de Simancas, empresario vinculado al Ministerio de Fomento para algunos proyectos de construcción en la ciudad. Hay una reunión entre el Inspector Válcarcel, Holmes, Watson y Alcántara con el fin de descubrir si Jack el Destripador es realmente el asesino."
+    },
+    {
+      "id": "tmdb:280996",
+      "type": "movie",
+      "name": "Mr. Holmes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/GfKw0BX9ZAcltcHeX7fc0rypSa.jpg",
+      "description": "En 1947, Holmes vive retirado en una remota granja de Sussex con un ama de llaves y el hijo de ésta. Cumplidos los 93 años, su memoria y su capacidad intelectual empiezan a deteriorarse. Su rutinaria vida se limita al cuidado de su colmena, a la escritura de su diario y a la lucha contra su pérdida de facultades. De repente, se le presenta un caso desconocido hasta el momento."
+    },
+    {
+      "id": "tmdb:426563",
+      "type": "movie",
+      "name": "Holmes y Watson",
+      "poster": "http://127.0.0.1:8888/t/p/w500/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg",
+      "description": "Ha habido un asesinato en el Palacio de Buckingham y, dentro de cuatro días, la Reina Victoria será la próxima víctima si nadie puede evitarlo. Por suerte para ella, Sherlock Holmes (Will Ferrell) y John Watson (John C. Reilly) se pondrán manos a la obra para frenar de una vez a James Moriarty e impedir que lleve a cabo su terrible plan. O al menos lo intentarán, porque esta no es una historia convencional de Sherlock Holmes. Esto es Holmes & Watson."
+    }
+  ]
 }
