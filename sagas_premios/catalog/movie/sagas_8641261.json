@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:277",
+      "type": "movie",
+      "name": "Underworld",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg",
+      "description": "Durante siglos, dos razas han ido evolucionando en las profundidades de la Tierra: los aristocráticos y sofisticados vampiros y los brutales hombres-lobo (Lycans), cuya existencia siempre había formado parte del mundo de los mitos y las leyendas. Estas razas nocturnas son enemigas mortales y están condenadas a vivir en perpetua guerra hasta que sólo una de ellas sobreviva. En medio de este conflicto ancestral, una Guerrera Vampiro, Selene, descubre una conspiración de los Lycan para secuestrar a Michael, un joven médico. Después de seguirlo por toda la ciudad, Selene entabla una insólita relación con él, y cuando los Lycans se deciden a atacar, se interpone entre ellos y el médico. Mientras intenta salvar a Michael, descubre un plan de los Lycans para crear nuevas criaturas que combinen los poderes de ambas razas y carezcan de sus debilidades. Este proyecto, de hacerse realidad, favorecería a los Hombres-lobo."
+    },
+    {
+      "id": "tmdb:834",
+      "type": "movie",
+      "name": "Underworld: Evolution",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hlUw0mNkMa4jnwhJHiS1880iGZx.jpg",
+      "description": "La lucha milenaria entre depredadores ha adoptado nuevas dimensiones de violencia. Ha nacido una nueva raza en nada comparable a ninguna otra conocida. Traicionada por los de su propio clan, la guerrera vampiro Selene (Kate Beckinsale), busca venganza. Para ello, decide descubrir la verdad sobre la identidad del primer Inmortal verdadero. No es Marcus, el rey de los vampiros como se creía, sino Alexander Corvinus, padre de Marcus y de su hermano gemelo William. Selene y el híbrido Michael (Scott Speedman), protagonistas de un amor prohibido, lucharán juntos contra el poderoso Marcus, quien está decidido a liberar a su hermano preso y usar la sed de sangre de éste para llegar a dominar el mundo."
+    },
+    {
+      "id": "tmdb:12437",
+      "type": "movie",
+      "name": "Underworld III. La rebelión de los licántropos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1FvRpx4ijCHpTO2IT7AoCjT0aoB.jpg",
+      "description": "Una enemistad a muerte de siglos estalla entre dos tribus inmortales en Underworld: La rebelión de los Licántropos. La tercera película de la saga épica de Underworld retrocede en el tiempo y cuenta el origen del conflicto entre los aristocráticos vampiros, conocidos como los “Death Dealers”, y los salvajes licántropos, una línea de feroces hombres lobos. Tercera entrega de la popular saga Underworld, centrada en el conflicto existente entre los vampiros y los hombres lobo."
+    },
+    {
+      "id": "tmdb:52520",
+      "type": "movie",
+      "name": "Underworld IV. El despertar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pkxle3iqeacvt3NC716YflfWxa2.jpg",
+      "description": "Quince años han pasado desde que Selene y su amante Michael, híbrido entre humano y licántropo, derrotaran al Vampiro Mayor Marcus en Underworld Evolution. En esos años la humanidad ha descubierto la existencia tanto del clan de los vampiros como del de los licántropos y se ha lanzado a una lucha encarnizada para erradicar ambas especies. Selene, capturada durante el genocidio, se despierta después de más de una década y se da cuenta de que se encuentra cautiva en un laboratorio herméticamente cerrado en Antigen, una poderosa corporación biotecnológica que se dedica a desarrollar la vacuna en contra de los virus que han creado a vampiros y licántropos. Selene se siente destrozada cuando descubre que Michael está muerto, pero su dolor es eclipsado por el descubrimiento de que mientras se hallaba en estado de criogenización ha dado a luz a la hija de ambos, Eve."
+    },
+    {
+      "id": "tmdb:346672",
+      "type": "movie",
+      "name": "Underworld V. Guerras de sangre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg",
+      "description": "Selene tendrá que luchar tanto con el clan de los Lycans como contra los vampiros que la traicionaron. Con David y su padre Thomas como sus únicos aliados, deberá detener la eterna guerra entre lycans y vampiros, aunque esto signifique que tenga que hacer el último sacrifcio."
+    }
+  ]
 }

@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:9349",
+      "type": "movie",
+      "name": "Soldado universal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/f0Z5q8HMksgmNkAtNEaY7h7c1lx.jpg",
+      "description": "Siguiendo un programa altamente secreto, el ejército está trabajando con cadáveres a los que transforma en soldados invencibles. Una pareja de reporteros se aproxima a la base en la que se realiza el experimento y toma fotografías del lugar."
+    },
+    {
+      "id": "tmdb:10366",
+      "type": "movie",
+      "name": "Soldado universal II. El retorno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg",
+      "description": "Seth, un poderoso guerrero controlado por ordenador, se quiere vengar de sus creadores asesinándolos. El único que puede detenerle es Luc Deveraux, un heroico soldado."
+    },
+    {
+      "id": "tmdb:28510",
+      "type": "movie",
+      "name": "Soldado universal III. Regeneración",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mS6nV0tWZTa8pqCfchomQw3ai42.jpg",
+      "description": "Un enloquecido nacionalista Checheno, Basayev, toma control de Chernobyl, lugar de la infame catástrofe nuclear, y amenaza con soltar una nube radiactiva a menos que sus demandas nacionalistas sean cumplidas. Luc Deveraux se une a un equipo estadounidense de UniSols revividos que permanecían guardados en secreto. Su misión: tomar Chernobyl y desactivar los explosivos que desatarían las nubes radiactivas. Luc se sorprende cuando se da cuenta de que uno de los UniSols es un clon de su antiguo Sargento, Andrew Scott. Pero el clonado Andrew no recuerda a Luc. Mientras que el equipo lucha furiosamente en su camino hacia la planta de Chernobyl, son sorprendidos con la guarda bajada. Usando un chip que puede controlar la mente, Basayev vuelve a Andrew contra sus camaradas. Ahora rodeado, herido y en desventaja, Luc debe luchar contra Andrew, y salvar el mundo."
+    },
+    {
+      "id": "tmdb:122857",
+      "type": "movie",
+      "name": "Soldado universal IV. El juicio final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qhK63SEjB9YVCKh42vJj2ANwXUt.jpg",
+      "description": "John despierta después de un coma para descubrir que su esposa y su hija pequeña, han asesinadas en un brutal asesinato en su propia casa. Atormentado por las imágenes del asesinato, jura matar al responsable de dicha matanza, Luc Deveraux . Mientras que John trata de reconstruir su propia realidad, las cosas empiezan a complicarse cuando empieza a ser perseguido por un UniSol de última generación llamado Magnus. Pero una vez se acerca a Deveraux y al ejército de soldados digidos por el \"resucitado\" Andrew Scott descubrirá que hay cosas que jamás habría imaginado sobre sí mismo y pondrá en duda su propia verdad."
+    },
+    {
+      "id": "tmdb:10704",
+      "type": "movie",
+      "name": "Soldado universal II. Hermanos de armas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sqq4GGsAuW8IxnENbGOJcgWqllq.jpg",
+      "description": "Luc Devereaux es reclutado contra su voluntad para una operación ultra-secreta del gobierno llamada Soldado Universal, liderada por el cruel Mentor. Para conseguir su libertad, Luc y una reportera deberán desenmascarar el objetivo secreto de Mentor, quien pretende crear el más avanzado ejército mercenario reciclando soldados muertos."
+    },
+    {
+      "id": "tmdb:27847",
+      "type": "movie",
+      "name": "Soldado universal III. Desafío final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8zRMkpdDPvuXsLaZ1eKUzK5HgeC.jpg",
+      "description": "Luc Devereaux y Veronica Roberts continúan expuestos a las unidades de soldados universales. En esta ocasión un clon del hermano de Devereaux, Eric, será fabricado para una única misión: perseguir hasta dar caza y destruir a Devereaux."
+    }
+  ]
 }

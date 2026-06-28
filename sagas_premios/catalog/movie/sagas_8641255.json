@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1995",
+      "type": "movie",
+      "name": "Lara Croft. Tomb Raider",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gIv9ur6A76vOcAmC6fZ3MsoLji4.jpg",
+      "description": "Explorar imperios perdidos, descubrir tesoros de incalculable valor, castigar a los malvados en combates a vida o muerte… todo forma parte de un día de trabajo para la aventurera Lara Croft. Pero un secreto del pasado de su padre va a llevar a Lara a su desafío más grande: el Triángulo de la Luz, un legendario artefacto con el poder de alterar el espacio y el tiempo. Lara ha de encontrar el Triángulo antes de que caiga en poder de los Illuminati, una sociedad secreta dispuesta a dominar el mundo. Para detener a los Illumitati, Lara ha de sobrevivir a una auténtica cacería a través del planeta, repleta de inimaginables peligros."
+    },
+    {
+      "id": "tmdb:1996",
+      "type": "movie",
+      "name": "Lara Croft. Tomb Raider II. La cuna de la vida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lMZRhXuZyNEpohTui1VpSsmsq63.jpg",
+      "description": "Enfrentándose a nuevos y mayores peligros y desafíos, Lara Croft muestra sus poderes físicos en otra trepidante aventura. La intrépida heroína viajará a un templo sumergido bajo el agua en busca de la legendaria \"Caja de Pandora\", pero antes de que llegue, un banda de criminales chinos, liderados por Chen Lo, consigue apoderarse del preciado objeto. Lara tendrá que detenerlos antes de que lo usen con fines maléficos."
+    },
+    {
+      "id": "tmdb:338970",
+      "type": "movie",
+      "name": "Tomb Raider",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1GK1Qyt5SZeRCimVfqG0Wcynth0.jpg",
+      "description": "Tras la desaparición de su padre, Lara vive una vida imprudente y despreocupada. Cuando la policía la arresta después de provocar un accidente de tráfico,  Ana Miller, la socia de negocios de su progenitor, deposita su fianza y le advierte que si no reclama la herencia de éste,  se liquidarán todos sus bienes."
+    }
+  ]
 }

@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:7451",
+      "type": "movie",
+      "name": "xXx",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gd4hRY3pFXRY7YVbMdVBpnKV7wC.jpg",
+      "description": "Xander Cage es XXX, un antiguo ganador de X-Games y atleta profesional de deportes de extremo, que sobrevive vendiendo videos de sus increíbles hazañas, las cuales hacen emitir adrenalina por todo el cuerpo. Pero después de incontables encuentros con la ley, su mundo está a punto de tomar un rumbo aún más extremo... Porque Xander no sabe que ha sido \"espiado\" por Augustus Gibbons, un agente veterano de la Agencia Nacional de Seguridad que se encuentra en una desesperada situación en la distante ciudad de Praga, en donde su operativo secreto ha sido asesinado por una pandilla de mafiosos con un estilo muy propio, que se llaman así mismos Anarchy 99, encabezados por el brutal ex-Comandante del Ejército Ruso Yorgi."
+    },
+    {
+      "id": "tmdb:11679",
+      "type": "movie",
+      "name": "xXx II. Estado de emergencia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/A72pDnqEmW9P2NsNL9n50MZk3zk.jpg",
+      "description": "Augustus Gibbons es un miembro de la Agencia de Seguridad Nacional norteamericana. Tras librarse de un ataque mortal protagonizado por unos desconocidos, Gibbons sospecha que los asesinos han sido enviados por una facción secreta y radical que actúa desde dentro de la Casa Blanca. Busca entonces a un militar experto y bien entrenado que le ayude a desenmascarar al grupo radical que se esconde tras el Gobierno. Desgraciadamente, Darius Stone, el hombre más idóneo para este trabajo, está en prisión. Sin embargo, Gibbons le ayuda a fugarse y lo convence para que colabore con él como el agente xXx."
+    },
+    {
+      "id": "tmdb:47971",
+      "type": "movie",
+      "name": "xXx: Reactivated",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rc830XBY2h8HBtHeISpR9qb2PU6.jpg",
+      "description": "Xander Cage a.k.a. xXx (Triple X) es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de Estados Unidos. Entonces se ve obligado a colaborar como agente encubierto participando en numerosos episodios de riesgo. Tras un fatídico incidente, Xander es dado por muerto. Pero ahora, vuelve a la acción de incógnita acompañado de su agente instructor Augustus Gibbons."
+    }
+  ]
 }

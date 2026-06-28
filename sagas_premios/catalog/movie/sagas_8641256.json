@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:1283",
+      "type": "movie",
+      "name": "Torrente. El brazo tonto de la ley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bYAqKRiDVL0f38AoUKpDI32oY5r.jpg",
+      "description": "Torrente es un policía español, fascista, machista, racista, alcohólico y del Atleti. Tiene un vecino llamado Rafi, al que le gustan las películas de acción y las pistolas, y que vive con su madre y su prima Amparito, una ninfómana. Juntos, Torrente y Rafi, patrullarán por la noche las calles de la ciudad."
+    },
+    {
+      "id": "tmdb:1284",
+      "type": "movie",
+      "name": "Torrente 2: Misión en Marbella",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pAXIn7wFa6140zi6LzYMD6Rt8CD.jpg",
+      "description": "Torrente decide instalarse en plena Costa del sol, en el ayuntamiento de Marbella, y trabajar como investigador privado. Allí, cuenta con la ayuda de Cuco, que colabora con él a tiempo parcial. La misión de Cuco consiste en desenmascarar a Spinelli, un peligroso traficante de armas que amenaza con destruir la ciudad si no le pagan 2.000 millones de pesetas."
+    },
+    {
+      "id": "tmdb:1285",
+      "type": "movie",
+      "name": "Torrente III. El protector",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wDPujLAIQTfUCkrS21l8FXGXb5E.jpg",
+      "description": "Una popular eurodiputada, Giannina Ricci, llega de visita a España. Su objetivo, a través de un detallado informe que desvela las ilegalidades e irregularidades de la multinacional Petronosa, es cerrar las factorías de dicha empresa, que atentan contra el medio ambiente. El más alto directivo de la compañía soborna a dos mandos de los cuerpos de seguridad encargados de proteger a la señorita Ricci, para que faciliten el atentado que planea contra la eurodiputada. No se les ocurre nada mejor que encargar la protección durante la estancia en España de la diputada a Jose Luis Torrente, con probabilidad, uno de los individuos más anormales de la tierra. Por si fuera poco, le dejan elegir y entrenar los que conformarán el cuerpo de élite que le ayude con la protección. Una panda de seres más aberrantes que el propio Torrente si cabe. Se masca la tragedia."
+    },
+    {
+      "id": "tmdb:59117",
+      "type": "movie",
+      "name": "Torrente 4: Lethal crisis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ye6vXu1Ts4lo8gPlKUBRESvdgic.jpg",
+      "description": "Cuarta entrega de las aventuras del casposo policía José Luis Torrente. En esta ocasión encontramos a nuestro (anti)héroe en una situación delicada. Tras varios intentos fallidos de llevar una vida digna (como si eso fuese posible), decide aceptar un peligroso encargo que le hace un viejo conocido."
+    },
+    {
+      "id": "tmdb:254869",
+      "type": "movie",
+      "name": "Torrente V. Operación Eurovegas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xfdrLVB61b0ALAjxFwtbmlv1GT4.jpg",
+      "description": "Año 2018. Torrente sale de la cárcel, y se encuentra aturdido ante una España convulsa y dividida. Debe encontrar respuestas en su interior para despejar su confusión, y por ello decide convertirse en un \"fuera de la ley\". Así que se propone atracar un casino con una banda de incompetentes. A través de un contacto de su estancia en prisión, localiza a John Marshall, la persona que se ocupó de supervisar la seguridad cuando se planificó el principal casino-hotel de Eurovegas. Marshall, el más indicado para planificar un golpe, le explica la necesidad de organizar una banda de especialistas, que Torrente se encargará de reclutar entre sus \"contactos\"."
+    },
+    {
+      "id": "tmdb:1217584",
+      "type": "movie",
+      "name": "Torrente VI. Torrente presidente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2wyiEiOS8gYyslveyYwlCKB9XYt.jpg",
+      "description": "José Luis Torrente es reclutado por el partido Nox para ser su candidato, aprovechando su discurso incorrecto y la popularidad entre los sectores más reaccionarios."
+    }
+  ]
 }

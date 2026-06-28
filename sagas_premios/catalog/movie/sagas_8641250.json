@@ -1,3 +1,144 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:76951",
+      "type": "movie",
+      "name": "Tarzán de los monos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jj7Jjd4Q4LaKXmhmprxumesSLbn.jpg",
+      "description": "Una hembra simula criar al niño huérfano (Tarzán) y lo cría en el transcurso de muchos años hasta que finalmente se lanza una misión de rescate y la partida de búsqueda peina la jungla por el desaparecido Lord Greystoke. Pero luego, uno de los miembros de la búsqueda, Jane Porter, se separa del grupo y se encuentra cara a cara con temibles animales salvajes. Tarzán la salva del daño justo a tiempo y el amor comienza a florecer."
+    },
+    {
+      "id": "tmdb:26845",
+      "type": "movie",
+      "name": "Tarzán de los monos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dTDKAtxro9Ff6gJysBiDvN1gbnf.jpg",
+      "description": "James Parker y Harry Holt organizan una expedición a África para hallar un cementerio de elefantes que les proporcione el suficiente marfil para hacerse ricos. La bella hija de Parker, Jane, se une a ellos de forma inesperada y despierta una atracción inmediata en Harry. Pero un hombre mono llamado Tarzán y sus amigos simios secuestran a la chica."
+    },
+    {
+      "id": "tmdb:18994",
+      "type": "movie",
+      "name": "Tarzán y su compañera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oeDsg1TW3p7TxHj47uaYnSzUgKM.jpg",
+      "description": "Harry Holt, un antiguo novio de Jane, se encuentra en África formando parte de una expedición que busca marfil en el mítico cementerio de los elefantes. Él y su amigo Marlin Arlington esperan convencer a Jane para que vuelva con ellos a Londres. Pero Tarzán desaprueba su proyecto de saquear el cementerio."
+    },
+    {
+      "id": "tmdb:38661",
+      "type": "movie",
+      "name": "La fuga de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ihGz60kAxP5dApU1TdCUQ6DOdJc.jpg",
+      "description": "El capitán Fry, un famoso cazador blanco, quiere capturar a Tarzán para exhibirlo enjaulado como un animal por todo el mundo. Llega a la selva para cumplir su propósito junto con los primos de Jane, Eric y Rita..."
+    },
+    {
+      "id": "tmdb:40044",
+      "type": "movie",
+      "name": "Tarzán y su hijo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bOrE0eplKO4qntaf1gsT2cl1u12.jpg",
+      "description": "Un avión se estrella en medio de la jungla y el único superviviente es un niño pequeño. Tarzán y Jane lo encuentran y lo acogen como un hijo. Años después, una expedición organizada por la familia del chico se adentra en la jungla intentando encontrar al pequeño."
+    },
+    {
+      "id": "tmdb:40214",
+      "type": "movie",
+      "name": "El tesoro de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4BBUlf3Nf5R4KUM2CsHebiQfcx7.jpg",
+      "description": "Una expedición científica descubre oro en el territorio de Tarzán. Los malvados Medford y Vandermeer secuestran a Jane y a Boy para conseguir que el rey de la selva les indique el emplazamiento exacto del dorado metal..."
+    },
+    {
+      "id": "tmdb:40045",
+      "type": "movie",
+      "name": "Tarzán en Nueva York",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8q4oeM6MrMuoAqEKSkhikGgmQcY.jpg",
+      "description": "Boy, el hijo de Tarzán y Jane, que cree que sus padres han muerto, es raptado por unos hombres que quieren llevarlo a los Estados Unidos para que actúe en un espectáculo con un elefante. Sus padres no dudarán en viajar a la \"Gran Manzana\" para rescatar a su hijo. Una de las más populares películas del mítico Tarzán, que cambia esta vez la jungla africana por la selva de cemento neoyorquina."
+    },
+    {
+      "id": "tmdb:55860",
+      "type": "movie",
+      "name": "El triunfo de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zhTMSPD0p0wP1clBSxBofPSpDaQ.jpg",
+      "description": "Poco después de la partida de Jane Parker hacia Inglaterra, Tarzán y su hijo Boy reciben la petición de ayuda de Zandra, hija del rey de la ciudad perdida de Palandria, cuyo pueblo acaba de ser invadido y esclavizado por tropas nazis. Sin embargo, Tarzán decide permanecer al margen y se limita a \"confiscar\" una radio portátil de los alemanes. Pero cuando un destacamento de soldados al mando del coronel nazi Von Reichart, buscando la radio, secuestra a Boy, Tarzán decide romper su aislamiento y combatir al III Reich, que amenaza expandirse por su selva."
+    },
+    {
+      "id": "tmdb:55871",
+      "type": "movie",
+      "name": "Tarzán en el desierto misterioso",
+      "poster": "http://127.0.0.1:8888/t/p/w500/in0H0V4gttrjsttb8NT0w70HS0T.jpg",
+      "description": "Tarzán recibe una carta de Jane, quien está en Europa trabajando como enfermera durante la contienda mundial. Ésta le pide una planta medicinal que sólo existe en un misterioso oasis, y el hombre de la selva se dirige hacia allí en compañía de Boy y Cheetah. Por el camino se les unirá una hermosa artista de circo, quien en realidad es una espía que desea ayudar a combatir a un desalmado que se ha hecho con el poder de una ciudad."
+    },
+    {
+      "id": "tmdb:55872",
+      "type": "movie",
+      "name": "Tarzán y las amazonas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ubuXq82CnAnvaOkjZHddMo5GU50.jpg",
+      "description": "Un grupo de arqueólogos piede ayuda a Tarzán para encontrar un antigua ciudad oculta en un valle habitado por amazonas... Una nueva adaptación al cine del famoso personaje de Edgar Rice Burroughs que contó con dos importantes cambios: el personaje de Jane ya no estuvo interpretado por la dulce Maureen O'Sullivan (pareja habitual de Johnny Weissmuller en todas sus versiones anteriores), sino por Brenda Joyce, y la productora, que en todas las películas de tarzán anteriores había sido la MGM, fue en esta ocasión la RKO Radio Pictures."
+    },
+    {
+      "id": "tmdb:55873",
+      "type": "movie",
+      "name": "Tarzán y la mujer leopardo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sh8fREVpeqy9HJIlf8GdTR9WvP7.jpg",
+      "description": "Una tribu africana dedicada a la adoración del leopardo, ataca a una caravana y luego captura a Jane y a Boy."
+    },
+    {
+      "id": "tmdb:82053",
+      "type": "movie",
+      "name": "Tarzán y la cazadora",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9Kdpd0R17wnE2Yf57O7kGEdXScX.jpg",
+      "description": "Tarzán y su familia acuden a Taronga con regalos para el rey Farrod, quien celebra su cumpleaños. Mientras tanto, llegan Tanya Rowlins, Paul Weir y Karl Morley con la intención de capturar animales salvajes para venderlos a varios zoológicos."
+    },
+    {
+      "id": "tmdb:70136",
+      "type": "movie",
+      "name": "Tarzán y las sirenas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aZocj7bHafXZwwRJo2qxItvgz1P.jpg",
+      "description": "La última ocasión en la que Weissmuller ofrece su grito de guerra en su papel de hombre-mono. Pero no antes de cumplir la misión de rescatar a una bella sirena que es forzada a contraer matrimonio con un impostor que se hace pasar por el Dios Balu. Tarzán incluso llega a estar atrapado por un pulpo gigante cuando trata de llevar la calma a una comunidad de buscadores de perlas."
+    },
+    {
+      "id": "tmdb:76088",
+      "type": "movie",
+      "name": "Tarzán en peligro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jU3oP47JD2qGCzxL3YtUlkB7umA.jpg",
+      "description": "Un grupo de convictos prófugos están vendiendo armas a una tribu guerrera africana. En su camino se interpondrá Tarzán. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:43205",
+      "type": "movie",
+      "name": "La gran aventura de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tM7ClyaZaFSXFytfMt5eYNzScBR.jpg",
+      "description": "Tarzán debe luchar con un grupo de despiadados aventureros británicos dispuestos a todo para hallar una mina de diamantes en la selva. Después de descubrir que esos hombres han matado a unos nativos, el hombre mono está dispuesto a acabar con ellos. Penúltima película de Gordon Scott en el papel de Tarzán."
+    },
+    {
+      "id": "tmdb:76082",
+      "type": "movie",
+      "name": "Tarzán en la India",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kw3ISWZT6QLkWXhbK9v6W46tdOE.jpg",
+      "description": ""
+    },
+    {
+      "id": "tmdb:26325",
+      "type": "movie",
+      "name": "Tarzán. El hombre mono",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nYoH03aBoyi4Bp0VXodrsc4JI6O.jpg",
+      "description": "Jane, una inglesa que llega a África en busca de su padre, encuentra en la selva a un hombre que ha crecido criado por los simios: Tarzán. El Rey de los Monos la defenderá del ataque de un león, de una serpiente pitón y, además, la rescatará de una primitiva tribu que la había secuestrado. Ella comenzará a sentir una fuerte atracción por Tarzán."
+    },
+    {
+      "id": "tmdb:11002",
+      "type": "movie",
+      "name": "Greystoke. La leyenda de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wuBltPy6z3XQnannxX1qryy7in.jpg",
+      "description": "El heredero de la familia Greystoke, John Clayton, huérfano a los pocos meses de nacer, es adoptado por una tribu de simios, entre los que vive durante años. Descubierto por el Capitán D’Arnot, el joven Tarzán es llevado a Inglaterra, presentado a su familia y educado de acuerdo con su rango."
+    },
+    {
+      "id": "tmdb:38618",
+      "type": "movie",
+      "name": "Tarzán y la ciudad perdida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1uejA0NRoQYfYgwn6orZ45SUI8G.jpg",
+      "description": "Establecido en la sociedad británica, y en vísperas de su boda con su novia Jane, Tarzán tiene una visión de la destrucción del hogar de su infancia. Aunque duda entre quedarse en Inglaterra con Jane o volver a África, Tarzán regresa a la mítica ciudad de Opar, donde se enfrenta a un grupo de mercenarios que quiere saquear el lugar."
+    },
+    {
+      "id": "tmdb:258489",
+      "type": "movie",
+      "name": "La leyenda de Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zzsryqYKz60Hn73AiZqbJGgAbMk.jpg",
+      "description": "Ya hace años que Tarzán (Alexander Skarsgård) abandonó la jungla africana para llevar una vida aburguesada como John Clayton III, Lord Greystoke, junto a su esposa Jane (Margot Robbie). Pero un día le ofrecen el cargo de embajador en el Congo. En realidad, todo forma parte de un plan ideado por un capitán belga (Christoph Waltz), aunque los responsables de llevarlo a cabo no están preparados para ello."
+    }
+  ]
 }

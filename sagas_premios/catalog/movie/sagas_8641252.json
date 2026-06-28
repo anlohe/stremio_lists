@@ -1,3 +1,452 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:15856",
+      "type": "movie",
+      "name": "La mansión de los horrores",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1kyOzlZBqbxWP1uA3y9kpEPuh13.jpg",
+      "description": "Un excéntrico millonario invita a cinco personas a su mansión, donde se dice que se han cometido crímenes en el pasado. Les ofrece 10.000 dólares si pasan allí una noche entera, incomunicados, hasta que vuelvan los criados. Los invitados no se conocen entre sí ni tampoco al anfitrión, pero necesitan dinero. Así, los cinco extraños, el dueño y su esposa permanecen en la casa, en la que comienzan a ocurrir sucesos extraños."
+    },
+    {
+      "id": "tmdb:539",
+      "type": "movie",
+      "name": "Psicosis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+      "description": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas."
+    },
+    {
+      "id": "tmdb:28177",
+      "type": "movie",
+      "name": "2000 Maníacos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9rFT4uttXBZ1oRNx7KPKIV2akhB.jpg",
+      "description": "En un desvío de una carretera estatal, dos lugareños colocan un cartel de desvío para que un par de coches no sigan su camino y cambien de rumbo. La carretera que los viajeros toman les conduce a Pleasant Valley, un pequeño pueblo sureño que recibe con los brazos abiertos a los seis desafortunados viajeros, a los que nombran invitados de honor de las fiestas conmemorativas del centenario del pueblo. Agasajados con alojamiento y comida gratuitas, deciden aceptar la oferta del alcalde y quedarse en el pueblo. Pero pronto comienzan las suspicacias, y algunos de los viajeros empiezan a pensar que la gente del pueblo les oculta algún secreto."
+    },
+    {
+      "id": "tmdb:805",
+      "type": "movie",
+      "name": "La semilla del diablo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg",
+      "description": "Una joven pareja, Rosemary y Guy, se muda a un infame edificio de apartamentos de Nueva York, conocido por aterradoras leyendas y misteriosos sucesos, con el propósito de formar una familia."
+    },
+    {
+      "id": "tmdb:10331",
+      "type": "movie",
+      "name": "La noche de los muertos vivientes",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5cjDlHqfb6CJV9gUcAcSp7jlEs4.jpg",
+      "description": "Las radiaciones procedentes de un satélite provocan un fenómeno terrorífico: los muertos salen de sus tumbas y atacan a los hombres para alimentarse. La acción comienza en un cementerio de Pennsylvania, donde Barbara, después de ser atacada por un muerto viviente, huye hacia una granja. Allí también se ha refugiado Ben. Ambos construirán barricadas para defenderse de una multitud de despiadados zombies que sólo pueden ser vencidos con un golpe en la cabeza."
+    },
+    {
+      "id": "tmdb:16307",
+      "type": "movie",
+      "name": "El hombre de mimbre",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qeNitlsX0CMxj4of9UM9cVuvUIN.jpg",
+      "description": "Una carta que hace sospechar que una joven desaparecida ha sido asesinada lleva al sargento Howie de Scotland Yard hasta Summerisle, una isla en la costa de Inglaterra. Allí el inspector se entera de que hay una especie de culto pagano, y conoce a Lord Summerisle, el líder religioso de la isla."
+    },
+    {
+      "id": "tmdb:9552",
+      "type": "movie",
+      "name": "El exorcista",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg",
+      "description": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo."
+    },
+    {
+      "id": "tmdb:30497",
+      "type": "movie",
+      "name": "La matanza de Texas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fOqMcW2TYN0WReTDpds93rkAYpR.jpg",
+      "description": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida."
+    },
+    {
+      "id": "tmdb:794",
+      "type": "movie",
+      "name": "La profecía",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iWyb6PKnl7lp0ytK8ZG7vJloGxc.jpg",
+      "description": "Cuando Kathy Thorn da a luz a un bebé muerto, su esposo Robert le oculta la verdad y sustituye a su hijo por un niño huérfano, ignorando su origen satánico. El horror empieza cuando, en el quinto cumpleaños de Damien, inesperadamente, su niñera se suicida. Un sacerdote que trata de advertir a Robert del peligro que corre, muere en un inesperado accidente. El creciente número de muertes hace que Robert, por fin, se dé cuenta de que el niño que han adoptado es el Anticristo, y que hay que matarlo para impedir que se cumpla una terrible profecía."
+    },
+    {
+      "id": "tmdb:12262",
+      "type": "movie",
+      "name": "Las colinas tienen ojos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/44S7HItmXezSUHWdlYDQhE892bV.jpg",
+      "description": "Camino de California, una típica família de clase media norteamericana sufre una avería en medio del desierto. A partir de ese momento, el viaje se tornará un calvario para ellos, intentando sobrevivir a una siniestra familia de caníbales... (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:948",
+      "type": "movie",
+      "name": "La noche de Halloween",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
+      "description": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista."
+    },
+    {
+      "id": "tmdb:9638",
+      "type": "movie",
+      "name": "Phantasma",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3cV302yuv4Dr3p4Nm566CtbhINc.jpg",
+      "description": "Mike, un joven que acaba de perder a sus padres, observa a su hermano Jody mientras éste asiste al entierro de su mejor amigo. Mike ha seguido a su hermano sin que él lo sepa, obsesionado con la idea de que, tras el funeral, abandone la ciudad para siempre. A la salida del cementerio, Mike es testigo de una escena muy extraña: un hombre alto alza el féretro, lo introduce en un coche fúnebre y desaparece. Mike describe la escena a su hermano, quién lo toma por loco. Molesto por la incredulidad de Jody, Mike vuelve al cementerio de Morningside al anochecer, infiltrándose en la morgue donde además de descubrir una serie de extrañas criaturas espectrales, se hace con una poderosa esfera de plata que pertenece al misterioso hombre alto."
+    },
+    {
+      "id": "tmdb:11449",
+      "type": "movie",
+      "name": "Terror en Amityville",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kwjfJYfDKCu2qXnmey7yEMYzXfI.jpg",
+      "description": "Una familia americana se instala en una mansión sin saber que allí, unos años antes, tuvo lugar una sangrienta tragedia. Sin embargo, pronto detectan la presencia de unos seres maléficos. Horrorizados e impotentes ante tal situación, acaban buscando la ayuda de un peculiar exorcista."
+    },
+    {
+      "id": "tmdb:4488",
+      "type": "movie",
+      "name": "Viernes 13",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg",
+      "description": "Varios jóvenes pasan sus vacaciones en un campamento de verano, reabierto recientemente, y en el que unos años antes murió un joven ahogado en el lago. En poco tiempo, algunos de ellos son encontrados sin vida."
+    },
+    {
+      "id": "tmdb:11298",
+      "type": "movie",
+      "name": "Aullidos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kQNKyEjUZrNk2HeIDU5XpmEePa1.jpg",
+      "description": "Karen, una popular presentadora de televisión de Los Ángeles, sufre una crisis nerviosa al estar a punto de ser asaltada por un violador. Para superar el trauma sigue el consejo de un psicólogo que le recomienda retirarse a descansar al campo. Viaja entonces a la costa norte de California, y allí su marido sufre un cambio de personalidad al ser atacado por un extraño animal, mitad hombre, mitad lobo."
+    },
+    {
+      "id": "tmdb:764",
+      "type": "movie",
+      "name": "Posesión infernal",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vgQDogdqPrSk2zRdy2JESq2LGvy.jpg",
+      "description": "Cinco chicos van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo."
+    },
+    {
+      "id": "tmdb:609",
+      "type": "movie",
+      "name": "Poltergeist. Fenómenos extraños",
+      "poster": "http://127.0.0.1:8888/t/p/w500/b6JcwPnultjlXSVDGJhtPSAZSEY.jpg",
+      "description": "Una familia americana de clase media se traslada a vivir e una nueva casa en un aparentemente idílico barrio, pero dentro de la casa comienzan a suceder cosas extrañas, fenómenos paranormales para los que no hay explicación posible."
+    },
+    {
+      "id": "tmdb:16281",
+      "type": "movie",
+      "name": "Creepshow",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5ELCQTrBI2KdbgMiJUwWAT1VauY.jpg",
+      "description": "Cinco historias de terror creadas por Stephen King, enmarcadas dentro de las páginas de un cómic que un insensible padre le ha tirado a su hijo a la basura."
+    },
+    {
+      "id": "tmdb:10823",
+      "type": "movie",
+      "name": "Los chicos del maíz",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8lFJtTAFxn0eCpQPNYEll2opv0K.jpg",
+      "description": "Una joven pareja que viaja por el medio oeste estadounidense se pierde y llega a una pequeña ciudad en la que todos los adultos han sido asesinados por los niños del lugar, a su vez poseídos por una malévola fuerza surgida de los campos de maíz que alcanzan hasta donde llega la vista."
+    },
+    {
+      "id": "tmdb:927",
+      "type": "movie",
+      "name": "Gremlins",
+      "poster": "http://127.0.0.1:8888/t/p/w500/73Lf0JYHyWyZQGu04wvzzM3hh0l.jpg",
+      "description": "Rand es un viajante que un día regala a su hijo Billy una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del Sol."
+    },
+    {
+      "id": "tmdb:377",
+      "type": "movie",
+      "name": "Pesadilla en Elm Street",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qDmeYxsfNA68Bn7aW8HSkAuVmWf.jpg",
+      "description": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños."
+    },
+    {
+      "id": "tmdb:1694",
+      "type": "movie",
+      "name": "Re-Animator",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zUwzx9mKVugyjYyTNzKhBscscT3.jpg",
+      "description": "Herbert West estudia en Europa métodos regenerativos junto a un conocido científico, que muere en extrañas circunstancias. Herbert viaja a EEUU, donde se matricula en la Miskatonic University. Allí continúa con sus experimentos, que tienen la intención de alcanzar la fórmula que permita reanimar los muertos. Su compañero de piso Dan y la novia de éste, Megan, se verán envueltos en el macabro proyecto."
+    },
+    {
+      "id": "tmdb:9542",
+      "type": "movie",
+      "name": "Carretera al Infierno",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kAoHTN3GXHt5kKIjVVzCwxFC0eU.jpg",
+      "description": "Una noche de tormenta, el joven Jim, que transporta un coche de lujo desde Chicago a California para entregárselo a su dueño, sintiéndose cansado y somnoliento, recoge a un misterioso autoestopista aparecido de la nada, pensando que una buena conversación le ayudará a no quedarse dormido. Jim tendrá tiempo suficiente para lamentar profundamente haber tomado una decisión tan precipitada."
+    },
+    {
+      "id": "tmdb:3980",
+      "type": "movie",
+      "name": "Critters",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3MlSXoMpKFi7moXHvAgCAHAT1Wd.jpg",
+      "description": "Ocho alienígenas hambrientos llegan a la Tierra buscando alimento. En su camino se encuentran con la familia Brown que, sin saberlo, se convierte en el plato principal de su menú. Sin embargo, los Brown contarán con la ayuda inesperada de una pareja de cazadores intergalácticos... Inspirada en \"Gremlins\", filme de bichos peligrosos que gozó de considerable apoyo entre los fanáticos del género, conociendo hasta 3 secuelas."
+    },
+    {
+      "id": "tmdb:9003",
+      "type": "movie",
+      "name": "Hellraiser",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lfE0u0Th1thZ4slkEtIgvreauh4.jpg",
+      "description": "Frank Cotton tiene en su poder un enigmático cubo dotado de poderes extraordinarios. Según antiguas leyendas, es una especie de puerta a seres de otra dimensión que pueden proporcionar placeres sensuales inimaginables. Cotton convoca a estas criaturas, pero sólo le inflingirán tormentos y dolor hasta acabar con él. 20 años después, dos nuevos inquilinos se instalan en la antigua casa de Frank: su hermano y su esposa. La aparición del espíritu de Frank es el principio de una vorágine de horror en estado puro."
+    },
+    {
+      "id": "tmdb:10585",
+      "type": "movie",
+      "name": "Muñeco diabólico",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg",
+      "description": "El vudú y el terror se apoderan de un muñeco de aspecto inocente habitado por el alma de un asesino en serie. Cuando Andy Barclay, un niño de seis años de edad, asegura que “Chucky”, su nuevo muñeco, ha arrojado violentamente por la ventana a su niñera, nadie le cree. Pero una larga serie de horribles asesinatos conduce al detective que se ocupa del caso hasta el muñeco y, entonces, descubre que el auténtico terror no ha hecho más que empezar. El malvado muñeco pretende transferir su diabólico espíritu a un ser humano, y el pequeño Andy parece ser el candidato perfecto."
+    },
+    {
+      "id": "tmdb:8913",
+      "type": "movie",
+      "name": "Cementerio viviente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rjL6WhvdnaEqwMfM3Crscjs0nNP.jpg",
+      "description": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis ldecide enterrarlo en el cementerio indio."
+    },
+    {
+      "id": "tmdb:26953",
+      "type": "movie",
+      "name": "Puppet Master",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fBLLSGEvo2FQhCJnClbW8AmKpP2.jpg",
+      "description": "André Toulon es un titiritero y el mejor en su tipo. Un día descubre una antiquísima formula egipcia para que los muertos regresen a la vida. Decide utilizarla en sus títeres, que no tardan en convertirse en unas pequeñas bestias asesinas. Al salirse de su control, desesperado, el titiritero comete suicidio. Años más tarde, cuatro psíquicos son enviados a investigar acerca de Toulon y sus demoníacas invenciones para destruirlas. Sin embargo, los títeres harán todo por detenerlos."
+    },
+    {
+      "id": "tmdb:9362",
+      "type": "movie",
+      "name": "Temblores",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg",
+      "description": "En Perfección, un pequeño pueblo al borde del desierto de Nevada, algo parece suceder debajo de la tierra. Cuando las líneas telefónicas y las carreteras quedan cortadas, los habitantes comienzan a sentir pánico, pues todo parece indicar que hay algo vivo y terrorífico bajo las arenas del desierto."
+    },
+    {
+      "id": "tmdb:40649",
+      "type": "movie",
+      "name": "Demonic Toys",
+      "poster": "http://127.0.0.1:8888/t/p/w500/stFIfuvl3pWgPeAiYKVy7dlg73X.jpg",
+      "description": "Un demonio posee a los juguetes de un depósito y los envía en la búsqueda del alma del aún no nacido bebé de una mujer."
+    },
+    {
+      "id": "tmdb:9529",
+      "type": "movie",
+      "name": "Candyman. El dominio de la mente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mtsYyv3s7x8xwOxNB4e2a7Ecz58.jpg",
+      "description": "En la Universidad de Chicago la estudiante graduada Helen Lyle se da cuenta de la superstición prevaleciente que rodea la leyenda de Candyman (un fantasma con un gancho en vez de mano que aparecerá si su nombre se dice cinco veces en un espejo) entre los arrendatarios del Cabrini del proyecto Verde de Chicago. El profesor, oyendo hablar de la investigación de Helen, explica la base histórica para la leyenda y detalla cómo se cree que Candyman es el espíritu vengativo de un esclavo que fue mutilado por una chusma enloquecida cuando se lo acusó de violar a una mujer blanca. Cuando Helen prueba su confianza intelectual recitando el nombre de Candyman cinco veces, ella pone en movimiento una serie inevitable de eventos sobrenaturales, culminando en una serie de matanzas espantosas en las que Helen sostiene el arma del asesinato. Aunque ella es capturada por la policía, se pone en evidencia para Helen que Candyman está guiando su destino."
+    },
+    {
+      "id": "tmdb:11811",
+      "type": "movie",
+      "name": "Leprechaun. La noche del duende",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xDyz1WweBvod5V0KC4BBLO0vlfS.jpg",
+      "description": "Dan O'Grady vuelve de Irlanda con una bolsa de oro y le explica a su mujer que se la ha robado a un duende. Ella no se lo cree, pero al abrir una de las maletas, sale de ella el duende y la tira por las escaleras. El duende es capaz de imitar las voces de otras personas, pero O'Grady tiene un trebol de cuatro hojas con el cual puede dominarlo y lo encierra en una caja en el sótano de la casa. Al cabo del tiempo otras personas sin querer desatan de su carcel al maldito duende ansioso de venganza y de recuperar su deseado oro."
+    },
+    {
+      "id": "tmdb:9348",
+      "type": "movie",
+      "name": "Species",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5Lg9kkaKc53vZd1tqiuc2lmf0bp.jpg",
+      "description": "Cuando una bella hembra resultante del cruce de un ser humano y un alienígena se escapa de un laboratorio de observación, el científico Javier Fich envía a un asesino del gobierno, a un psíquiatra, a una bióloga y a un antropólogo en su búsqueda. Mientras siguen su pista por Los Ángeles, el equipo descubre cuál es su plan; aparearse con hombres para producir crías que puedan destruir a la raza humana. Mientras su mortal reloj biológico avanza con rapidez, Fitch y su equipo se lanzan a una inquietante persecución de la que depende el destino de la humanidad."
+    },
+    {
+      "id": "tmdb:11980",
+      "type": "movie",
+      "name": "Ángeles y demonios",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1Z56MonpplOTKur2KTz371RQrjr.jpg",
+      "description": "Cuando Thomas Dagget, un joven a punto de convertirse en sacerdote, se ve acosado por desconcertantes y horribles visiones, abandona la iglesia antes de ser ordenado. Años más tarde, trabajando como detective de homicidios, se le asigna un oscuro caso de asesinato en el que aparecen pistas de carácter religioso. La autopsia del cuerpo de la víctima revela su naturaleza no terrenal."
+    },
+    {
+      "id": "tmdb:755",
+      "type": "movie",
+      "name": "Abierto hasta el amanecer",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4hPWRrWGFD6WuuzihqDbYMS51pc.jpg",
+      "description": "Los hermanos Gecko, Seth y Richard, dos peligrosos criminales, se dirigen a la frontera de México escapando de la policia. En su huida utilizarán la caravana de la familia Fuller, tomando al pastor Jacob y a sus dos hijos como rehenes. Los cinco viajeros,llegan hasta el Titty Twister, un siniestro local donde espera el contacto de los hemanos Gecko."
+    },
+    {
+      "id": "tmdb:4232",
+      "type": "movie",
+      "name": "Screa. Vigila quién llama",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pO39MWOrEmJYthKyWT79BYCVRrO.jpg",
+      "description": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija."
+    },
+    {
+      "id": "tmdb:10351",
+      "type": "movie",
+      "name": "Wishmaster",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg",
+      "description": "Hace tiempo, cuando Dios creó los cielos y la Tierra, también creó un lugar lleno de criaturas demoníacas a las que llamó Djinn. Ahora, los Djinn han logrado escapar de sus confines en respuesta a los deseos de un humano. Torciendo sus sueños horrorosamente, el líder de los Djinn deja un sendero de sangre y asesinato mientras espera su oportunidad de entrar en nuestro mundo... una oportunidad que sólo llegará si quien los ha liberado utiliza sus tres deseos."
+    },
+    {
+      "id": "tmdb:3597",
+      "type": "movie",
+      "name": "Sé lo que hicisteis el último verano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nO0WqEgH0IKHlXsl9WCJiFJyohi.jpg",
+      "description": "Una noche de verano, cuando volvían de una fiesta, dos jóvenes parejas en estado de embriaguez atropellan a un hombre en una carretera desierta. Confundidos y asustados, deciden tirar el cadáver al mar. Un año después, una de las chicas, Julie, recibe un mensaje en el que alguien dice saber qué pasó el verano anterior. A partir de ese momento, un hombre con gabán de marino y un garfio se dedica a matar a los adolescentes."
+    },
+    {
+      "id": "tmdb:2671",
+      "type": "movie",
+      "name": "El círculo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hOSYIl1y76ZxGJR72urrtD1fKCN.jpg",
+      "description": "En una pequeña y apacible localidad japonesa, entre los estudiantes circula una leyenda en torno a unos videos malditos cuya visión provoca la muerte. Tras la muerte de su sobrina, una periodista investigará el origen de dichos videos."
+    },
+    {
+      "id": "tmdb:9945",
+      "type": "movie",
+      "name": "Vampiros de John Carpenter",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oa67yugnWstYxJDHvGS0XTN0aSL.jpg",
+      "description": "Jack Crow es el jefe de una banda de mercenarios cuyo objetivo es liquidar a todos los vampiros de la Tierra, de la cual se están haciendo dueños, y en especial de Jan Valek, un vampiro que lleva más de 660 años haciendo el mal allí donde está. La película nos situa en un desierto de Nuevo México, donde Crow y los suyos se disponen a acabar con un nido de vampiros donde se sospecha que se puede encontrar Valek. Acaban con todos ellos, pero Valek no está allí"
+    },
+    {
+      "id": "tmdb:9877",
+      "type": "movie",
+      "name": "Leyenda urbana",
+      "poster": "http://127.0.0.1:8888/t/p/w500/51xghNQVIrkdg7T6NknFWCDzpfC.jpg",
+      "description": "Hay un asesino suelto por el campus que está convirtiendo en realidad leyendas urbanas, como la de que comer poprocks (peta-zetas) y beber cocacola a la vez hará explotar tu estómago o la del psicópata con un hacha que entra, cuando no miras, en el asiento trasero de tu coche al repostar en una gasolinera."
+    },
+    {
+      "id": "tmdb:2667",
+      "type": "movie",
+      "name": "El proyecto de la bruja de Blair",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg",
+      "description": "Durante el octubre de 1994, tres estudiantes de cine en el Montgomery College, Heather Donahue, Joshua Leonard y Michael Williams realizaron la propuesta de crear un proyecto para presentarla en la clase de cine, el proyecto llamado por Heather \"El Proyecto de la Bruja de Blair\" contaba de entrevistas con los residentes del pueblo de Burkittsville, Maryland, sobre la bruja local."
+    },
+    {
+      "id": "tmdb:32250",
+      "type": "movie",
+      "name": "La maldición",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nKFYEzSQZ5evn5kJpp0dLYUSRN8.jpg",
+      "description": "Primera de las adaptaciones de Takashi Shimizu sobre la historia de la maldición (ju-on), que se editó en video. Ju-On es la maldición del que muere presa de la rabia. Ésta se concentra y actúa en los lugares donde vivió la persona. Los que la encuentran mueren y nace una nueva maldición. El pequeño Toshió no va a clase últimamente, por eso su profesor Mr. Kobayashi decide ir a su casa. Toshio está solo, en medio de un caos total. Sus padres no están y el profesor asume que han salido de compras. Pero en esta casa hay más de lo que se ve a simple vista. Esta familia no es exactamente lo que llamaríamos una familia normal."
+    },
+    {
+      "id": "tmdb:9532",
+      "type": "movie",
+      "name": "Destino final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+      "description": "Al subir a un avión con destino a Paris, junto con sus compañeros de clase, Alex tiene una premonición, por lo que desembarca justo antes de despegar junto a seis de sus amigos y una profesora. Poco después el aparato explota en el aire. El grupo de supervivientes se verá perseguido por la dama de la guadaña, la propia muerte, que no se dará por vencida. Acosado por el FBI que considera a Alex responsable del accidente y perseguido por sus propios miedos, el joven deberá descubrir que las coincidencias y los accidentes no son algo casual."
+    },
+    {
+      "id": "tmdb:9871",
+      "type": "movie",
+      "name": "Ginger Snaps",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
+      "description": "Brigitte y su hermana Ginger son dos adolescentes muy unidas... y aburridas de su rutinaria vida. Pero cierta noche en que deciden gastar una broma a un chico, Ginger acaba siendo atacada por una extraña criatura. Aunque se recupera milagrosamente de las heridas, Ginger no está bien: comienzan a crecerle pelos en las cicatrices, una cola asoma por la base de su espina dorsal y siente un deseo irrefrenable de sangre humana... se está convirtiendo en una mujer-lobo. Brigitte tiene que ayudar a su hermana y recurre a Sam, un joven enigmático, con fama de chico malo y muy aficionado a la botánica... Y mientras Brigitte lucha por proteger a Ginger, se convierte en cómplice de sus crímenes violentos e incontrolables"
+    },
+    {
+      "id": "tmdb:8922",
+      "type": "movie",
+      "name": "Jeepers Creepers",
+      "poster": "http://127.0.0.1:8888/t/p/w500/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg",
+      "description": "Trish y su hermano menor Darry cruzan los Estados Unidos en coche, en un viaje largo y aburrido cuya monotonía sólo se rompe por sus continuas discusiones. De pronto, en mitad de ninguna parte, descubren una iglesia abandonada donde un misterioso personaje arroja un cadáver al interior de una gran boca de alcantarillado. A partir de ese momento comienzan una huida aterradora, perseguidos por una de las criaturas más letales que se puedan imaginar."
+    },
+    {
+      "id": "tmdb:11547",
+      "type": "movie",
+      "name": "Cabin Fever",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iLdhs92kvQUoEppSHtTjidsir78.jpg",
+      "description": "En una alejada cabaña en lo profundo de un bosque, un virus caníbal muy contagioso convierte a cinco amigos que están de vacaciones en paranoicos y hostiles seres que se intentarán eliminar entre ellos. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:170",
+      "type": "movie",
+      "name": "28 días después",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg",
+      "description": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes..."
+    },
+    {
+      "id": "tmdb:2662",
+      "type": "movie",
+      "name": "La casa de los 1000 cadáveres",
+      "poster": "http://127.0.0.1:8888/t/p/w500/rO7biLmJtJoTbDv5wzEwZGOD375.jpg",
+      "description": "Dos parejas de jóvenes se pierden durante la noche y van a dar a una oscura casa habitada por una familia de psicópatas. Asesinatos, canibalismo y ritos satánicos son algunos de los mil horrores que allí les esperan."
+    },
+    {
+      "id": "tmdb:9902",
+      "type": "movie",
+      "name": "Km. 666 (Desvío al infierno)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/76TiHoedBCu2A4NyHSzk09GNdjH.jpg",
+      "description": "Seis adolescentes viajan en coche cuando, de pronto, deben desviarse de su ruta al encontrar la carretera bloqueada por un accidente. Pero los jóvenes se pierden en los densos bosques de West Virginia, donde serán perseguidos por una raza humana de caníbales, horriblemente desfigurados por su antinatural alimentación a lo largo de generaciones..."
+    },
+    {
+      "id": "tmdb:9694",
+      "type": "movie",
+      "name": "Llamada perdida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kuW5jjYZ2rCIP82jWk6z9c2p8be.jpg",
+      "description": "Una joven estudiante de universidad, Yumi Nakamura (Kou Shibasaki), ve cómo sus amigos mueren uno a uno víctimas de una extraña “maldición” que parece tener su origen en el teléfono móvil. Todo empieza cuando Yoko, la mejor amiga de la protagonista, recibe una llamada a su móvil con un extraño tono que no había oído antes. En la pantalla aparece un mensaje: “Tienes una llamada perdida”. Cuando lo escucha, no sólo parece venir de su propio número, sino que también contiene un terrible grito que suena exactamente igual que la voz de Yoko. Además, la llamada está fechada tres días después. Tres días más tarde, Yoko muere. Las coincidencias empiezan a acumularse mientras se amplia el círculo de avisos de muerte a través de los móviles. Hasta que un día, el móvil de Yumi comienza a sonar..."
+    },
+    {
+      "id": "tmdb:176",
+      "type": "movie",
+      "name": "Saw",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg",
+      "description": "Dos extraños, que se despiertan en una habitación sin recordar cómo llegaron allí, pronto descubren que son peones en un juego mortal perpetrado por un famoso asesino en serie."
+    },
+    {
+      "id": "tmdb:1690",
+      "type": "movie",
+      "name": "Hostel",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iBKRKu3srnTqiEITXOUSLperhKP.jpg",
+      "description": "Paxton y Josh, dos jóvenes norteamericanos amigos de la universidad, recorren Europa con sus mochilas junto con Oli, un islandés que conocen en el camino. En Eslovaquia conocen a Natalya y Svetlan, dos exóticas bellezas con las que se distraen.... para aparecer atrapados en un siniestro y lúgubre sitio. Su angustiosa situación, como descubrirán más tarde, es tan profunda como el más oscuro y enfermizo recoveco de la propia naturaleza humana... si sobreviven."
+    },
+    {
+      "id": "tmdb:588",
+      "type": "movie",
+      "name": "Silent Hill",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg",
+      "description": "Rose, desesperada por encontrar una cura para la misteriosa enfermedad de su hija Sharon, rehúsa ingresar a la niña en una institución psiquiátrica a pesar de las recomendaciones de los médicos, y decide huir a Silent Hill, un pueblo del que su hija habla constantemente en sueños. A pesar de que su marido Christopher se opone al viaje, Rose está convencida de que la respuesta se encuentra en este misterioso lugar. Al aproximarse al pueblo, una misteriosa figura se alza en medio de la carretera. Rose, para no atropellarla, tiene un accidente. Cuando vuelve en sí, Sharon ha desaparecido. A partir de ese momento, acompañada por una agente de policía, empieza una búsqueda desesperada en Silent Hill para encontrar a su hija. Las dos mujeres no tardan en darse cuenta de que el pueblo, que quedó desierto después de ser devastado por unos terribles incendios, no se parece a ningún otro."
+    },
+    {
+      "id": "tmdb:8329",
+      "type": "movie",
+      "name": "[•REC]",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg",
+      "description": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores. Los bomberos derriban la puerta y, seguidos por Ángela y el cámara, encuentran a la anciana semiinconsciente, rodeada por decenas de gatos. De pronto, la mujer se lanza sobre un bombero y le muerde salvajemente. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único."
+    },
+    {
+      "id": "tmdb:23827",
+      "type": "movie",
+      "name": "Paranormal Activity",
+      "poster": "http://127.0.0.1:8888/t/p/w500/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg",
+      "description": "Una pareja feliz, joven y de clase media ve su vida atormentada por un espíritu demoníaco. Ella es una estudiante que está a punto de graduarse como profesora, y él, un corredor de bolsa que trabaja desde casa. Viven desde hace tres años en una casa que hasta el momento les parecía completamente normal; pero, inesperadamente, extraños fenómenos paranormales empiezan a perturbar su vida."
+    },
+    {
+      "id": "tmdb:838427",
+      "type": "movie",
+      "name": "Los extraños",
+      "poster": "http://127.0.0.1:8888/t/p/w500/x9PY86oQvfdr3uF62vm4PP2x7cG.jpg",
+      "description": "Cinco chicas pasan un caluroso fin de semana en una quinta en el interior de la provincia de Formosa. Una de ellas desaparece sin dejar rastro. Poco a poco, lo que prometía ser una apacible tarde en el campo se transforma en una pesadilla."
+    },
+    {
+      "id": "tmdb:21208",
+      "type": "movie",
+      "name": "La huérfana",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3NSeL6kdni2lIxkLGmNcGWuixar.jpg",
+      "description": "Cuando Kate y John Coleman pierden al bebé que estaban esperando, todo se derrumba a su alrededor. Su matrimonio se tambalea y la mente de Kate se llena de pesadillas, miedos y temores. Para intentar recuperar la normalidad, la pareja se dirige a un orfanato local con la intención de adoptar a un niño. Allí se sienten enigmáticamente atraídos por una niña de rostro angelical llamada Esther. Pero las cosas se tuercen tras la llegada de la muchacha a la casa de los Coleman, donde empiezan a ocurrir cosas extrañas. Cuando Kate empieza a darse cuenta de que Esther esconde un terrible secreto, intentará descubrir qué es, pero quizá sea demasiado tarde..."
+    },
+    {
+      "id": "tmdb:37169",
+      "type": "movie",
+      "name": "El ciempiés humano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ucBv96WOHdzl2aIGv6BPtgqS9iN.jpg",
+      "description": "Dos chicas norteamericanas que viajan a través de Europa tienen una avería en el coche en mitad de un bosque, en Alemania. Buscando ayuda llegan a una casa aislada y, al día siguiente, despiertan atrapadas en un tétrico sótano junto a un hombre japonés. Poco después descubren que están en manos de un siniestro médico alemán que anteriormente era un cirujano especializado en separar a gemelos siameses. Sin embargo, para ellos tiene otro escatológico plan, en los límites de lo imaginable..."
+    },
+    {
+      "id": "tmdb:49018",
+      "type": "movie",
+      "name": "Insidious",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gIrBcrmtL2KEiydYKk8r94o1UGI.jpg",
+      "description": "Una familia descubre que espíritus oscuros han invadido su hogar después de que su hijo inexplicablemente cae en un sueño interminable. Cuando piden ayuda a un profesional, descubren que las cosas son mucho más personales de lo que pensaban."
+    },
+    {
+      "id": "tmdb:84348",
+      "type": "movie",
+      "name": "VHS",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4pfIa7DnOJxteBsrkePMY1TSlGL.jpg",
+      "description": "Un grupo de matones son contratados por un misterioso sujeto para que vayan a una casa abandonada y encuentren allí un VHS con imágenes horribles. Las instrucciones decían que el video sería de fácil reconocimiento, pero cuando llegan a la casa encuentran una enorme biblioteca llena de VHS. Su tarea será entonces descubrir cuál es la cinta maldita."
+    },
+    {
+      "id": "tmdb:158015",
+      "type": "movie",
+      "name": "La purga. La noche de las bestias",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1smw9aHuPiHga2Of5TOJs0Ps1rZ.jpg",
+      "description": "Año 2022. En una futura sociedad distópica, el régimen político, llamado Nueva Fundación de los padres de América, ha implantado una medida catárquica ante la violencia campante y las cárceles saturadas: la \"purga anual\", según la cual una noche al año se puede cometer cualquier clase de crimen, incluso el asesinato, sin tener que responder ante la justicia. La violencia se desata durante esas 12 horas, y los individuos se desfogan, imperando la calma el resto del año. Horas antes de que comience la purga anual, el vendedor de sistemas de seguridad James Sandin regresa a su casa en un lujoso suburbio de Los Angeles junto a su esposa María y sus dos hijos, Zoey y Charlie. Lo que no contaba esa famillia es que poco tiempo después de comenzar la noche un extraño llame a la puerta."
+    },
+    {
+      "id": "tmdb:138843",
+      "type": "movie",
+      "name": "Expediente Warren",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg",
+      "description": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno."
+    },
+    {
+      "id": "tmdb:420634",
+      "type": "movie",
+      "name": "Terrifier",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "description": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino."
+    }
+  ]
 }

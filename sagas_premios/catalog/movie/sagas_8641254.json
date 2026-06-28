@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:10363",
+      "type": "movie",
+      "name": "A pleno sol",
+      "poster": "http://127.0.0.1:8888/t/p/w500/teSlQM1yhWyiHE81rgCAXKxzgU8.jpg",
+      "description": "Tom Ripley, un cazafortunas, es enviado a Europa por el señor Greenleaf para buscar a su hijo Philip, un playboy mimado, y llevarlo de vuelta a los EE.UU. A cambio recibirá 5.000 dólares. Philip engaña a Tom fingiendo que está decidido a volver, pero no tiene ninguna intención de dejar a su prometida ni de cumplir los deseos de su padre."
+    },
+    {
+      "id": "tmdb:11222",
+      "type": "movie",
+      "name": "El amigo americano",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nZzr2oJaqjVrHee4rK4HN0G6pPT.jpg",
+      "description": "El marchante americano Tom Ripley (Hopper) intenta poner a prueba la integridad de Jonatham Zimmermann, un humilde fabricante de marcos (Bruno Ganz) que padece una enfermedad terminal. Ripley le presenta a un gánster que le ofrece mucho dinero a cambio de que trabaje para él como asesino a sueldo. En un principio rechaza la oferta, pero, al pensar en el precario futuro que espera a su mujer y a su hijo después de su muerte, acaba aceptando el trato."
+    },
+    {
+      "id": "tmdb:1213",
+      "type": "movie",
+      "name": "El talento de Mr. Ripley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/idVOOIQGbf22TF58amdYvHBL9Ua.jpg",
+      "description": "Ser joven y despreocupado en medio de un paisaje idílico de la Italia bañada por el sol de finales de los 50: esa es la dolce vita que Tom Ripley (Matt Damon) anhela, y que Dickie Greeleaf (Jude Law) disfruta. Cuando el padre de Dickie, un adinerado constructor de barcos, pide a Tom que traiga de vuelta a casa, a América, a su hijo, éste y su bella y expatriada compañera, Marge Sherwood (Gwyneth Paltrow), nunca hubieran sospechado a qué peligrosos extremos llegaría Ripley con tal de convertir el estilo de vida de la pareja en el suyo propio. Al fin y al cabo, es mejor ser una falsa persona importante que un don nadie auténtico."
+    },
+    {
+      "id": "tmdb:10955",
+      "type": "movie",
+      "name": "El juego de Ripley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8ZmULvGePer9Dl7oFi1rahivVp7.jpg",
+      "description": "Tom Ripley es un refinado y cruel traficante de obras de arte que se ha retirado a vivir al Véneto (Italia) con una violonchelista. Inesperadamente sus negocios se complican, pero en esta ocasión no quiere intervenir personalmente; lo que quiere es poner a prueba la honradez de un honrado padre de familia gravemente enfermo."
+    },
+    {
+      "id": "tmdb:39127",
+      "type": "movie",
+      "name": "El regreso de Mr. Ripley",
+      "poster": "http://127.0.0.1:8888/t/p/w500/alNFel4KW4wQepQsFpGHfyW9O7n.jpg",
+      "description": "Tras la muerte de un amigo artista, Tom Ripley prepara un ardid para seguir vendiendo sus cuadros a través de las falsificaciones. Cuando un coleccionista y la culpa de un cómplice amenazan con desvelar todo, el protagonista decide recurrir al crimen."
+    }
+  ]
 }

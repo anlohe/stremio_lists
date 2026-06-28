@@ -1,3 +1,32 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:90",
+      "type": "movie",
+      "name": "Superdetective en Hollywood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q8RtQuLStydGdJmHR4p8jNVssbv.jpg",
+      "description": "Axel Foley es un impetuoso e inteligente detective de Detroit que sigue la pista del asesino de un amigo suyo hasta los barrios más elegantes de Beverly Hills. Pero antes de que Axel logre su objetivo, va a verse involucrado en una red internacional de contrabandistas y traficantes de droga."
+    },
+    {
+      "id": "tmdb:96",
+      "type": "movie",
+      "name": "Superdetective en Hollywood II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/19fU9cD8nBp3riUgKZi6nLSMO88.jpg",
+      "description": "El detective de Detroit Axel Foley se entera por las noticias de la tele de que su amigo Andrew Bogomil, capitán de la policía de Beverly Hills, ha sido tiroteado por una mujer. Cuando va a visitarlo al hospital, conoce a su hija Jan. Con la ayuda de dos agentes amigos suyos intenta localizar a la culpable, a pesar de que el jefe de policía Harold Lutz ha intentado encontrar alguna razón para despedir a los dos agentes. Axel y sus amigos descubren que los \"atracos del alfabeto\", que han tenido lugar en la zona, son obra del traficante de armas Maxwell Dent, que ha enviado a su prometida Karla Fry a matar a Bogomil porque éste le iba siguiendo los pasos."
+    },
+    {
+      "id": "tmdb:306",
+      "type": "movie",
+      "name": "Superdetective en Hollywood III",
+      "poster": "http://127.0.0.1:8888/t/p/w500/szhFPC5FXN6YHGMqWuqaGR7EKk8.jpg",
+      "description": "El detective de Detroit Axel Foley emplea todo su coraje para perseguir a unos despiadados asesinos con la ayuda de sus viejos compañeros Serge y Billy Rosewood. Las investigaciones lo conducen al popular parque temático de Los Ángeles WonderWorld. Allí, repentinamente, Axel se convierte en la nueva atracción del lugar, bien sea quedándose colgado de una araña gigante para rescatar a un niño o disfrazándose de Okey Dokey, un enorme elefante azul."
+    },
+    {
+      "id": "tmdb:280180",
+      "type": "movie",
+      "name": "Superdetective en Hollywood: Axel F.",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3f28IXwRBEZjR75Pm4jCiBw3HZc.jpg",
+      "description": "Cuatro décadas después de su inolvidable primer caso en Beverly Hills, el detective de Detroit Axel Foley vuelve a lo que mejor se le da: resolver crímenes y sembrar el caos."
+    }
+  ]
 }

@@ -1,3 +1,46 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:218",
+      "type": "movie",
+      "name": "Terminator",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "description": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?"
+    },
+    {
+      "id": "tmdb:280",
+      "type": "movie",
+      "name": "Terminator II. El juicio final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "description": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah."
+    },
+    {
+      "id": "tmdb:296",
+      "type": "movie",
+      "name": "Terminator 3: La rebelión de las máquinas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+      "description": "Ha pasado una década desde que John Connor salvara a la humanidad de la destrucción. En la actualidad John tiene 25 años y vive en la clandestinidad: no hay ninguna prueba documental de su existencia. Así evita ser rastreado por Skynet, la sofisticada corporación de máquinas que una vez intentó acabar con su vida. Pero, ahora, desde el futuro, ha sido enviado el T-X, la máquina destructora cyborg más desarrollada de Skynet. Su misión es completar el trabajo que no pudo terminar su predecesor, el T-1000. El T-X es una máquina tan implacable como bello su aspecto humano. Ahora la única esperanza de sobrevivir para Connnor es Terminator."
+    },
+    {
+      "id": "tmdb:534",
+      "type": "movie",
+      "name": "Terminator IV. Salvación",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qPORLTWsJrqB27xXCkJRMjMl7fk.jpg",
+      "description": "Nueva entrega de la saga de Terminator, que transcurre en un post-apocalíptico 2018, tras el día del Juicio Final. John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado en parte por la aparición de Marcus Wright, un extraño cuyo último recuerdo es haber estado en el corredor de la muerte, y que afirma haber estado con Kyle Reese, el padre de John. Connor debe decidir si Marcus ha sido enviado desde el futuro o rescatado del pasado, todo en una carrera contrareloj mientras la Resistencia prepara su ataque final contra el corazón del centro de operaciones de Skynet."
+    },
+    {
+      "id": "tmdb:87101",
+      "type": "movie",
+      "name": "Terminator Génesis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
+      "description": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba."
+    },
+    {
+      "id": "tmdb:290859",
+      "type": "movie",
+      "name": "Terminator VI. Destino oscuro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",
+      "description": "Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator."
+    }
+  ]
 }

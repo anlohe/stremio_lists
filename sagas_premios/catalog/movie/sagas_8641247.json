@@ -1,3 +1,95 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:152",
+      "type": "movie",
+      "name": "Star Trek",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gzI6CLwtkGHUv9y4tptWwAREXTL.jpg",
+      "description": "Siglo XXIII. Al Almirante James T. Kirk, de la nave Enterprise, se le encomienda una difícil misión: neutralizar un extraño cuerpo para que no colisione con la Tierra. El Oficial Spock, el Capitán Willard Decker, la Asesora Ilía y el Doctor McCoy ayudan al Almirante Kirk a descubrir la naturaleza de este cuerpo sideral, provisto de un mecanismo de inteligencia de origen terrestre. La expedición del Enterprise localiza al ente y entonces se apresta a introducirse en su centro de operaciones..."
+    },
+    {
+      "id": "tmdb:154",
+      "type": "movie",
+      "name": "Star Trek II. La ira de Khan",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8k93s37Z87eKboyU4n3k32HCH65.jpg",
+      "description": "El Enterprise transporta a un grupo de científicos que se disponen a poner a prueba el mayor experimento jamás imaginado por el hombre: la formación de vida en un planeta inerte."
+    },
+    {
+      "id": "tmdb:157",
+      "type": "movie",
+      "name": "Star Trek III. En busca de Spock",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mv29MhfQRHvWFeTg0VwOKvBQlKg.jpg",
+      "description": "Tras la desaparición de Spock y la creación del planeta Génesis, la tripulación del Enterprise se dispone a localizar el cuerpo de su compañero, a petición del padre de éste."
+    },
+    {
+      "id": "tmdb:168",
+      "type": "movie",
+      "name": "Star Trek IV. Misión salvar la Tierra",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vf47SrKxzFjoTl3ilcRkjKsGWW8.jpg",
+      "description": "En el siglo XXIII, un misterioso poder alienígena amenaza la Tierra, evaporando los océanos y destruyendo la atmósfera. En un frenético intento para salvar a la humanidad, el Capitán Kirk y su tripulación viajan en el tiempo y regresan al San Francisco de 1986, encontrándose con un mundo de punks, pizza y autobuses de cambio exacto, que les resultan tan alienígenas como todo lo que han encontrado en los lugares más recónditos de la galaxia."
+    },
+    {
+      "id": "tmdb:172",
+      "type": "movie",
+      "name": "Star Trek V. La última frontera",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6AFpvYk8uxXoRkg6r47AWuLqJxo.jpg",
+      "description": "La nave Enterprise se dirige al planeta Nimbus III, para negociar la liberación de unos embajadores secuestrados. Allí descubrirán que el jefe de la banda es un pariente de Spock, obsesionado por encontrar el planeta que es considerado la fuente de la vida."
+    },
+    {
+      "id": "tmdb:174",
+      "type": "movie",
+      "name": "Star Trek VI. Aquel país desconocido",
+      "poster": "http://127.0.0.1:8888/t/p/w500/gGRg3zBoZd7DLOCq16zHDAbrLU6.jpg",
+      "description": "Tras años de guerra, la Federación y el Imperio Klingon se disponen a celebrar una conferencia de paz. Pero el panorama de una negociación intergaláctica, con implacables enemigos, preocupa al Almirante Kirk. Cuando una nave Klingon es atacada y responsabilizan al Enterprise, ambos mundos se preparan para el que puede ser su encuentro definitivo."
+    },
+    {
+      "id": "tmdb:193",
+      "type": "movie",
+      "name": "Star Trek. La próxima generación",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jPq2exR55lDKbgNOK1EZYJe1G1S.jpg",
+      "description": "James T. Kirk, Montgomery Scott y Pavel Chekov asisten al viaje inaugural del USS Enterprise-B, que es requerido para ayudar a un convoy de naves que se hallan atrapadas en un cinturón de energía. Debido a la inexperiencia del capitán, Kirk decide ayudar pero cuando la cubierta donde se hallaba es destruida por una ráfaga de energía, es dado por muerto."
+    },
+    {
+      "id": "tmdb:199",
+      "type": "movie",
+      "name": "Star Trek II. Primer contacto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9eEx7usbWzzxwlehDbSt6rEZOCj.jpg",
+      "description": "El Capitán del Enterprise encuentra de nuevo a sus adversarios, los Borg, a quienes intenta impedir modificar la historia y conquistar la Tierra en el siglo XXI, por medio de un viaje en el tiempo, que impediría el primer vuelo warp de la raza humana y el consiguiente primer contacto con una raza extraterrestre: los vulcanos."
+    },
+    {
+      "id": "tmdb:200",
+      "type": "movie",
+      "name": "Star Trek III. Insurrección",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mvBhWl93Cktgo5Xec31hQVKqMD1.jpg",
+      "description": "Jean-Luc Picard, capitán del USS Enterprise, recibe un mensaje de la flota. Al parecer, el comandante Data, que se encontraba estudiando una sociedad primitiva, ha sufrido un cortocircuito y ha revelado la existencia del equipo de investigación a los habitantes del planeta Ba'Ku. Pronto descubrirá que intentaba defender a ésta sociedad inocente de las aspiraciones de los Son'a."
+    },
+    {
+      "id": "tmdb:201",
+      "type": "movie",
+      "name": "Star Trek IV. Némesis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/opmDF2sPIBCvTDbJWBtmhqUFXmi.jpg",
+      "description": "La policía romulana obtiene ADN del Capitán Picard y fabrican un clon, llamado Shinzon, con la finalidad de introducirlo en la Federación, pero ese plan queda en nada y envían al clon a las minas de dilitio de Remo, el planeta hermano de Rómulo, la capital del Imperio Romulano. Shinzon organiza un golpe de estado gracias a las fuerzas Remanas y su imbatible nave erigiéndose nuevo Pretor Romulano."
+    },
+    {
+      "id": "tmdb:13475",
+      "type": "movie",
+      "name": "Star Trek",
+      "poster": "http://127.0.0.1:8888/t/p/w500/axuw64XX2mWG0okoNCzjlGc4yVp.jpg",
+      "description": "Todo está preparado para el viaje inaugural de la nave más moderna que jamás se haya creado: la USS Enterprise. Su joven tripulación tiene una importante misión: encontrar una manera de detener al malvado Nero que, movido por la venganza, amenaza a toda la humanidad. Pero el destino de la galaxia está en manos de dos jóvenes rivales, que nacieron en mundos diferentes. Uno de ellos, Tiberius James Kirk, humano, busca emociones y es un líder nato. El otro, Spock, medio humano y medio vulcaniano, es menospreciado por los vulcanianos, por sus emociones humanas."
+    },
+    {
+      "id": "tmdb:54138",
+      "type": "movie",
+      "name": "Star Trek II. En la oscuridad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7ncnBVignnCQ4vFNxiSLWDpFUcs.jpg",
+      "description": "Cuando a la tripulación de la nave Enterprise le ordenan que regrese a casa, en la Tierra se enfrentan a una terrorífica fuerza que, aparentemente desde dentro, ha perpetrado un ataque a la cúpula de la Federación y todo lo que ésta representa, sumiendo a la flota en una profunda crisis. Para intentar solucionar el problema, y con un asunto personal que resolver, el capitán Kirk encabeza una incursión a un planeta en guerra, para capturar a un hombre que es un arma de destrucción masiva. A medida que nuestros héroes se van sumergiendo en una épica partida de ajedrez a vida o muerte, la lealtad se verá puesta a prueba, las amistades se romperán, y habrá que hacer ciertos sacrificios por la única familia que le queda a Kirk: su tripulación."
+    },
+    {
+      "id": "tmdb:188927",
+      "type": "movie",
+      "name": "Star Trek III. Más allá",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2yfbpstJY4Fan8DSfPFDl05jx9.jpg",
+      "description": "El USS Enterprise, la nave insignia de la Flota Estelar, liderada por el capitán James T. Kirk, vuelve a surcar el universo, para proteger la Tierra y el resto de planetas aliados. Pero la tranquilidad durará poco y el peligro acecha. La primera etapa de su misión les llevará a un territorio desconocido, y su travesía pronto se convertirá en una carrera por la supervivencia, cuando se enfrenten a un nuevo y fiero enemigo, Krall, de una especie alienígena avanzada. A la vez que intentan encontrar el modo de volver a la Tierra, su objetivo será proteger el futuro de la raza humana y preservar la armonía entre especies..."
+    }
+  ]
 }

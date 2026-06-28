@@ -1,3 +1,25 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:97",
+      "type": "movie",
+      "name": "TRON",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jJ8eBV407GHn6q0nIvSsnt0C6vV.jpg",
+      "description": "La primera película de aventuras dentro del inexplorado mundo tridimensional del inimaginado dominio de la informática. Tron deslumbra con los revolucionarios efectos visuales y las secuencias de acción. Flynn, un ordenador que inventa vídeojuegos, se encuentra a merced de la malvada fuerza humana que contesta al panel de control principal -la presencia de un poderoso corrupto ordenador que ha radiado Flynn dentro de su juego mortal. Allí, ladrones electrónicos y la imparable carrera «Cycle Lights». Con la ayuda de sus amigos, Alan y Lora, la esperanza de Flynn es activar a Tron, el valiente y fiable programa, en una heroica batalla por salvar a la humanidad!"
+    },
+    {
+      "id": "tmdb:20526",
+      "type": "movie",
+      "name": "TRON: Legacy",
+      "poster": "http://127.0.0.1:8888/t/p/w500/m3tkTgatN1IuwKGAFnsiLakRQLh.jpg",
+      "description": "Cuando Sam Flynn (Garrett Hedlund), programador experto en tecnología de 27 años e hijo de Kevin Flynn (Jeff Bridges), investiga la desaparición de su padre, se encuentra de repente inmerso en un peligroso y salvaje mundo surreal donde existen feroces luchas a muerte, un lugar paralelo donde su padre ha estado viviendo durante 25 años. Con la ayuda de una joven (Olivia Wilde), padre e hijo se embarcarán en un viaje a vida o muerte a través de un universo cibernético, que con el tiempo se ha convertido en mucho más avanzado y peligroso... Secuela del clásico de culto de 1982."
+    },
+    {
+      "id": "tmdb:533533",
+      "type": "movie",
+      "name": "TRON: Ares",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qShQABLVRMZKnv5mWOPXWniBeB3.jpg",
+      "description": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA."
+    }
+  ]
 }

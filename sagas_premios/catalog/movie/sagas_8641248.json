@@ -1,3 +1,39 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tmdb:2164",
+      "type": "movie",
+      "name": "Stargate. Puerta a las estrellas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3mKvXGYCjoSv3FJN85iislnlD1d.jpg",
+      "description": "Un coronel y un científico, movidos por distintos intereses, investigan el misterioso hallazgo en unas excavaciones de un extraño artefacto al que llaman \"Puerta de las Estrellas\". Acompañados de un equipo de reconocimiento, atraviesan la Puerta y son transportados a un lejano planeta."
+    },
+    {
+      "id": "tmdb:13001",
+      "type": "movie",
+      "name": "Stargate. El Arca de la Verdad",
+      "poster": "http://127.0.0.1:8888/t/p/w500/u4LnsaYRqz9wJ5Am6M9N6luPtrR.jpg",
+      "description": "Mientras el SG-1 busca un artefacto antiguo con el que esperan poder derrotar a los ejércitos de los Ori, descubren que más naves Ori están a punto de ser enviadas a través del SuperStargate para lanzar un asalto final sobre la Tierra. Daniel descubre que un artefacto, el Arca de la Verdad, puede estar en la galaxia Ori, y el SG-1 se embarca a bordo del Odyssey para encontrarlo y dificultar el ataque. El IOA tiene un plan propio y el SG-1 termina en una galaxia distante luchando contra dos enemigos poderosos."
+    },
+    {
+      "id": "tmdb:12914",
+      "type": "movie",
+      "name": "Stargate. El contínuo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kIADP7FzoS3J36ZHxLG8dqVFWGx.jpg",
+      "description": "Mientras que el SG-1 participa en la ejecución de Baal, el último de los Señores del Sistema Goa'uld, Teal'c y Vala desaparecen inexplicablemente en el aire. Carter, Daniel y Mitchell corren de regreso a un mundo en el que ha cambiado la historia: el programa Stargate ha sido borrado de la línea de tiempo. A medida que tratan de convencer a las autoridades de lo que ha pasado, llega a la órbita una flota de naves nodrizas Goa'uld dirigida por Baal, su reina, Qetesh (Vala), y su primado, Teal'c. El SG-1 debe encontrar el Stargate y arreglar las cosas antes de que el mundo sea esclavizado por los Goa'uld."
+    },
+    {
+      "id": "tmdb:784993",
+      "type": "movie",
+      "name": "Stargate SG-1. Hijos de los dioses",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1snwRCkOwMiAjYxiDVMPX0qDwZL.jpg",
+      "description": "Jack O’Neill vuelve ha atravesar la puerta estelar para derrotar a los guerreros encabezados por el despiadado Ra. Con la amenaza del brutal Goa’uld cerniéndose sobre la galaxia, el equipo debe triunfar o el General Hammond llevará a cabo una solución apocalíptica."
+    },
+    {
+      "id": "tmdb:1721953",
+      "type": "movie",
+      "name": "Stargate. Orígenes. Catherine",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lAQtyGALjkw6RMySMZ97uhW0VlW.jpg",
+      "description": "La joven Catherine se embarca en una misión inesperada para descubrir el misterio de lo que se encuentra más allá del Stargate y así salvar la humanidad."
+    }
+  ]
 }
