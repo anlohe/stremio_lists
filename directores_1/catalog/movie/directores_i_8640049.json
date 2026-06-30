@@ -3,9 +3,9 @@
     {
       "id": "tmdb:144611",
       "type": "movie",
-      "name": "Cine-ojo, la vida al imprevisto",
+      "name": "Cine ojo. La vida al imprevisto",
       "poster": "http://127.0.0.1:8888/t/p/w500/2NwEHV3RKAKMTWuMOzMxCOIFo1Z.jpg",
-      "description": "Este documental se centra alrededor de las actividades de los jóvenes en una aldea del soviet. Estos niños y niñas están constantemente ocupados, pegando carteles de propaganda en las paredes, incitando a todos para que \"compren en la cooperativa\" ayudando a viudas pobres..."
+      "description": "Revolucionario retrato de la URSS en el que niños activistas y escenas de vida rural se entrelazan con innovaciones técnicas que descomponen y reconstruyen la realidad."
     },
     {
       "id": "tmdb:26317",
@@ -17,16 +17,16 @@
     {
       "id": "tmdb:45176",
       "type": "movie",
-      "name": "Entusiasmo. Sinfonía del Donbass",
+      "name": "Entusiasmo. Sinfonía del Dombás",
       "poster": "http://127.0.0.1:8888/t/p/w500/tWx63XY4g1Guh98QCj8W2xZ9Xiv.jpg",
-      "description": "Para su primer filme sonoro, Vertov tenía un propósito radical: explorar el sonido directo y sus posibilidades expresivas como nadie lo había hecho. Entuziazm es una obra única en la que los sonidos (en particular los industriales) dialogan con voces y músicas."
+      "description": "Retrato fílmico sobre la región del Dombás (Ucrania) que fusiona propaganda y vanguardia para elaborar una gran epopeya obrera con colectivos, activistas y campesinos."
     },
     {
       "id": "tmdb:92475",
       "type": "movie",
-      "name": "Tres cantos para Lenin (Tres cantos a Lenin)",
+      "name": "Tres cantos para Lenin",
       "poster": "http://127.0.0.1:8888/t/p/w500/xa03Ape43MdLvJcAhWvpTGMcuGH.jpg",
-      "description": "Sobre el tema de tres canciones populares inspiradas por Lenín, Vertov nos muestra un panorama de Rusia a comienzos de los años 30 en diferentes regiones europeas y asiáticas."
+      "description": "Retrato lírico del político revolucionario Vladímir Ilich Uliánov “Lenin” a través de cantos populares, entrelazando liberación femenina, duelo colectivo y progreso industrial."
     }
   ]
 }

@@ -3,14 +3,14 @@
     {
       "id": "tmdb:1678",
       "type": "movie",
-      "name": "Godzilla, Japón bajo el terror del monstruo",
+      "name": "Godzilla. Japón bajo el terror del monstruo",
       "poster": "http://127.0.0.1:8888/t/p/w500/mu4KeHb8GOjKbZGIeE4C5dXBx9B.jpg",
       "description": "Las misteriosas destrucciones de barcos en el Pacífico provocan el pánico. Los nativos de una isla afirman que el culpable es una criatura legendaria, Godzilla, un lagarto mutante convertido en un gigantesco monstruo a causa de unas radiaciones atómicas. Godzilla se dispone a atacar las principales ciudades del Japón."
     },
     {
       "id": "tmdb:1679",
       "type": "movie",
-      "name": "El Rey de Los Monstruos (Godzilla Contraataca)",
+      "name": "Godzilla II. Godzilla contraataca",
       "poster": "http://127.0.0.1:8888/t/p/w500/3twE5Btcw061WnswGqYMNqBYQ2E.jpg",
       "description": "Godzilla, resucitada por arte de magia tras su muerte al final del primer título, se enfrenta esta vez a un nuevo monstruo, Anguilas, un extraño gigante cuadrúpedo acorazado, y tras destruir parcialmente la ciudad de Osaka, acaba enterrada en el hielo de una pequeña isla a causa de los bombardeos de los aviones del ejército japonés. Segunda película de la saga Godzilla."
     },
@@ -66,7 +66,7 @@
     {
       "id": "tmdb:940721",
       "type": "movie",
-      "name": "Godzilla Minus One",
+      "name": "Godzilla. Minus One",
       "poster": "http://127.0.0.1:8888/t/p/w500/q35kdC8ci9Fm2gVQazJdsohtGpD.jpg",
       "description": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable."
     },

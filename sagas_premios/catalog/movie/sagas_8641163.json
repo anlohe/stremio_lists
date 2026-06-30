@@ -3,7 +3,7 @@
     {
       "id": "tmdb:41800",
       "type": "movie",
-      "name": "Superman y los Hombres Topo",
+      "name": "Superman y los hombres topo",
       "poster": "http://127.0.0.1:8888/t/p/w500/9b41Aa3hS2DJ1DhzLmtMcAswlys.jpg",
       "description": "Los reporteros Clark Kent y Lois Lane llegan a la pequeña ciudad de Silsby para presenciar la perforación del pozo de petróleo más profundo del mundo. El taladro, sin embargo, ha penetrado en la casa subterránea de una raza de personas pequeñas y peludas que luego salen a la superficie por la noche para mirar a su alrededor. El hecho de que brillen en la oscuridad asusta a la gente de la ciudad, que forma una mafia, dirigida por el vicioso Luke Benson, decidido a matar a las personas extrañas. Solo Superman tiene la oportunidad de prevenir esta tragedia."
     },
@@ -17,7 +17,7 @@
     {
       "id": "tmdb:2661",
       "type": "movie",
-      "name": "Batman: La película",
+      "name": "Batman",
       "poster": "http://127.0.0.1:8888/t/p/w500/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
       "description": "Adaptación a la gran pantalla del popular cómic de Bob Kane, que ese mismo año y con los mismos protagonistas conocía una exitosa versión en formato de serie de televisión que duraría dos años en la pequeña pantalla. Batman y Robin se enfrentan a un grupo de criminales entre los que se encuentran sus eternos rivales Joker y El Pingüino, quienes se han apoderado de un sofisticado artilugio para dominar el mundo."
     },
@@ -31,9 +31,9 @@
     {
       "id": "tmdb:88937",
       "type": "movie",
-      "name": "Abar, the First Black Superman",
+      "name": "Abar. Superman negro",
       "poster": "http://127.0.0.1:8888/t/p/w500/eCivrIzBDrJzD1oDt3ltmKPamPH.jpg",
-      "description": ""
+      "description": "Tras mudarse a un barrio racista, un doctor negro le da un elixir a su guardaespaldas para dotarle de superpoderes y así luchar contra la injusticia y el mal."
     },
     {
       "id": "tmdb:1924",
@@ -45,7 +45,7 @@
     {
       "id": "tmdb:8536",
       "type": "movie",
-      "name": "Superman II",
+      "name": "Superman II. La aventura continúa",
       "poster": "http://127.0.0.1:8888/t/p/w500/c5OPYXLpRdwtnGBX4gZ8bGq6kSp.jpg",
       "description": "Tres criminales, procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y se dirigen a la Tierra para enfrentarse a Superman, en una batalla cósmica por la supremacía sobre el planeta. Al mismo tiempo, el superhéroe continúa ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane comienza a sospechar algo."
     },
@@ -73,7 +73,7 @@
     {
       "id": "tmdb:11411",
       "type": "movie",
-      "name": "Superman IV: En busca de la paz",
+      "name": "Superman IV. En busca de la paz",
       "poster": "http://127.0.0.1:8888/t/p/w500/i9l2OBvASDruutxftB0z4dfjLhR.jpg",
       "description": "Poco despues de que la cumbre USA-URSS para el desarme nuclear fracase, el mundo se ve al borde de la III guerra mundial. Superman recibe la carta del niño Jeremy, quien le pide que salve el mundo de la inminente guerra atómica. Desafiando al espíritu de los sabios de Krypton, el Hombre de Acero anuncia a la ONU que destruirá todas las armas nucleares, tanto del Este como del Oeste. Sin embargo, esto es aprovechado por el genio criminal Lex Luthor, recién fugado de prisión, quien se alía con los militaristas americanos y soviéticos para crear a Nuclear Man, un supermonstruo que aniquilará al Ultimo Hijo de Krypton."
     },
@@ -108,7 +108,7 @@
     {
       "id": "tmdb:222619",
       "type": "movie",
-      "name": "The Flash 2: La vengaza del Mago Asesino",
+      "name": "The Flash II. La venganza del Mago Asesino",
       "poster": "http://127.0.0.1:8888/t/p/w500/rJM3KBEvGV5xwsk4zUqBvNfxerj.jpg",
       "description": "The Flash rescata a la detective Megan Lockhart de las garras de un mago asesino, el cuál es buscado por la policía de seis estados. Este promete destruir a The Flash por haber frustrado sus intenciones y prepara un plan diabólico para vengarse. Cuando el mago James Jeese está ante los tribunales, consigue escapar y captura a The Flash. Con sus trucos consigue lavarle el cerebro, de tal forma que le convierte en su ayudante para perpetuar sus crímenes."
     },
@@ -122,9 +122,9 @@
     {
       "id": "tmdb:410780",
       "type": "movie",
-      "name": "The Flash III: Deadly Nightshade",
+      "name": "The Flash III. La sombra mortal",
       "poster": "http://127.0.0.1:8888/t/p/w500/2cTUNhPjlR57BQExdfuatESKdFO.jpg",
-      "description": ""
+      "description": "Barry Allen se enfrenta a una nueva amenaza, el villano The Ghost. Para hacerle frente recurrirá a la ayuda de un antiguo vigilante y defensor de la ciudad, el superhéroe Nightshade. Al mismo tiempo, otro criminal intenta suplir la identidad de Nightshade para cometer crímenes."
     },
     {
       "id": "tmdb:414",
@@ -143,9 +143,9 @@
     {
       "id": "tmdb:8854",
       "type": "movie",
-      "name": "Steel, un héroe de acero",
+      "name": "Steel. Un héroe de acero",
       "poster": "http://127.0.0.1:8888/t/p/w500/nBJB1DNeJi1FknlmFa4QRwK2Hvf.jpg",
-      "description": "Un corrupto militar pone en las calles unas innovadoras y peligrosas armas. John Hery (Shaquille O'Neal), un diseñador de armas que trabaja para el ejército norteamericano, se convertirá en la única esperanza que tendrán los desesperados ciudadanos para luchar contra las bandas que asolan las calles. Contará para ello con la ayuda de una experta en electrónica (Annabeth Gish) y la imaginación de un trabajador del metal (Richard Roundtree). Ambos prepararán un equipo de acero con el que Hery podrá enfrentarse en una despiadada guerra en las calles para detener al militar."
+      "description": "Un corrupto militar pone en las calles unas innovadoras y peligrosas armas. John Hery, un diseñador de armas que trabaja para el ejército norteamericano, se convertirá en la única esperanza que tendrán los desesperados ciudadanos para luchar contra las bandas que asolan las calles. Contará para ello con la ayuda de una experta en electrónica y la imaginación de un trabajador del metal. Ambos prepararán un equipo de acero con el que Hery podrá enfrentarse en una despiadada guerra en las calles para detener al militar."
     },
     {
       "id": "tmdb:20776",
@@ -192,7 +192,7 @@
     {
       "id": "tmdb:1452",
       "type": "movie",
-      "name": "Superman Returns: El regreso",
+      "name": "Superman Returns",
       "poster": "http://127.0.0.1:8888/t/p/w500/rtRlig4q4kUO1AzN7o7dzRIqzxI.jpg",
       "description": "Tras varios años de misteriosa ausencia, Supermán regresa a la Tierra, pero un viejo enemigo intenta arrebatarle sus poderes. Tratando de proteger al mundo de una destrucción masiva, Supermán emprende una aventura épica de redención que lo lleva desde las profundidades del océano a las regiones más remotas del espacio."
     },
@@ -234,7 +234,7 @@
     {
       "id": "tmdb:39514",
       "type": "movie",
-      "name": "RED",
+      "name": "Red",
       "poster": "http://127.0.0.1:8888/t/p/w500/98L63uVsv71kFWeM4ECdQ0Ko44a.jpg",
       "description": "Frank, Joe, Marvin y Victoria son agentes especiales ya retirados, a los que la nueva administración de Washington desea ver muertos. El motivo: eran los mejores agentes de la CIA, pero saben demasiado. Adaptación del cómic de Warren Ellis."
     },
@@ -262,14 +262,14 @@
     {
       "id": "tmdb:146216",
       "type": "movie",
-      "name": "RED 2",
+      "name": "Red II",
       "poster": "http://127.0.0.1:8888/t/p/w500/gXEj0UG7DBLXinlZrw83XdlolKP.jpg",
-      "description": "El agente retirado de operaciones encubiertas la CIA, Frank Moses (Bruce Willis), vuelve a reunir a su peculiar equipo de élite para emprender la búsqueda a nivel global de un dispositivo nuclear portátil desaparecido. Por el camino tendrán que enfrentarse a un ejército de implacables asesinos, despiadados terroristas y oficiales del Gobierno enloquecidos por el poder; todos ansiosos por hacerse con un arma devastadora… y todos muy poco conscientes de lo que puede suponer enfrentarse al equipo de Retirados Extremadamente Peligrosos y sus tácticas de la vieja escuela."
+      "description": "El agente retirado de operaciones encubiertas la CIA, Frank Moses, vuelve a reunir a su peculiar equipo de élite para emprender la búsqueda a nivel global de un dispositivo nuclear portátil desaparecido. Por el camino tendrán que enfrentarse a un ejército de implacables asesinos, despiadados terroristas y oficiales del Gobierno enloquecidos por el poder; todos ansiosos por hacerse con un arma devastadora… y todos muy poco conscientes de lo que puede suponer enfrentarse al equipo de Retirados Extremadamente Peligrosos y sus tácticas de la vieja escuela."
     },
     {
       "id": "tmdb:209112",
       "type": "movie",
-      "name": "Batman vs Superman: El amanecer de la justicia",
+      "name": "Batman vs Superman. El amanecer de la justicia",
       "poster": "http://127.0.0.1:8888/t/p/w500/mS3t9puIjLKgoex82cu9d6G0835.jpg",
       "description": "Ante el temor de las acciones que pueda llevar a cabo Superman, el vigilante de Gotham City aparece para poner a raya al superhéroe de Metrópolis, mientras que la opinión pública debate cuál es realmente el héroe que necesitan. El hombre de acero y Batman se sumergen en una contienda territorial, pero las cosas se complican cuando una nueva y peligrosa amenaza surge rápidamente, poniendo en jaque la existencia de la humanidad."
     },
@@ -279,13 +279,6 @@
       "name": "Escuadrón suicida",
       "poster": "http://127.0.0.1:8888/t/p/w500/9ymhU7NclJr29MpZnBQbJurYbuc.jpg",
       "description": "Mientras el gobierno de EE.UU no tiene claro cómo responder a una visita alienígena a la Tierra con intenciones malignas, Amanda 'El Muro' Waller, la líder de la agencia secreta A.R.G.U.S., ofrece una curiosa solución: reclutar a los villanos más crueles, con habilidades letales e incluso mágicas, para que trabajen para ellos. Sin demasiadas opciones a dar una negativa, los ocho supervillanos más peligrosos del mundo acceden a colaborar con el Ejecutivo en peligrosas misiones secretas, casi suicidas, para así lograr limpiar su expediente."
-    },
-    {
-      "id": "tmdb:324849",
-      "type": "movie",
-      "name": "Batman: La LEGO película",
-      "poster": "http://127.0.0.1:8888/t/p/w500/9F7OQVDMmvUJVwI7s0yzGNftC2F.jpg",
-      "description": "Spin-off de \"La LEGO Película\", protagonizado por Batman. En esta ocasión, el irreverente Batman, que también tiene algo de artista frustrado, intentará salvar la ciudad de Gotham de un peligroso villano, el Joker. Pero no podrá hacerlo solo, y tendrá que aprender a trabajar con sus demás aliados."
     },
     {
       "id": "tmdb:297762",
@@ -325,7 +318,7 @@
     {
       "id": "tmdb:495764",
       "type": "movie",
-      "name": "Aves de presa (y la fantabulosa emancipación de Harley Quinn)",
+      "name": "Aves de Presa y la fantabulosa emancipación de Harley Quinn",
       "poster": "http://127.0.0.1:8888/t/p/w500/1wLqXiiiaTSK8Y0n7N85O0jaNJm.jpg",
       "description": "Después de separarse del Joker, Harley Quinn y otras tres heroínas (Canario Negro, Cazadora y Renée Montoya) unen sus fuerzas para salvar a una niña del malvado rey del crimen, Máscara Negra."
     },
@@ -339,7 +332,7 @@
     {
       "id": "tmdb:791373",
       "type": "movie",
-      "name": "La liga de la justicia de Zack Snyder",
+      "name": "La Liga de la Justicia de Zack Snyder",
       "poster": "http://127.0.0.1:8888/t/p/w500/wcIJgChypo0s6ILm9Dkr13rV5q0.jpg",
       "description": "Con la determinación de asegurar que el sacrificio definitivo de Superman no fue en vano, Bruce Wayne une fuerzas con Diana Prince para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, Wonder Woman, Aquaman, Cyborg y Flash deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde."
     },
@@ -405,6 +398,13 @@
       "name": "Superman",
       "poster": "http://127.0.0.1:8888/t/p/w500/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg",
       "description": "En un mundo que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con los valores humanos que moldearon su carácter. Criado en la Tierra, representa la verdad, la justicia y el estilo americano, pero debe enfrentarse a un mundo cínico que cuestiona sus ideales. Entre el deber de proteger a la humanidad y la búsqueda de su identidad, Superman demuestra que la esperanza y la bondad nunca pasan de moda, incluso en los tiempos más oscuros, inspirando a otros a creer en un futuro mejor."
+    },
+    {
+      "id": "tmdb:1081003",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "http://127.0.0.1:8888/t/p/w500/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "description": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\"."
     }
   ]
 }

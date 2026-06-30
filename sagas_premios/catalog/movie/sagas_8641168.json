@@ -38,9 +38,9 @@
     {
       "id": "tmdb:115423",
       "type": "movie",
-      "name": "Doctor Jekyll y el Hombre Lobo",
+      "name": "Dr. Jekyll y el hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/2Z2LGBij6bVdWCi5PtAyDkI7Vsm.jpg",
-      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre-lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su \"alter ego\", que comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
+      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su alter ego, el cual comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
     },
     {
       "id": "tmdb:3027",
@@ -59,16 +59,16 @@
     {
       "id": "tmdb:48747",
       "type": "movie",
-      "name": "Jekyll & Hyde",
+      "name": "Jekyll y Hyde",
       "poster": "http://127.0.0.1:8888/t/p/w500/hj12czMNEw0OVzXmbBXvdidR7lr.jpg",
       "description": "En las calles de Londres una escurridiza figura ha despertado el temor de sus habitantes. Se le achacan varios asaltos a mujeres, incendios e incluso asesinatos. La policía cree haber identificado al sospechoso y lo persigue, pero en su huida empuja a un muchacho que cae bajo los cascos de un caballo y resulta gravemente herido."
     },
     {
       "id": "tmdb:444628",
       "type": "movie",
-      "name": "Dr. Jekyll and Mr. Hyde",
+      "name": "Dr. Jekyll y Mr. Hyde",
       "poster": "http://127.0.0.1:8888/t/p/w500/pK3Q6vSsoYsYLyHhSYnHo5rn8EN.jpg",
-      "description": "El extraño caso del Dr. Jekyll y el Sr. Hyde es en realidad la historia de Gabriel John Utterson, un abogado y buen amigo del Dr. Henry Jekyll. Más importante aún, Utterson es un caballero victoriano, que se guía por un código de caballería para permanecer leal a sus amigos y mantener su estatus en la sociedad. Es la lealtad lo que lleva a Utterson a jugar al detective en un esfuerzo por proteger a Jekyll del malicioso e intrigante Sr. Hyde. Finalmente, Utterson se ve introducido en un mundo en el que no está preparado para entrar ni aceptar."
+      "description": "Relata la historia de Gabriel John Utterson, un abogado y buen amigo del Dr. Henry Jekyll. Más importante aún, Utterson es un caballero victoriano, que se guía por un código de caballería para permanecer leal a sus amigos y mantener su estatus en la sociedad. Es la lealtad lo que lleva a Utterson a jugar al detective en un esfuerzo por proteger a Jekyll del malicioso e intrigante Sr. Hyde. Finalmente, Utterson se ve introducido en un mundo en el que no está preparado para entrar ni aceptar."
     }
   ]
 }

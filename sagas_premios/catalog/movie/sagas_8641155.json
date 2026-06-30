@@ -17,14 +17,14 @@
     {
       "id": "tmdb:127812",
       "type": "movie",
-      "name": "Arsène Lupin Returns",
+      "name": "La vuelta de Arsenio Lupin",
       "poster": "http://127.0.0.1:8888/t/p/w500/3yHqgzR5uUQ7IUf1pGzsufn47g6.jpg",
       "description": ""
     },
     {
       "id": "tmdb:171594",
       "type": "movie",
-      "name": "Vuelve Arsène Lupin",
+      "name": "Vuelve Arsenio Lupin",
       "poster": "http://127.0.0.1:8888/t/p/w500/dQgv1hNSNo7qL6YIHfF8n1rGTv1.jpg",
       "description": "Una joven rica pero ingenua posee algunas joyas de valor incalculable. Ella misma no lo sabe, pero una banda de ladrones de joyas sí."
     },
@@ -38,14 +38,14 @@
     {
       "id": "tmdb:146581",
       "type": "movie",
-      "name": "Signé : Arsène Lupin",
+      "name": "El toisón de oro",
       "poster": "http://127.0.0.1:8888/t/p/w500/tNjGxqFen6bEALALT7mw4bxM3BE.jpg",
       "description": ""
     },
     {
       "id": "tmdb:4719",
       "type": "movie",
-      "name": "Arsène Lupin contre Arsène Lupin",
+      "name": "Arsenio Lupin contra Arsenio Lupin",
       "poster": "http://127.0.0.1:8888/t/p/w500/kFAAf3imyD9fmM60T7aRXeihigA.jpg",
       "description": ""
     },

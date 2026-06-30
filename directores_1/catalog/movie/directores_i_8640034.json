@@ -38,7 +38,7 @@
     {
       "id": "tmdb:29177",
       "type": "movie",
-      "name": "Dr. M",
+      "name": "Doctor M",
       "poster": "http://127.0.0.1:8888/t/p/w500/qCAb3dlil451O1325sU1zMqOwv4.jpg",
       "description": "Los habitantes de una ciudad con grandes niveles de estrés están conmocionados por una serie de suicidios espectaculares. Un agente de policía investiga la bella y enigmática Sonia, que revelará un complot para manipular a la población a través de la hipnosis de masas."
     },
@@ -73,9 +73,9 @@
     {
       "id": "tmdb:72272",
       "type": "movie",
-      "name": "La Dama De Honor",
+      "name": "La dama de honor",
       "poster": "http://127.0.0.1:8888/t/p/w500/1DGGdYDDYeVknSsaBsBrwRWbjkP.jpg",
-      "description": "Philippe (Benoît Magimel), un joven que vive con su madre y dos hermanas pequeñas en un barrio tranquilo, acaba de empezar a trabajar con un contratista inmobiliario. En la boda de su hermana, se siente atraído por Senta, su dama de honor, pero el amor de Senta es un amor insano que consume a Philippe. Prueba de ello es que llega a proponerle matar a un desconocido como prueba suprema de su amor."
+      "description": "Philippe, un joven que vive con su madre y dos hermanas pequeñas en un barrio tranquilo, acaba de empezar a trabajar con un contratista inmobiliario. En la boda de su hermana, se siente atraído por Senta, su dama de honor, pero el amor de Senta es un amor insano que consume a Philippe. Prueba de ello es que llega a proponerle matar a un desconocido como prueba suprema de su amor."
     },
     {
       "id": "tmdb:12713",

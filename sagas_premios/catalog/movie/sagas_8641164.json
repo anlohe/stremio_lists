@@ -17,16 +17,16 @@
     {
       "id": "tmdb:34851",
       "type": "movie",
-      "name": "Predators",
+      "name": "Depredador III. Depredadores",
       "poster": "http://127.0.0.1:8888/t/p/w500/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg",
       "description": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos —mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte—, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres."
     },
     {
       "id": "tmdb:346910",
       "type": "movie",
-      "name": "Predator",
+      "name": "Depredador IV. El depredador",
       "poster": "http://127.0.0.1:8888/t/p/w500/r6jghOfUGi5TNl9EbdOk5NtfkzQ.jpg",
-      "description": "Cuando el pequeño Rory (Jacob Tremblay) activa accidentalmente el regreso a la Tierra de los yautjas, desencadenará la vuelta de los cazadores más letales del universo, una especie extraterrestre caracterizada por convertir en su trofeo al resto de criaturas y por obtener su poder a través de la hibridación. Ahora, estos alienígenas han mejorado su ADN y ahora son aún más peligrosos, fuertes, inteligentes y mortales. Por eso, solo un grupo de exsoldados y una profesora de ciencias podrán evitar el fin de la humanidad."
+      "description": "Cuando el pequeño Rory activa accidentalmente el regreso a la Tierra de los yautjas, desencadenará la vuelta de los cazadores más letales del universo, una especie extraterrestre caracterizada por convertir en su trofeo al resto de criaturas y por obtener su poder a través de la hibridación. Ahora, estos alienígenas han mejorado su ADN y ahora son aún más peligrosos, fuertes, inteligentes y mortales. Por eso, solo un grupo de exsoldados y una profesora de ciencias podrán evitar el fin de la humanidad."
     },
     {
       "id": "tmdb:766507",
@@ -45,14 +45,14 @@
     {
       "id": "tmdb:395",
       "type": "movie",
-      "name": "Alien vs. Predator",
+      "name": "Alien contra predator",
       "poster": "http://127.0.0.1:8888/t/p/w500/4KyXdnsQI7p81T4o6UcfhEjP2mZ.jpg",
       "description": "El descubrimiento de una antigua pirámide enterrada bajo los hielos de la Antártida hace acudir hasta el continente helado a un equipo de científicos y aventureros. Una vez allí, hacen un descubrimiento aún más aterrador: dos razas de extraterrestres en guerra. Gane quien gane, nosotros perdemos. La increíble y terrorífica aventura comienza cuando el millonario industrial Charles Bishop Weyland reúne a un equipo internacional de arqueólogos, científicos y expertos en seguridad, dirigidos por la especialista en medioambiente y aventurera Alexa ”Lex” Woods, para investigar unas misteriosas ”emanaciones de calor” que surgen desde las profundidades de la Antártida."
     },
     {
       "id": "tmdb:440",
       "type": "movie",
-      "name": "Aliens vs. Predator 2",
+      "name": "Alien contra predator II",
       "poster": "http://127.0.0.1:8888/t/p/w500/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
       "description": "Cuando una nave exploradora Predator se estrella, aparece en un pueblo de Colorado. Los Aliens a bordo escapan y matan a todos los Predators excepto a uno. El último Predator superviviente debe ahora acabar con todos los Aliens, así como con el terrorífico Pred-Alien que fue engendrado en la anterior entrega. Mientras tanto, los habitantes del pueblo están siendo inutilmente atrapados en medio del último enfrentamiento entre estas dos criaturas míticas."
     }

@@ -17,23 +17,23 @@
     {
       "id": "tmdb:337191",
       "type": "movie",
-      "name": "Alice's Adventures in Wonderland",
+      "name": "Alicia en el país de las maravillas",
       "poster": "http://127.0.0.1:8888/t/p/w500/f1qshRxJygp7zhjPwaFU6QDAgcf.jpg",
-      "description": ""
+      "description": "La joven Alicia persigue a un conejo parlante hasta un reino absurdo, donde cambia de tamaño y vive situaciones surrealistas junto a criaturas antropomórficas."
     },
     {
       "id": "tmdb:282512",
       "type": "movie",
-      "name": "The Count of Monte Cristo",
+      "name": "El conde de Montecristo",
       "poster": "http://127.0.0.1:8888/t/p/w500/cCNOpymNqWo1RSXKucAkkFQ0o8B.jpg",
-      "description": ""
+      "description": "Un marinero francés, encarcelado durante muchos años por unos cargos falsos de complot contra el rey, consigue escapar y cobrar venganza contra sus acusadores."
     },
     {
       "id": "tmdb:277699",
       "type": "movie",
-      "name": "The Prisoner of Zenda",
+      "name": "El prisionero de Zenda",
       "poster": "http://127.0.0.1:8888/t/p/w500/x73utxqpuf2nsQKQTJjLooGLTIT.jpg",
-      "description": ""
+      "description": "Un rey se salva de un intento de golpe de estado gracias a la suplantación de su primo, el cual se enamora de la prometida real. Esto ocasionará una sucesión de conflictos."
     }
   ]
 }

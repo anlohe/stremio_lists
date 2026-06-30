@@ -80,7 +80,7 @@
     {
       "id": "tmdb:9051",
       "type": "movie",
-      "name": "10, la mujer perfecta",
+      "name": "10. La mujer perfecta",
       "poster": "http://127.0.0.1:8888/t/p/w500/rXmeMMGgE1xIhkI5WBoJE9vY74C.jpg",
       "description": "George Webber, famoso compositor de canciones románticas, está empezando a cansarse de la relación con su novia. Pero una circunstancia inesperada le ayudará a resolver el problema de modo fulminante: se cruza en la calle con una joven vestida de novia que lo deja absolutamente fascinado; tanto es así que, aun sabiendo que está casada, no parará hasta averiguar dónde pasará la luna de miel."
     },
@@ -122,7 +122,7 @@
     {
       "id": "tmdb:46828",
       "type": "movie",
-      "name": "El hijo de la Pantera Rosa",
+      "name": "El hijo de la pantera rosa",
       "poster": "http://127.0.0.1:8888/t/p/w500/hwpI4xjdidi6gV4uYqQ1f5tnKst.jpg",
       "description": "Cuando la princesa Yasmin de Lugash es secuestrada, el comisario Dreyfuss se hace cargo del caso. Para llevar a cabo la investigación, asignan al comisario un ayudante: un gendarme local llamado Jacques. Pronto Dreyfuss comienza a observar en el agente ciertas características que le resultan muy familiares."
     }

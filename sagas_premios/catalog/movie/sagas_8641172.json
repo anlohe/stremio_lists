@@ -10,16 +10,16 @@
     {
       "id": "tmdb:294254",
       "type": "movie",
-      "name": "El corredor del laberinto: Las pruebas",
+      "name": "El corredor del laberinto II. Las pruebas",
       "poster": "http://127.0.0.1:8888/t/p/w500/43K7XwlFzO5PGdNMFY5s36jXdWo.jpg",
-      "description": "En este nuevo capítulo de la trepidante saga \"El Corredor del Laberinto\", Thomas (Dylan O'Brien) y el resto de clarianos tendrán que enfrentarse a su mayor desafío hasta el momento: buscar pistas sobre la misteriosa y poderosa organización conocida como CRUEL. Este viaje les llevará a “La Quemadura”, un apocalíptico lugar repleto de inimaginables obstáculos. Formando equipo con miembros de la resistencia, los clarianos deberán desenmascarar a las fuerzas superiores de CRUEL y averiguar qué planes tienen para todos ellos."
+      "description": "Thomas y el resto de clarianos tendrán que enfrentarse a su mayor desafío hasta el momento, buscar pistas sobre la misteriosa y poderosa organización conocida como CRUEL. Este viaje les llevará a La Quemadura, un apocalíptico lugar repleto de inimaginables obstáculos. Formando equipo con miembros de la resistencia, los clarianos deberán desenmascarar a las fuerzas superiores de CRUEL y averiguar qué planes tienen para todos ellos."
     },
     {
       "id": "tmdb:336843",
       "type": "movie",
-      "name": "El corredor del laberinto: La cura mortal",
+      "name": "El corredor del laberinto III. La cura mortal",
       "poster": "http://127.0.0.1:8888/t/p/w500/kuZOnvzplxPVh71t827F19zY5Ab.jpg",
-      "description": "En este final de saga, Thomas lidera a su grupo en una última misión. Deberán entrar en la legendaria Last City, un laberinto controlado por WCKD que puede llegar a ser el laberinto más mortífero de todos. Cualquier persona que lo supere obtendrá las respuestas a las preguntas y los protagonistas quieren saber lo que realmente sucede."
+      "description": "Thomas lidera a su grupo en una última misión. Deberán entrar en la legendaria Last City, un laberinto controlado por WCKD que puede llegar a ser el laberinto más mortífero de todos. Cualquier persona que lo supere obtendrá las respuestas a las preguntas y los protagonistas quieren saber lo que realmente sucede."
     }
   ]
 }

@@ -17,7 +17,7 @@
     {
       "id": "tmdb:45965",
       "type": "movie",
-      "name": "La nueva leyenda del gran Judo",
+      "name": "La nueva leyenda del gran judo",
       "poster": "http://127.0.0.1:8888/t/p/w500/xExZZ4Ts3prVrEQEut9SW3ssMcF.jpg",
       "description": "Sanshiro Sugata tiene que enfrentarse a nuevos retos y luchar contra adversarios cada vez más difíciles, pero no por ello dejará de aprender, a través de las artes marciales, una filosofía que le permitirá orientar su vida."
     },
@@ -52,7 +52,7 @@
     {
       "id": "tmdb:25858",
       "type": "movie",
-      "name": "El ángel borracho (El ángel ebrio)",
+      "name": "El ángel ebrio",
       "poster": "http://127.0.0.1:8888/t/p/w500/aAOyl6mo18xMSB5RcvR1BnFENRW.jpg",
       "description": "Después de la Segunda Guerra Mundial (1939-1945). Crónica sobre la relación entre un gángster de la mafia japonesa (\"yakuza\"), enfermo de tuberculosis y el médico alcohólico que lo atiende."
     },
@@ -122,7 +122,7 @@
     {
       "id": "tmdb:26893",
       "type": "movie",
-      "name": "Los bajos fondos ( Donzoko )",
+      "name": "Los bajos fondos",
       "poster": "http://127.0.0.1:8888/t/p/w500/egqMJ0dnbryGzRkBrUHJz1XpRiB.jpg",
       "description": "En un barrio miserable e insalubre del Tokio feudal, hay un albergue, regentado por Robukei y su mujer, en el que se puede encontrar alojamiento por poco dinero. Allí conviven gentes de todos los estratos sociales, que ahora pertenecen al bajo proletariado: un antiguo policía, un viejo artesano, un actor fracasado, un ladrón, una prostituta: todos ellos conforman el paisaje cotidiano de la miseria."
     },
@@ -143,7 +143,7 @@
     {
       "id": "tmdb:11878",
       "type": "movie",
-      "name": "Yojimbo (El mercenario)",
+      "name": "Yojimbo. El mercenario",
       "poster": "http://127.0.0.1:8888/t/p/w500/ay90WBc6vrC7IYneuuyAS00hw2F.jpg",
       "description": "En el siglo XIX, en un Japón todavía feudal, un samurái llega a un poblado, donde dos bandas de mercenarios luchan entre sí por el control del territorio. Muy pronto el recién llegado da muestras de ser un guerrero invencible, por lo que los jefes de las dos bandas intentan contratar sus servicios."
     },
@@ -171,14 +171,14 @@
     {
       "id": "tmdb:33205",
       "type": "movie",
-      "name": "Dodes 'Ka-Den",
+      "name": "Dodeskaden",
       "poster": "http://127.0.0.1:8888/t/p/w500/kaxCrZrG9NiUD9cioiJHGeq7sbI.jpg",
       "description": "Por momentos trágico y trascendente, la película de Akira Kurosawa sigue la vida cotidiana de un grupo de personas que apenas se arrastran en un barrio pobre en las afueras de Tokio. Sin embargo, por desesperadas que sean sus circunstancias, cada uno de ellos, el padre y el hijo sin hogar imaginando la casa de sus sueños; la joven maltratada por su tío; el niño que se imagina a sí mismo como conductor de un tranvía, encuentra razones para continuar. El inolvidable Dodes’ka-den se hizo en un momento tumultuoso en la vida de Kurosawa. Y todas sus esperanzas, miedos y pasión artística se muestran fervientemente en esta, su primera película en color gloriosamente filmada."
     },
     {
       "id": "tmdb:9764",
       "type": "movie",
-      "name": "Dersu Uzala (El cazador)",
+      "name": "Dersu Uzala. El cazador",
       "poster": "http://127.0.0.1:8888/t/p/w500/b7mZ9IQYGAWjpLf81ULC9P1UtwX.jpg",
       "description": "Un explorador del ejército conoce a un hombre de la tribu Goldi en los bosques no mapeados de Rusia. Con el tiempo, se crea un vínculo duradero entre los dos hombres: uno civilizado en el sentido usual, y el otro que tiene por hogar los bosques glaciares de Siberia."
     },

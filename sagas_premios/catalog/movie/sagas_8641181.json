@@ -17,16 +17,16 @@
     {
       "id": "tmdb:55848",
       "type": "movie",
-      "name": "Lancelot du Lac",
+      "name": "Lancelot del Lago",
       "poster": "http://127.0.0.1:8888/t/p/w500/mvHFca4ndirMPdgU8eWSVXgtSbT.jpg",
-      "description": "Versión \"a la francesa\" de la historia de Camelot, el rey Arturo y los caballeros de la tabla redonda. La austeridad propia de los filmes de Bresson no restó un ápice de interés a esta alabada versión de la leyenda inglesa."
+      "description": "El rey Arturo ha enviado cien caballeros para recuperar el Santo Grial. Arturo queda consternado cuando resulta que la misión fue inútil y que 70 caballeros han muerto en su curso. Entre los que han regresado se encuentra Lancelot, el amante de la reina Ginebra. Está atormentado por la muerte de sus camaradas y dividido entre su deber y su amor por la reina. Quiere poner fin a la aventura, pero Ginebra se niega. Ella insinúa que en lugar de ser asesinados por los enemigos, los caballeros enviados a buscar el Grial se enfrentaron entre sí, siendo Lancelot el principal de ellos. Para empeorar las cosas, muchos caballeros de Camelot desconfían o desprecian abiertamente a Lancelot, quien es visto como un favorito incluso entre la Mesa Redonda, salvo unos pocos, entre ellos Gawain y Lionel, quienes son sus mejores amigos entre los caballeros."
     },
     {
       "id": "tmdb:75733",
       "type": "movie",
-      "name": "Perceval el galo",
+      "name": "Perceval el galés",
       "poster": "http://127.0.0.1:8888/t/p/w500/wwAV6104tEkI7eiTTrDYOQ1QKrq.jpg",
-      "description": "Inspirada en la novela de Chrétien de Troyes, \"Perceval, el cuento del grial\" (siglo XII), narra las andanzas de Perceval desde que fue armado caballero por el rey Arturo y se adiestró con los Caballeros de la Mesa Redonda. A diferencia de otras adaptaciones de la leyenda, Rohmer sitúa a los personajes en un artificial y teatral reino. Un coro participa en la historia y, a menudo, los personajes narran sus hazañas a partir de versos tomados del texto original."
+      "description": "Narra las andanzas de Perceval desde que fue armado caballero por el rey Arturo y se adiestró con los Caballeros de la Mesa Redonda."
     },
     {
       "id": "tmdb:11527",
@@ -38,7 +38,7 @@
     {
       "id": "tmdb:30584",
       "type": "movie",
-      "name": "El caballero verde",
+      "name": "El Caballero Verde",
       "poster": "http://127.0.0.1:8888/t/p/w500/iOXoC7CKLFNQOus9hFNzZRSWOMl.jpg",
       "description": "Gawain es un escudero del rey Arturo. Un día, irrumpe en Camelot un extraño caballero verde, armado con un hacha, desafiando a que alguien luche con él. Gawain sale en defensa de su rey y decapita al caballero, pero este resucita."
     },
@@ -66,21 +66,21 @@
     {
       "id": "tmdb:447427",
       "type": "movie",
-      "name": "King Arthur: Excalibur Rising",
+      "name": "El rey Arturo. El auge de Excalibur",
       "poster": "http://127.0.0.1:8888/t/p/w500/gUa5CmvFDoUU02KnG9ic58BC5iN.jpg",
-      "description": "Una re-imaginación de la leyenda artúrica se centra alrededor de Owain, el hijo ilegítimo de Arturo, que debe aprender a asumir el manto de su padre como rey."
+      "description": "Un hijo ilegítimo del propio rey Arturo debe ocupar el pues de su padre como rey de Camelot pero su personalidad le hace vacilar si puede ser capaz de ello."
     },
     {
       "id": "tmdb:274857",
       "type": "movie",
-      "name": "Rey Arturo: la leyenda de Excalibur",
+      "name": "Rey Arturo. La leyenda de Excalibur",
       "poster": "http://127.0.0.1:8888/t/p/w500/wl2LLrxuCRoAP1TDOz8Et8exwsx.jpg",
       "description": "Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones. Junto a una misteriosa mujer llamada Guinevere, deberá aprender a manejar la espada, vencer a sus demonios y unir al pueblo para derrotar al tirano Vortigern, quien robó su corona y asesinó a sus padres antes de convertirse en rey."
     },
     {
       "id": "tmdb:635237",
       "type": "movie",
-      "name": "Arturo y Merlín: Caballeros de Camelot",
+      "name": "Arturo y Merlín. Caballeros de Camelot",
       "poster": "http://127.0.0.1:8888/t/p/w500/yGbag3HRmIzCH0a4sHglapwr2DQ.jpg",
       "description": "El Rey Arturo regresa a casa después de luchar contra el Imperio Romano. Su hijo ilegítimo ha corrompido el trono de Camelot y el Rey Arturo debe reunirse con el mago Merlín y los Caballeros de la Mesa Redonda para luchar por recuperar su corona."
     },

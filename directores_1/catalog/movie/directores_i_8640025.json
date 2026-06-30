@@ -94,7 +94,7 @@
     {
       "id": "tmdb:65749",
       "type": "movie",
-      "name": "Tango, no me dejes nunca",
+      "name": "Tango. No me dejes nunca",
       "poster": "http://127.0.0.1:8888/t/p/w500/cMCiEzgHx7TKdgxEZwzl1mxqotw.jpg",
       "description": "Mario Suárez es un profesional del espectáculo que, al pasar la barrera de los cuarenta, entra en una crisis cuando su mujer le abandona. Para superar la depresión, Mario se refugia en la preparación de su próximo trabajo: una película sobre el tango. Pero su vida se complicará aún más cuando se enamore de Elena, una de las bailarinas protagonistas, que es a la vez la amante de uno de los responsables de financiar el filme"
     },
@@ -108,14 +108,14 @@
     {
       "id": "tmdb:29008",
       "type": "movie",
-      "name": "El 7º día",
+      "name": "El séptimo día",
       "poster": "http://127.0.0.1:8888/t/p/w500/2iXtMgvD9TXipIO1z30ysaMXW1t.jpg",
       "description": "Relato inspirado en los macabros sucesos de Puerto Hurraco, el pueblo extremeño donde, en el verano de 1990, tuvo lugar un enfrentamiento entre dos familias que desembocó en una matanza que conmocionó a España entera por su carácter primitivo y brutal. Durante generaciones esas familias vivieron en continuo conflicto por las lindes de sus propiedades, conflicto que había provocado un derramamiento de sangre. Cuando Isabel, la primogénita de una de las dos familias, intenta averiguar con la ayuda de su primer novio, el verdadero origen del atroz enfrentamiento, descubre que todo se debe a un antiguo amor no correspondido, cuyo recuerdo todavía late en las venas de Luciana. Y Luciana no sólo no está dispuesta a olvidar, exige de sus hermanos la venganza que, como mujer, no puede llevar a cabo con sus propias manos. Una venganza que pagará el pueblo entero con su sangre."
     },
     {
       "id": "tmdb:674996",
       "type": "movie",
-      "name": "El Rey de todo el mundo",
+      "name": "El rey de todo el mundo",
       "poster": "http://127.0.0.1:8888/t/p/w500/2g30TrJqIw7fNBN4W4ZmrG90UXR.jpg",
       "description": "Dos bailarines que se enamoran cuando son elegidos como co-protagonistas de una producción importante"
     }

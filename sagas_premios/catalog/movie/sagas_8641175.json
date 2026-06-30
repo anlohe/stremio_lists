@@ -24,7 +24,7 @@
     {
       "id": "tmdb:28752",
       "type": "movie",
-      "name": "La maldición del Hombre Lobo",
+      "name": "La maldición del hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/gLcygjY9c79CCciRhGg1H1GcGAC.jpg",
       "description": "Tras ser violada, una joven sirvienta sordomuda da a luz a una criatura aparentemente normal. Pero a medida que el niño crece comienza a dar señales de un extraño comportamiento; sus incontrolables reacciones durante las noches de luna llena anuncian una terrorífica metamorfosis."
     },
@@ -38,9 +38,9 @@
     {
       "id": "tmdb:115423",
       "type": "movie",
-      "name": "Doctor Jekyll y el Hombre Lobo",
+      "name": "Dr. Jekyll y el hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/2Z2LGBij6bVdWCi5PtAyDkI7Vsm.jpg",
-      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre-lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su \"alter ego\", que comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
+      "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su alter ego, el cual comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
     },
     {
       "id": "tmdb:156310",
@@ -52,7 +52,7 @@
     {
       "id": "tmdb:29906",
       "type": "movie",
-      "name": "El retorno del Hombre Lobo",
+      "name": "El retorno del hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/k7Br169vf3ubeTNx42jlYquLMVg.jpg",
       "description": "Tres jóvenes estudiantes alemanas, tras un accidentado viaje, llegan a los Cárpatos y descubren la tumba de la Bathory, cuya leyenda de vampiro sangriento ha permanecido a través de los siglos. Una de ellas, Erika, tras una macabra ceremonia, resucita al monstruo..."
     },
@@ -80,14 +80,14 @@
     {
       "id": "tmdb:15582",
       "type": "movie",
-      "name": "Teen Wolf II (De pelo en pecho 2)",
+      "name": "De pelo en pecho II",
       "poster": "http://127.0.0.1:8888/t/p/w500/4EoCQV3rCGAzxsrkZnj8sCAYHbk.jpg",
       "description": "Todd Howard es un joven como cualquier otro que empieza la Universidad. Sólo tiene algo que lo distingue de los demás: como su primo y su tío, tiene la capacidad de convertirse en lobo. Las cosas empezarán a irle muy bien a todos los niveles cuando se transforme en licántropo. Pero no todo será tan fácil como parece al principio. Poco a poco, con su repentino cambio de personalidad, perderá también a gente a la que aprecia y deberá replantearse si realmente vale la pena ser la estrella de la Universidad. Jason Bateman toma el relevo de Michael J. Fox en esta secuela de \"Teen Wolf\", que narra en tono de comedia juvenil las aventuras de un adolescente que se convierte en hombre-lobo."
     },
     {
       "id": "tmdb:354606",
       "type": "movie",
-      "name": "Colmillos, el hombre lobo",
+      "name": "Colmillos. El hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/4LO0haZW9TuwjjEVfTsCRaZoBiX.jpg",
       "description": ""
     },
@@ -99,6 +99,13 @@
       "description": "Un hombre que conduce de noche atropella a un animal. Cuando sale del vehículo, observa con admiración que se trata de un lobo por el que es mordido en un descuido. Una vez incorporado a su vida cotidiana comienza a notar una serie de extraños síntomas."
     },
     {
+      "id": "tmdb:9406",
+      "type": "movie",
+      "name": "Un hombre lobo americano en París",
+      "poster": "http://127.0.0.1:8888/t/p/w500/49qfumITDLKoqfaovwVKujczpFf.jpg",
+      "description": "Un joven americano, Andy, se encuentra de vacaciones en París, junto a dos amigos, Brad y Chris. Una noche en la que se disponen a hacer jumping en la Torre Eiffel, Andy rescata a una chica, Serafine, que trata de suicidarse. La joven se marcha y él, que queda prendado de ella, trata de localizarla. Serafine oculta un oscuro secreto, un secreto que el americano va descubrir muy pronto...."
+    },
+    {
       "id": "tmdb:7978",
       "type": "movie",
       "name": "El hombre lobo",
@@ -108,21 +115,21 @@
     {
       "id": "tmdb:75623",
       "type": "movie",
-      "name": "Aullidos: El Renacimiento",
+      "name": "Aullidos. El renacimiento",
       "poster": "http://127.0.0.1:8888/t/p/w500/5EFRGohNLyQcZMXaq7aGnxov2BU.jpg",
       "description": "En la víspera de la noche de graduación, Will Kidman finalmente conseguirá captar la atención de la chica que siempre le ha gustado: la solitaria Eliana Wynter. Sin embargo, no tardará en descubrir un oscuro secreto de su pasado… que está a punto de convertirle en hombre lobo. Ahora, deberá luchar contra su destino, salvar su amor y sus vidas… Ellos deberán luchar contra la sed de sangre que comienza a crecer en Will así como escapar de un ejército de bestias que quiere acabar con ellos…"
     },
     {
       "id": "tmdb:132137",
       "type": "movie",
-      "name": "Hombre lobo: La bestia entre nosotros",
+      "name": "Hombre lobo. La bestia entre nosotros",
       "poster": "http://127.0.0.1:8888/t/p/w500/car9akw43NyrmvYRWcoGwsSE2Xg.jpg",
       "description": "Una monstruosa criatura aterroriza en el siglo XIX una aldea europea en las noches de luna llena y un joven tendrá que luchar para proteger a sus seres queridos en Werewolf: The Beast Among Us, una nueva adicción de Universal a su lardo legado de monstruos clásicos. Mientras estudia con un médico local, Daniel presencia las terribles consecuencias de los ataques de un hombre lobo. Observa como la temible reputación de la bestia atrae a cazarecompensas, buscadores de emociones fuertes y charlatanes hasta el pequeño pueblo, mientras sueña con acabar personalmente con el monstruo. Cuando un misterioso extranjero y su equipo de cazadores de hombres lobo llegan al pueblo, se ofrece a unirse a ellos a pesar de las protestas de su madre. Pero no tardarán en descubrir que esta criatura es más fuerte, más lista y más peligrosa de lo que ellos han enfrentado antes. Pronto los habitantes empiezan a levantarse unos contra otros para encontrar la verdadera identidad de la bestia."
     },
     {
       "id": "tmdb:877703",
       "type": "movie",
-      "name": "Teen Wolf: La película",
+      "name": "Teen Wolf",
       "poster": "http://127.0.0.1:8888/t/p/w500/pPyTcJSlDZAAyxfEqEMVpLBJW7g.jpg",
       "description": "La luna llena se eleva en Beacon Hills, y con ella ha surgido un mal aterrador. Los lobos están aullando una vez más, pidiendo el regreso de Banshees, Werecoyotes, Hellhounds, Kitsunes y todos los demás cambiaformas en la noche. Pero solo un hombre lobo como Scott McCall, que ya no es un adolescente pero sigue siendo un Alfa, puede reunir nuevos aliados y reunir a amigos de confianza para luchar contra lo que podría ser el enemigo más poderoso y letal al que se han enfrentado jamás."
     },

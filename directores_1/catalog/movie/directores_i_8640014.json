@@ -3,7 +3,7 @@
     {
       "id": "tmdb:35543",
       "type": "movie",
-      "name": "El Gran Flamarion",
+      "name": "El gran Flamarion",
       "poster": "http://127.0.0.1:8888/t/p/w500/u6u1XCswVV3ESYzgX9896y3gMzo.jpg",
       "description": "Flamarion es la atracción de un Music Hall. Con éxito presenta su show en vivo. Dentro de su espectáculo se encuentra su bella ayudante, casada pero enamorada de un acróbata que participa en el show. La ayudante decide seducir a El Gran Flamarion para que mate a su marido y poder huir con el acróbata. Cuando El Gran Flamarion descubre la trama, la busca para acabar con ella"
     },
@@ -101,9 +101,9 @@
     {
       "id": "tmdb:17277",
       "type": "movie",
-      "name": "La caída del Imperio Romano",
+      "name": "La caída del Imperio romano",
       "poster": "http://127.0.0.1:8888/t/p/w500/2KlnHlMnPclVLGhymGvcmn4FXQW.jpg",
-      "description": "Imperio Romano, siglo II d.C. Marco Aurelio (160-181), el emperador filósofo, fue el último gobernante de la Edad de Oro romana. Muy a su pesar, tuvo que luchar contra diversos pueblos para defender las fronteras del Imperio. En política interior, su sueño era restaurar las instituciones republicanas, razón por la cual nombró sucesor a su protegido Livio, en detrimento de su ambicioso y corrupto hijo Cómodo. Pero éste no aceptó la decisión de su padre y se apoderó del trono."
+      "description": "Imperio romano, siglo II d.C. Marco Aurelio, el emperador filósofo, fue el último gobernante de la Edad de Oro romana. Muy a su pesar, tuvo que luchar contra diversos pueblos para defender las fronteras del Imperio. En política interior, su sueño era restaurar las instituciones republicanas, razón por la cual nombró sucesor a su protegido Livio, en detrimento de su ambicioso y corrupto hijo Cómodo. Pero éste no aceptó la decisión de su padre y se apoderó del trono."
     },
     {
       "id": "tmdb:16850",

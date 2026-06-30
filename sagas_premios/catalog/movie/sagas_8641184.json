@@ -52,9 +52,9 @@
     {
       "id": "tmdb:3164",
       "type": "movie",
-      "name": "Frankenstein 1970",
+      "name": "El castillo de Frankenstein",
       "poster": "http://127.0.0.1:8888/t/p/w500/qD8bMcFbfCyXsTAoPJhi2tedMvN.jpg",
-      "description": ""
+      "description": "Un descendiente del doctor Frankenstein está obsesionado con la creación de un ser vivo por lo que accede a la tecnología atómica para conseguirlo."
     },
     {
       "id": "tmdb:3124",
@@ -94,14 +94,14 @@
     {
       "id": "tmdb:3125",
       "type": "movie",
-      "name": "Dracula vs. Frankenstein",
+      "name": "Drácula contra Frankenstein",
       "poster": "http://127.0.0.1:8888/t/p/w500/okBup7vZhKPat0mO6SQ1HdLP0YZ.jpg",
       "description": "El Dr. Duryea vacía cadáveres en su laboratorio para destilar un suero de sangre. Una noche, recibe la visita de Drácula, éste le ofrece el cuerpo del Frankenstein original para que lo reavive y así utilizarlo. Sin embargo, es imposible controlar a los dos monstruos. Empieza una lucha encarnizada sin merced."
     },
     {
       "id": "tmdb:3199",
       "type": "movie",
-      "name": "Dracula contra Frankenstein",
+      "name": "Drácula contra Frankenstein",
       "poster": "http://127.0.0.1:8888/t/p/w500/s0ADDnZYHUr9TCsf9FGd9BP2SGa.jpg",
       "description": "Jonathan Seward consigue localizar al conde Drácula en su castillo y matarlo clavándole una estaca en el corazón. Sin embargo, el doctor Frankenstein resucita al vampiro utilizando para ello la sangre de la cantante de un nightclub. El investigador y el vampiro, junto con el monstruo de Frankenstein y un ayudante mutante llamado Morpho, se unen con el fin de crear un ejército que gobierne el mundo."
     },
@@ -144,7 +144,7 @@
       "id": "tmdb:777674",
       "type": "movie",
       "name": "Frankenstein",
-      "poster": "http://127.0.0.1:8888/t/p/w500/t0gIqMitESJ7huLVpIDNdmv7L3t.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zLT4ewr1Jth6Z2FnJ2Gch7QCYvI.jpg",
       "description": ""
     },
     {
@@ -157,9 +157,9 @@
     {
       "id": "tmdb:3056",
       "type": "movie",
-      "name": "Frankenstein",
+      "name": "Frankenstein Evolution",
       "poster": "http://127.0.0.1:8888/t/p/w500/gmeccZOjv2l12NM7dTjHXTYHaC4.jpg",
-      "description": "La detective O´Connor investiga una serie de terribles asesinatos que le conducirán hasta el Doctor Frankenstein y su monstruosa criatura. Sus descubrimientos irán revelando la extraña transformación que el Doctor y la criatura habrán ido sufriendo a lo largo de 200 años... y los diferentes caminos que tomarán creador y monstruo en busca del bien y el mal. (FILMAFFINITY)"
+      "description": "La detective O´Connor investiga una serie de terribles asesinatos que le conducirán hasta el Doctor Frankenstein y su monstruosa criatura. Sus descubrimientos irán revelando la extraña transformación que el Doctor y la criatura habrán ido sufriendo a lo largo de 200 años... y los diferentes caminos que tomarán creador y monstruo en busca del bien y el mal."
     },
     {
       "id": "tmdb:3071",
@@ -185,16 +185,16 @@
     {
       "id": "tmdb:228066",
       "type": "movie",
-      "name": "Victor Frankenstein",
+      "name": "Víctor Frankenstein",
       "poster": "http://127.0.0.1:8888/t/p/w500/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg",
-      "description": "La historia de Frankenstein contada desde la perspectiva de su asistente Igor, desde la juventud de ambos hasta que se convirtió en el hombre que todos conocemos."
+      "description": "La historia de Frankenstein es contada desde la perspectiva de su asistente Igor, desde la juventud de ambos hasta que se convirtió en el hombre que todos conocemos."
     },
     {
       "id": "tmdb:1114072",
       "type": "movie",
-      "name": "Frankenstein: Legacy",
+      "name": "Frankenstein. El legado",
       "poster": "http://127.0.0.1:8888/t/p/w500/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg",
-      "description": ""
+      "description": "Un siglo después del malogrado experimento de Victor Frankenstein, sus diarios han caido en manos de una científica que desea curar la enfermedad de su marido."
     },
     {
       "id": "tmdb:1062722",
