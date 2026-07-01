@@ -33,7 +33,7 @@
       "type": "movie",
       "name": "Neecha Nagar",
       "poster": "http://127.0.0.1:8888/t/p/w500/6790uW3R2yU2w0qiWY3nt2Iki9e.jpg",
-      "description": ""
+      "description": "Los bajos de la ciudad"
     },
     {
       "id": "tmdb:851",
@@ -45,42 +45,42 @@
     {
       "id": "tmdb:60225",
       "type": "movie",
-      "name": "María Candelaria (Xochimilco)",
+      "name": "María Candelaria",
       "poster": "http://127.0.0.1:8888/t/p/w500/bFrIT24b6ObZJPryprSQXIegcRS.jpg",
       "description": "En 1909, María Candelaria y Lorenzo Rafael, pareja nativa de Xochimilco, desean casarse a pesar de que las circunstancias les son totalmente adversas. La gente del pueblo es hostil a María Candelaria por ser hija de una prostituta, y la pareja debe enfrentar la avaricia del tendero don Damián, quien en secreto desea a la joven. Un día María Candelaria enferma de paludismo"
     },
     {
       "id": "tmdb:154620",
       "type": "movie",
-      "name": "The Turning Point",
+      "name": "El punto decisivo",
       "poster": "http://127.0.0.1:8888/t/p/w500/k2OmsIeAU8LUyAwybRLScZXqG43.jpg",
       "description": ""
     },
     {
       "id": "tmdb:117500",
       "type": "movie",
-      "name": "La Symphonie pastorale",
+      "name": "Sinfonía pastoral",
       "poster": "http://127.0.0.1:8888/t/p/w500/wsbIQxI69MNBFzzEmA7QLysHQQ9.jpg",
       "description": ""
     },
     {
       "id": "tmdb:101772",
       "type": "movie",
-      "name": "Die letzte Chance",
+      "name": "La última oportunidad",
       "poster": "http://127.0.0.1:8888/t/p/w500/2N5dIMGJyuY8Xd6dA72S3GyKBis.jpg",
       "description": ""
     },
     {
       "id": "tmdb:154623",
       "type": "movie",
-      "name": "Muži bez křídel",
+      "name": "Los hombres sin alas",
       "poster": "http://127.0.0.1:8888/t/p/w500/iS4yFIxFwnZAh8iW4VEBzsoWEEe.jpg",
       "description": ""
     },
     {
       "id": "tmdb:307",
       "type": "movie",
-      "name": "Roma, ciudad abierta",
+      "name": "Roma. Ciudad abierta",
       "poster": "http://127.0.0.1:8888/t/p/w500/mgBiTwHjd9ILQXUCSS4v3eAaCIu.jpg",
       "description": "Segunda Guerra Mundial (1939-1945). Estando Roma ocupada por los nazis, la temible Gestapo trata de arrestar a Manfredi, el líder del Comité Nacional de Liberación. Annie Marie ofrece refugio en su casa a Manfredi y a algunos de sus camaradas, pero los alemanes descubren su escondrijo y rodean la vivienda; algunos partisanos consiguen escapar por los tejados, pero Manfredi es apresado."
     },
@@ -241,9 +241,9 @@
     {
       "id": "tmdb:42744",
       "type": "movie",
-      "name": "El Knack... y cómo conseguirlo",
+      "name": "El knack... y cómo conseguirlo",
       "poster": "http://127.0.0.1:8888/t/p/w500/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg",
-      "description": "Londres, años 60. Colin (Michael Crawford) se ha perdido toda la revolución sexual, pero tiene a su amigo Tolen (Ray Brooks), a quien envidia, para que le enseñe todos los secretos que debe conocer para conquistar a las mujeres y poder recuperar el tiempo perdido. Nancy Jones (Rita Tushingham) es una joven despistada y provinciana que llega a Londres... Anárquico clásico de la cultura mod con una música genuina del swinging London. Palma de Oro en Cannes. (FILMAFFINITY"
+      "description": "Londres (Reino Unido) durante la década de 1960. Colin se ha perdido toda la revolución sexual, pero tiene a su amigo Tolen, a quien envidia, para que le enseñe todos los secretos que debe conocer para conquistar a las mujeres y poder recuperar el tiempo perdido. Nancy Jones es una joven despistada y provinciana que llega a Londres."
     },
     {
       "id": "tmdb:42726",
@@ -262,16 +262,16 @@
     {
       "id": "tmdb:1052",
       "type": "movie",
-      "name": "Blow-Up (Deseo de una mañana de verano)",
+      "name": "Blow-Up",
       "poster": "http://127.0.0.1:8888/t/p/w500/bwlz1BnokYtsol8chqVgjG1ICB6.jpg",
-      "description": "Adaptación de un cuento de Julio Cortázar que narra la historia de un fotógrafo que, tras realizar unas tomas en un parque londinense, descubre al revelarlas una forma irreconocible que resulta ser un cadáver. Premiada en el Festival de Cannes con la Palma de Oro."
+      "description": "Un fotógrafo realiza unas tomas en un parque londinense y descubre al revelarlas una forma irreconocible que resulta ser un cadáver."
     },
     {
       "id": "tmdb:14794",
       "type": "movie",
-      "name": "If... (Si...)",
+      "name": "If...",
       "poster": "http://127.0.0.1:8888/t/p/w500/oqlpAGq4aXhc6ODtxBcGM1SEoIp.jpg",
-      "description": "Polémica película en la que el pionero del Free Cinema inglés arremete contra la enseñanza superior y hace una sátira violenta y sin matices de los colegios superiores y del establishment británico.\r En un análisis de la British Boys School, seguimos a Mick y sus amigos, en su mayoría más jóvenes, a través de una serie de indignidades y, en ocasiones, abusos a medida que se destruye cualquier sentimiento de cariño hacia estas escuelas. Cuando Mick y sus amigos se rebelan violentamente, el eslogan 'de qué lado estarías' se vuelve bastante claro."
+      "description": "En un análisis de la British Boys School, seguimos a Mick y sus amigos, en su mayoría más jóvenes, a través de una serie de indignidades y, en ocasiones, abusos a medida que se destruye cualquier sentimiento de cariño hacia estas escuelas. Cuando Mick y sus amigos se rebelan violentamente, el eslogan \"De qué lado estarías\" se vuelve bastante claro."
     },
     {
       "id": "tmdb:651",
@@ -325,9 +325,9 @@
     {
       "id": "tmdb:52555",
       "type": "movie",
-      "name": "Crónica de los Años de Fuego",
+      "name": "Crónica de los años de fuego",
       "poster": "http://127.0.0.1:8888/t/p/w500/rMIDJSkgX2A40jNRluXxExYeomo.jpg",
-      "description": "Festival de Cine de Cannes, 1975, Crónica de los años ardientes de Mohamed Lakhdar-Hamina recibe la Palma de Oro. Esta es la primera vez que una película africana. Crónica minuciosa de la evolución del movimiento nacional argelino desde 1939 hasta el estallido de la revolución el 1 de noviembre de 1954, la película demuestra inequívocamente que la \"Guerra de Argelia\" no es un accidente de la historia, sino un lento proceso de revueltas y sufrimiento. , ininterrumpidamente, desde el inicio de la colonización en 1830, hasta este \"Día de Todos los Santos Rojo\" del 1 de noviembre de 54. En seis capítulos, la película pinta el cuadro despiadado de la historia política y bélica de la Argelia colonial. En el centro, Ahmed despierta poco a poco a la conciencia política contra la colonización, bajo la mirada de su hijo, símbolo de la nueva Argelia, y de Miloud, medio loco arengador, medio profeta, encarnación de la memoria popular de la revuelta, de la liberación. de Argelia y su pueblo."
+      "description": "Crónica minuciosa de la evolución del movimiento nacional argelino desde 1939 hasta el estallido de la revolución el 1 de noviembre de 1954, la película demuestra inequívocamente que la Guerra de Argelia no es un accidente de la historia, sino un lento proceso de revueltas y sufrimiento. , ininterrumpidamente, desde el inicio de la colonización en 1830, hasta este Día de Todos los Santos Rojo del 1 de noviembre de 54. En el centro, Ahmed despierta poco a poco a la conciencia política contra la colonización, bajo la mirada de su hijo, símbolo de la nueva Argelia, y de Miloud, medio loco arengador, medio profeta, encarnación de la memoria popular de la revuelta, de la liberación. de Argelia y su pueblo."
     },
     {
       "id": "tmdb:103",
@@ -633,7 +633,7 @@
     {
       "id": "tmdb:265169",
       "type": "movie",
-      "name": "Winter Sleep (Sueño de invierno)",
+      "name": "Sueño de invierno",
       "poster": "http://127.0.0.1:8888/t/p/w500/y51wK57MWxxzJaMDUXBWDV2RlkU.jpg",
       "description": "Aydin, actor jubilado, dirige un hotelito en Anatolia central con la ayuda de su joven esposa, Nihal, de quien se encuentra alejado sentimentalmente, y de su hermana Necla, triste porque se acaba de divorciar. En invierno, a medida que la nieve va cubriendo la estepa, el hotel se convierte en su refugio y en el escenario de sus aflicciones..."
     },
@@ -682,7 +682,7 @@
     {
       "id": "tmdb:110155",
       "type": "movie",
-      "name": "Triángulo de Oro -  La Isla Fantasma",
+      "name": "Triángulo de oro",
       "poster": "http://127.0.0.1:8888/t/p/w500/zfCX30LfUuoqkn4Gook5YwQIi1S.jpg",
       "description": "Aventuras y desventuras en tierras caribeñas, donde un aventurero ira a una peligrosa isla que solo es visible desde cierto ángulo, pero que resulta invisible desde todos los demás ángulos."
     },

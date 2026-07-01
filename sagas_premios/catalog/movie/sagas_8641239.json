@@ -3,14 +3,14 @@
     {
       "id": "tmdb:71066",
       "type": "movie",
-      "name": "Robin de los bosques",
+      "name": "Robin de los Bosques",
       "poster": "http://127.0.0.1:8888/t/p/w500/baqMnZbAFPsfbaAOPRU1eJlCRdj.jpg",
-      "description": "Ricardo Corazón de León (Wallace Beery), rey amado y respetado por su pueblo, decide ir a las Cruzadas al frente de su ejército, dejando temporalmente a su hermano, el príncipe Juan (Sam De Grasse), como regente del trono. En ausencia de Ricardo, el príncipe y traicionero Juan gobierna despiadadamente con mano de hierro, convirtiendo Inglaterra en un lugar donde impera la crueldad y la violencia. A está tiranía hará frente el Conde de Huntington (Douglas Fairbanks), un valiente guerrero que, informado de la situación del país, pondrá en peligro su vida y honor para oponerse al traidor. Por ello, se verá fuera de la ley, teniendo que ejercer como el forajido Robin Hood, campeón de los débiles y oprimidos, que defenderá al pueblo frente al cruel príncipe Juan y tendrá que ocultarse en el bosque de Sherwood."
+      "description": "Ricardo Corazón de León, rey amado y respetado por su pueblo, decide ir a las Cruzadas al frente de su ejército, dejando temporalmente a su hermano, el príncipe Juan (Sam De Grasse), como regente del trono. En ausencia de Ricardo, el príncipe y traicionero Juan gobierna despiadadamente con mano de hierro, convirtiendo Inglaterra en un lugar donde impera la crueldad y la violencia. A está tiranía hará frente el Conde de Huntington, un valiente guerrero que, informado de la situación del país, pondrá en peligro su vida y honor para oponerse al traidor. Por ello, se verá fuera de la ley, teniendo que ejercer como el forajido Robin Hood, campeón de los débiles y oprimidos, que defenderá al pueblo frente al cruel príncipe Juan y tendrá que ocultarse en el bosque de Sherwood."
     },
     {
       "id": "tmdb:10907",
       "type": "movie",
-      "name": "Robin de los bosques",
+      "name": "Robin de los Bosques",
       "poster": "http://127.0.0.1:8888/t/p/w500/bCXYN015wb10UTPgXZxcd2RAjBI.jpg",
       "description": "Robin de Locksey regresa a Inglaterra tras combatir contra los infieles en las Cruzadas, pero Juan sin Tierra, el hermano del Rey Ricardo I, ha usurpado el trono y gobierna como un tirano, por lo que el noble sajón decide refugiarse en el bosque de Sherwood y luchar contra él para devolverle la corona a Ricardo."
     },
@@ -48,6 +48,13 @@
       "name": "Robin Hood. Príncipe de los ladrones",
       "poster": "http://127.0.0.1:8888/t/p/w500/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg",
       "description": "Robin Hood regresa a su país de origen, cansado tras haber pasado los últimos cinco años luchando en las Cruzadas. A su vuelta se topa con el terror de la población ante el gobierno déspota del hermano Juan del rey Ricardo Corazón de León, un tirano que está en el poder, aprovechando la ausencia de éste. El guerrero, ante esta situación, jura defender a los pobres y para ello se une a las bandas de proscritos que han tomado el bosque de Sherwood como su único hogar libre."
+    },
+    {
+      "id": "tmdb:30840",
+      "type": "movie",
+      "name": "Robin Hood el magnífico",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5rDA3NsWZJbeMRvKE5ujKyI5ULC.jpg",
+      "description": "Durante el siglo XII, Inglaterra aparece dividida por la rivalidad entre normandos y sajones. Por proteger a un cazador furtivo, el noble Robert Hose se enfrenta a un normando y pierde sus tierras y su derecho al trono. A partir de entonces, oculta su identidad bajo el nombre de Robin Hood y se dispone a liberar a su amada Marian del matrimonio con su más odiado enemigo."
     },
     {
       "id": "tmdb:20662",

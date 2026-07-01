@@ -3,21 +3,21 @@
     {
       "id": "tmdb:162339",
       "type": "movie",
-      "name": "Die Vier im Jeep",
+      "name": "Cuatro en jeep",
       "poster": "http://127.0.0.1:8888/t/p/w500/4EXW9dsqJc0V2KkKjpZYIoH5hO8.jpg",
       "description": ""
     },
     {
       "id": "tmdb:162344",
       "type": "movie",
-      "name": "Sans laisser d'adresse",
+      "name": "Sin dejar dirección",
       "poster": "http://127.0.0.1:8888/t/p/w500/y0bsxvBSQWa4ZnDPjVsHxVxRc5J.jpg",
       "description": ""
     },
     {
       "id": "tmdb:162352",
       "type": "movie",
-      "name": "Beaver Valley",
+      "name": "En el valle de los castores",
       "poster": "http://127.0.0.1:8888/t/p/w500/nigDG3sIktwbQuOoXORhKoC8TPT.jpg",
       "description": ""
     },
@@ -73,7 +73,7 @@
     {
       "id": "tmdb:389",
       "type": "movie",
-      "name": "12 hombres sin piedad",
+      "name": "Doce hombres sin piedad",
       "poster": "http://127.0.0.1:8888/t/p/w500/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
       "description": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás."
     },
@@ -129,7 +129,7 @@
     {
       "id": "tmdb:8072",
       "type": "movie",
-      "name": "Alphaville (Lemmy contra Alphaville)",
+      "name": "Alphaville",
       "poster": "http://127.0.0.1:8888/t/p/w500/ymE2nnxd1XH9yMaHG1EWVHOZ1b1.jpg",
       "description": "A Alphaville, una ciudad futurista situada en otro planeta, llega el periodista Ivan Johnson, siguiendo la pista del profesor Von Braun. Los otros agentes que le han precedido, Dick Tracy y Flash Gordon, han muerto. Von Braun, apodado Nosferatu, es el creador de Alpha 60, la máquina que comanda la vida mental de los habitantes de la ciudad."
     },
@@ -248,9 +248,9 @@
     {
       "id": "tmdb:130544",
       "type": "movie",
-      "name": "Palermo o Wolfsburg",
+      "name": "Palermo o Wolfsburgo",
       "poster": "http://127.0.0.1:8888/t/p/w500/oasIw6YqAJ9BssUcDgActphDDw6.jpg",
-      "description": "Lo primero que llama la atención es la austeridad casi documental con que Schroeter encara la parte inicial del relato, ambientada en un pequeño y paupérrimo pueblo de Sicilia. Schroeter va dando una visión bucólica de esa gente y su tierra, de sus ritos y tradiciones, pero no deja de señalar la miseria y falta de trabajo que los empuja a emigrar a Alemania. Con el viaje de Nicola hacia Wolfsburg, donde está ubicada la fábrica automotriz Wolkswagen, se inicia la segunda parte, tremendamente crítica para con la sociedad alemana, en donde Schroeter va descubriendo paulatinamente signos de indiferencia, violencia y racismo. La tercera y última parte de Desarraigo se concentra en el juicio al que Nicola es sometido, acusado de asesinar a dos hombres. Aquí, poco a poco Schroeter se va desprendiendo del tono realista que imprimió a las dos primeras partes del film y recurre a una puesta en escena operística."
+      "description": "Lo primero que llama la atención es la austeridad casi documental con que Schroeter encara la parte inicial del relato, ambientada en un pequeño y paupérrimo pueblo de Sicilia. Schroeter va dando una visión bucólica de esa gente y su tierra, de sus ritos y tradiciones, pero no deja de señalar la miseria y falta de trabajo que los empuja a emigrar a Alemania. Con el viaje de Nicola hacia Wolfsburgo, donde está ubicada la fábrica automotriz Wolkswagen, se inicia la segunda parte, tremendamente crítica para con la sociedad alemana, en donde Schroeter va descubriendo paulatinamente signos de indiferencia, violencia y racismo. La tercera y última parte de Desarraigo se concentra en el juicio al que Nicola es sometido, acusado de asesinar a dos hombres. Aquí, poco a poco Schroeter se va desprendiendo del tono realista que imprimió a las dos primeras partes del film y recurre a una puesta en escena operística."
     },
     {
       "id": "tmdb:47211",
@@ -262,14 +262,14 @@
     {
       "id": "tmdb:2262",
       "type": "movie",
-      "name": "La ansiedad de Verónika Voss",
+      "name": "La ansiedad de Veronika Voss",
       "poster": "http://127.0.0.1:8888/t/p/w500/gmQ5iznhtYYRz3TxmkpsUIkJkDA.jpg",
       "description": "Una famosa actriz alemana en el ocaso de su carrera recurre al alcohol y a las drogas con la esperanza de recuperar la fama perdida. Ésta es la última parte de la trilogía de Fassbinder sobre el desmoronamiento de los sueños de la Alemania Occidental de la posguerra."
     },
     {
       "id": "tmdb:163143",
       "type": "movie",
-      "name": "Ascendancy",
+      "name": "Ascendencia",
       "poster": "http://127.0.0.1:8888/t/p/w500/4y5TZvjHqin3NjSky3pbL7UKeec.jpg",
       "description": ""
     },
@@ -304,14 +304,14 @@
     {
       "id": "tmdb:52327",
       "type": "movie",
-      "name": "Stammheim, el proceso",
+      "name": "Stammheim. El proceso",
       "poster": "http://127.0.0.1:8888/t/p/w500/neFrkGrwWYGUvIG5bGmd9UIx3Jr.jpg",
       "description": "Narración del proceso judicial contra los dirigentes de la Fracción del Ejército Rojo (RAF / Baader-Meinhoff), a partir de las transcripciones del juicio."
     },
     {
       "id": "tmdb:131349",
       "type": "movie",
-      "name": "The Theme",
+      "name": "Tema",
       "poster": "http://127.0.0.1:8888/t/p/w500/uv3UfQceKtEooXdtTiVAr5a4SmO.jpg",
       "description": ""
     },
@@ -332,7 +332,7 @@
     {
       "id": "tmdb:2263",
       "type": "movie",
-      "name": "La Caja De Música",
+      "name": "La caja de música",
       "poster": "http://127.0.0.1:8888/t/p/w500/wfvsuNn6Y0jV5ETnf80Ir4PP8ht.jpg",
       "description": "Mike Laszlo, un inmigrante húngaro que lleva viviendo pacíficamente en los Estados Unidos desde hace más de 40 años, se ve implicado en un proceso en el que se le acusa de haber sido un criminal nazi durante la II Guerra Mundial. La hija de Mike, Ann, una exitosa abogada, se encargará de defender a su padre con todas sus fuerzas. Mike asegura que es víctima de un complot comunista, pero a medida que avance el proceso, las dudas irán asaltando a Ann."
     },
@@ -353,21 +353,21 @@
     {
       "id": "tmdb:13697",
       "type": "movie",
-      "name": "Grand Canyon (El alma de la ciudad)",
+      "name": "El alma de la ciudad",
       "poster": "http://127.0.0.1:8888/t/p/w500/gpqLukoUXAXkyMZ0jPSuAbWf5Nx.jpg",
       "description": "Seis personas intentan sobrevivir a la violencia y a la deshumanización de una gran ciudad como Los Ángeles. Esa atmósfera insana influye decisivamente en la vida de cada uno de ellos. Las vidas de estos personajes se cruzan de manera inesperada"
     },
     {
       "id": "tmdb:162841",
       "type": "movie",
-      "name": "Women from the Lake of Scented Souls",
+      "name": "Mujer fabricante de aceite de sésamo",
       "poster": "http://127.0.0.1:8888/t/p/w500/5qYGn0rPYAD38bjsKvn9SzxC5er.jpg",
       "description": ""
     },
     {
       "id": "tmdb:9261",
       "type": "movie",
-      "name": "El Banquete de Boda",
+      "name": "El banquete de boda",
       "poster": "http://127.0.0.1:8888/t/p/w500/nt7qIzjnVXCOKlsltuzKzjNddH3.jpg",
       "description": "Simon y Wai-Tung son dos gays que viven juntos en Manhattan. Para disipar las sospechas de los padres de Wai-Tung, Simon sugiere que organice una boda de conveniencia con Wei-Wei, una joven inmigrante que necesita la carta verde de inmigración para poder permanecer en los Estados Unidos. Pero cuando los padres de Wai-Tung llegan a Nueva York insisten en organizar el banquete, lo que traerá muchas complicaciones."
     },
@@ -416,7 +416,7 @@
     {
       "id": "tmdb:274868",
       "type": "movie",
-      "name": "The Tic Code",
+      "name": "El código Tic",
       "poster": "http://127.0.0.1:8888/t/p/w500/gFpeuxEjGZkyOtKJpUeDB4YfpWk.jpg",
       "description": ""
     },
@@ -451,9 +451,9 @@
     {
       "id": "tmdb:36791",
       "type": "movie",
-      "name": "In This World",
+      "name": "En este mundo",
       "poster": "http://127.0.0.1:8888/t/p/w500/hrbdNQSs2uQrpkSiVJEfEqnuLRz.jpg",
-      "description": "\"In This World\" de Michael Winterbottom sigue al joven afgano Jamal y su primo mayor Enayat mientras se embarcan en un peligroso viaje por tierra desde su campamento de refugiados en Peshawar, al noroeste de Pakistán. Al entrar en Turquía a pie a través de un paso cubierto de nieve y controlado por los kurdos, la pareja vuelve a tomarse la vida en sus manos y se asfixia cuando están encerrados en un contenedor de carga en un barco con destino a Italia. Desde allí planean viajar a París, al refugio de Sangatte y, finalmente, a Londres."
+      "description": "Un joven afgano Jamal y su primo mayor Enayat se embarcan en un peligroso viaje por tierra desde su campamento de refugiados en Peshawar, al noroeste de Pakistán. Al entrar en Turquía a pie a través de un paso cubierto de nieve y controlado por los kurdos, la pareja vuelve a tomarse la vida en sus manos y se asfixia cuando están encerrados en un contenedor de carga en un barco con destino a Italia. Desde allí planean viajar a París, al refugio de Sangatte y, finalmente, a Londres (Reino Unido)."
     },
     {
       "id": "tmdb:363",
@@ -472,7 +472,7 @@
     {
       "id": "tmdb:317",
       "type": "movie",
-      "name": "Grbavica: El secreto de Esma",
+      "name": "Grbavica. El secreto de Esma",
       "poster": "http://127.0.0.1:8888/t/p/w500/xmvWXXTHso7x0zj8pY4WOOqa5BO.jpg",
       "description": "Esma quiere que su hija Sara, de doce años, tenga la oportunidad de participar en un viaje organizado por el colegio. Bastaría con un certificado probando que su padre murió como un mártir durante la guerra para que saliese a mitad de precio, pero Esma siempre da largas a Sara cuando esta le pide el certificado. Al parecer, prefiere remover cielo y tierra para encontrar el dinero y pagar el precio del viaje. Está convencida de que se protege a sí misma y a su hija si no le cuenta la verdad..."
     },
@@ -507,9 +507,9 @@
     {
       "id": "tmdb:60243",
       "type": "movie",
-      "name": "Nader y Simin, una separación",
+      "name": "Nader y Simin. Una separación",
       "poster": "http://127.0.0.1:8888/t/p/w500/odNNz4TdmaNv6as8kgato0pyHTO.jpg",
-      "description": "Nader (Peyman Moaadi) y Simin (Leila Hatami) son un matrimonio iraní con una hija. Simin quiere abandonar Irán en busca de una vida mejor, pero Nader, que desea quedarse para cuidar a su padre, que tiene Alzheimer, le pide el divorcio. Como no lo consigue, se muda a vivir con sus padres y contrata a una mujer para que le ayude a cuidar a su padre. Un día, al llegar a casa, encuentra al anciano atado a la cama; a partir de ese momento, su vida dará un vuelco."
+      "description": "Nader y Simin son un matrimonio iraní con una hija. Simin quiere abandonar Irán en busca de una vida mejor, pero Nader, que desea quedarse para cuidar a su padre, que tiene Alzheimer, le pide el divorcio. Como no lo consigue, se muda a vivir con sus padres y contrata a una mujer para que le ayude a cuidar a su padre. Un día, al llegar a casa, encuentra al anciano atado a la cama; a partir de ese momento, su vida dará un vuelco."
     },
     {
       "id": "tmdb:96821",

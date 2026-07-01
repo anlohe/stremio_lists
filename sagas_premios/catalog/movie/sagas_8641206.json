@@ -24,14 +24,14 @@
     {
       "id": "tmdb:1884",
       "type": "movie",
-      "name": "La aventura de los Ewoks",
+      "name": "La aventura de los ewoks",
       "poster": "http://127.0.0.1:8888/t/p/w500/tnDvyPj55BoxyLPOgkLDGTL3VAE.jpg",
       "description": "Los miembros de la familia Towani se ven separados cuando su nave choca en la superficie de la luna de Endor. Los padres no tardan en ser capturados por el gigante Gorax, mientras que su hijo Mace y su hija Cincel están desaparecidos. Los Ewoks encuentran a los niños en los restos de la nave, y éstos deberán ganarse la confianza de los pequeños habitantes de Endor para iniciar la aventura de rescatar a sus padres"
     },
     {
       "id": "tmdb:10372",
       "type": "movie",
-      "name": "La batalla del planeta de los Ewoks",
+      "name": "La batalla del planeta de los ewoks",
       "poster": "http://127.0.0.1:8888/t/p/w500/or2IqyxJiaGL3AFGK45JQjXdlL2.jpg",
       "description": "Un ejército de merodeadores, bajo las órdenes del Rey Terak y la bruja Charal, atacan el Poblado Ewok. Cindel y Wicket huyen al bosque, donde se encuentran con Teek y el ermitaño Noa. Cindel y Wicket necesitarán la ayuda de Noa para derrotar a los merodeadores..."
     },
@@ -61,12 +61,12 @@
       "type": "movie",
       "name": "Star Wars: El despertar de la fuerza",
       "poster": "http://127.0.0.1:8888/t/p/w500/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
-      "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja."
+      "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte, la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja."
     },
     {
       "id": "tmdb:330459",
       "type": "movie",
-      "name": "Rogue One: Una historia de Star Wars",
+      "name": "Rogue One",
       "poster": "http://127.0.0.1:8888/t/p/w500/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
       "description": "El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine."
     },
@@ -81,7 +81,7 @@
       "id": "tmdb:348350",
       "type": "movie",
       "name": "Han Solo: Una historia de Star Wars",
-      "poster": "http://127.0.0.1:8888/t/p/w500/44pBWKtUQNc0zDat1PX1pOGVNtV.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zBKHsO4kCIZOT8hRlGagKDL8sSF.jpg",
       "description": "Precuela de la saga Star Wars, en la que se conocerán los primeros pasos que dio el personaje de Han Solo, desde joven hasta convertirse en el antihéroe que vimos en \"Una nueva esperanza\", antes de que se encontrase con Luke y Obi-Wan en la cantina de Mos Eisley."
     },
     {
@@ -89,7 +89,7 @@
       "type": "movie",
       "name": "Star Wars: El ascenso de Skywalker",
       "poster": "http://127.0.0.1:8888/t/p/w500/oeQxq6If4DcW6ADIYCF9SQwKov.jpg",
-      "description": "Un año después de los eventos de \"Los últimos Jedi\", los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo. Final de la trilogía iniciada con \"El despertar de la Fuerza\"."
+      "description": "Los restos de la Resistencia se enfrentan una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo."
     },
     {
       "id": "tmdb:1228710",

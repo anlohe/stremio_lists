@@ -10,14 +10,14 @@
     {
       "id": "tmdb:955",
       "type": "movie",
-      "name": "Misión imposible 2",
+      "name": "Misión imposible II",
       "poster": "http://127.0.0.1:8888/t/p/w500/mskE3W88cjMRrnKQye8pjmJu3O1.jpg",
       "description": "El agente especial Ethan Hunt tiene una nueva misión: evitar que un despiadado ex-agente y ahora terrorista internacional se haga con un virus mortal que podría soltar sobre Australia causando millones de víctimas. Para evitarlo, contará otra vez con la inestimable ayuda del genio informático Luther Stickell, del experto conductor Billy Baird y de la presencia de la sensual y exótica ladrona internacional Nhye, que en el pasado mantuvo una relación sentimental con el criminal y que ahora se siente atraída por Hunt."
     },
     {
       "id": "tmdb:956",
       "type": "movie",
-      "name": "Misión imposible 3",
+      "name": "Misión imposible III",
       "poster": "http://127.0.0.1:8888/t/p/w500/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg",
       "description": "Tras haber llevado a cabo diversas misiones, el agente especial Ethan Hunt se ha retirado del servicio activo y se ha prometido con su amada Julia. Pero, cuando es secuestrado uno de los agentes entrenados por él, volverá de nuevo a la acción. También tendrá que enfrentarse a Owen Davian, un individuo sin escrúpulos que trafica con armas y con información."
     },
@@ -54,7 +54,7 @@
       "type": "movie",
       "name": "Misión: Imposible - Sentencia final",
       "poster": "http://127.0.0.1:8888/t/p/w500/mKK7cVNg4mQmKl0Qry9fvr5AqP7.jpg",
-      "description": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como \"the Entity\"."
+      "description": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como La Entidad."
     }
   ]
 }

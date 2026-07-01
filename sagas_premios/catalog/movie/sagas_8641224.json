@@ -3,7 +3,7 @@
     {
       "id": "tmdb:225914",
       "type": "movie",
-      "name": "Spider-Man: El hombre araña",
+      "name": "Spider-Man. El hombre araña",
       "poster": "http://127.0.0.1:8888/t/p/w500/tmanXLJH0MjXGXUyakM0F4MtHaa.jpg",
       "description": "Una extraña ola de crímenes está teniendo lugar en Nueva York. Un extraño personaje controla las mentes de personas anónimas y respetables obligándolas a comportarse como vulgares criminales. Peter Parker es un joven estudiante a punto de doctorarse, por accidente una araña radioactiva le muerde en la mano y le dota de una fuerza y agilidad sobrehumana además de la capacidad de trepar por las paredes. La hija de uno de los detenidos por los robos, Judy Tyler, entra en la vida de Peter cuando este está sacando fotos para el periódico donde trabaja. Al ver que la gente a su alrededor e incluso toda la ciudad está en peligro, decide crearse un disfraz para detener al villano evitando un chantaje de millones de dólares. Gracias a sus recién adquiridos poderes podrá plantar cara a tan peligrosa amenaza."
     },
@@ -17,14 +17,14 @@
     {
       "id": "tmdb:166890",
       "type": "movie",
-      "name": "El increíble Hulk: Muerte en la familia",
+      "name": "El increíble Hulk II. Muerte en la familia",
       "poster": "http://127.0.0.1:8888/t/p/w500/8p1v6XyUUBES5kCWxNyAdEGkcfq.jpg",
       "description": "El Dr. David Banner trata de ayudar a una familia donde la hija tiene una discapacidad para caminar. De ahí en más se van sucediendo los hechos que desencadenan un trágico final."
     },
     {
       "id": "tmdb:225925",
       "type": "movie",
-      "name": "Spider-Man 2: El Hombre Araña en acción",
+      "name": "Spider-Man II. El hombre araña en acción",
       "poster": "http://127.0.0.1:8888/t/p/w500/5x12ApRXuYnG4SJQOwEW4Fwesp3.jpg",
       "description": "Unos estudiantes de ciencias de la universidad roban plutonio para construir una bomba y denunciar públicamente lo fácil que es hacerse con el material. Su intención no es explotarla, sino conseguir publicidad. Es entonces cuando el villano aparece con sus secuaces y roban la bomba. Peter Parker deberá impedir que logren hacerla estallar en pleno Nueva York."
     },
@@ -38,9 +38,9 @@
     {
       "id": "tmdb:79989",
       "type": "movie",
-      "name": "El increíble Hulk: Casado",
+      "name": "El increíble Hulk III. La boda del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
-      "description": "Película realizada para televisión de forma paralela a la serie de televisión (que contaba con el mismo reparto), en la que Hulk consigue curarse y se casa. Tras su emisión, la película fue partida en dos trozos y emitida como si fuesen los dos primeros capítulos de la segunda temporada de la serie."
+      "description": "Bruce Banner se casa en Hawái con una científica estadounidense que le ayudará a buscar una solución a su problema. El protagonista busca en Hawái a una reputada neuróloga con experiencia en la hipnoterapia para que le ayude a evitar sus metamorfosis, ella también se trata a sí misma para un mortal problema fisiológico de regeneración celular. Ambos se ayudan mutuamente con sus respectivas dolencias hasta que la camaradería acabe en amor y éste en matrimonio. Al final, ella muere por su enfermedad."
     },
     {
       "id": "tmdb:197467",
@@ -59,28 +59,28 @@
     {
       "id": "tmdb:225938",
       "type": "movie",
-      "name": "Spider-Man: El desafío del Dragón",
+      "name": "Spider-Man III. El desafío del dragón",
       "poster": "http://127.0.0.1:8888/t/p/w500/zeTClYV0sFdr1s6AKJ7xhw9JlQu.jpg",
       "description": "Min Lo Chan, Ministro de Desarrollo Industrial de la República Popular China, ha sido acusado falsamente de vender secretos militares a los Estados Unidos durante la II Guerra Mundial (1939-1945). Decide entonces ir a Nueva York con el fin de reunir pruebas que le ayuden a recuperar su buen nombre. Le pide ayuda a su viejo amigo, el periodista J. Jonah Jameson, para encontrar a tres marines americanos que pueden probar su inocencia. Mientras tanto, en Hong Kong, un acaudalado industrial trabaja en un proyecto muy ambicioso relacionado con el acero, cuyo éxito depende de la eliminación de Min."
     },
     {
       "id": "tmdb:10658",
       "type": "movie",
-      "name": "Howard, un nuevo héroe",
+      "name": "Howard. Un nuevo héroe",
       "poster": "http://127.0.0.1:8888/t/p/w500/sRidv4QitkAKDzgwOdRrVDJuWNG.jpg",
       "description": "Desde un lejano planeta, y debido a un error de un laboratorio espacial, llega a La Tierra teletransportado un extraño personaje, un pato que dice llamarse Howard. Es acogido en casa de Beberly, una joven que es vocal de un grupo de rock. Cuando el doctor Jenin intenta devolverle a su planeta, la energia diabólica del experimento le atrapa, transformandole en el terrible Señor de las Tinieblas y Howard tendrá que enfrentarse a él."
     },
     {
       "id": "tmdb:26881",
       "type": "movie",
-      "name": "El regreso del increíble Hulk",
+      "name": "El increíble Hulk IV. El regreso del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/53VfrSubC968oNmhflchPkVYlQf.jpg",
       "description": "El doctor Banner cree haber desarrollado una cura para evitar su transformación en Hulk para siempre, pero todo se complica cuando la tumba de un guerrero nórdico, el poderoso rey Thor, es profanada y con él una terrible amenaza se cierne sobre la sociedad. Mientras tanto el periodista Jack Colvin intentará descubrir la verdad sobre la terrible bestia verde."
     },
     {
       "id": "tmdb:26883",
       "type": "movie",
-      "name": "El juicio del increíble Hulk",
+      "name": "El increíble Hulk V. El juicio del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
       "description": "El doctor Banner es detenido por ser culpable de provocar una pelea en el metro. Le asignan un abogado ciego llamado Matt Murdock, pero durante el juicio la ira le domina y se convierte en Hulk y escapa. Murdock decide revelar su secreto a Banner, es ciego debido a una radiación tóxica pero ha desarrollado un sentido extrasensorial y por las noches se convierte en Daredevil."
     },
@@ -94,9 +94,9 @@
     {
       "id": "tmdb:19593",
       "type": "movie",
-      "name": "La muerte de La Masa",
+      "name": "El increíble Hulk VI. La muerte del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/kEO2QQFpNMHI1TYrNw1zR56syDg.jpg",
-      "description": "La Muerte del Increíble Hulk es una película estadounidense de superhéroes de 1990, la última de las tres películas de renacimiento basadas en la serie de televisión de 1978-1982. Bill Bixby repite su papel como el Dr. David Banner y Lou Ferrigno regresa para interpretar a Hulk. Fue filmada en Vancouver, Columbia Británica, Canadá. Antes de la muerte de Bill Bixby en 1993, se habló de una futura película para televisión que resucitaría al personaje."
+      "description": "Bruce Banner se somete al experimento de un laboratorio para deshacerse finalmente de Hulk, sin embargo, la entrada en acción de una espía supondrá la vida o la muerte del protagonista."
     },
     {
       "id": "tmdb:13995",
@@ -136,14 +136,14 @@
     {
       "id": "tmdb:607",
       "type": "movie",
-      "name": "Men in Black",
+      "name": "Hombres de negro",
       "poster": "http://127.0.0.1:8888/t/p/w500/8HHIw2ZCyFp26EpZC8BW5jGP7kd.jpg",
-      "description": "Un agente de policía se une a una organización secreta que controla y monitoriza la actividad extraterrestre en la Tierra."
+      "description": "Los hombres de negro son agentes especiales cuya misión consiste en controlar a los alienígenas, aquí deberán hacer frente al extraterrestre Edgar el Insecto para que no se apropie de la galaxia de otra especie."
     },
     {
       "id": "tmdb:27460",
       "type": "movie",
-      "name": "Nick Furia, operación Manhattan",
+      "name": "Objetivo Manhattan. Nick Furia. Agente de S.H.I.E.L.D.",
       "poster": "http://127.0.0.1:8888/t/p/w500/4T0YjvnBaMASZkkRKxMIe6IoWO0.jpg",
       "description": "El coronel Nick Fury, militar desterrado por el gobierno norteamericano tras la Guerra Fría, es reclamado por el departamento de defensa de Estados Unidos para hacer frente a la amenaza de Hydra, cabecilla de un peligroso grupo terrorista que ha amenazado con derramar un virus mortal sobre la isla de Manhattan."
     },
@@ -192,7 +192,7 @@
     {
       "id": "tmdb:36658",
       "type": "movie",
-      "name": "X-Men 2",
+      "name": "X-Men II",
       "poster": "http://127.0.0.1:8888/t/p/w500/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg",
       "description": "Los mutantes son seres humanos con alguna variación genética que les dota de características especiales. También son la más moderna minoría perseguida del mundo. En medio de un clima de rabia y persecución, el profesor Xavier ha creado un instituto, un refugio, para estos seres poderosos. En este lugar los iniciados son preparados para aceptar y dominar sus habilidades, y ponerlas al servicio de la tolerancia y el combate contra la creciente histeria colectiva que está amenazando con su existencia. Pero la reputación de los mutantes será todavía peor cuando uno de ellos lanza un devastador ataque, lo que causa una pública recriminación hacia todos ellos y nuevos poderes para la Mutant Registration Act y William Stryker, un líder militar que pretende acabar con todos ellos centrándose en la escuela de X-Men."
     },
@@ -208,19 +208,19 @@
       "type": "movie",
       "name": "The Punisher (El castigador)",
       "poster": "http://127.0.0.1:8888/t/p/w500/bXEjRdWopGO4RhUlX0wdxMTT0Os.jpg",
-      "description": "Frank Castle (Thomas Jane) es un agente secreto del FBI que hasta el momento ha logrado una carrera intachable. Frank también es un ex operativo de las Fuerzas Especiales. Finalmente sale del campo de batalla para trabajar en una oficina y así poder tener una vida normal con su esposa e hijo. Será entonces cuando el mundo de Frank se viene abajo por el peor temor que siempre tuvo: Su familia es ejecutada como repercusión de su último trabajo. Ahora Castle busca castigar a los asesinos, para encontrar al final lo que menos esperaba: La redención."
+      "description": "Frank Castle es un agente secreto del FBI que hasta el momento ha logrado una carrera intachable. Frank también es un ex operativo de las Fuerzas Especiales. Finalmente sale del campo de batalla para trabajar en una oficina y así poder tener una vida normal con su esposa e hijo. Será entonces cuando el mundo de Frank se viene abajo por el peor temor que siempre tuvo: Su familia es ejecutada como repercusión de su último trabajo. Ahora Castle busca castigar a los asesinos, para encontrar al final lo que menos esperaba, la redención."
     },
     {
       "id": "tmdb:558",
       "type": "movie",
       "name": "Spider-Man 2",
       "poster": "http://127.0.0.1:8888/t/p/w500/tGYrkVuskQKyRZ9WRS6wPTPBJpm.jpg",
-      "description": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumiendo sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus, \"Doc Ock\"."
+      "description": "Han pasado dos años desde que el tranquilo Peter Parker dejó a Mary Jane Watson, su gran amor, y decidió seguir asumiendo sus responsabilidades como Spider-Man. Peter debe afrontar nuevos desafíos mientras lucha contra el don y la maldición de sus poderes equilibrando sus dos identidades: el escurridizo superhéroe Spider-Man y el estudiante universitario. Las relaciones con las personas que más aprecia están ahora en peligro de ser descubiertas con la aparición del poderoso villano de múltiples tentáculos Doctor Octopus."
     },
     {
       "id": "tmdb:36648",
       "type": "movie",
-      "name": "Blade Trinity",
+      "name": "Blade III. Trinity",
       "poster": "http://127.0.0.1:8888/t/p/w500/8GiUVbr73cHe68d4ybpxDbeReZP.jpg",
       "description": "Durante años, Blade ha luchado contra los vampiros sin que el mundo supiera lo que sucedía en los bajos fondos. Pero ahora, tras caer en las redes del FBI, se ve forzado a salir a la luz del día para unir sus fuerzas con un clan de humanos cazadores de vampiros que nunca supo que existían, los Nightstalkers. Junto a Abigail y Hannibal, Blade sigue la pista de una Antigua criatura que lo está acechando el vampiro original: Drácula."
     },
@@ -234,30 +234,30 @@
     {
       "id": "tmdb:18882",
       "type": "movie",
-      "name": "Man-Thing - La naturaleza del miedo",
+      "name": "Hombre Cosa. La naturaleza del miedo",
       "poster": "http://127.0.0.1:8888/t/p/w500/5ZSmHFIgf00WFs0s1tiaqaXnze7.jpg",
       "description": "Kyle Williams creía que encargarse del puesto de sheriff en la tranquila ciudad de Bywater sería exactamente el cambio de vida que necesitaba. Aire fresco, paz y calma, una ciudad a la que los autóctonos denominaban orgullosamente \"el paraíso de los amantes del pantato\" parecía ser el lugar perfecto. Pero la plácida ciudad no es lo que parece. Mientras investiga una serie de espeluznantes asesinatos, Kyle descubre que los nativos esconden un escalofriante secreto. En lo más profundo de las aguas pantanosas, hay algo que está matando a su gente."
     },
     {
       "id": "tmdb:9738",
       "type": "movie",
-      "name": "Los Cuatro fantásticos",
+      "name": "Los Cuatro Fantásticos",
       "poster": "http://127.0.0.1:8888/t/p/w500/l3Yk65bVdgiMOMeK6O8aZxEBt5J.jpg",
       "description": "El ambicioso Von Doom patrocina un viaje de exploración científica  del espacio, en el que participan él mismo y cuatro tripulantes. Todo discurre sin incidentes, hasta que detectan un error de cálculo en la velocidad con la que se les acerca una tormenta. En unos minutos, el umbral de este fenómeno atmosférico está sobre ellos. La estación espacial se ve engullida por turbulentas nubes de radiación cósmica que cambian el genoma de la tripulación. Su ADN se ve irrevocablemente alterado.... y ése va a ser su futuro. De regreso a la Tierra, los efectos de la exposición muestran rápidamente sus primeros síntomas brindando a cada uno de ellos poderes sobrenaturales, convirtiéndose en Los Cuatro Fantásticos: Míster Fantástico, La Chica Invisible, La Antorcha Humana y La Cosa."
     },
     {
       "id": "tmdb:36668",
       "type": "movie",
-      "name": "X-Men: La decisión final",
+      "name": "X-Men III. La decisión final",
       "poster": "http://127.0.0.1:8888/t/p/w500/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg",
-      "description": "En X-Men: La decisión final, el último capítulo de la trilogía cinematográfica de los \"X-Men\", hay una \"cura\" para los mutantes que amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: seguir con su singularidad, aunque eso les aísle y les separe, o renunciar a sus poderes y convertirse en seres humanos normales. Los opuestos puntos de vista de los líderes mutantes, Charles Xavier, que aboga por la tolerancia, y Magneto, que cree en la supervivencia de los más aptos, se ven sometidos a la prueba definitiva: desencadenar la guerra que pondrá fin a todas las guerras..."
+      "description": "Hay una cura para los mutantes que amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: seguir con su singularidad, aunque eso les aísle y les separe, o renunciar a sus poderes y convertirse en seres humanos normales. Los opuestos puntos de vista de los líderes mutantes, Charles Xavier, que aboga por la tolerancia, y Magneto, que cree en la supervivencia de los más aptos, se ven sometidos a la prueba definitiva: desencadenar la guerra que pondrá fin a todas las guerras."
     },
     {
       "id": "tmdb:1250",
       "type": "movie",
-      "name": "Ghost Rider: El motorista fantasma",
+      "name": "Ghost Rider. El motorista fantasma",
       "poster": "http://127.0.0.1:8888/t/p/w500/5GHGotbrKQOj1z39hmOUHh8pYjP.jpg",
-      "description": "Adaptación del famoso cómic de la Marvel. Hace mucho tiempo, la superestrella de las acrobacias en moto, Johnny Blaze (Nicolas Cage) hizo un trato con el diablo para proteger a los que más quería: su padre y su novia de la juventud, Roxanne (Eva Mendes). Ahora, el diablo ha venido a cobrar su deuda. De día, Johnny es un motero acróbata temerario... pero de noche, en presencia del diablo, se convierte en Ghost Rider, un cazarecompensas de demonios deshonestos. Obligado a hacer la voluntad del diablo, Johnny está decidido a enfrentarse a su destino y utilizar su maldición y sus poderes para defender al inocente..."
+      "description": "Hace mucho tiempo, la superestrella de las acrobacias en moto, Johnny Blaze hizo un trato con el diablo para proteger a los que más quería: su padre y su novia de la juventud, Roxanne. Ahora, el diablo ha venido a cobrar su deuda. De día, Johnny es un motero acróbata temerario... pero de noche, en presencia del diablo, se convierte en Ghost Rider, un cazarecompensas de demonios deshonestos. Obligado a hacer la voluntad del diablo, Johnny está decidido a enfrentarse a su destino y utilizar su maldición y sus poderes para defender al inocente."
     },
     {
       "id": "tmdb:559",
@@ -269,7 +269,7 @@
     {
       "id": "tmdb:1979",
       "type": "movie",
-      "name": "Los 4 fantásticos y Silver Surfer",
+      "name": "Los Cuatro Fantásticos II. Silver Surfer",
       "poster": "http://127.0.0.1:8888/t/p/w500/pRXgCDTRKEIUy5cySYA4zC5to5B.jpg",
       "description": "La primera familia de superhéroes de Marvel, los Cuatro Fantásticos, se enfrentan a su mayor reto hasta la fecha cuando un enigmático heraldo intergaláctico, Estela Plateada, llega a la Tierra para prepararla para su destrucción. Mientras Estela Plateada recorre el mundo sembrando la destrucción, Reed, Sue, Johnny y Ben deben desentrañar el misterio de dicho personaje, y hacer frente al sorprendente regreso de su mortal enemigo el Doctor Muerte, antes de perder toda esperanza..."
     },
@@ -290,16 +290,16 @@
     {
       "id": "tmdb:13056",
       "type": "movie",
-      "name": "Punisher 2: Zona de guerra",
+      "name": "Punisher. Zona de guerra",
       "poster": "http://127.0.0.1:8888/t/p/w500/8X2r09vhgGc4dk0Es3jr2gFSD8o.jpg",
-      "description": "Película basada en el anti-héroe de Marvel Frank Castle, también conocido como \"El castigador\". Continuando su cruzada para castigar a criminales violentos en América, el agente del FBI Frank Castle (Ray Stevenson), llega a Nueva York en busca de un jefe que controla los bajos fondos de la ciudad."
+      "description": "Un exagente de FBI castiga a los criminales violentos bajo los bajos fondos de Nueva York (Estados Unidos) como venganza a la trágica y dolorosa muerte de su familia."
     },
     {
       "id": "tmdb:2080",
       "type": "movie",
       "name": "X-Men orígenes: Lobezno",
       "poster": "http://127.0.0.1:8888/t/p/w500/k2wFS6LAYDjOdSAtRc1Ey7roB4G.jpg",
-      "description": "Precuela de la película X-Men. Situada 17 años antes, narra los inicios del arma X y la forma en la que Wolverine se convirtió en mutante. Logan, convertido en un mutante que se hace llamar Wolverine, y que es capaz de sacar unas afiladas garras y de una fuerza y agilidad sobrehumana, ultima su venganza contra Victor Creed, culpable de la muerte de su novia. Mientras tanto, otros mutantes se acogen al programa X para unir sus fuerzas."
+      "description": "Narra los inicios del arma X y la forma en la que Wolverine se convirtió en mutante. Logan, convertido en un mutante que se hace llamar Lobezno, y que es capaz de sacar unas afiladas garras y de una fuerza y agilidad sobrehumana, ultima su venganza contra Victor Creed, culpable de la muerte de su novia. Mientras tanto, otros mutantes se acogen al programa X para unir sus fuerzas."
     },
     {
       "id": "tmdb:32985",
@@ -327,12 +327,12 @@
       "type": "movie",
       "name": "X-Men: Primera Generación",
       "poster": "http://127.0.0.1:8888/t/p/w500/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
-      "description": "Comienzo de la saga de los X-Men, esta es una historia secreta que alude a conocidos acontecimientos mundiales. Antes de que los mutantes se mostraran al mundo, y antes de que cambiaran sus nombres por los de Profesor X y Magneto, Charles Xavier (James McAvoy) y Erik Lehnsherr (Michael Fassbender) eran dos jóvenes que descubrían sus poderes. No había animadversión alguna entre ellos, sino que les unía una sincera amistad y la decisión de trabajar juntos y entrenar a un grupo de jóvenes mutantes para evitar el Armagedón nuclear. Su enemigo común: el malvado Sebastian Shaw (Kevin Bacon), un humano con poderes con el que Erik tiene una cuenta pendiente."
+      "description": "Comienzo de la saga de los X-Men, esta es una historia secreta que alude a conocidos acontecimientos mundiales. Antes de que los mutantes se mostraran al mundo, y antes de que cambiaran sus nombres por los de Profesor X y Magneto, Charles Xavier y Erik Lehnsherr eran dos jóvenes que descubrían sus poderes. No había animadversión alguna entre ellos, sino que les unía una sincera amistad y la decisión de trabajar juntos y entrenar a un grupo de jóvenes mutantes para evitar el Armagedón nuclear. Su enemigo común: el malvado Sebastian Shaw, un humano con poderes con el que Erik tiene una cuenta pendiente."
     },
     {
       "id": "tmdb:1771",
       "type": "movie",
-      "name": "Capitán América: El primer vengador",
+      "name": "Capitán América. El primer vengador",
       "poster": "http://127.0.0.1:8888/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
       "description": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores."
     },
@@ -341,12 +341,12 @@
       "type": "movie",
       "name": "Ghost Rider: Espíritu de venganza",
       "poster": "http://127.0.0.1:8888/t/p/w500/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg",
-      "description": "Nueva adaptación del cómic \"El motorista fantasma\". Con el fin de controlar sus deseos de venganza, Johnny Blaze (Nicolas Cage), que ve sus poderes como una maldición, vive apartado del mundo y sin relacionarse con nadie, pero acaba siendo localizado por el monje Moreau, que necesita su ayuda para buscar a Nadya y a su hijo Danny antes de que los encuentre Roarke, un viejo conocido de Blaze."
+      "description": "Con el fin de controlar sus deseos de venganza, Johnny Blaze, que ve sus poderes como una maldición, vive apartado del mundo y sin relacionarse con nadie, pero acaba siendo localizado por el monje Moreau, que necesita su ayuda para buscar a Nadya y a su hijo Danny antes de que los encuentre Roarke, un viejo conocido de Blaze."
     },
     {
       "id": "tmdb:24428",
       "type": "movie",
-      "name": "Los Vengadores",
+      "name": "Vengadores",
       "poster": "http://127.0.0.1:8888/t/p/w500/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
       "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro."
     },
@@ -355,7 +355,7 @@
       "type": "movie",
       "name": "Men in Black 3",
       "poster": "http://127.0.0.1:8888/t/p/w500/rcVJtZCGnp39obbDKYred2mT9sE.jpg",
-      "description": "La película comienza con la fuga de un extraño y poderoso extraterrestre llamado Boris el animal. Es el último superviviente de la raza alienígena boglodita, que sobrevive mediante el ataque, toma, y ocupación de otros planetas habitados. Boris es un asesino, que fue capturado por el agente K y encarcelado en una prisión secreta en la Luna. K también pudo desplegar un sistema de defensa (denominado \"Arca Net\"), y evitar una invasión boglodita, logrando así su extinción. Sin embargo, Boris logra burlar la seguridad y destruir gran parte de la cárcel, para escapar y vengarse de K."
+      "description": "El agente J viaja en el tiempo al año 1969 para evitar que K sea asesinado por el alienígena Boris el Animal pero en esa época hallará cosas que no esperaba."
     },
     {
       "id": "tmdb:1930",
@@ -374,9 +374,9 @@
     {
       "id": "tmdb:76170",
       "type": "movie",
-      "name": "Lobezno inmortal",
+      "name": "X-Men. Orígenes. Lobezno II. Lobezno inmortal",
       "poster": "http://127.0.0.1:8888/t/p/w500/xsdBlh5Rg673dRmIblDZchuicWi.jpg",
-      "description": "Secuela de \"X-Men: la decisión final\". Lobezno llega a Japón para encontrarse con un viejo amigo al que salvó la vida hace años, y se ve envuelto en una conspiración que involucra a la yakuza y a los mutantes."
+      "description": "Lobezno investiga su pasado dentro del crimen organizado japonés haciendo frente a samuráis, yakuzas, ronins, ninjas y un gran robot llamado Silver Samurai."
     },
     {
       "id": "tmdb:76338",
@@ -388,14 +388,14 @@
     {
       "id": "tmdb:100402",
       "type": "movie",
-      "name": "Capitán América: El soldado de invierno",
+      "name": "Capitán América II. El Soldado de Invierno",
       "poster": "http://127.0.0.1:8888/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
       "description": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo."
     },
     {
       "id": "tmdb:102382",
       "type": "movie",
-      "name": "The Amazing Spider-Man 2: El poder de Electro",
+      "name": "The Amazing Spider-Man II. El poder de Electro",
       "poster": "http://127.0.0.1:8888/t/p/w500/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg",
       "description": "Peter Parker lleva una vida muy ocupada, compaginando su tiempo entre su papel como Spider-Man, acabando con los malos, y en el instituto con la persona a la que quiere, Gwen. Peter no ve el momento de graduarse. No ha olvidado la promesa que le hizo al padre de Gwen de protegerla, manteniéndose lejos de ella, pero es una promesa que simplemente no puede cumplir. Las cosas cambiarán para Peter cuando aparece un nuevo villano, Electro, y un viejo amigo, Harry Osborn, regresa, al tiempo que descubre nuevas pistas sobre su pasado."
     },
@@ -416,7 +416,7 @@
     {
       "id": "tmdb:99861",
       "type": "movie",
-      "name": "Vengadores: La era de Ultrón",
+      "name": "Vengadores II. La era de Ultron",
       "poster": "http://127.0.0.1:8888/t/p/w500/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
       "description": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura."
     },
@@ -446,14 +446,14 @@
       "type": "movie",
       "name": "Capitán América: Civil War",
       "poster": "http://127.0.0.1:8888/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
-      "description": "Continúa la historia de “Avengers: Age of Ultron”, con Steve Rogers liderando un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano."
+      "description": "Steve Rogers lidera un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano."
     },
     {
       "id": "tmdb:246655",
       "type": "movie",
       "name": "X-Men: Apocalipsis",
       "poster": "http://127.0.0.1:8888/t/p/w500/iKqONIk0oX8rLvxkBCpnkZMTKE3.jpg",
-      "description": "Desde los albores de la civilización, fue adorado como un dios. Apocalypse, el primer y más poderoso mutante del universo X-Men de Marvel, acumuló los poderes de muchos otros mutantes, convirtiéndose en inmortal e invencible. Pero al despertar tras miles de años, se encuentra desilusionado con el mundo en que se encuentra y decide reclutar un equipo de mutantes poderosos, entre ellos a un descorazonado Magneto (Michael Fassbender), con el fin de limpiar la humanidad y crear una nueva orden mundial, sobre la cual él reinará. A medida que el destino de la tierra está en juego, Raven (Jennifer Lawrence) con la ayuda del Profesor X (James McAvoy) se unirán junto a un equipo de jóvenes X-Men para detener a su mayor enemigo y salvar así a la humanidad de la destrucción total."
+      "description": "Desde los albores de la civilización, fue adorado como un dios. Apocalypse, el primer y más poderoso mutante del universo X-Men, acumuló los poderes de muchos otros mutantes, convirtiéndose en inmortal e invencible. Pero al despertar tras miles de años, se encuentra desilusionado con el mundo en que se encuentra y decide reclutar un equipo de mutantes poderosos, entre ellos a un descorazonado Magneto, con el fin de limpiar la humanidad y crear una nueva orden mundial, sobre la cual él reinará. A medida que el destino de la tierra está en juego, Raven con la ayuda del Profesor X se unirán junto a un equipo de jóvenes X-Men para detener a su mayor enemigo y salvar así a la humanidad de la destrucción total."
     },
     {
       "id": "tmdb:284052",
@@ -472,14 +472,14 @@
     {
       "id": "tmdb:283995",
       "type": "movie",
-      "name": "Guardianes de la Galaxia Vol. 2",
+      "name": "Guardianes de la Galaxia II",
       "poster": "http://127.0.0.1:8888/t/p/w500/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
       "description": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose."
     },
     {
       "id": "tmdb:315635",
       "type": "movie",
-      "name": "Spider-Man: Homecoming",
+      "name": "Spider-Man. De regreso a casa",
       "poster": "http://127.0.0.1:8888/t/p/w500/yJfPC6pjSJ5VOsVyXhx5PXBe0mR.jpg",
       "description": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado."
     },
@@ -514,7 +514,7 @@
     {
       "id": "tmdb:363088",
       "type": "movie",
-      "name": "Ant-Man y la Avispa",
+      "name": "Ant-Man II. Ant-Man y la Avispa",
       "poster": "http://127.0.0.1:8888/t/p/w500/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
       "description": "Mientras Scott Lang se convierte en un súper héroe y en un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que encuentra a Ant-Man luchando junto a The Wasp para descubrir secretos de su pasado."
     },
@@ -542,28 +542,28 @@
     {
       "id": "tmdb:299534",
       "type": "movie",
-      "name": "Vengadores: Endgame",
+      "name": "Vengadores IV. Endgame",
       "poster": "http://127.0.0.1:8888/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "description": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo."
     },
     {
       "id": "tmdb:320288",
       "type": "movie",
-      "name": "X-Men: Fénix oscura",
+      "name": "X-Men IV. Fénix Oscura",
       "poster": "http://127.0.0.1:8888/t/p/w500/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
       "description": "Los X-Men se enfrentan a su enemigo más poderoso: uno de sus miembros, Jean Grey. Durante una misión de rescate en el espacio, Jean casi muere al ser alcanzada por una misteriosa fuerza cósmica. Cuando regresa a casa, esa radiación la ha hecho más poderosa, pero mucho más inestable. Mientras lucha con la entidad que habita en su interior, Jean desata sus poderes de formas que no puede controlar ni comprender. Jean cae en una espiral fuera de control haciendo daño a aquellos que más ama y empieza a destruir los lazos que mantienen unidos a los X-Men."
     },
     {
       "id": "tmdb:479455",
       "type": "movie",
-      "name": "Men in Black: International",
+      "name": "Hombres de negro IV. Internacional",
       "poster": "http://127.0.0.1:8888/t/p/w500/ewPz4CtrgyQZaCRpubtG5IedIkp.jpg",
-      "description": "Cuando los «aliens» con forma humana amenazan la Tierra, una nueva agente y otro veterano del MiB emprenden una misión para salvar el mundo (y su propia organización)."
+      "description": "Los hombres de negro deben hacer frente a un alienígena de La Colmena que se ha infiltrado dentro de la organización pero desconocen el potencial de su poder. El agente H y la agente M luchan contra una especie alienígena llamada La Colmena que busca una poderosa arma para destruir planetas como la Tierra."
     },
     {
       "id": "tmdb:429617",
       "type": "movie",
-      "name": "Spider-Man: Lejos de casa",
+      "name": "Spider-Man II. Lejos de casa",
       "poster": "http://127.0.0.1:8888/t/p/w500/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg",
       "description": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que están causando el caos en el continente. En ese momento, Parker vuelve a ponerse el traje de Spider-Man para cumplir con su labor."
     },

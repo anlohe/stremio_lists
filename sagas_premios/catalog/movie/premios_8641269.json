@@ -45,9 +45,9 @@
     {
       "id": "tmdb:897",
       "type": "movie",
-      "name": "Aparajito (El invencible)",
+      "name": "El invencible",
       "poster": "http://127.0.0.1:8888/t/p/w500/f94STIuH4S7tqs7nKFbT9SJojqi.jpg",
-      "description": "Relata la juventud de Apu en Benarés, su deseo de independizarse y estudiar en Calcuta para poder llevar una vida diferente a la que han conocido sus padres. Segundo film de la \"Trilogía de Apu\"."
+      "description": "Relata la juventud de Apu en Benarés, su deseo de independizarse y estudiar en Calcuta para poder llevar una vida diferente a la que han conocido sus padres."
     },
     {
       "id": "tmdb:43121",
@@ -73,7 +73,7 @@
     {
       "id": "tmdb:154578",
       "type": "movie",
-      "name": "El paso del Rhin",
+      "name": "El paso del Rin",
       "poster": "http://127.0.0.1:8888/t/p/w500/tv5OJso7bytQhAH0Ec6PpJ6qtgd.jpg",
       "description": ""
     },
@@ -136,7 +136,7 @@
     {
       "id": "tmdb:154582",
       "type": "movie",
-      "name": "Artistas en el circo: Perplejos",
+      "name": "Artistas bajo la lona del circo. Perplejos",
       "poster": "http://127.0.0.1:8888/t/p/w500/ivc4CPvcEU4NIYwaijGIBjjNQOK.jpg",
       "description": "Leni Peickert hereda un circo con el que intenta hacer una forma de entretenimiento socialmente relevante, su circo \"reformista\". Se arruina dos veces, y Leni deberá decidir si su sueño de un nuevo estilo de circo es demasiado optimista."
     },
@@ -227,14 +227,14 @@
     {
       "id": "tmdb:36346",
       "type": "movie",
-      "name": "Urga - El territorio del amor",
+      "name": "Urga. El territorio del amor",
       "poster": "http://127.0.0.1:8888/t/p/w500/jeUzgLOzvIMK07Xg1sTpmyqNhxv.jpg",
       "description": "La amistad entre un pastor mongol y un camionero ruso, perdido en la estepa asiática a causa de una avería, sirve de pretexto para mostrar el abismo cultural y económico entre el campo y la ciudad."
     },
     {
       "id": "tmdb:38143",
       "type": "movie",
-      "name": "Qiu Ju, una mujer china",
+      "name": "Qiu Ju. Una mujer china",
       "poster": "http://127.0.0.1:8888/t/p/w500/4cquaMfW96bYG6PRAocqv91LWR0.jpg",
       "description": "En un pequeño y remoto pueblo del norte de China vive Qiu Ju junto a su marido, quienes esperan con impaciencia el nacimiento de su primer hijo. Pero un día su felicidad se ve alterada debido a un enfrentamiento con el jefe de la comunidad en la que están integrados."
     },
@@ -248,7 +248,7 @@
     {
       "id": "tmdb:108",
       "type": "movie",
-      "name": "Tres colores: Azul",
+      "name": "Tres colores. Azul",
       "poster": "http://127.0.0.1:8888/t/p/w500/acF0MZyMhe1svIxp17xxIstPIqi.jpg",
       "description": "En un accidente de coche, Julie pierde a su esposo Patrice, un prestigioso compositor, y a la hija de ambos, Anna. Al recuperarse de sus lesiones, Julie decide comenzar una nueva vida, independiente, solitaria y anónima, alejada de los privilegios que antes disfrutaba. En su propósito se cruza Sandrine, una periodista especializada en música que la persigue intentando probar que era Julie quien componía las piezas que hicieron famoso a su marido. También pretenderá entrar en su vida Olivier, el ayudante de Patrice, enamorado de Julie desde muchos años atrás, que la convence para terminar el «Concierto para Europa», una ambiciosa obra inacabada del músico."
     },
@@ -283,9 +283,9 @@
     {
       "id": "tmdb:5910",
       "type": "movie",
-      "name": "Hana-Bi: Flores de fuego",
+      "name": "Hana-bi. Flores de fuego",
       "poster": "http://127.0.0.1:8888/t/p/w500/A3ubCSK5Y8ObcTNWdjqnoMlROCl.jpg",
-      "description": "Un policía llamado Nishi (Takeshi Kitano) se enfrenta a la enfermedad terminal de su esposa, al drama de un compañero que ha quedado parapléjico en una redada y a un grupo de mafiosos que le siguen la pista."
+      "description": "Un policía llamado Nishi se enfrenta a la enfermedad terminal de su esposa, al drama de un compañero que ha quedado parapléjico en una redada y a un grupo de mafiosos que le siguen la pista."
     },
     {
       "id": "tmdb:58098",
@@ -339,7 +339,7 @@
     {
       "id": "tmdb:142",
       "type": "movie",
-      "name": "Brokeback Mountain: En terreno vedado",
+      "name": "Brokeback Mountain. En terreno vedado",
       "poster": "http://127.0.0.1:8888/t/p/w500/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg",
       "description": "Verano de 1963. Dos vaqueros, Ennis Del Mar y Jack Twist, se conocen mientras hacen cola para ser contratados por el ranchero Joe Aguirre. Los dos aspiran a conseguir un trabajo estable, casarse y formar una familia. Cuando Aguirre les envía a cuidar ganado a la majestuosa montaña Brokeback, entre ambos surge un sentimiento de camaradería que deriva hacia una relación íntima. Al concluir el verano, tienen que abandonar Brokeback y seguir caminos diferentes."
     },
@@ -388,9 +388,9 @@
     {
       "id": "tmdb:123377",
       "type": "movie",
-      "name": "Pietà (Piedad)",
+      "name": "Piedad",
       "poster": "http://127.0.0.1:8888/t/p/w500/lZJMlD4GNvzJL0GxvaL4JFYvDKU.jpg",
-      "description": "Drama centrado en dos personajes, un cobrador de préstamos solitario y sin escrúpulos (Lee Jung-Jin) y una mujer (Jo Min-Su) que se presenta un día pidiéndole disculpas por haberle abandonado, asegurando que es su madre biológica."
+      "description": "Drama centrado en dos personajes, un cobrador de préstamos solitario y sin escrúpulos y una mujer que se presenta un día pidiéndole disculpas por haberle abandonado, asegurando que es su madre biológica."
     },
     {
       "id": "tmdb:216790",
@@ -416,9 +416,9 @@
     {
       "id": "tmdb:408542",
       "type": "movie",
-      "name": "The Woman Who Left",
+      "name": "La mujer que se fue",
       "poster": "http://127.0.0.1:8888/t/p/w500/srsCrtytxW3E0EIee2g8EyuW215.jpg",
-      "description": "Filipinas, años 90. Horacia ha pasado treinta años en un centro penitenciario y ha sido liberada después de que alguien confesase su presunto crimen. Abrumada por su nueva libertad, llega a la dolorosa conclusión de que su aristocrática ex-pareja le había tendido una trampa. A medida que se sucedan varios secuestros de ricos, Horacia encontrará en ello su oportunidad de planificar su venganza."
+      "description": "Filipinas durante la década de 1990. Horacia ha pasado treinta años en un centro penitenciario y ha sido liberada después de que alguien confesase su presunto crimen. Abrumada por su nueva libertad, llega a la dolorosa conclusión de que su aristocrática expareja le había tendido una trampa. A medida que se sucedan varios secuestros de ricos, Horacia encontrará en ello su oportunidad de planificar su venganza."
     },
     {
       "id": "tmdb:399055",
@@ -458,7 +458,7 @@
     {
       "id": "tmdb:1004663",
       "type": "movie",
-      "name": "La Belleza y el Dolor",
+      "name": "La belleza y el dolor",
       "poster": "http://127.0.0.1:8888/t/p/w500/ohMfLasW7ngNn4jqgMzC2obMyLn.jpg",
       "description": "Sigue la vida de la artista Nan Goldin y su activismo contra la dinastía farmacéutica de los Sackler, responsables de la mayor epidemia de opioides de la historia de Estados Unidos."
     },
@@ -479,9 +479,9 @@
     {
       "id": "tmdb:1159206",
       "type": "movie",
-      "name": "Padre madre hermana hermano",
+      "name": "Padre, madre, hermana, hermano",
       "poster": "http://127.0.0.1:8888/t/p/w500/iLwZuafLq8WmM9xJjS2T9YXZvc.jpg",
-      "description": "Tres historias separadas sobre relaciones distantes entre hijos adultos y sus padres. Cada una de las tres partes tiene lugar en la actualidad, y en un país diferente. \"El Padre\" está ambientado en el noreste de EE. UU., \"La Madre\" en Dublín, Irlanda y \"La Hermana Hermano\" en París, Francia. La película es una serie de estudios de personajes, tranquilos, observacionales y sin prejuicios. Una comedia, pero entretejida con hilos de melancolía."
+      "description": "Tres historias separadas sobre relaciones distantes entre hijos adultos y sus padres. Cada una de las tres partes tiene lugar en la actualidad, y en un país diferente. \"El Padre\" está ambientado en el noreste de Estados Unidos, \"La Madre\" en Dublín, Irlanda y \"La Hermana Hermano\" en París (Francia). La película es una serie de estudios de personajes, tranquilos, observacionales y sin prejuicios. Una comedia, pero entretejida con hilos de melancolía."
     }
   ]
 }
