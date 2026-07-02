@@ -4,7 +4,7 @@
       "id": "tmdb:225914",
       "type": "movie",
       "name": "Spider-Man. El hombre araña",
-      "poster": "http://127.0.0.1:8888/t/p/w500/tmanXLJH0MjXGXUyakM0F4MtHaa.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/n0mEWm0sCTTeHbLf8uYQVMkrZMM.jpg",
       "description": "Una extraña ola de crímenes está teniendo lugar en Nueva York. Un extraño personaje controla las mentes de personas anónimas y respetables obligándolas a comportarse como vulgares criminales. Peter Parker es un joven estudiante a punto de doctorarse, por accidente una araña radioactiva le muerde en la mano y le dota de una fuerza y agilidad sobrehumana además de la capacidad de trepar por las paredes. La hija de uno de los detenidos por los robos, Judy Tyler, entra en la vida de Peter cuando este está sacando fotos para el periódico donde trabaja. Al ver que la gente a su alrededor e incluso toda la ciudad está en peligro, decide crearse un disfraz para detener al villano evitando un chantaje de millones de dólares. Gracias a sus recién adquiridos poderes podrá plantar cara a tan peligrosa amenaza."
     },
     {
@@ -46,21 +46,21 @@
       "id": "tmdb:197467",
       "type": "movie",
       "name": "Capitán América",
-      "poster": "http://127.0.0.1:8888/t/p/w500/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lxrWKqFb03Q1MAwIIHdz7NfCawa.jpg",
       "description": "El artista Steve Rogers casi es asesinado por espías, en busca de los secretos nacionales de su difunto padre. Se salva durante la cirugía a través de una fórmula secreta; Este suero no solo lo cura, sino que también le da una fuerza fantástica y reflejos relámpago. Para ayudar a resolver el misterio detrás del asesinato de su padre y llevar a los culpables ante la justicia, una agencia gubernamental lo equipa con una motocicleta especial cargada de artilugios y un escudo indestructible. Ahora armado, lucha contra los enemigos de la nación como el Centinela de la Libertad, el Capitán América."
     },
     {
       "id": "tmdb:197481",
       "type": "movie",
-      "name": "Capitán América II: Muerte demasiado pronto",
-      "poster": "http://127.0.0.1:8888/t/p/w500/zr1lt2uM0cVRA6BBnel3sTzDmIg.jpg",
+      "name": "Capitán América II. Muerte demasiado pronto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mu3YGtmU2HwoB9ZS0RNPRU2BF78.jpg",
       "description": "La lucha contra el crimen, el Capitán América corrige más errores al luchar contra un terrorista fanático que usa su droga mortal que causa un envejecimiento acelerado para financiar su revolución mundial."
     },
     {
       "id": "tmdb:225938",
       "type": "movie",
       "name": "Spider-Man III. El desafío del dragón",
-      "poster": "http://127.0.0.1:8888/t/p/w500/zeTClYV0sFdr1s6AKJ7xhw9JlQu.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
       "description": "Min Lo Chan, Ministro de Desarrollo Industrial de la República Popular China, ha sido acusado falsamente de vender secretos militares a los Estados Unidos durante la II Guerra Mundial (1939-1945). Decide entonces ir a Nueva York con el fin de reunir pruebas que le ayuden a recuperar su buen nombre. Le pide ayuda a su viejo amigo, el periodista J. Jonah Jameson, para encontrar a tres marines americanos que pueden probar su inocencia. Mientras tanto, en Hong Kong, un acaudalado industrial trabaja en un proyecto muy ambicioso relacionado con el acero, cuyo éxito depende de la eliminación de Min."
     },
     {
@@ -143,9 +143,9 @@
     {
       "id": "tmdb:27460",
       "type": "movie",
-      "name": "Objetivo Manhattan. Nick Furia. Agente de S.H.I.E.L.D.",
+      "name": "Nick Furia. Agente de S.H.I.E.L.D.",
       "poster": "http://127.0.0.1:8888/t/p/w500/4T0YjvnBaMASZkkRKxMIe6IoWO0.jpg",
-      "description": "El coronel Nick Fury, militar desterrado por el gobierno norteamericano tras la Guerra Fría, es reclamado por el departamento de defensa de Estados Unidos para hacer frente a la amenaza de Hydra, cabecilla de un peligroso grupo terrorista que ha amenazado con derramar un virus mortal sobre la isla de Manhattan."
+      "description": "El coronel Nick Furia, militar desterrado por el gobierno norteamericano tras la Guerra Fría, es reclamado por el departamento de defensa de Estados Unidos para hacer frente a la amenaza de Hydra, cabecilla de un peligroso grupo terrorista que ha amenazado con derramar un virus mortal sobre la isla de Manhattan (Nueva York. Estados Unidos)."
     },
     {
       "id": "tmdb:36647",
@@ -248,8 +248,8 @@
     {
       "id": "tmdb:36668",
       "type": "movie",
-      "name": "X-Men III. La decisión final",
-      "poster": "http://127.0.0.1:8888/t/p/w500/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg",
+      "name": "X-Men III: La decisión final",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg",
       "description": "Hay una cura para los mutantes que amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: seguir con su singularidad, aunque eso les aísle y les separe, o renunciar a sus poderes y convertirse en seres humanos normales. Los opuestos puntos de vista de los líderes mutantes, Charles Xavier, que aboga por la tolerancia, y Magneto, que cree en la supervivencia de los más aptos, se ven sometidos a la prueba definitiva: desencadenar la guerra que pondrá fin a todas las guerras."
     },
     {
@@ -284,7 +284,7 @@
       "id": "tmdb:1724",
       "type": "movie",
       "name": "El increíble Hulk",
-      "poster": "http://127.0.0.1:8888/t/p/w500/rCTSJzsU2GkH5uLwP1RFb3OjtLs.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
       "description": "El científico Bruce Banner recorre el mundo tratando de encontrar una cura a su problema, en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y por su propia rabia interna, es incapaz de sacar de su cabeza a Betty Ross. Así que se decide a volver a la civilización, donde debe enfrentarse a una criatura creada cuando el agente de la KGB, Emil Blonsky, se expone a una dosis superior de la radiación que convirtió a Bruce en Hulk. Incapaz de volver a su estado humano, Emil hace responsable a Hulk de su aterradora condición, mientras que la ciudad de Nueva York se convierte en el escenario de la última batalla entre las dos criaturas más poderosas que jamás han pisado la Tierra."
     },
     {
@@ -305,7 +305,7 @@
       "id": "tmdb:32985",
       "type": "movie",
       "name": "Solomon Kane",
-      "poster": "http://127.0.0.1:8888/t/p/w500/AvC2D7sX894lJYOzBdndI52Jz6Y.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nGAiBXkhetuTmhjefsQPUtW1Joc.jpg",
       "description": "Cuento épico (basado en un personaje del creador de Conan) centrado en un soldado del siglo XVI atormentado por sus actos del pasado y que busca la redención combatiendo un siniestro poder que amenaza su reino. Solomon Kane es un guerrero puritano cuya única meta en la vida es terminar con la maldad en todas sus formas. Sus aventuras le llevan desde los oscuros submundos de las principales capitales europeas, hasta las frondosas y peligrosas junglas africana."
     },
     {
@@ -333,7 +333,7 @@
       "id": "tmdb:1771",
       "type": "movie",
       "name": "Capitán América. El primer vengador",
-      "poster": "http://127.0.0.1:8888/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg",
       "description": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores."
     },
     {
@@ -389,7 +389,7 @@
       "id": "tmdb:100402",
       "type": "movie",
       "name": "Capitán América II. El Soldado de Invierno",
-      "poster": "http://127.0.0.1:8888/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wP7JcCzpWlX5XeROpf4ox9ZVFT6.jpg",
       "description": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo."
     },
     {
@@ -417,7 +417,7 @@
       "id": "tmdb:99861",
       "type": "movie",
       "name": "Vengadores II. La era de Ultron",
-      "poster": "http://127.0.0.1:8888/t/p/w500/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/71wSx6MQm8EbMNDi3vVaD8nD9SL.jpg",
       "description": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura."
     },
     {
@@ -452,8 +452,8 @@
       "id": "tmdb:246655",
       "type": "movie",
       "name": "X-Men: Apocalipsis",
-      "poster": "http://127.0.0.1:8888/t/p/w500/iKqONIk0oX8rLvxkBCpnkZMTKE3.jpg",
-      "description": "Desde los albores de la civilización, fue adorado como un dios. Apocalypse, el primer y más poderoso mutante del universo X-Men, acumuló los poderes de muchos otros mutantes, convirtiéndose en inmortal e invencible. Pero al despertar tras miles de años, se encuentra desilusionado con el mundo en que se encuentra y decide reclutar un equipo de mutantes poderosos, entre ellos a un descorazonado Magneto, con el fin de limpiar la humanidad y crear una nueva orden mundial, sobre la cual él reinará. A medida que el destino de la tierra está en juego, Raven con la ayuda del Profesor X se unirán junto a un equipo de jóvenes X-Men para detener a su mayor enemigo y salvar así a la humanidad de la destrucción total."
+      "poster": "http://127.0.0.1:8888/t/p/w500/i5ET4lACwrb97sdPzmIThieasOk.jpg",
+      "description": "Desde los albores de la civilización, fue adorado como un dios. Apocalipsis, el primer y más poderoso mutante del universo X-Men, acumuló los poderes de muchos otros mutantes, convirtiéndose en inmortal e invencible. Pero al despertar tras miles de años, se encuentra desilusionado con el mundo en que se encuentra y decide reclutar un equipo de mutantes poderosos, entre ellos a un descorazonado Magneto, con el fin de limpiar la humanidad y crear una nueva orden mundial, sobre la cual él reinará. A medida que el destino de la tierra está en juego, Raven con la ayuda del Profesor X se unirán junto a un equipo de jóvenes X-Men para detener a su mayor enemigo y salvar así a la humanidad de la destrucción total."
     },
     {
       "id": "tmdb:284052",
@@ -549,7 +549,7 @@
     {
       "id": "tmdb:320288",
       "type": "movie",
-      "name": "X-Men IV. Fénix Oscura",
+      "name": "X-Men: Fénix Oscura",
       "poster": "http://127.0.0.1:8888/t/p/w500/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
       "description": "Los X-Men se enfrentan a su enemigo más poderoso: uno de sus miembros, Jean Grey. Durante una misión de rescate en el espacio, Jean casi muere al ser alcanzada por una misteriosa fuerza cósmica. Cuando regresa a casa, esa radiación la ha hecho más poderosa, pero mucho más inestable. Mientras lucha con la entidad que habita en su interior, Jean desata sus poderes de formas que no puede controlar ni comprender. Jean cae en una espiral fuera de control haciendo daño a aquellos que más ama y empieza a destruir los lazos que mantienen unidos a los X-Men."
     },
@@ -599,7 +599,7 @@
       "id": "tmdb:524434",
       "type": "movie",
       "name": "Eternals",
-      "poster": "http://127.0.0.1:8888/t/p/w500/a2ETqzAPn5oN1BVAMXxIYXj2U0.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zp85WEn9YKM3Cajk4m4ZDcbCHpp.jpg",
       "description": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor."
     },
     {
