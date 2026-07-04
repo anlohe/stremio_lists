@@ -4,14 +4,14 @@
       "id": "tmdb:27970",
       "type": "movie",
       "name": "El lobo humano",
-      "poster": "http://127.0.0.1:8888/t/p/w500/78kD3Fpvgd8qubKMbhS5dKofjR8.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ry4ZqaTl8p1Y4ON6vnT1JwlTR6I.jpg",
       "description": "Wilfred Glendon, doctor en botánica, emprende un viaje al Tíbet con el fin de localizar una extraña flor que crece únicamente en esa región bajo el influjo de la Luna. En el momento en que recoge un ejemplar, sufre el ataque de un hombre lobo que lo deja herido y con el estigma del licántropo. De regreso en Londres, recibe la visita del doctor Yogami, la persona que lo atacó. Éste le informa de que la flor que recogió es el único remedio para aletargar durante una noche el mal de luna"
     },
     {
       "id": "tmdb:13666",
       "type": "movie",
       "name": "El hombre lobo",
-      "poster": "http://127.0.0.1:8888/t/p/w500/rJPYNI8WSq51bEUKgwTkYcQxN5c.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3g8NALLvHFeN9yGXoRKrrhVp6RW.jpg",
       "description": "Tras varios años en Estados Unidos, el hijo de un noble inglés regresa a la mansión de su padre en Gales. Una noche que asiste a una feria zíngara es mordido por un lobo y su vida comienza a cambiar cuando teme ser el responsable de las muertes que se están produciendo en la localidad."
     },
     {
@@ -20,6 +20,13 @@
       "name": "Frankenstein y el hombre lobo",
       "poster": "http://127.0.0.1:8888/t/p/w500/v7EuvrTAAIGImkLYw2nhe2r6BKM.jpg",
       "description": "El resucitado Hombre Lobo, buscando una cura para su enfermedad acude en busca de la ayuda del doctor Frankenstein. Cuando llega a su castillo descubre que el Dr. ha muerto a manos del los habitantes del pueblo, y levanta las sospechas de éstos, que comienzan a perseguirlo. En su huida se esconde en las galerías del castillo donde libera del hielo al monstruo de Frankentein."
+    },
+    {
+      "id": "tmdb:43228",
+      "type": "movie",
+      "name": "Yo fui un hombre lobo adolescente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/9p7KKWPZtixPOaANTnkB7IjwNel.jpg",
+      "description": "Tony Rivers (Michael Landon) es un adolescente con muchos problemas que acude a la consulta del doctor Brandon (Whit Bissell) para hallar una solución. Éste dice que le ayudará con sesiones de hipnosis, pero en realidad su propósito es experimentar con Tony, transformándolo en un hombre lobo las noches de luna llena."
     },
     {
       "id": "tmdb:28752",
@@ -39,15 +46,22 @@
       "id": "tmdb:115423",
       "type": "movie",
       "name": "Dr. Jekyll y el hombre lobo",
-      "poster": "http://127.0.0.1:8888/t/p/w500/2Z2LGBij6bVdWCi5PtAyDkI7Vsm.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/udK2mHHzau4vmgaDgdkUSqLXHo9.jpg",
       "description": "El doctor Jekyll aplica una extraña substancia química sobre el cuerpo de Waldemar, que padece de licantropía, es decir, se transforma en hombre lobo. Como consecuencia de este experimento la personalidad de Waldemar se \"desdobla y surge la figura maligna y lujuriosa de Mister Hyde, su alter ego, el cual comete toda clase de atrocidades llegando a asesinar al propio doctor Jekyll."
     },
     {
       "id": "tmdb:156310",
       "type": "movie",
       "name": "El hombre lobo",
-      "poster": "http://127.0.0.1:8888/t/p/w500/3LypV5ukcjuMWGGCQtNh76vxsna.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/oISWEzlmRb7LzqXZNEerTo66Q44.jpg",
       "description": "Un hombre descubre que su familia tiene una maldición de hombre lobo sobre ellos."
+    },
+    {
+      "id": "tmdb:11298",
+      "type": "movie",
+      "name": "Aullidos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kQNKyEjUZrNk2HeIDU5XpmEePa1.jpg",
+      "description": "Karen, una popular presentadora de televisión de Los Ángeles, sufre una crisis nerviosa al estar a punto de ser asaltada por un violador. Para superar el trauma sigue el consejo de un psicólogo que le recomienda retirarse a descansar al campo. Viaja entonces a la costa norte de California, y allí su marido sufre un cambio de personalidad al ser atacado por un extraño animal, mitad hombre, mitad lobo."
     },
     {
       "id": "tmdb:29906",
@@ -62,13 +76,6 @@
       "name": "Un hombre lobo americano en Londres",
       "poster": "http://127.0.0.1:8888/t/p/w500/9sAJdIZgFZEqz3Kyg97RA97CP9n.jpg",
       "description": "Dos mochileros norteamericanos, David Kessler y Jack están de viaje por Europa. Caminando por una zona rural de Inglaterra, la población local los mira mal cuando entran en un bar. Al salir, reciben todo tipo de extrañas advertencias: 'Manténganse en la carretera y aléjense de los pantanos' y 'Cuidado con la luna'. Aun así, los jóvenes se adentran en la oscuridad y no se dan cuenta que están siendo seguidos por una terrible criatura."
-    },
-    {
-      "id": "tmdb:11298",
-      "type": "movie",
-      "name": "Aullidos",
-      "poster": "http://127.0.0.1:8888/t/p/w500/kQNKyEjUZrNk2HeIDU5XpmEePa1.jpg",
-      "description": "Karen, una popular presentadora de televisión de Los Ángeles, sufre una crisis nerviosa al estar a punto de ser asaltada por un violador. Para superar el trauma sigue el consejo de un psicólogo que le recomienda retirarse a descansar al campo. Viaja entonces a la costa norte de California, y allí su marido sufre un cambio de personalidad al ser atacado por un extraño animal, mitad hombre, mitad lobo."
     },
     {
       "id": "tmdb:11824",
@@ -88,7 +95,7 @@
       "id": "tmdb:354606",
       "type": "movie",
       "name": "Colmillos. El hombre lobo",
-      "poster": "http://127.0.0.1:8888/t/p/w500/4LO0haZW9TuwjjEVfTsCRaZoBiX.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bztsdVdDE87RJhWrE8me31BhrHx.jpg",
       "description": ""
     },
     {
