@@ -4,7 +4,7 @@
       "id": "tmdb:3035",
       "type": "movie",
       "name": "El doctor Frankenstein",
-      "poster": "http://127.0.0.1:8888/t/p/w500/qHXeXUHebXaExr1r3h2RtO1j2QB.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/t0r1I6Qv2KCAcZHuygCQyQpUuTX.jpg",
       "description": "El doctor Henry Von Frankenstein acomete un experimento tenebroso: construir, a partir de fragmentos de cadáveres, un nuevo ser humano. Con la ayuda de su criado Fritz, se adentra durante la noche en los cementerios de la localidad para arrancar a los cadáveres las partes que necesita. Lo que ignora es que el cerebro que ha utilizado en su experimento había pertenecido a un criminal."
     },
     {
@@ -146,13 +146,6 @@
       "name": "La resurrección de Frankenstein",
       "poster": "http://127.0.0.1:8888/t/p/w500/r5l1RDSOShMrUmRtiADxrq3ig00.jpg",
       "description": "Siglo XXI. Partiendo de ciertos experimentos con un nuevo tipo de arma, que provoca fisuras espacio-temporales, se decide enviar a un científico al siglo XIX, a Ginebra. Allí conoce al doctor Frankenstein, que ha fabricado una terrible criatura, y también a una angelical escritora de diecinueve años llamada Mary Shelley, que escribirá la historia del doctor y su creación."
-    },
-    {
-      "id": "tmdb:777674",
-      "type": "movie",
-      "name": "Frankenstein",
-      "poster": "http://127.0.0.1:8888/t/p/w500/t0gIqMitESJ7huLVpIDNdmv7L3t.jpg",
-      "description": ""
     },
     {
       "id": "tmdb:3042",

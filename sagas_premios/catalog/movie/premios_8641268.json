@@ -24,16 +24,16 @@
     {
       "id": "tmdb:99272",
       "type": "movie",
-      "name": "De røde enge",
+      "name": "La tierra será roja",
       "poster": "http://127.0.0.1:8888/t/p/w500/9jGhk0KutbgRwuz2mOkWxdFTOej.jpg",
       "description": ""
     },
     {
       "id": "tmdb:154879",
       "type": "movie",
-      "name": "Neecha Nagar",
+      "name": "Los bajos de la ciudad",
       "poster": "http://127.0.0.1:8888/t/p/w500/6790uW3R2yU2w0qiWY3nt2Iki9e.jpg",
-      "description": "Los bajos de la ciudad"
+      "description": ""
     },
     {
       "id": "tmdb:851",
@@ -459,7 +459,7 @@
       "id": "tmdb:290",
       "type": "movie",
       "name": "Barton Fink",
-      "poster": "http://127.0.0.1:8888/t/p/w500/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fJ4MIzs0UcaFK38eDVYK1oloQis.jpg",
       "description": "En 1941, Barton Fink viaja a Hollywood para escribir un guión sobre el luchador Wallace Berry. Una vez instalado en el Hotel Earle, el guionista sufre un agudo bloqueo mental. Su vecino de habitación, un jovial vendedor de seguros, trata de ayudarlo, pero una serie de circunstancias adversas hacen que se sienta cada vez más incapaz de afrontar su trabajo."
     },
     {
