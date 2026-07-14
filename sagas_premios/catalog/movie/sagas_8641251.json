@@ -10,7 +10,7 @@
     {
       "id": "tmdb:280",
       "type": "movie",
-      "name": "Terminator II. El juicio final",
+      "name": "Terminator 2: El juicio final",
       "poster": "http://127.0.0.1:8888/t/p/w500/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
       "description": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah."
     },
@@ -24,7 +24,7 @@
     {
       "id": "tmdb:534",
       "type": "movie",
-      "name": "Terminator IV. Salvación",
+      "name": "Terminator Salvation",
       "poster": "http://127.0.0.1:8888/t/p/w500/qPORLTWsJrqB27xXCkJRMjMl7fk.jpg",
       "description": "Nueva entrega de la saga de Terminator, que transcurre en un post-apocalíptico 2018, tras el día del Juicio Final. John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado en parte por la aparición de Marcus Wright, un extraño cuyo último recuerdo es haber estado en el corredor de la muerte, y que afirma haber estado con Kyle Reese, el padre de John. Connor debe decidir si Marcus ha sido enviado desde el futuro o rescatado del pasado, todo en una carrera contrareloj mientras la Resistencia prepara su ataque final contra el corazón del centro de operaciones de Skynet."
     },
@@ -38,7 +38,7 @@
     {
       "id": "tmdb:290859",
       "type": "movie",
-      "name": "Terminator VI. Destino oscuro",
+      "name": "Terminator: Destino oscuro",
       "poster": "http://127.0.0.1:8888/t/p/w500/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",
       "description": "Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator."
     }
