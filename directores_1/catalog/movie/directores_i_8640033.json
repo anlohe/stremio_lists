@@ -83,6 +83,13 @@
       "name": "Oppenheimer",
       "poster": "http://127.0.0.1:8888/t/p/w500/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
       "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin."
+    },
+    {
+      "id": "tmdb:1368337",
+      "type": "movie",
+      "name": "La Odisea",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4o2Swffv5PeMQwEm3Tu1YZvr6xT.jpg",
+      "description": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá."
     }
   ]
 }
