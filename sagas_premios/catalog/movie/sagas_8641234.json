@@ -3,14 +3,14 @@
     {
       "id": "tmdb:1368",
       "type": "movie",
-      "name": "Acorralado",
+      "name": "Rambo. Acorralado",
       "poster": "http://127.0.0.1:8888/t/p/w500/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg",
       "description": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar."
     },
     {
       "id": "tmdb:1369",
       "type": "movie",
-      "name": "Rambo: Acorralado Parte II",
+      "name": "Rambo II. Acorralado II",
       "poster": "http://127.0.0.1:8888/t/p/w500/TuW7rwhdVPrm3qBsBGnn747Uar.jpg",
       "description": "Rambo es excarcelado y enviado de vuelta al Vietnam con una nueva misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Tras saltar en paracaídas en la jungla, portando únicamente un cuchillo y un arco con flechas, se le dice que no ataque al enemigo y que sólo haga fotografías de reconocimiento. Pero el plan no saldrá como estaba previsto."
     },
@@ -24,14 +24,14 @@
     {
       "id": "tmdb:7555",
       "type": "movie",
-      "name": "John Rambo",
+      "name": "Rambo IV. John Rambo",
       "poster": "http://127.0.0.1:8888/t/p/w500/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg",
       "description": "John Rambo, el ex-boina verde con una ajetreada vida marcada por la guerra, vive ahora una solitaria y apacible existencia en la jungla del norte de Tailandia, pescando y cazando cobras para luego venderlas. Todo cambia cuando un grupo de misioneros católicos necesita que les guíe hasta la frontera con Birmania para suministrar medicinas y alimentos a unos refugiados asediados por el ejército birmano, que ha hecho de las torturas y los asesinatos algo habitual. Rambo no tendrá más remedio que volver a involucrarse. Se verá obligado a hacer lo que mejor sabe porque, muy a su pesar, lleva la guerra en la sangre."
     },
     {
       "id": "tmdb:522938",
       "type": "movie",
-      "name": "Rambo: Last Blood",
+      "name": "Rambo V. Last Blood",
       "poster": "http://127.0.0.1:8888/t/p/w500/kG3pY61LWGAzcaSne12CGEeRvtg.jpg",
       "description": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla."
     }
