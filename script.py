@@ -16,6 +16,19 @@ NON_LATIN = regex.compile(
     r'\p{Script=Telugu}\p{Script=Malayalam}\p{Script=Georgian}\p{Script=Armenian}]'
 )
 
+def obtener_overrides_titulos():
+    WORKER_URL = os.environ.get("WORKER_URL")
+    ADMIN_KEY = os.environ.get("ADMIN_KEY")
+    try:
+        r = requests.get(f"{WORKER_URL}/overrides-titulos?key={ADMIN_KEY}")
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        print(f"Aviso: no se pudieron cargar overrides de titulos: {e}")
+        return {}
+
+OVERRIDES_TITULOS = obtener_overrides_titulos()
+
 def resolver_titulo(tmdb_movie):
     titulo = tmdb_movie.get('title') or tmdb_movie.get('original_title') or ""
     original = tmdb_movie.get('original_title') or ""
@@ -88,7 +101,7 @@ def formatear_para_stremio(tmdb_movie):
     return {
         "id": stremio_id,
         "type": "movie",
-        "name": resolver_titulo(tmdb_movie),
+        "name": OVERRIDES_TITULOS.get(str(tmdb_movie.get('id')), resolver_titulo(tmdb_movie)),
         "poster": poster_url,
         "description": tmdb_movie.get('overview', 'Sin descripción en español.')
     }
