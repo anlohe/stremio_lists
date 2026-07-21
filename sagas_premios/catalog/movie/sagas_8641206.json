@@ -66,7 +66,7 @@
     {
       "id": "tmdb:330459",
       "type": "movie",
-      "name": "Rogue One",
+      "name": "Rogue One: Una historia de Star Wars",
       "poster": "http://127.0.0.1:8888/t/p/w500/mAqgFQxaBaLkcQBRQf9YnAz9sNQ.jpg",
       "description": "El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine."
     },
@@ -95,7 +95,7 @@
       "id": "tmdb:1228710",
       "type": "movie",
       "name": "The Mandalorian and Grogu",
-      "poster": "http://127.0.0.1:8888/t/p/w500/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/v8mnrbA4zXnq2RHGEWlSEA8GLjk.jpg",
       "description": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu."
     }
   ]

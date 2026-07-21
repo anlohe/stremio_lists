@@ -10,28 +10,28 @@
     {
       "id": "tmdb:58",
       "type": "movie",
-      "name": "Piratas del Caribe II. El cofre del hombre muerto",
+      "name": "Piratas del Caribe: El cofre del hombre muerto",
       "poster": "http://127.0.0.1:8888/t/p/w500/7L7H6sHAt48EfwsqFaa0dw2NJhz.jpg",
       "description": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante."
     },
     {
       "id": "tmdb:285",
       "type": "movie",
-      "name": "Piratas del Caribe III. En el fin del mundo",
+      "name": "Piratas del Caribe: En el fin del mundo",
       "poster": "http://127.0.0.1:8888/t/p/w500/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg",
       "description": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo..."
     },
     {
       "id": "tmdb:1865",
       "type": "movie",
-      "name": "Piratas del Caribe IV. En mareas misteriosas",
+      "name": "Piratas del Caribe: En mareas misteriosas",
       "poster": "http://127.0.0.1:8888/t/p/w500/2oOARbiV871kCC27FyKBmYwOM3G.jpg",
       "description": "Cuando Jack Sparrow vuelve a encontrarse con una mujer a la que había conocido años atrás, no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Venganza de la Reina Ana, el barco del temible pirata Barbanegra, que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado."
     },
     {
       "id": "tmdb:166426",
       "type": "movie",
-      "name": "Piratas del Caribe V. La venganza de Salazar",
+      "name": "Piratas del Caribe: La venganza de Salazar",
       "poster": "http://127.0.0.1:8888/t/p/w500/net3hZOe33XbieLzVkfJsQEdig2.jpg",
       "description": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares."
     }
