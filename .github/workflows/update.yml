@@ -29,6 +29,8 @@ jobs:
       - name: Ejecutar motor
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          ADMIN_KEY: ${{ secrets.ADMIN_KEY }}
         run: python script.py
 
       - name: Guardar y subir cambios
