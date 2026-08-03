@@ -64,6 +64,13 @@
       "description": "Cuando Kathy Thorn da a luz a un bebé muerto, su esposo Robert le oculta la verdad y sustituye a su hijo por un niño huérfano, ignorando su origen satánico. El horror empieza cuando, en el quinto cumpleaños de Damien, inesperadamente, su niñera se suicida. Un sacerdote que trata de advertir a Robert del peligro que corre, muere en un inesperado accidente. El creciente número de muertes hace que Robert, por fin, se dé cuenta de que el niño que han adoptado es el Anticristo, y que hay que matarlo para impedir que se cumpla una terrible profecía."
     },
     {
+      "id": "tmdb:7340",
+      "type": "movie",
+      "name": "Carrie",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6JTL8AQ4jGFmFMTA6H7oVGGKaPp.jpg",
+      "description": "Carrie es una torturada estudiante de secundaria que no encaja en su entorno, sin confianza en sí misma y sin amigos… y sin ser consciente de la amplitud de sus poderes telequinéticos. Pero cuando su psicótica madre y sus sádicos compañeros de clase llegan demasiado lejos, la una vez tímida adolescente se convierte en una máquina desenfrenada y, con ayuda de su «don especial», hace caer el infierno sobre sus cabezas en un frenesí de sangre, fuego y azufre que te llevará a las profundidades del horror… y aún más lejos."
+    },
+    {
       "id": "tmdb:12262",
       "type": "movie",
       "name": "Las colinas tienen ojos",
@@ -293,6 +300,13 @@
       "name": "El proyecto de la bruja de Blair",
       "poster": "http://127.0.0.1:8888/t/p/w500/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg",
       "description": "Durante el octubre de 1994, tres estudiantes de cine en el Montgomery College, Heather Donahue, Joshua Leonard y Michael Williams realizaron la propuesta de crear un proyecto para presentarla en la clase de cine, el proyecto llamado por Heather \"El Proyecto de la Bruja de Blair\" contaba de entrevistas con los residentes del pueblo de Burkittsville, Maryland, sobre la bruja local."
+    },
+    {
+      "id": "tmdb:1359",
+      "type": "movie",
+      "name": "American Psycho",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ySPCri7VfAjbLLkMKs7Zjn6Njco.jpg",
+      "description": "En un mundo moralmente plano en el que la ropa tiene más sentido que la piel, Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo, desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto, como casi todos en su mundo e intenta desesperadamente encajar en él. Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street, más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre, que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona."
     },
     {
       "id": "tmdb:32250",
