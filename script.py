@@ -123,8 +123,7 @@ def run():
         elif categoria == "DIRECTORES II":
             carpeta_base = "directores_2"
             lista_catalogo = cat_directores_2
-        else:
-            elif categoria == "ANOS":
+        elif categoria == "ANOS":
             carpeta_base = "anos"
             lista_catalogo = cat_anos
         else:
