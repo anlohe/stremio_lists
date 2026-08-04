@@ -114,6 +114,7 @@ def run():
     cat_directores_1 = []
     cat_directores_2 = []
     cat_sagas_premios = []
+    cat_anos = []
 
     for categoria, listas in config.items():
         if categoria == "DIRECTORES I":
@@ -122,6 +123,10 @@ def run():
         elif categoria == "DIRECTORES II":
             carpeta_base = "directores_2"
             lista_catalogo = cat_directores_2
+        else:
+            elif categoria == "ANOS":
+            carpeta_base = "anos"
+            lista_catalogo = cat_anos
         else:
             carpeta_base = "sagas_premios"
             lista_catalogo = cat_sagas_premios
@@ -169,6 +174,7 @@ def run():
     crear_manifest("directores_1", "directores1", "Listas personalizadas Directores I", cat_directores_1)
     crear_manifest("directores_2", "directores2", "Listas personalizadas Directores II", cat_directores_2)
     crear_manifest("sagas_premios", "sagaspremios", "Listas personalizadas Sagas y Premios", cat_sagas_premios)
+    crear_manifest("anos", "anos", "Listas personalizadas por Año", cat_anos)
         
     print("¡Proceso finalizado! Los 3 Addons están listos.")
 
