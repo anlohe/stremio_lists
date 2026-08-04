@@ -1,0 +1,23 @@
+{
+  "id": "com.anlohe.tmdb.anos",
+  "version": "1.0.1",
+  "name": "Listas personalizadas por Año",
+  "description": "Colección de Listas personalizadas por Año extraídas de TMDB.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "anos_8677817",
+      "name": "1888"
+    }
+  ]
+}
