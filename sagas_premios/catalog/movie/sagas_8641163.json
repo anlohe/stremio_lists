@@ -339,8 +339,8 @@
     {
       "id": "tmdb:436969",
       "type": "movie",
-      "name": "El escuadrón suicida",
-      "poster": "http://127.0.0.1:8888/t/p/w500/9G24WDiVEQZqzFk0lQ5fGWCCbEv.jpg",
+      "name": "El Escuadrón Suicida",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fPJWlhXA2VXf4MlQ3JenVsz1iba.jpg",
       "description": "Un grupo de super villanos se encuentran encerrados en Belle Reve, una prisión de alta seguridad con la tasa de mortalidad más alta de Estados Unidos. Para salir de allí harán cualquier cosa, incluso unirse al grupo Task Force X, dedicado a llevar a cabo misiones suicidas bajo las órdenes de Amanda Waller. Fuertemente armados son enviados a la isla Corto Maltese, una jungla repleta de enemigos."
     },
     {
@@ -403,7 +403,7 @@
       "id": "tmdb:1081003",
       "type": "movie",
       "name": "Supergirl",
-      "poster": "http://127.0.0.1:8888/t/p/w500/sbPxtcrj3fPp3CH4CZgSj9Or7Yr.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
       "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger."
     }
   ]

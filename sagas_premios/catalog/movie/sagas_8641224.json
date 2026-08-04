@@ -17,7 +17,7 @@
     {
       "id": "tmdb:166890",
       "type": "movie",
-      "name": "El increíble Hulk II. Muerte en la familia",
+      "name": "El increíble Hulk: Muerte en la familia",
       "poster": "http://127.0.0.1:8888/t/p/w500/8p1v6XyUUBES5kCWxNyAdEGkcfq.jpg",
       "description": "El Dr. David Banner trata de ayudar a una familia donde la hija tiene una discapacidad para caminar. De ahí en más se van sucediendo los hechos que desencadenan un trágico final."
     },
@@ -38,7 +38,7 @@
     {
       "id": "tmdb:79989",
       "type": "movie",
-      "name": "El increíble Hulk III. La boda del increíble Hulk",
+      "name": "El increíble Hulk: Casado",
       "poster": "http://127.0.0.1:8888/t/p/w500/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
       "description": "Bruce Banner se casa en Hawái con una científica estadounidense que le ayudará a buscar una solución a su problema. El protagonista busca en Hawái a una reputada neuróloga con experiencia en la hipnoterapia para que le ayude a evitar sus metamorfosis, ella también se trata a sí misma para un mortal problema fisiológico de regeneración celular. Ambos se ayudan mutuamente con sus respectivas dolencias hasta que la camaradería acabe en amor y éste en matrimonio. Al final, ella muere por su enfermedad."
     },
@@ -73,14 +73,14 @@
     {
       "id": "tmdb:26881",
       "type": "movie",
-      "name": "El increíble Hulk IV. El regreso del increíble Hulk",
+      "name": "El regreso del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
       "description": "El doctor Banner cree haber desarrollado una cura para evitar su transformación en Hulk para siempre, pero todo se complica cuando la tumba de un guerrero nórdico, el poderoso rey Thor, es profanada y con él una terrible amenaza se cierne sobre la sociedad. Mientras tanto el periodista Jack Colvin intentará descubrir la verdad sobre la terrible bestia verde."
     },
     {
       "id": "tmdb:26883",
       "type": "movie",
-      "name": "El increíble Hulk V. El juicio del increíble Hulk",
+      "name": "El juicio del increíble Hulk",
       "poster": "http://127.0.0.1:8888/t/p/w500/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
       "description": "El doctor Banner es detenido por ser culpable de provocar una pelea en el metro. Le asignan un abogado ciego llamado Matt Murdock, pero durante el juicio la ira le domina y se convierte en Hulk y escapa. Murdock decide revelar su secreto a Banner, es ciego debido a una radiación tóxica pero ha desarrollado un sentido extrasensorial y por las noches se convierte en Daredevil."
     },
@@ -94,7 +94,7 @@
     {
       "id": "tmdb:19593",
       "type": "movie",
-      "name": "El increíble Hulk VI. La muerte del increíble Hulk",
+      "name": "La muerte de La Masa",
       "poster": "http://127.0.0.1:8888/t/p/w500/kEO2QQFpNMHI1TYrNw1zR56syDg.jpg",
       "description": "Bruce Banner se somete al experimento de un laboratorio para deshacerse finalmente de Hulk, sin embargo, la entrada en acción de una espía supondrá la vida o la muerte del protagonista."
     },
@@ -655,7 +655,7 @@
       "id": "tmdb:609681",
       "type": "movie",
       "name": "The Marvels",
-      "poster": "http://127.0.0.1:8888/t/p/w500/8R882OJDYVXzVfUtxg5pemsizc2.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
       "description": "Cuando sus obligaciones la envían a un agujero de gusano vinculado a un revolucionario kree, los poderes de Carol Danvers, la capitana Marvel, se entremezclan con los de Kamala Khan, también conocida como la Sra. Marvel y la sobrina de Carol, ahora astronauta de S.A.B.E.R., Monica Rambeau. Juntas, deberán salvar el universo como \"The Marvels\"."
     },
     {
@@ -711,7 +711,7 @@
       "id": "tmdb:969681",
       "type": "movie",
       "name": "Spider-Man: Brand New Day",
-      "poster": "http://127.0.0.1:8888/t/p/w500/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eScWAsDd9fOjufXQamMr6AS8Mz8.jpg",
       "description": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado."
     }
   ]
