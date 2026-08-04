@@ -2682,5 +2682,11 @@
       "nombre": "Premio Oscar",
       "url": "https://www.themoviedb.org/list/8641271-premio-oscar"
     }
+  },
+  "ANOS": {
+    "8677817": {
+      "nombre": "1888",
+      "url": "https://www.themoviedb.org/list/8677817-1888"
+    }
   }
 }
