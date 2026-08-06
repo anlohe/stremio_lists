@@ -1,13 +1,14 @@
 {
   "id": "com.anlohe.tmdb.anos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Listas personalizadas por Año",
   "description": "Colección de Listas personalizadas por Año extraídas de TMDB.",
   "resources": [
     "catalog"
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "tt",
@@ -17,7 +18,1392 @@
     {
       "type": "movie",
       "id": "anos_8677817",
-      "name": "1888"
+      "name": "1888. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678127",
+      "name": "1888. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678137",
+      "name": "1889. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678138",
+      "name": "1889. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678139",
+      "name": "1890. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678140",
+      "name": "1890. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678141",
+      "name": "1891. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678142",
+      "name": "1891. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678143",
+      "name": "1892. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678144",
+      "name": "1892. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678145",
+      "name": "1893. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678146",
+      "name": "1893. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678147",
+      "name": "1894. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678148",
+      "name": "1894. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678149",
+      "name": "1895. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678150",
+      "name": "1895. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678151",
+      "name": "1896. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678152",
+      "name": "1896. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678153",
+      "name": "1897. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678154",
+      "name": "1897. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678155",
+      "name": "1898. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678156",
+      "name": "1898. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678157",
+      "name": "1899. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678158",
+      "name": "1899. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678159",
+      "name": "1900. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678160",
+      "name": "1900. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678161",
+      "name": "1901. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678162",
+      "name": "1901. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678163",
+      "name": "1902. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678164",
+      "name": "1902. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678165",
+      "name": "1903. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678166",
+      "name": "1903. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678167",
+      "name": "1904. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678168",
+      "name": "1904. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678169",
+      "name": "1905. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678170",
+      "name": "1905. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678171",
+      "name": "1906. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678172",
+      "name": "1906. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678173",
+      "name": "1907. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678174",
+      "name": "1907. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678175",
+      "name": "1908. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678176",
+      "name": "1908. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678177",
+      "name": "1909. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678178",
+      "name": "1909. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678179",
+      "name": "1910. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678180",
+      "name": "1910. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678181",
+      "name": "1911. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678182",
+      "name": "1911. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678183",
+      "name": "1912. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678184",
+      "name": "1912. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678185",
+      "name": "1913. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678186",
+      "name": "1913. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678187",
+      "name": "1914. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678188",
+      "name": "1914. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678189",
+      "name": "1915. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678190",
+      "name": "1915. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678191",
+      "name": "1916. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678192",
+      "name": "1916. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678193",
+      "name": "1917. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678194",
+      "name": "1917. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678195",
+      "name": "1918. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678196",
+      "name": "1918. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678197",
+      "name": "1919. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678198",
+      "name": "1919. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678199",
+      "name": "1920. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678200",
+      "name": "1920. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678201",
+      "name": "1921. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678202",
+      "name": "1921. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678203",
+      "name": "1922. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678204",
+      "name": "1922. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678205",
+      "name": "1923. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678206",
+      "name": "1923. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678207",
+      "name": "1924. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678208",
+      "name": "1924. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678209",
+      "name": "1925. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678210",
+      "name": "1925. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678211",
+      "name": "1926. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678212",
+      "name": "1926. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678213",
+      "name": "1927. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678214",
+      "name": "1927. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678215",
+      "name": "1928. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678216",
+      "name": "1928. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678217",
+      "name": "1929. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678218",
+      "name": "1929. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678219",
+      "name": "1930. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678220",
+      "name": "1930. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678221",
+      "name": "1931. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678222",
+      "name": "1931. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678223",
+      "name": "1932. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678224",
+      "name": "1932. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678225",
+      "name": "1933. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678226",
+      "name": "1933. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678227",
+      "name": "1934. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678228",
+      "name": "1934. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678229",
+      "name": "1935. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678230",
+      "name": "1935. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678231",
+      "name": "1936. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678232",
+      "name": "1936. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678233",
+      "name": "1937. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678234",
+      "name": "1937. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678235",
+      "name": "1938. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678236",
+      "name": "1938. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678237",
+      "name": "1939. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678238",
+      "name": "1939. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678239",
+      "name": "1940. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678240",
+      "name": "1940. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678241",
+      "name": "1941. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678242",
+      "name": "1941. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678243",
+      "name": "1942. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678244",
+      "name": "1942. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678245",
+      "name": "1943. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678246",
+      "name": "1943. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678247",
+      "name": "1944. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678248",
+      "name": "1944. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678249",
+      "name": "1945. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678250",
+      "name": "1945. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678251",
+      "name": "1946. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678252",
+      "name": "1946. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678253",
+      "name": "1947. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678254",
+      "name": "1947. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678255",
+      "name": "1948. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678256",
+      "name": "1948. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678257",
+      "name": "1949. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678258",
+      "name": "1949. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678259",
+      "name": "1950. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678260",
+      "name": "1950. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678261",
+      "name": "1951. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678262",
+      "name": "1951. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678263",
+      "name": "1952. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678264",
+      "name": "1952. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678265",
+      "name": "1953. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678266",
+      "name": "1953. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678267",
+      "name": "1954. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678268",
+      "name": "1954. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678269",
+      "name": "1955. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678270",
+      "name": "1955. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678271",
+      "name": "1956. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678272",
+      "name": "1956. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678273",
+      "name": "1957. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678274",
+      "name": "1957. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678275",
+      "name": "1958. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678276",
+      "name": "1958. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678277",
+      "name": "1959. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678278",
+      "name": "1959. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678279",
+      "name": "1960. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678280",
+      "name": "1960. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678281",
+      "name": "1961. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678282",
+      "name": "1961. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678283",
+      "name": "1962. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678284",
+      "name": "1962. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678285",
+      "name": "1963. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678286",
+      "name": "1963. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678287",
+      "name": "1964. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678288",
+      "name": "1964. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678289",
+      "name": "1965. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678290",
+      "name": "1965. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678291",
+      "name": "1966. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678292",
+      "name": "1966. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678293",
+      "name": "1967. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678294",
+      "name": "1967. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678295",
+      "name": "1968. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678296",
+      "name": "1968. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678297",
+      "name": "1969. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678298",
+      "name": "1969. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678299",
+      "name": "1970. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678301",
+      "name": "1970. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678302",
+      "name": "1971. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678303",
+      "name": "1971. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678304",
+      "name": "1972. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678305",
+      "name": "1972. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678306",
+      "name": "1973. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678307",
+      "name": "1973. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678308",
+      "name": "1974. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678309",
+      "name": "1974. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678310",
+      "name": "1975. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678311",
+      "name": "1975. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678312",
+      "name": "1976. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678313",
+      "name": "1976. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678314",
+      "name": "1977. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678315",
+      "name": "1977. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678316",
+      "name": "1978. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678317",
+      "name": "1978. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678318",
+      "name": "1979. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678319",
+      "name": "1979. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678320",
+      "name": "1980. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678321",
+      "name": "1980. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678322",
+      "name": "1981. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678323",
+      "name": "1981. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678324",
+      "name": "1982. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678325",
+      "name": "1982. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678326",
+      "name": "1983. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678327",
+      "name": "1983. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678328",
+      "name": "1984. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678329",
+      "name": "1984. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678330",
+      "name": "1985. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678331",
+      "name": "1985. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678332",
+      "name": "1986. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678333",
+      "name": "1986. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678334",
+      "name": "1987. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678335",
+      "name": "1987. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678336",
+      "name": "1988. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678337",
+      "name": "1988. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678338",
+      "name": "1989. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678339",
+      "name": "1989. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678340",
+      "name": "1990. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678341",
+      "name": "1990. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678342",
+      "name": "1991. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678343",
+      "name": "1991. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678344",
+      "name": "1992. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678345",
+      "name": "1992. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678346",
+      "name": "1993. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678347",
+      "name": "1993. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678348",
+      "name": "1994. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678349",
+      "name": "1994. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678350",
+      "name": "1995. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678351",
+      "name": "1995. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678352",
+      "name": "1996. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678353",
+      "name": "1996. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678354",
+      "name": "1997. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678355",
+      "name": "1997. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678356",
+      "name": "1998. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678357",
+      "name": "1998. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678358",
+      "name": "1999. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678359",
+      "name": "1999. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678360",
+      "name": "2000. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678361",
+      "name": "2000. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678362",
+      "name": "2001. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678363",
+      "name": "2001. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678364",
+      "name": "2002. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678365",
+      "name": "2002. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678366",
+      "name": "2003. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678367",
+      "name": "2003. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678368",
+      "name": "2004. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678369",
+      "name": "2004. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678370",
+      "name": "2005. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678371",
+      "name": "2005. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678372",
+      "name": "2006. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678373",
+      "name": "2006. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678374",
+      "name": "2007. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678375",
+      "name": "2007. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678376",
+      "name": "2008. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678377",
+      "name": "2008. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678378",
+      "name": "2009. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678379",
+      "name": "2009. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678380",
+      "name": "2010. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678381",
+      "name": "2010. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678382",
+      "name": "2011. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678383",
+      "name": "2011. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678384",
+      "name": "2012. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678385",
+      "name": "2012. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678386",
+      "name": "2013. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678387",
+      "name": "2013. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678388",
+      "name": "2014. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678389",
+      "name": "2014. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678390",
+      "name": "2015. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678391",
+      "name": "2015. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678392",
+      "name": "2016. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678393",
+      "name": "2016. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678394",
+      "name": "2017. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678395",
+      "name": "2017. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678396",
+      "name": "2018. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678397",
+      "name": "2018. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678398",
+      "name": "2019. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678399",
+      "name": "2019. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678400",
+      "name": "2020. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678401",
+      "name": "2020. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678402",
+      "name": "2021. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678403",
+      "name": "2021. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678404",
+      "name": "2022. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678405",
+      "name": "2022. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678406",
+      "name": "2023. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678407",
+      "name": "2023. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678408",
+      "name": "2024. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678409",
+      "name": "2024. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678410",
+      "name": "2025. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678411",
+      "name": "2025. Series"
+    },
+    {
+      "type": "movie",
+      "id": "anos_8678412",
+      "name": "2026. Películas"
+    },
+    {
+      "type": "series",
+      "id": "anos_8678413",
+      "name": "2026. Series"
     }
   ]
 }
