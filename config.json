@@ -2685,8 +2685,1389 @@
   },
   "ANOS": {
     "8677817": {
-      "nombre": "1888",
+      "nombre": "1888. Películas",
+      "tipo": "movie",
       "url": "https://www.themoviedb.org/list/8677817-1888"
+    },
+    "8678137": {
+      "nombre": "1889. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678137-1889-peliculas"
+    },
+    "8678138": {
+      "nombre": "1889. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678138-1889-series"
+    },
+    "8678139": {
+      "nombre": "1890. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678139-1890-peliculas"
+    },
+    "8678140": {
+      "nombre": "1890. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678140-1890-series"
+    },
+    "8678141": {
+      "nombre": "1891. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678141-1891-peliculas"
+    },
+    "8678142": {
+      "nombre": "1891. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678142-1891-series"
+    },
+    "8678143": {
+      "nombre": "1892. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678143-1892-peliculas"
+    },
+    "8678144": {
+      "nombre": "1892. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678144-1892-series"
+    },
+    "8678145": {
+      "nombre": "1893. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678145-1893-peliculas"
+    },
+    "8678146": {
+      "nombre": "1893. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678146-1893-series"
+    },
+    "8678147": {
+      "nombre": "1894. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678147-1894-peliculas"
+    },
+    "8678148": {
+      "nombre": "1894. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678148-1894-series"
+    },
+    "8678149": {
+      "nombre": "1895. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678149-1895-peliculas"
+    },
+    "8678150": {
+      "nombre": "1895. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678150-1895-series"
+    },
+    "8678151": {
+      "nombre": "1896. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678151-1896-peliculas"
+    },
+    "8678152": {
+      "nombre": "1896. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678152-1896-series"
+    },
+    "8678153": {
+      "nombre": "1897. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678153-1897-peliculas"
+    },
+    "8678154": {
+      "nombre": "1897. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678154-1897-series"
+    },
+    "8678155": {
+      "nombre": "1898. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678155-1898-peliculas"
+    },
+    "8678156": {
+      "nombre": "1898. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678156-1898-series"
+    },
+    "8678157": {
+      "nombre": "1899. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678157-1899-peliculas"
+    },
+    "8678158": {
+      "nombre": "1899. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678158-1899-series"
+    },
+    "8678159": {
+      "nombre": "1900. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678159-1900-peliculas"
+    },
+    "8678160": {
+      "nombre": "1900. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678160-1900-series"
+    },
+    "8678161": {
+      "nombre": "1901. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678161-1901-peliculas"
+    },
+    "8678162": {
+      "nombre": "1901. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678162-1901-series"
+    },
+    "8678163": {
+      "nombre": "1902. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678163-1902-peliculas"
+    },
+    "8678164": {
+      "nombre": "1902. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678164-1902-series"
+    },
+    "8678165": {
+      "nombre": "1903. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678165-1903-peliculas"
+    },
+    "8678166": {
+      "nombre": "1903. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678166-1903-series"
+    },
+    "8678167": {
+      "nombre": "1904. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678167-1904-peliculas"
+    },
+    "8678168": {
+      "nombre": "1904. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678168-1904-series"
+    },
+    "8678169": {
+      "nombre": "1905. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678169-1905-peliculas"
+    },
+    "8678170": {
+      "nombre": "1905. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678170-1905-series"
+    },
+    "8678171": {
+      "nombre": "1906. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678171-1906-peliculas"
+    },
+    "8678172": {
+      "nombre": "1906. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678172-1906-series"
+    },
+    "8678173": {
+      "nombre": "1907. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678173-1907-peliculas"
+    },
+    "8678174": {
+      "nombre": "1907. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678174-1907-series"
+    },
+    "8678175": {
+      "nombre": "1908. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678175-1908-peliculas"
+    },
+    "8678176": {
+      "nombre": "1908. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678176-1908-series"
+    },
+    "8678177": {
+      "nombre": "1909. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678177-1909-peliculas"
+    },
+    "8678178": {
+      "nombre": "1909. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678178-1909-series"
+    },
+    "8678179": {
+      "nombre": "1910. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678179-1910-peliculas"
+    },
+    "8678180": {
+      "nombre": "1910. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678180-1910-series"
+    },
+    "8678181": {
+      "nombre": "1911. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678181-1911-peliculas"
+    },
+    "8678182": {
+      "nombre": "1911. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678182-1911-series"
+    },
+    "8678183": {
+      "nombre": "1912. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678183-1912-peliculas"
+    },
+    "8678184": {
+      "nombre": "1912. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678184-1912-series"
+    },
+    "8678185": {
+      "nombre": "1913. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678185-1913-peliculas"
+    },
+    "8678186": {
+      "nombre": "1913. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678186-1913-series"
+    },
+    "8678187": {
+      "nombre": "1914. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678187-1914-peliculas"
+    },
+    "8678188": {
+      "nombre": "1914. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678188-1914-series"
+    },
+    "8678189": {
+      "nombre": "1915. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678189-1915-peliculas"
+    },
+    "8678190": {
+      "nombre": "1915. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678190-1915-series"
+    },
+    "8678191": {
+      "nombre": "1916. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678191-1916-peliculas"
+    },
+    "8678192": {
+      "nombre": "1916. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678192-1916-series"
+    },
+    "8678193": {
+      "nombre": "1917. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678193-1917-peliculas"
+    },
+    "8678194": {
+      "nombre": "1917. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678194-1917-series"
+    },
+    "8678195": {
+      "nombre": "1918. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678195-1918-peliculas"
+    },
+    "8678196": {
+      "nombre": "1918. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678196-1918-series"
+    },
+    "8678197": {
+      "nombre": "1919. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678197-1919-peliculas"
+    },
+    "8678198": {
+      "nombre": "1919. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678198-1919-series"
+    },
+    "8678199": {
+      "nombre": "1920. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678199-1920-peliculas"
+    },
+    "8678200": {
+      "nombre": "1920. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678200-1920-series"
+    },
+    "8678201": {
+      "nombre": "1921. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678201-1921-peliculas"
+    },
+    "8678202": {
+      "nombre": "1921. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678202-1921-series"
+    },
+    "8678203": {
+      "nombre": "1922. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678203-1922-peliculas"
+    },
+    "8678204": {
+      "nombre": "1922. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678204-1922-series"
+    },
+    "8678205": {
+      "nombre": "1923. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678205-1923-peliculas"
+    },
+    "8678206": {
+      "nombre": "1923. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678206-1923-series"
+    },
+    "8678207": {
+      "nombre": "1924. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678207-1924-peliculas"
+    },
+    "8678208": {
+      "nombre": "1924. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678208-1924-series"
+    },
+    "8678209": {
+      "nombre": "1925. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678209-1925-peliculas"
+    },
+    "8678210": {
+      "nombre": "1925. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678210-1925-series"
+    },
+    "8678211": {
+      "nombre": "1926. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678211-1926-peliculas"
+    },
+    "8678212": {
+      "nombre": "1926. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678212-1926-series"
+    },
+    "8678213": {
+      "nombre": "1927. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678213-1927-peliculas"
+    },
+    "8678214": {
+      "nombre": "1927. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678214-1927-series"
+    },
+    "8678215": {
+      "nombre": "1928. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678215-1928-peliculas"
+    },
+    "8678216": {
+      "nombre": "1928. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678216-1928-series"
+    },
+    "8678217": {
+      "nombre": "1929. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678217-1929-peliculas"
+    },
+    "8678218": {
+      "nombre": "1929. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678218-1929-series"
+    },
+    "8678219": {
+      "nombre": "1930. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678219-1930-peliculas"
+    },
+    "8678220": {
+      "nombre": "1930. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678220-1930-series"
+    },
+    "8678221": {
+      "nombre": "1931. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678221-1931-peliculas"
+    },
+    "8678222": {
+      "nombre": "1931. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678222-1931-series"
+    },
+    "8678223": {
+      "nombre": "1932. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678223-1932-peliculas"
+    },
+    "8678224": {
+      "nombre": "1932. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678224-1932-series"
+    },
+    "8678225": {
+      "nombre": "1933. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678225-1933-peliculas"
+    },
+    "8678226": {
+      "nombre": "1933. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678226-1933-series"
+    },
+    "8678227": {
+      "nombre": "1934. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678227-1934-peliculas"
+    },
+    "8678228": {
+      "nombre": "1934. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678228-1934-series"
+    },
+    "8678229": {
+      "nombre": "1935. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678229-1935-peliculas"
+    },
+    "8678230": {
+      "nombre": "1935. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678230-1935-series"
+    },
+    "8678231": {
+      "nombre": "1936. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678231-1936-peliculas"
+    },
+    "8678232": {
+      "nombre": "1936. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678232-1936-series"
+    },
+    "8678233": {
+      "nombre": "1937. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678233-1937-peliculas"
+    },
+    "8678234": {
+      "nombre": "1937. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678234-1937-series"
+    },
+    "8678235": {
+      "nombre": "1938. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678235-1938-peliculas"
+    },
+    "8678236": {
+      "nombre": "1938. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678236-1938-series"
+    },
+    "8678237": {
+      "nombre": "1939. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678237-1939-peliculas"
+    },
+    "8678238": {
+      "nombre": "1939. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678238-1939-series"
+    },
+    "8678239": {
+      "nombre": "1940. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678239-1940-peliculas"
+    },
+    "8678240": {
+      "nombre": "1940. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678240-1940-series"
+    },
+    "8678241": {
+      "nombre": "1941. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678241-1941-peliculas"
+    },
+    "8678242": {
+      "nombre": "1941. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678242-1941-series"
+    },
+    "8678243": {
+      "nombre": "1942. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678243-1942-peliculas"
+    },
+    "8678244": {
+      "nombre": "1942. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678244-1942-series"
+    },
+    "8678245": {
+      "nombre": "1943. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678245-1943-peliculas"
+    },
+    "8678246": {
+      "nombre": "1943. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678246-1943-series"
+    },
+    "8678247": {
+      "nombre": "1944. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678247-1944-peliculas"
+    },
+    "8678248": {
+      "nombre": "1944. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678248-1944-series"
+    },
+    "8678249": {
+      "nombre": "1945. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678249-1945-peliculas"
+    },
+    "8678250": {
+      "nombre": "1945. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678250-1945-series"
+    },
+    "8678251": {
+      "nombre": "1946. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678251-1946-peliculas"
+    },
+    "8678252": {
+      "nombre": "1946. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678252-1946-series"
+    },
+    "8678253": {
+      "nombre": "1947. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678253-1947-peliculas"
+    },
+    "8678254": {
+      "nombre": "1947. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678254-1947-series"
+    },
+    "8678255": {
+      "nombre": "1948. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678255-1948-peliculas"
+    },
+    "8678256": {
+      "nombre": "1948. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678256-1948-series"
+    },
+    "8678257": {
+      "nombre": "1949. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678257-1949-peliculas"
+    },
+    "8678258": {
+      "nombre": "1949. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678258-1949-series"
+    },
+    "8678259": {
+      "nombre": "1950. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678259-1950-peliculas"
+    },
+    "8678260": {
+      "nombre": "1950. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678260-1950-series"
+    },
+    "8678261": {
+      "nombre": "1951. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678261-1951-peliculas"
+    },
+    "8678262": {
+      "nombre": "1951. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678262-1951-series"
+    },
+    "8678263": {
+      "nombre": "1952. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678263-1952-peliculas"
+    },
+    "8678264": {
+      "nombre": "1952. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678264-1952-series"
+    },
+    "8678265": {
+      "nombre": "1953. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678265-1953-peliculas"
+    },
+    "8678266": {
+      "nombre": "1953. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678266-1953-series"
+    },
+    "8678267": {
+      "nombre": "1954. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678267-1954-peliculas"
+    },
+    "8678268": {
+      "nombre": "1954. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678268-1954-series"
+    },
+    "8678269": {
+      "nombre": "1955. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678269-1955-peliculas"
+    },
+    "8678270": {
+      "nombre": "1955. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678270-1955-series"
+    },
+    "8678271": {
+      "nombre": "1956. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678271-1956-peliculas"
+    },
+    "8678272": {
+      "nombre": "1956. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678272-1956-series"
+    },
+    "8678273": {
+      "nombre": "1957. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678273-1957-peliculas"
+    },
+    "8678274": {
+      "nombre": "1957. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678274-1957-series"
+    },
+    "8678275": {
+      "nombre": "1958. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678275-1958-peliculas"
+    },
+    "8678276": {
+      "nombre": "1958. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678276-1958-series"
+    },
+    "8678277": {
+      "nombre": "1959. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678277-1959-peliculas"
+    },
+    "8678278": {
+      "nombre": "1959. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678278-1959-series"
+    },
+    "8678279": {
+      "nombre": "1960. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678279-1960-peliculas"
+    },
+    "8678280": {
+      "nombre": "1960. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678280-1960-series"
+    },
+    "8678281": {
+      "nombre": "1961. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678281-1961-peliculas"
+    },
+    "8678282": {
+      "nombre": "1961. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678282-1961-series"
+    },
+    "8678283": {
+      "nombre": "1962. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678283-1962-peliculas"
+    },
+    "8678284": {
+      "nombre": "1962. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678284-1962-series"
+    },
+    "8678285": {
+      "nombre": "1963. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678285-1963-peliculas"
+    },
+    "8678286": {
+      "nombre": "1963. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678286-1963-series"
+    },
+    "8678287": {
+      "nombre": "1964. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678287-1964-peliculas"
+    },
+    "8678288": {
+      "nombre": "1964. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678288-1964-series"
+    },
+    "8678289": {
+      "nombre": "1965. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678289-1965-peliculas"
+    },
+    "8678290": {
+      "nombre": "1965. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678290-1965-series"
+    },
+    "8678291": {
+      "nombre": "1966. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678291-1966-peliculas"
+    },
+    "8678292": {
+      "nombre": "1966. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678292-1966-series"
+    },
+    "8678293": {
+      "nombre": "1967. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678293-1967-peliculas"
+    },
+    "8678294": {
+      "nombre": "1967. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678294-1967-series"
+    },
+    "8678295": {
+      "nombre": "1968. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678295-1968-peliculas"
+    },
+    "8678296": {
+      "nombre": "1968. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678296-1968-series"
+    },
+    "8678297": {
+      "nombre": "1969. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678297-1969-peliculas"
+    },
+    "8678298": {
+      "nombre": "1969. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678298-1969-series"
+    },
+    "8678299": {
+      "nombre": "1970. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678299-1970-peliculas"
+    },
+    "8678301": {
+      "nombre": "1970. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678301-1970-series"
+    },
+    "8678302": {
+      "nombre": "1971. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678302-1971-peliculas"
+    },
+    "8678303": {
+      "nombre": "1971. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678303-1971-series"
+    },
+    "8678304": {
+      "nombre": "1972. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678304-1972-peliculas"
+    },
+    "8678305": {
+      "nombre": "1972. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678305-1972-series"
+    },
+    "8678306": {
+      "nombre": "1973. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678306-1973-peliculas"
+    },
+    "8678307": {
+      "nombre": "1973. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678307-1973-series"
+    },
+    "8678308": {
+      "nombre": "1974. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678308-1974-peliculas"
+    },
+    "8678309": {
+      "nombre": "1974. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678309-1974-series"
+    },
+    "8678310": {
+      "nombre": "1975. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678310-1975-peliculas"
+    },
+    "8678311": {
+      "nombre": "1975. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678311-1975-series"
+    },
+    "8678312": {
+      "nombre": "1976. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678312-1976-peliculas"
+    },
+    "8678313": {
+      "nombre": "1976. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678313-1976-series"
+    },
+    "8678314": {
+      "nombre": "1977. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678314-1977-peliculas"
+    },
+    "8678315": {
+      "nombre": "1977. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678315-1977-series"
+    },
+    "8678316": {
+      "nombre": "1978. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678316-1978-peliculas"
+    },
+    "8678317": {
+      "nombre": "1978. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678317-1978-series"
+    },
+    "8678318": {
+      "nombre": "1979. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678318-1979-peliculas"
+    },
+    "8678319": {
+      "nombre": "1979. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678319-1979-series"
+    },
+    "8678320": {
+      "nombre": "1980. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678320-1980-peliculas"
+    },
+    "8678321": {
+      "nombre": "1980. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678321-1980-series"
+    },
+    "8678322": {
+      "nombre": "1981. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678322-1981-peliculas"
+    },
+    "8678323": {
+      "nombre": "1981. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678323-1981-series"
+    },
+    "8678324": {
+      "nombre": "1982. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678324-1982-peliculas"
+    },
+    "8678325": {
+      "nombre": "1982. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678325-1982-series"
+    },
+    "8678326": {
+      "nombre": "1983. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678326-1983-peliculas"
+    },
+    "8678327": {
+      "nombre": "1983. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678327-1983-series"
+    },
+    "8678328": {
+      "nombre": "1984. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678328-1984-peliculas"
+    },
+    "8678329": {
+      "nombre": "1984. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678329-1984-series"
+    },
+    "8678330": {
+      "nombre": "1985. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678330-1985-peliculas"
+    },
+    "8678331": {
+      "nombre": "1985. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678331-1985-series"
+    },
+    "8678332": {
+      "nombre": "1986. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678332-1986-peliculas"
+    },
+    "8678333": {
+      "nombre": "1986. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678333-1986-series"
+    },
+    "8678334": {
+      "nombre": "1987. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678334-1987-peliculas"
+    },
+    "8678335": {
+      "nombre": "1987. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678335-1987-series"
+    },
+    "8678336": {
+      "nombre": "1988. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678336-1988-peliculas"
+    },
+    "8678337": {
+      "nombre": "1988. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678337-1988-series"
+    },
+    "8678338": {
+      "nombre": "1989. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678338-1989-peliculas"
+    },
+    "8678339": {
+      "nombre": "1989. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678339-1989-series"
+    },
+    "8678340": {
+      "nombre": "1990. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678340-1990-peliculas"
+    },
+    "8678341": {
+      "nombre": "1990. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678341-1990-series"
+    },
+    "8678342": {
+      "nombre": "1991. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678342-1991-peliculas"
+    },
+    "8678343": {
+      "nombre": "1991. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678343-1991-series"
+    },
+    "8678344": {
+      "nombre": "1992. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678344-1992-peliculas"
+    },
+    "8678345": {
+      "nombre": "1992. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678345-1992-series"
+    },
+    "8678346": {
+      "nombre": "1993. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678346-1993-peliculas"
+    },
+    "8678347": {
+      "nombre": "1993. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678347-1993-series"
+    },
+    "8678348": {
+      "nombre": "1994. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678348-1994-peliculas"
+    },
+    "8678349": {
+      "nombre": "1994. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678349-1994-series"
+    },
+    "8678350": {
+      "nombre": "1995. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678350-1995-peliculas"
+    },
+    "8678351": {
+      "nombre": "1995. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678351-1995-series"
+    },
+    "8678352": {
+      "nombre": "1996. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678352-1996-peliculas"
+    },
+    "8678353": {
+      "nombre": "1996. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678353-1996-series"
+    },
+    "8678354": {
+      "nombre": "1997. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678354-1997-peliculas"
+    },
+    "8678355": {
+      "nombre": "1997. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678355-1997-series"
+    },
+    "8678356": {
+      "nombre": "1998. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678356-1998-peliculas"
+    },
+    "8678357": {
+      "nombre": "1998. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678357-1998-series"
+    },
+    "8678358": {
+      "nombre": "1999. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678358-1999-peliculas"
+    },
+    "8678359": {
+      "nombre": "1999. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678359-1999-series"
+    },
+    "8678360": {
+      "nombre": "2000. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678360-2000-peliculas"
+    },
+    "8678361": {
+      "nombre": "2000. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678361-2000-series"
+    },
+    "8678362": {
+      "nombre": "2001. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678362-2001-peliculas"
+    },
+    "8678363": {
+      "nombre": "2001. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678363-2001-series"
+    },
+    "8678364": {
+      "nombre": "2002. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678364-2002-peliculas"
+    },
+    "8678365": {
+      "nombre": "2002. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678365-2002-series"
+    },
+    "8678366": {
+      "nombre": "2003. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678366-2003-peliculas"
+    },
+    "8678367": {
+      "nombre": "2003. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678367-2003-series"
+    },
+    "8678368": {
+      "nombre": "2004. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678368-2004-peliculas"
+    },
+    "8678369": {
+      "nombre": "2004. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678369-2004-series"
+    },
+    "8678370": {
+      "nombre": "2005. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678370-2005-peliculas"
+    },
+    "8678371": {
+      "nombre": "2005. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678371-2005-series"
+    },
+    "8678372": {
+      "nombre": "2006. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678372-2006-peliculas"
+    },
+    "8678373": {
+      "nombre": "2006. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678373-2006-series"
+    },
+    "8678374": {
+      "nombre": "2007. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678374-2007-peliculas"
+    },
+    "8678375": {
+      "nombre": "2007. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678375-2007-series"
+    },
+    "8678376": {
+      "nombre": "2008. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678376-2008-peliculas"
+    },
+    "8678377": {
+      "nombre": "2008. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678377-2008-series"
+    },
+    "8678378": {
+      "nombre": "2009. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678378-2009-peliculas"
+    },
+    "8678379": {
+      "nombre": "2009. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678379-2009-series"
+    },
+    "8678380": {
+      "nombre": "2010. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678380-2010-peliculas"
+    },
+    "8678381": {
+      "nombre": "2010. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678381-2010-series"
+    },
+    "8678382": {
+      "nombre": "2011. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678382-2011-peliculas"
+    },
+    "8678383": {
+      "nombre": "2011. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678383-2011-series"
+    },
+    "8678384": {
+      "nombre": "2012. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678384-2012-peliculas"
+    },
+    "8678385": {
+      "nombre": "2012. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678385-2012-series"
+    },
+    "8678386": {
+      "nombre": "2013. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678386-2013-peliculas"
+    },
+    "8678387": {
+      "nombre": "2013. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678387-2013-series"
+    },
+    "8678388": {
+      "nombre": "2014. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678388-2014-peliculas"
+    },
+    "8678389": {
+      "nombre": "2014. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678389-2014-series"
+    },
+    "8678390": {
+      "nombre": "2015. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678390-2015-peliculas"
+    },
+    "8678391": {
+      "nombre": "2015. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678391-2015-series"
+    },
+    "8678392": {
+      "nombre": "2016. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678392-2016-peliculas"
+    },
+    "8678393": {
+      "nombre": "2016. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678393-2016-series"
+    },
+    "8678394": {
+      "nombre": "2017. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678394-2017-peliculas"
+    },
+    "8678395": {
+      "nombre": "2017. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678395-2017-series"
+    },
+    "8678396": {
+      "nombre": "2018. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678396-2018-peliculas"
+    },
+    "8678397": {
+      "nombre": "2018. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678397-2018-series"
+    },
+    "8678398": {
+      "nombre": "2019. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678398-2019-peliculas"
+    },
+    "8678399": {
+      "nombre": "2019. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678399-2019-series"
+    },
+    "8678400": {
+      "nombre": "2020. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678400-2020-peliculas"
+    },
+    "8678401": {
+      "nombre": "2020. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678401-2020-series"
+    },
+    "8678402": {
+      "nombre": "2021. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678402-2021-peliculas"
+    },
+    "8678403": {
+      "nombre": "2021. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678403-2021-series"
+    },
+    "8678404": {
+      "nombre": "2022. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678404-2022-peliculas"
+    },
+    "8678405": {
+      "nombre": "2022. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678405-2022-series"
+    },
+    "8678406": {
+      "nombre": "2023. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678406-2023-peliculas"
+    },
+    "8678407": {
+      "nombre": "2023. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678407-2023-series"
+    },
+    "8678408": {
+      "nombre": "2024. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678408-2024-peliculas"
+    },
+    "8678409": {
+      "nombre": "2024. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678409-2024-series"
+    },
+    "8678410": {
+      "nombre": "2025. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678410-2025-peliculas"
+    },
+    "8678411": {
+      "nombre": "2025. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678411-2025-series"
+    },
+    "8678412": {
+      "nombre": "2026. Películas",
+      "tipo": "movie",
+      "url": "https://www.themoviedb.org/list/8678412-2026-peliculas"
+    },
+    "8678413": {
+      "nombre": "2026. Series",
+      "tipo": "series",
+      "url": "https://www.themoviedb.org/list/8678413-2026-series"
     }
   }
 }
