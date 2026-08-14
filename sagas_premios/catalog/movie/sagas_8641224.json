@@ -248,7 +248,7 @@
     {
       "id": "tmdb:36668",
       "type": "movie",
-      "name": "X-Men III. La decisión final",
+      "name": "X-Men III: La decisión final",
       "poster": "http://127.0.0.1:8888/t/p/w500/fY43xX0k1raU7M9FZHwOj0WNYhF.jpg",
       "description": "Hay una cura para los mutantes que amenaza con alterar el curso de la historia. Por primera vez, los mutantes pueden elegir: seguir con su singularidad, aunque eso les aísle y les separe, o renunciar a sus poderes y convertirse en seres humanos normales. Los opuestos puntos de vista de los líderes mutantes, Charles Xavier, que aboga por la tolerancia, y Magneto, que cree en la supervivencia de los más aptos, se ven sometidos a la prueba definitiva: desencadenar la guerra que pondrá fin a todas las guerras."
     },
@@ -269,7 +269,7 @@
     {
       "id": "tmdb:1979",
       "type": "movie",
-      "name": "Los Cuatro Fantásticos II. Silver Surfer",
+      "name": "Los Cuatro Fantásticos y Silver Surfer",
       "poster": "http://127.0.0.1:8888/t/p/w500/pRXgCDTRKEIUy5cySYA4zC5to5B.jpg",
       "description": "La primera familia de superhéroes de Marvel, los Cuatro Fantásticos, se enfrentan a su mayor reto hasta la fecha cuando un enigmático heraldo intergaláctico, Estela Plateada, llega a la Tierra para prepararla para su destrucción. Mientras Estela Plateada recorre el mundo sembrando la destrucción, Reed, Sue, Johnny y Ben deben desentrañar el misterio de dicho personaje, y hacer frente al sorprendente regreso de su mortal enemigo el Doctor Muerte, antes de perder toda esperanza..."
     },
@@ -332,7 +332,7 @@
     {
       "id": "tmdb:1771",
       "type": "movie",
-      "name": "Capitán América. El primer vengador",
+      "name": "Capitán América: El primer vengador",
       "poster": "http://127.0.0.1:8888/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg",
       "description": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores."
     },
@@ -472,7 +472,7 @@
     {
       "id": "tmdb:283995",
       "type": "movie",
-      "name": "Guardianes de la Galaxia II",
+      "name": "Guardianes de la galaxia Vol. 2",
       "poster": "http://127.0.0.1:8888/t/p/w500/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
       "description": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el universo cinematográfico de Marvel continúa expandiéndose."
     },
@@ -514,7 +514,7 @@
     {
       "id": "tmdb:363088",
       "type": "movie",
-      "name": "Ant-Man II. Ant-Man y la Avispa",
+      "name": "Ant-Man y la Avispa",
       "poster": "http://127.0.0.1:8888/t/p/w500/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
       "description": "Mientras Scott Lang se convierte en un súper héroe y en un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que encuentra a Ant-Man luchando junto a The Wasp para descubrir secretos de su pasado."
     },
