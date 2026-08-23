@@ -16,14 +16,14 @@ NON_LATIN = regex.compile(
 )
 
 def obtener_overrides_titulos():
-    WORKER_URL = os.environ.get("WORKER_URL")
-    ADMIN_KEY = os.environ.get("ADMIN_KEY")
+    # Usamos la URL directa para evitar cualquier fallo de variables en GitHub Actions
+    url_directa = "https://stremio-tmdb.andresetlh.workers.dev/overrides-listas?key=anlpeher"
     try:
-        r = requests.get(f"{WORKER_URL}/overrides-listas?key={ADMIN_KEY}")
+        r = requests.get(url_directa)
         r.raise_for_status()
         return r.json()
     except Exception as e:
-        print(f"Aviso: no se pudieron cargar overrides de titulos: {e}")
+        print(f"ERROR CRÍTICO CARGANDO OVERRIDES: {e}")
         return {}
 
 OVERRIDES_TITULOS = obtener_overrides_titulos()
