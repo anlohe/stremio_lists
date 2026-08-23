@@ -19,7 +19,7 @@ def obtener_overrides_titulos():
     WORKER_URL = os.environ.get("WORKER_URL")
     ADMIN_KEY = os.environ.get("ADMIN_KEY")
     try:
-        r = requests.get(f"{WORKER_URL}/overrides-titulos?key={ADMIN_KEY}")
+        r = requests.get(f"{WORKER_URL}/overrides-listas?key={ADMIN_KEY}")
         r.raise_for_status()
         return r.json()
     except Exception as e:
@@ -118,9 +118,22 @@ def formatear_para_stremio(item, media_type):
     else:
         stremio_id = f"tmdb:{item.get('id')}"
 
-    poster_path = item.get('poster_path')
+    ov = OVERRIDES_TITULOS.get(str(item.get('id')), {})
+    if isinstance(ov, dict):
+        p_ov = ov.get('poster')
+        t_ov = ov.get('title')
+    else:
+        p_ov = None
+        t_ov = ov
+
     MI_WORKER = "http://127.0.0.1:8888"  # Cambia esto si tu worker tiene otra URL
-    poster_url = f"{MI_WORKER}/t/p/w500{poster_path}" if poster_path else None
+
+    if p_ov and p_ov != "-":
+        p_clean = p_ov if p_ov.startswith('/') else f"/{p_ov}"
+        poster_url = f"{MI_WORKER}/t/p/w500{p_clean}"
+    else:
+        poster_path = item.get('poster_path')
+        poster_url = f"{MI_WORKER}/t/p/w500{poster_path}" if poster_path else None
 
     # Obtener el título según el tipo
     if media_type == "series":
@@ -129,7 +142,10 @@ def formatear_para_stremio(item, media_type):
         nombre_base = item.get('title') or item.get('original_title') or ""
 
     # Aplicar override si existe
-    nombre_final = OVERRIDES_TITULOS.get(str(item.get('id')), resolver_titulo(item, media_type))
+    if t_ov and t_ov != "-":
+        nombre_final = t_ov
+    else:
+        nombre_final = resolver_titulo(item, media_type)
 
     return {
         "id": stremio_id,
