@@ -4,35 +4,35 @@
       "id": "tmdb:671",
       "type": "movie",
       "name": "Harry Potter y la piedra filosofal",
-      "poster": "http://127.0.0.1:8888/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/roKMM6S9DRGFNujmvqlk8l5YbN3.jpg",
       "description": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran."
     },
     {
       "id": "tmdb:672",
       "type": "movie",
       "name": "Harry Potter y la cámara secreta",
-      "poster": "http://127.0.0.1:8888/t/p/w500/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg",
       "description": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso."
     },
     {
       "id": "tmdb:673",
       "type": "movie",
       "name": "Harry Potter y el prisionero de Azkaban",
-      "poster": "http://127.0.0.1:8888/t/p/w500/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg",
       "description": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia."
     },
     {
       "id": "tmdb:674",
       "type": "movie",
       "name": "Harry Potter y el cáliz de fuego",
-      "poster": "http://127.0.0.1:8888/t/p/w500/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg",
       "description": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida"
     },
     {
       "id": "tmdb:675",
       "type": "movie",
       "name": "Harry Potter y la Orden del Fénix",
-      "poster": "http://127.0.0.1:8888/t/p/w500/vYUjcTKDXOHJOlilNK953m8zJww.jpg",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zN5DWGV6IO30asXrHzGju9mo20P.jpg",
       "description": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix."
     },
     {
@@ -45,15 +45,15 @@
     {
       "id": "tmdb:12444",
       "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+      "name": "Harry Potter y las Reliquias de la Muerte",
       "poster": "http://127.0.0.1:8888/t/p/w500/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
       "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura."
     },
     {
       "id": "tmdb:12445",
       "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
-      "poster": "http://127.0.0.1:8888/t/p/w500/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg",
+      "name": "Harry Potter y las Reliquias de la Muerte II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
       "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…"
     }
   ]
