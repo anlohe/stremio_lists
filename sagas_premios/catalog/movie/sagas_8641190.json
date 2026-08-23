@@ -45,14 +45,14 @@
     {
       "id": "tmdb:12444",
       "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 1",
       "poster": "http://127.0.0.1:8888/t/p/w500/w6wsYKdXERaXRdByPsI2O9rn20b.jpg",
       "description": "Una tarea casi imposible cae sobre los hombros de Harry: deberá encontrar y destruir los horrocruxes restantes para dar fin al reinado de Lord Voldemort. En el episodio final de la saga, el hechicero de 17 años parte junto con sus amigos Hermione Granger y Ron Weasley en un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Señor Tenebroso, los cuales garantizan su longevidad. Pero el camino no será fácil pues el lado oscuro adquiere más poder con cada minuto que pasa y las lealtades serán puestas a prueba. Harry deberá usar todos los conocimientos que gracias a Dumbledore ha adquirido sobre su enemigo para poder encontrar la forma de sobrevivir a esta última aventura."
     },
     {
       "id": "tmdb:12445",
       "type": "movie",
-      "name": "Harry Potter y las Reliquias de la Muerte II",
+      "name": "Harry Potter y las Reliquias de la Muerte - Parte 2",
       "poster": "http://127.0.0.1:8888/t/p/w500/wjKy2wSlDiLLLIkM7tHnxsXG8Tp.jpg",
       "description": "La segunda parte de la batalla final entre las fuerzas del bien y el mal. El juego nunca ha sido tan peligroso y nadie está a salvo. Se acerca el momento de la confrontación final entre Harry Potter y Lord Voldemort. Todo termina aquí…"
     }
