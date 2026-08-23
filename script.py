@@ -118,7 +118,16 @@ def formatear_para_stremio(item, media_type):
     else:
         stremio_id = f"tmdb:{item.get('id')}"
 
-    ov = OVERRIDES_TITULOS.get(str(item.get('id')), {})
+    item_id_str = str(item.get('id'))
+
+    # Busca "9799 = movie" (con espacios), "9799=movie" (sin espacios) o el número antiguo "9799"
+    ov = OVERRIDES_TITULOS.get(f"{item_id_str} = {media_type}") \
+      or OVERRIDES_TITULOS.get(f"{item_id_str}={media_type}") \
+      or OVERRIDES_TITULOS.get(item_id_str, {})
+
+    # Protección para el conflicto de El Señor de los Anillos vs Doctor Who (ID 121)
+    if item_id_str == "121" and media_type == "series" and "121 = series" not in OVERRIDES_TITULOS:
+        ov = {}
     if isinstance(ov, dict):
         p_ov = ov.get('poster')
         t_ov = ov.get('title')
