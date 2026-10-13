@@ -1,0 +1,53 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:20352",
+      "type": "movie",
+      "name": "Gru Mi villano favorito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AsaaPLSfisdFDeasEd9r0GiZVss.jpg",
+      "description": "En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por un pequeño ejército de lacayos, planeando el mayor robo de toda la historia. ¡Va a hacerse con la luna!"
+    },
+    {
+      "id": "tmdb:93456",
+      "type": "movie",
+      "name": "Gru 2. Mi villano favorito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hhksXOBVJ6Mu2BwAFgPJwZxNisd.jpg",
+      "description": "La película de animación de los estudios Universal, giraba en torno a una apacible y colorida población en la que vivía el malvado Gru. Ayudado por su batallón de Minions, unos pequeños seres de color amarillo, intentaron robar la Luna, aunque no todo acabó como esperaban. Tres niñas curiosas y algo traviesas se cruzaron en su camino, entorpeciéndole todos sus planes y conviertiendo su objetivo en una alocada hazaña interestelar.  Ahora, 'Gru, mi villano favorito 2', narra una nueva aventura en la que Gru volverá a estar acompañado de simpáticos humanoides."
+    },
+    {
+      "id": "tmdb:211672",
+      "type": "movie",
+      "name": "Los minions",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nmqLwaTfgyWLQWbYd82w159cAqJ.jpg",
+      "description": "Los minions empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables. Ante su incapacidad para mantener a esos amos – desde el T. Rex a Napoleón –, los minions acaban encontrándose solos y caen en una profunda depresión. Sin embargo, uno de ellos, tiene un plan. Emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill. Pasarán de la helada Antártida, a la ciudad de Nueva York (Estados Unidos) en la década de 1960 para acabar en Londres (Reino Unido), donde deberán enfrentarse al mayor reto hasta la fecha: salvar a la raza ninion de la aniquilación."
+    },
+    {
+      "id": "tmdb:324852",
+      "type": "movie",
+      "name": "Gru 3. Mi villano favorito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mz3zTmsnySgFWGc3ZsBbCQbalut.jpg",
+      "description": "A Gru lo han despedido. Se ha quedado sin trabajo porque ha dejado escapar al supervillano Balthazar Bratt, estrella infantil de los años 80 que con la llegada de la pubertad lo perdió todo y ha estado creando el caos en todo el planeta.  Además, Gru va a conocer a su hermano gemelo Dru y tendrá que decidir si está listo para continuar la tradición familiar de dedicarse al crimen, y unirse a el para llevar a cabo un último golpe. Aunque ha dejado esa vida atrás… ¿volverá a convertirse Gru en un villano?"
+    },
+    {
+      "id": "tmdb:438148",
+      "type": "movie",
+      "name": "Minions: El origen de Gru",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fzwG3cukayxKpCK0lqS1jkSBqJk.jpg",
+      "description": "En la década de 1970, Gru crece siendo un gran admirador de \"Los salvajes seis\", un supergrupo de villanos. Para demostrarles que puede ser malvado, diseña un plan con la esperanza de formar parte de la banda."
+    },
+    {
+      "id": "tmdb:519182",
+      "type": "movie",
+      "name": "Gru 4. Mi villano favorito",
+      "poster": "http://127.0.0.1:8888/t/p/w500/b6JX0fBne5yPFNBtdp4Imi3CpiE.jpg",
+      "description": "Gru, Lucy y las niñas -Margo, Edith y Agnes- dan la bienvenida a un nuevo miembro en la familia: Gru Junior, que parece llegar con el propósito de ser un suplicio para su padre. Gru tendrá que enfrentarse en esta ocasión a su nueva némesis Maxime Le Mal y su sofisticada y malévola novia Valentina, lo que obligará a la familia a tener que darse a la fuga. Cuarta entrega de 'Gru, mi villano favorito'."
+    },
+    {
+      "id": "tmdb:1315772",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tQ8CR2Xuokcg8Pp2R7KDTA5N683.jpg",
+      "description": "Narra la historia de cómo los minions conquistaron la industria de Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear."
+    }
+  ]
+}
