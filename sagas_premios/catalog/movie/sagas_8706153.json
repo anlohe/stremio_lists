@@ -1,0 +1,613 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:408",
+      "type": "movie",
+      "name": "Blancanieves y los siete enanitos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg",
+      "description": "La malvada madrastra de la princesa Blancanieves decide deshacerse de ella porque no puede soportar que la belleza de la joven sea superior a la de ella. Sin embargo, Blancanieves consigue salvarse y se refugia en la cabaña de los siete enanitos. A pesar de todo, su cruel madrastra consigue encontrarla y la envenena con una manzana. Pero la princesa no está muerta, sólo dormida, a la espera de que un príncipe azul la rescate."
+    },
+    {
+      "id": "tmdb:10895",
+      "type": "movie",
+      "name": "Pinocho",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg",
+      "description": "Un anciano llamado Geppetto fabrica una marioneta de madera a la que llama Pinocho, con la esperanza de que se convierta en un niño de verdad. El Hada Azul hace realidad su deseo y da vida a Pinocho, pero conserva su cuerpo de madera. Pepito Grillo, la conciencia de Pinocho, tendrá que aconsejarlo para que se aleje de las situaciones difíciles o peligrosas hasta conseguir que el muñeco se convierta en un niño de carne y hueso."
+    },
+    {
+      "id": "tmdb:756",
+      "type": "movie",
+      "name": "Fantasía",
+      "poster": "http://127.0.0.1:8888/t/p/w500/s1616SHvNWKHEC52tE1CleDgXFt.jpg",
+      "description": "Una colección de interpretaciones animadas de grandes obras de música clásica. En 'El Aprendiz de Brujo' (P. Dukas), Mickey Mouse, discípulo de un mago, se mete en un gran embrollo, pues sus conocimientos de magia son muy limitados. 'La Consagración de la Primavera' (Stravinsky) cuenta la historia de la evolución, desde los seres unicelulares hasta la extinción de los dinosaurios. 'La Danza de las Horas' (Ponchielli) es un fragmento de un ballet cómico interpretado por elefantes, hipopótamos, cocodrilos y avestruces. 'Una Noche en el Monte Pelado' de Mussorgsky y el 'Ave Maria' de Schubert describen el enfrentamiento entre la oscuridad y la luz."
+    },
+    {
+      "id": "tmdb:11360",
+      "type": "movie",
+      "name": "Dumbo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg",
+      "description": "Las cigüeñas llegan, como todos los años, hasta un pintoresco circo para repartir los bebés a sus respectivas mamás. La señora Dumbo, una elefanta, descubre que su bebé tiene unas orejas enormes; todas sus compañeras se ríen de él, pero la señora Dumbo lo defiende siempre, hasta el punto de ser encerrada por enfrentarse a todo aquel que se mofe de su retoño. El pequeño Dumbo, maltratado y ridiculizado por todos sus compañeros, sólo cuenta con la ayuda de un minúsculo ratoncito llamado Timothy, que decide hacer de él una estrella del circo."
+    },
+    {
+      "id": "tmdb:3170",
+      "type": "movie",
+      "name": "Bambi",
+      "poster": "http://127.0.0.1:8888/t/p/w500/q9LI5Uloz1WRqaJjr8Tq2aOeSeH.jpg",
+      "description": "Con los primeros rayos del sol iluminando la pradera, un nuevo príncipe ha nacido en el bosque. Tan pronto como Bambi aprende a dar sus primeros pasos, comienza a jugar con sus nuevos amigos, Tambor, el conejo juguetón, y Flor, la tímida y adorable mofeta. Pero la diversión de patinar sobre el lago helado, de mordisquear las florecillas y de juguetear entre los árboles del bosque será sólo el principio de un largo aprendizaje."
+    },
+    {
+      "id": "tmdb:14906",
+      "type": "movie",
+      "name": "Saludos amigos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg",
+      "description": "En esta mezcla de acción real y animación, la acción se traslada a Sudamérica. Desde los Andes hasta Río de Janeiro, pasando por las pampas de Argentina, el pato Donald y Goofy corren divertidas aventuras ."
+    },
+    {
+      "id": "tmdb:15947",
+      "type": "movie",
+      "name": "Los tres caballeros",
+      "poster": "http://127.0.0.1:8888/t/p/w500/fyNuGVAoBpyAx9mGNOq7okE5HKW.jpg",
+      "description": "El gallo Panchito, el loro José Carioca y el pato Donald protagonizan esta comedia musical en la que se combinan personajes reales con dibujos animados. Mucho ritmo, chicas guapas y diversión son los principales ingredientes."
+    },
+    {
+      "id": "tmdb:46929",
+      "type": "movie",
+      "name": "Las aventuras de Bongo, Mickey y las judías mágicas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/otpQCDka5DIKuZfDuib5BD0AbB.jpg",
+      "description": "El noveno clásico Disney está lleno de magia, aventura y divertidas canciones. Es el único en el que participan tus personajes favoritos: Mickey Mouse, el Pato Donald, Goofy y Pepito Grillo."
+    },
+    {
+      "id": "tmdb:43650",
+      "type": "movie",
+      "name": "La Leyenda de Sleepy Hollow",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6bt8qmhxVsgbxFLQCoAcekdCFiw.jpg",
+      "description": "Adaptación del conocido cuento de Washington Irving. Icabod Crane llega a la pequeña localidad de Sleepy Hollow, donde, según la leyenda, habita un fantasma de un jinete sin cabeza..."
+    },
+    {
+      "id": "tmdb:11224",
+      "type": "movie",
+      "name": "La Cenicienta",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vqzeSm5Agvio7DahhKXaySUbUUW.jpg",
+      "description": "Cenicienta vive con su madrastra y las dos hijas de ésta. Las tres le hacen la vida imposible y la tienen trabajando sin parar en las labores del hogar. Pero ella establece amistad con los animales de la casa, que le ayudarán a asistir al baile Real al que su madre no le permite ir."
+    },
+    {
+      "id": "tmdb:12092",
+      "type": "movie",
+      "name": "Alicia en el país de las maravillas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg",
+      "description": "Historia de magia y fantasía en el que la joven Alicia se sumerge en el sorprendente País de las Maravillas y conoce a extraordinarios personajes como Tweedledee y Tweedledum, el Sombrerero Loco, La Reina de Corazones y el frenético Conejo Blanco."
+    },
+    {
+      "id": "tmdb:10693",
+      "type": "movie",
+      "name": "Peter Pan",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg",
+      "description": "Uno de los grandes clásicos de la factoría Walt Disney, que relata las aventuras en el País de Nunca Jamás de Peter Pan, su compañera Campanilla, su amiga Wendy y los Niños Perdidos, en su lucha contra el malvado Capitán Garfio."
+    },
+    {
+      "id": "tmdb:10340",
+      "type": "movie",
+      "name": "La dama y el vagabundo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vHbizQYlkL8MwtOdsdWaPuR5N5w.jpg",
+      "description": "Reina es una preciosa perrita de pura raza que vive feliz en su hogar. Jaimito y Linda, la miman mucho y ella corresponde feliz a sus cuidados. Sin embargo, el día en que sus dueños deciden hacer un viaje, la vida de Reina se ve alterada; la llegada de la tía Sara con sus gatos no provoca más que sobresaltos. Menos mal que conoce a Golfo, un perro vagabundo muy simpático"
+    },
+    {
+      "id": "tmdb:10882",
+      "type": "movie",
+      "name": "La bella durmiente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg",
+      "description": "Había una vez dos reyes que esperaban con alegría el nacimiento de su primera hija, a la que llamarían Aurora. Para celebrarlo, organizaron una fiesta a la que invitaron a todos los habitantes del reino. Pero olvidaron invitar a la malvada bruja Maléfica que, enfurecida, lanzó un terrible hechizo sobre la princesa: el día de su décimosexto cumpleaños, se pincharía con el uso de una rueca y moriría. Pero sus tres divertidas hadas madrinas descubren una forma de romper el maleficio: no morirá, permanecerá dormida hasta que un valiente príncipe la bese."
+    },
+    {
+      "id": "tmdb:12230",
+      "type": "movie",
+      "name": "101 dálmatas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2Bt5iwJ0bMPWgIMBVTJPtI7onbe.jpg",
+      "description": "Pongo y Perdita, los dalmatas protagonistas, son una feliz pareja canina que vive rodeada de sus cachorros junto a sus amos, Roger y Anita. Pero la felicidad no es eterna y hay una malvada mujer, que vive en una gran mansion, que es la mayor enemiga del perro.Cuando se entera de que los protagonistas tienen nada menos que quince cachorros dalmatas, su sueño de obtener un exclusivo abrigo de piel de los pequeños perros, se convierte en una obsesion. Para conseguirlo contrata a dos ladrones y pone en marcha un malvado plan con el unico fin de secuestrar a los dalmatas."
+    },
+    {
+      "id": "tmdb:9078",
+      "type": "movie",
+      "name": "Merlín el encantador",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hMAVsdyj0O13AJF4HK15WxaFsBm.jpg",
+      "description": "Encantador relato de dibujos animados para los más pequeños sobre la leyenda del rey Arturo (aquí siendo todavía joven), el mago Merlín y la espada Excalibur. Aventuras mil, magia y fantasía para otro gran éxito de la Disney."
+    },
+    {
+      "id": "tmdb:9325",
+      "type": "movie",
+      "name": "El libro de la selva",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1w8wk8htVPW5cdCYnRU4bt5y5Fw.jpg",
+      "description": "Tras la muerte de sus padres, Mowgli, un niño de apenas dos años, queda abandonado en la selva y es recogido por una manada de lobos. En el seno de la manada, Mowgli es criado como un lobo más hasta que crece y empieza a desenvolverse por sí mismo en la selva."
+    },
+    {
+      "id": "tmdb:10112",
+      "type": "movie",
+      "name": "Los aristogatos",
+      "poster": "http://127.0.0.1:8888/t/p/w500/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg",
+      "description": "1910. En París una anciana millonaria y excéntrica lleva una vida feliz con sus gatos en su enorme mansión, con la única ayuda de su fiel mayordomo Edgar. Allí, Duquesa vive despreocupadamente con sus tres traviesos cachorros, sin saber que Edgar planea acabar con todos los gatos para convertirse en el único heredero de la enorme fortuna de la anciana Madame Bonfamille. Con este propósito, los abandona en un lugar remoto, pero quiere la suerte que se encuentren con Thomas O’Malley, un atractivo gato vagabundo y mundano. Desde el principio, O’Malley, atraído por la elegancia de Duquesa, se propone ayudarla a regresar a casa de Madame Bonfamille, aunque para ello tenga que enfrentarse con todos los peligros de la gran ciudad. Afortunadamente, contarán también con la ayuda de Scat Cat y sus gatos swing, que añaden un toque de ritmo y diversión a la vida de Duquesa y de los cachorros."
+    },
+    {
+      "id": "tmdb:11886",
+      "type": "movie",
+      "name": "Robin Hood",
+      "poster": "http://127.0.0.1:8888/t/p/w500/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg",
+      "description": "La popular leyenda de Robin Hood es revivida mágicamente por Disney. La diversión y el romance aparecen por doquier cuando Robin Hood, el héroe espadachín del Bosque de Sherwood, se desliza de aventura en aventura con su valiente ayudante, Little John, y su desternillante banda. Su objetivo es vencer al malvado príncipe y su ayuda de cámara, Hiss, que tienen atemorizado al pueblo a base de injustos impuestos."
+    },
+    {
+      "id": "tmdb:250480",
+      "type": "movie",
+      "name": "Lo mejor de Winnie the Pooh",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5lTCHEQ1iYEEJ7wRpVCSQBJICae.jpg",
+      "description": "El osito Pooh es el mejor amigo que puedes dar a tus hijos. Con él aprenderán valores como la amistad, el compañerismo y la generosidad. Ideal para niños de 2 a 7 años. Siguiendo la tradición de las grandes obras maestras de Disney como Cenicienta y Peter Pan, llega el Clásico animado nº 22 de Walt Disney inspirado en las fantásticas historias de A.A. Milne. En este vídeo encontrarás una recopilación de las mejores aventuras de Winnie The Pooh, creadas por el propio Walt Disney. Contiene: Winnie The Pooh y el Arbol de la Miel, Winnie The Pooh y el Bosque Encantado, ganadora de un Oscar © al Mejor Corto Animado y \"Winnie The Pooh... ¡ Y Tigger También!. Disfruta con Pooh y sus amigos de las más intrépidas aventuras en el bosque de los Cien Acres."
+    },
+    {
+      "id": "tmdb:11319",
+      "type": "movie",
+      "name": "Los rescatadores",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4Vi5VEkVWdqJgbG3pGdREFOwZdJ.jpg",
+      "description": "Una niña huérfana que ha sido secuestrada envía una nota dentro de una botella pidiendo ayuda. Bernardo y Bianca, dos valientes ratones, miembros de la Sociedad Internacional de Rescate, reciben el mensaje que los llevará al peligroso \"Pantano del Diablo\". Allí, ayudados por la libélula Evinrude y los habitantes del pantano, vivirán un sinfín de emocionantes aventuras luchando contra la malvada Madame Medusa"
+    },
+    {
+      "id": "tmdb:11114",
+      "type": "movie",
+      "name": "Pedro y el dragón Elliot",
+      "poster": "http://127.0.0.1:8888/t/p/w500/stP0ysD60PyUCGUeGDbD121WFKO.jpg",
+      "description": "Pedro, un joven huérfano, huye a un pueblo de pescadores de Maine con su mejor amigo - un dragón entrañable, y a veces invisible llamado Elliott. Un amable farero  (Mickey Rooney), y su hija Nora deciden alojarlos. Pero una broma de Elliott les mete en grandes problemas. Cuando unos vendedores sin escrúpulos tratan de capturar Elliott, Pedro debe intentar un audaz rescate."
+    },
+    {
+      "id": "tmdb:10948",
+      "type": "movie",
+      "name": "Tod y Toby",
+      "poster": "http://127.0.0.1:8888/t/p/w500/33jyy4W2usMrY796udOjcbMwput.jpg",
+      "description": "La aventura y la diversión de este clásico de la Disney comienzan cuando una adorable viuda adopta un precioso cachorro de zorro llamado Tod. El travieso zorro pronto se encuentra con Toby, un adorable cachorro de perro de caza. Así se hace los dos inseparables amigos... sin saber que por su naturaleza deberían ser enemigos. Bajo la mirada vigilante de Mamá Búho, Tod y Toby juegan y se divierten en el bosque, inconscientes de que en el futuro tendrán que enfrentarse y poner su amistad a prueba."
+    },
+    {
+      "id": "tmdb:14813",
+      "type": "movie",
+      "name": "Cuento de Navidad con Mickey",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6Waedl5MCYlaOp0uuv4HZrvyXGj.jpg",
+      "description": "Ebenezer Scrooge (Gilito McPato) es un viejo banquero avaricioso y ruin. Además de no dar dinero a los pobres, hace trabajar sin parar a su ayudante Bob Cratchit (Mickey Mouse). Una noche, cuando a Scrooge le visita el fantasma de su antiguo socio, Jacobo Marley (Goofy), éste le dice que por sus maldades acabará arrastrando unas pesadas cadenas para toda la eternidad, al igual que le pasa a él, y le avisa de que esa misma noche le visitarán tres espíritus a los que debe escuchar antes de que sea demasiado tarde."
+    },
+    {
+      "id": "tmdb:10957",
+      "type": "movie",
+      "name": "Taron y el caldero mágico",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg",
+      "description": "Tarón es un valeroso joven que debe impedir que el malvado Rey Horned se apodere del Caldero Mágico, cuya fuerza misteriosa es capaz de crear un auténtico ejército de invencibles guerreros sobrenaturales. En su lucha contra el mal, Tarón cuenta con la ayuda de su maestro, Dallben, la princesa Eilonwy, un animal con aspecto de osito de peluche llamada Gurgi, un juglar que se hace llamar Fflewddur Fflam, un cerdito con dotes de clarividente y un trío de brujas excéntricas."
+    },
+    {
+      "id": "tmdb:9994",
+      "type": "movie",
+      "name": "Basil, el ratón superdetective",
+      "poster": "http://127.0.0.1:8888/t/p/w500/osNTFX6TRPCXbujQJWyXc912DgE.jpg",
+      "description": "A finales del siglo XIX, Basil, el Sherlock Holmes del mundo de los ratones tiene que enfrentarse a su eterno enemigo: el profesor Ratigan. La aventura comienza cuando una jovencita es raptada por el villano Ratigan. Entonces Basil y sus inseparables amigos, el Dr. Dawson y Tobi, se embarcarán en una apasionante misión de rescate."
+    },
+    {
+      "id": "tmdb:19933",
+      "type": "movie",
+      "name": "La tostadora valiente",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AdiwiYnzzUg6c59J54CG2qfGxZ3.jpg",
+      "description": "Ésta película cuenta la historia de la Tostadora, Manty (la manta eléctrica), Lampy (la lámpara), la Radio, y Kirby (la aspiradora), quienes viven en una casa de campo, junto a su dueño, niño que era su dueño y jugaba con ellos pero un día se fue, desde entonces los aparatos han estado esperando el día que su dueño volviera, pero una mañana alguien se bajó de un coche y colocó un cartel de \"EN VENTA\" delante de la casa. Así que deciden ir con una batería a buscar a su dueño a la ciudad. Pero se desvían y acaban en cascadas, lagos y tiendas de piezas de aparatos. Por otra parte el dueño que ya es mayor y tiene que irse a la universidad quiere ir a la casa de campo a por sus cosas, los aparatos de la casa moderna se enteran y deciden deshacerse de ellos y cuando los aparatos llegan a la casa estos los tiran a un contenedor rumbo a un vertedero."
+    },
+    {
+      "id": "tmdb:12233",
+      "type": "movie",
+      "name": "Oliver y su pandilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/31pu0jSoa6iUouojFnjjlqgOnHB.jpg",
+      "description": "Un gatito huérfano llamado Oliver se une a Fagin y a su banda de ladronzuelos con Dodger, un maestro moviéndose por la ciudad, y el simpático chihuahua Tito. Un buen día, el pequeño Oliver deja las calles al ser adoptado por Jenny, una niña rica que se lo lleva a su casa, donde vivirá con todas las comodidades. Pero cuando Jenny es secuestrada por el malvado jefe de Fagin y su terrorífico doberman, Oliver comprobará el valor de la verdadera amistad al ver cómo toda la banda se pone en marcha para rescatarla. Adaptación animada y muy libre de \"Oliver Twist\", de Charles Dickens."
+    },
+    {
+      "id": "tmdb:10144",
+      "type": "movie",
+      "name": "La sirenita",
+      "poster": "http://127.0.0.1:8888/t/p/w500/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg",
+      "description": "Ariel es una sirena adolescente, hija de Tritón, el rey del mar. Desobedeciendo a su padre, visita la superficie y se enamora del príncipe Eric. Con la esperanza de encontrar a su amado, la sirenita cae inocentemente bajo los encantos de Úrsula, la bruja del mar, que la transforma en un ser humano. Pero la bruja tiene planes terribles para Ariel y su padre."
+    },
+    {
+      "id": "tmdb:11135",
+      "type": "movie",
+      "name": "Los rescatadores en Cangurolandia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hyuP9jI0Q6bBDEvvsYD8ka27QD0.jpg",
+      "description": "Esta vez, nuestros ratoncitos agentes secretos se encuentran en el corazón de la indomable selva australiana cuando tienen que acudir en ayuda de Cody, un jovencito que lucha por salvar un águila de un despiadado cazador furtivo."
+    },
+    {
+      "id": "tmdb:10020",
+      "type": "movie",
+      "name": "La bella y la bestia",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg",
+      "description": "Una hermosa joven llamada Bella acepta alojarse en un castillo con una bestia a cambio de la libertad de su padre. La bestia es, en realidad, un príncipe encantado. Para romper el hechizo, deberá ganarse el amor de una preciosa dama antes de que caiga el último pétalo de una rosa encantada."
+    },
+    {
+      "id": "tmdb:812",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qiEpw4qjwYw82Qzme56UZwWJOAG.jpg",
+      "description": "Aladdín es un ingenioso joven que vive en una extrema pobreza, y que sueña con casarse con la bella hija del sultán, la princesa Jasmine. El destino interviene cuando el astuto visir del Sultán, Jafar, recluta a Aladdín para que le ayude a recuperar una lámpara mágica de las profundidades de la Cueva de las Maravillas. Aladdín encuentra una lámpara maravillosa con un genio dentro, y sus deseos comienzan a hacerse realidad."
+    },
+    {
+      "id": "tmdb:15969",
+      "type": "movie",
+      "name": "El retorno de Jafar",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dpnjhDsWimMUOMsuz2AVsqeU9vL.jpg",
+      "description": "Aladdín y Jasmine viven felices en el palacio real, rodeados de lujos y de la magia del genio. Pero, muy lejos de allí, algo se remueve en las arenas del desierto: Iago, el loro dentudo de Jafar, ha logrado escapar de la lámpara que los mantenía presos a ambos. Tras traicionar a su amo, Iago decide vivir una nueva vida en donde él es el jefe. Pero Jafar esconde más de un as en la manga."
+    },
+    {
+      "id": "tmdb:8587",
+      "type": "movie",
+      "name": "El rey león",
+      "poster": "http://127.0.0.1:8888/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "description": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde."
+    },
+    {
+      "id": "tmdb:10530",
+      "type": "movie",
+      "name": "Pocahontas",
+      "poster": "http://127.0.0.1:8888/t/p/w500/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
+      "description": "Pocahontas, la hija del Jefe Powhatan, vigila la llegada de un gran grupo de colonos ingleses, guiados por el ambicioso gobernador Radcliff y el valiente capitán John Smith. Con su juguetón compañero Meeko, un travieso mapache, y con Flit, un alegre pájaro, Pocahontas entabla una fuerte amistad con el Capitán Smith. Pero cuando empiezan a surgir tensiones entre las dos culturas, Pocahontas recurre a la sabiduría de la Abuela Sauce para encontrar una manera de lograr la paz entre su pueblo y los conquistadores."
+    },
+    {
+      "id": "tmdb:10539",
+      "type": "movie",
+      "name": "James y el melocotón gigante",
+      "poster": "http://127.0.0.1:8888/t/p/w500/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg",
+      "description": "Tras la muerte de sus padres, el pequeño James se ve obligado a vivir con sus dos crueles y repulsivas tías. La visita de un extraño personaje, una araña a la que salva, le proporciona un medio para escapar: un melocotón gigante que comienza a crecer desmesuradamente en su jardín. Cuando se introduzca dentro de él conocerá a otros pintorescos personajes."
+    },
+    {
+      "id": "tmdb:11238",
+      "type": "movie",
+      "name": "Aladdín y el rey de los ladrones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8hNo4sagsaO6ZnZO52QKX7Ggco6.jpg",
+      "description": "Por fin Aladdín se va a casar con la princesa Jasmine. A pesar de la presencia y ánimo de sus amigos Genio, Alfombra y el mono Abú, está algo preocupado: tiene miedo porque no sabe qué tipo de padre va a ser, si él nunca tuvo ninguno. Pero todas sus preocupaciones quedarán de lado cuando 40 ladrones irrumpen en la boda para robar un mágico talismán."
+    },
+    {
+      "id": "tmdb:10545",
+      "type": "movie",
+      "name": "El jorobado de Notre Dame",
+      "poster": "http://127.0.0.1:8888/t/p/w500/l01E2WNKOir8RRS0atzjkxt49oN.jpg",
+      "description": "Oculto a las miradas de todos los ciudadanos de París, en lo alto del campanario de la catedral de Notre Dame, vive Quasimodo. Su tutor, el juez Frollo, no le permite bajar nunca del Campanario. En compañía de tres simpáticas gárgolas de piedra, Victor, Hugo y Laverne, Quasimodo pasa las horas observando el bullicioso ir y venir de la gente. Hasta que un día, decide bajar a escondidas y conoce a la bella Esmeralda, con la que vivirá su mayor aventura."
+    },
+    {
+      "id": "tmdb:11970",
+      "type": "movie",
+      "name": "Hércules",
+      "poster": "http://127.0.0.1:8888/t/p/w500/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg",
+      "description": "Hércules, el hijo de Hera y el dios Zeus, es robado del Olimpo por los secuaces de Hades, que tienen la misión de despojarle de su inmortalidad. Hércules crecerá en un mundo de mortales hasta que le llegue la hora de regresar al Olimpo."
+    },
+    {
+      "id": "tmdb:13313",
+      "type": "movie",
+      "name": "La bella y la bestia 2: Una navidad encantada",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xY0MXOXPfUIif5RkzpobTMvCtma.jpg",
+      "description": "Es víspera de Navidad y Bella planea animar y decorar el sombrío castillo de Bestia con alegría y muchos adornos, aún sabiendo que Bestia odia la Navidad. Antes de que empiece la fiesta, Bella, junto a todos los personajes que encandilaron al mundo, descubren que el Maestro Fortes, un malvado órgano de tubos y su fiel y divertido compañero Pífano están tratando de sabotear el evento. Ni siquiera bajo esta terrible amenaza, Bella desiste de enseñar a Bestia el verdadero significado de la Navidad. Con una animación exquisita, esta película brilla con nuevos y sorprendentes personajes, música envolvente y magia."
+    },
+    {
+      "id": "tmdb:10674",
+      "type": "movie",
+      "name": "Mulán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/towmTJ0k29quKI9IDnOZKAAtQx.jpg",
+      "description": "Mulán, una joven china hija única de la familia Fa, en lugar de buscar novio, como sus amigas, trata por todos los medios de alistarse en el ejército imperial para evitar que su anciano padre sea llamado a filas para defender al Emperador del acoso de los Hunos. Cuando el emisario imperial lleva a cabo la orden de reclutar a los varones de todas las familias, Mulán se hará pasar por soldado y se someterá a un duro entrenamiento hasta hacerse merecedora de la estima y de la confianza del resto de su escuadrón."
+    },
+    {
+      "id": "tmdb:13761",
+      "type": "movie",
+      "name": "Pocahontas 2: Viaje a un nuevo mundo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg",
+      "description": "Pocahontas vive el mayor reto de su vida en su viaje a Inglaterra. Con la ayuda del apuesto John Rolfe, buscará la paz de su pueblo. Mientra se prepara para el baile de la Caceria, abre poco a poco su corazón a Rolfe. Pero la misteriosa aparición de John Smith sumerge a Pocahontas en un dilema... elegir entre dos amores y dos maneras de vivir."
+    },
+    {
+      "id": "tmdb:9732",
+      "type": "movie",
+      "name": "El rey león 2: El tesoro de Simba",
+      "poster": "http://127.0.0.1:8888/t/p/w500/zdD5VcvTD43p048ueswYdgLJZh.jpg",
+      "description": "Kiara, la hija primogénita de Simba y heredera de los dominios del clan, va en busca de aventuras por el Serengeti. Escapando de sus cuidadores, Timón y Pumba, Kiara se adentra en las tierras oscuras, que se sitúan fuera de los límites establecidos para ella. Allí conoce a Kovu, un joven cachorro elegido para seguir las huellas de Scar. Alcanzar la paz entre los habitantes de las tierras oscuras y los del territorio de Simba depende de Kiara y Kovu. Pero... ¿llegará a encontrar el amor una manera de unir dos mundos tan diferentes?"
+    },
+    {
+      "id": "tmdb:37135",
+      "type": "movie",
+      "name": "Tarzán",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg",
+      "description": "Cuando Kala, una gorila hembra, encuentra un niño huérfano en la jungla, decide adoptarlo como su propio hijo a pesar de la oposición de Kerchak, el jefe de la manada. Junto a Terk, un gracioso mono, y Tantor, un elefante algo neurótico, Tazán crecerá en la jungla desarrollando los instintos de los animales y aprendiendo a deslizarse entre los árboles a velocidad de vértigo. Pero cuando una expedición se adentra en la jungla y Tarzán conoce a Jane, descubrirá quién es realmente y cuál es el mundo al que pertenece..."
+    },
+    {
+      "id": "tmdb:49948",
+      "type": "movie",
+      "name": "Fantasía 2000",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2uTZzBQsmJqTY7JuHwTcYNN4WsX.jpg",
+      "description": "Sesenta años después de que Walt Disney creara \"Fantasía\", se rueda \"Fantasía 2000\", que une la animación más espectacular con una música de ensueño. La obra se divide en ocho partes. Una de ellas es una nueva versión de \"El aprendiz de Brujo\", de P. Dukas, protagonizada por Mickey Mouse. Pero hay mucho más: desde las divertidas travesuras de unos flamencos a la moderna ciudad en armonioso movimiento, un derroche de imaginación con música de fondo."
+    },
+    {
+      "id": "tmdb:10567",
+      "type": "movie",
+      "name": "Dinosaurio",
+      "poster": "http://127.0.0.1:8888/t/p/w500/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg",
+      "description": "Prehistoria, hace 65 millones de años, al final del periodo cretáceo. Un iguanodonte de tres toneladas llamado Aladar se cría separado de los de su especie y crece en una isla paradisiaca al amparo de un clan de lémures. Cuando una devastadora lluvia de meteoritos provoca el caos en su pacífico mundo, Aladar pone rumbo a tierra firme y se une a un grupo de dinosaurios que buscan desesperadamente un lugar donde anidar en paz. Pero el agua y la comida empiezan a escasear, y los carnotaurios, sedientos de sangre fresca, representan un peligro constante. Es entonces cuando Aladar se ve obligado a desafiar el \"orden establecido\" y demuestra que saber adaptarse a cualquier situación es la mejor manera de sobrevivir."
+    },
+    {
+      "id": "tmdb:11688",
+      "type": "movie",
+      "name": "El emperador y sus locuras",
+      "poster": "http://127.0.0.1:8888/t/p/w500/X9jChoAotaGU81lEraUVi8RHOe.jpg",
+      "description": "El arrogante y egoísta emperador Cuzco es traicionado y convertido en llama por la ambiciosa Yzma y su guardaespaldas Kronk. El emperador, que una vez lo tuvo todo, se verá abocado a confiar en un llano y simpático campesino llamado Pacha, para encontrarse a sí mismo."
+    },
+    {
+      "id": "tmdb:18269",
+      "type": "movie",
+      "name": "La dama y el vagabundo 2: Las aventuras de Golfillo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wHVa5xmRD4r2RT4peQMSQqz1hNs.jpg",
+      "description": "Los encantadores perritos Reina y Golfo han sido padres de cuatro cachorros: Anette, Colette, Daniela y Golfillo. Este último es el más travieso de todos y se ve atraído por la libertad del mundo exterior lejos de las normas domésticas. Una noche escapa de casa y conoce a Ángela, una preciosa perrita huérfana que vive en las calles. Junto a ella y un grupo de nuevos amigos descubrirá un mundo desconocido para él. ¿Encontrará Golfillo la aventura de su vida en las calles, o aprenderá a valorar el amor que le brinda la familia que dejó atrás?"
+    },
+    {
+      "id": "tmdb:10865",
+      "type": "movie",
+      "name": "Atlantis: El imperio perdido",
+      "poster": "http://127.0.0.1:8888/t/p/w500/uR7AKWMDTwyAub5r4QoPPiJImvx.jpg",
+      "description": "Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de cómo llegar a Atlantis, el mítico reino hundido. Junto a otros intrépidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedición al fondo del mar."
+    },
+    {
+      "id": "tmdb:12448",
+      "type": "movie",
+      "name": "El jorobado de Notre Dame 2: El secreto de la campana",
+      "poster": "http://127.0.0.1:8888/t/p/w500/w4LxhcSNrUVXeLZ7G1cfen8GhUB.jpg",
+      "description": "El campanero Quasimodo ayudado por todos sus amigos se enfrentará en esta aventura a los planes del malvado Sarousch, hechicero y dueño de un circo. Sarouch pretende robar la famosa campana de la catedral, La Fidele. Para ello se vale de sus poderes de hechicería y obliga a la nueva amiga de Quasimodo, Madellaine a convertirse en su cómplice. El hijo de Esmeralda se interpone en sus planes e intenta detener a Sarousch. Quasimodo, ignorando los recelos de sus divertidas camaradas: las Gárgolas y guiado por su corazón, se lanza al rescate de su pequeño compañero y la valiosa campana. Secuela lanzada directamente al mercado de vídeo y DVD. (FILMAFFINITY)"
+    },
+    {
+      "id": "tmdb:16690",
+      "type": "movie",
+      "name": "Peter Pan en Regreso al País de Nunca Jamás",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kkFeLiMeih9jgXatztoloOyGSbc.jpg",
+      "description": "Peter Pan sigue siendo el líder de los Niños Perdidos y librando batallas con el malvado Capitán Garfio, con la ayuda de Campanilla. Pero aunque Peter Pan nunca creció, todo a su alrededor ha cambiado: Wendy es ahora madre de una niña llamada Jane. Jane ya no cree en cuentos de hadas, y ¡mucho menos en volar!. Pero cuando el Capitán Garfio la secuestra y la lleva al País de Nunca Jamás, Peter Pan conseguirá que su imaginación vuele otra vez."
+    },
+    {
+      "id": "tmdb:14128",
+      "type": "movie",
+      "name": "La Cenicienta II: ¡La magia no termina a media noche!",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eUoQl8Bhd4s5woTc35lHFijhLcW.jpg",
+      "description": "Recién coronada como princesa, Cenicienta aprende rápidamente que la vida en palacio y sus responsabilidades reales son más complicadas de lo que había imaginado. En tres conmovedoras historias, Cenicienta pide a sus amigos los animales y a su Hada Madrina que la ayuden a desempeñar su papel real, y descubre que ser fiel a uno mismo es la mejor manera de hacer sus sueños realidad."
+    },
+    {
+      "id": "tmdb:11544",
+      "type": "movie",
+      "name": "Lilo & Stitch",
+      "poster": "http://127.0.0.1:8888/t/p/w500/dTYyAszU6NWbmWGvhqLZpZTdS5T.jpg",
+      "description": "Lilo es una niña hawaiana que se siente sola y decide adoptar un \"perro\" muy feo al que llama Stitch. Stitch sería la mascota perfecta... si no fuera en realidad un experimento genético que ha escapado de un planeta alienígena y que ha aterrizado por casualidad en la tierra."
+    },
+    {
+      "id": "tmdb:9016",
+      "type": "movie",
+      "name": "El planeta del tesoro",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cwwRIK1V1R6QQKromGi0OaJLD8l.jpg",
+      "description": "Jim, un surfista solar, se enfrenta a una cacería intergaláctica de tesoros cuando cae en sus manos un legendario mapa que le llevará a buscar la fortuna más grande del Universo. A bordo de un espectacular 'galeón solar', Jim se convierte en el ayudante del cocinero del barco, John Silver -mitad hombre, mitad máquina-, que le enseña a ser un buen explorador del espacio."
+    },
+    {
+      "id": "tmdb:13654",
+      "type": "movie",
+      "name": "101 dálmatas 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tBZbbkloDEeA8Fy8KjNBNVAhByv.jpg",
+      "description": "Perdido en un mar de manchas, el pequeño Patch quiere destacar sobre los demás cachorros y sueña con convertirse en un perro único en su especie como su estrella favorita de televisión, Relámpago. Cuando Patch se separa accidentalmente de su familia, tiene la oportunidad de conocer a su héroe y milagrosamente, convertirse en su socio en la vida real. Mientras, Cruella se ha convertido en mecenas de un excéntrico artista cuya pintura se compone de juegos de manchas. Para inspirarle, Cruella secuestra a todos los cachorros de Dálmatas. Juntos Patch y Relámpago planean rescate y Patch descubre que realmente es un perro único."
+    },
+    {
+      "id": "tmdb:14873",
+      "type": "movie",
+      "name": "El libro de la selva 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
+      "description": "Mowgli vive ahora en la aldea con los hombres, pero echa de menos a su querido compañero Baloo, que también extraña a su pequeño amigo. Pero Baloo no es el único que desea ver de nuevo a Mowgli... el malvado tigre Shre Khan también aguarda impaciente su venganza. Un día Baloo decide hacerle una visita a Mowgli. Atrapado por la alegría que supone ver de nuevo al viejo Baloo, Mowgli regresa a la selva . Pero cuando el niño se adentra en la jungla, la persecución será a ver quién da con él primero: su viejo amigo Baloo, su nueva familia o el tigre."
+    },
+    {
+      "id": "tmdb:8965",
+      "type": "movie",
+      "name": "Atlantis: El regreso de Milo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cGL75ElUUClVs8kpXbVcaUxmgbd.jpg",
+      "description": "En la primera expedición (Atlantis: El Imperio Perdido), Milo y sus acompañantes encontraron la famosa ciudad perdida de Atlantis y salvaron al misterioso reino y a sus habitantes. Ahora, Milo, Kida y su equipo vivirán nuevas aventuras y descubrirán que poseen nuevos poderes. En su nueva misión, el equipo se enfrentará a enormes monstruos marinos, a espíritus espectaculares y poderosas leyendas recorriendo desde el polvoriento desierto del sudoeste hasta las heladas montañas nórdicas. A lo largo de esta aventura, Kida descubre el increíble poder de los cristales encantados de su ciudad y tiene que decidir si oculta ese poder en el Corazón de Atlantis o lo comparte con el resto del mando... Secuela directa a vídeo de la película de Disney de 2001."
+    },
+    {
+      "id": "tmdb:10009",
+      "type": "movie",
+      "name": "Hermano oso",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1XwOQNSby3HZfKMZcY7rtZw4KR.jpg",
+      "description": "En los bosques del noroeste americano vive un niño indio llamado Kenai, cuya vida sufre un giro inesperado cuando los Grandes Espíritus lo transforman en un oso, el animal que más odia. Kenai se hace amigo de un osezno llamado Koda y se propone recuperar su forma humana. Mientras, su hermano (que no sabe que Kenai es ahora un oso) lo persigue para cumplir una misión de venganza en la que está en juego el honor familiar."
+    },
+    {
+      "id": "tmdb:11430",
+      "type": "movie",
+      "name": "El rey león 3: Hakuna Matata",
+      "poster": "http://127.0.0.1:8888/t/p/w500/x2SAEOXURbKDgKfdHdZ49VhPGrB.jpg",
+      "description": "La diversión reina en esta nueva película en al que Timón y su simpático amigo Pumba son los grandes héroes de la Sabana. El Rey León 3 nos traslada al pasado, antes de que comenzase la historia de Simba, e incluso mucho más atrás. En esta nueva comedia de aventuras, Timón y Pumba te descubrirán sus orígenes, cuándo se conocieron y cómo ayudaron a Simba a salvar el Seregeti. Su historia incluye algunos de los grandes momentos de El Rey León, que ahora resultarán un poco diferentes desde su punto de vista. Por ejemplo, os sorprenderá conocer la verdad sobre cómo se desarrolló el trascendental momento en el que Simba fue presentado al reino animal."
+    },
+    {
+      "id": "tmdb:13700",
+      "type": "movie",
+      "name": "Zafarrancho en el rancho",
+      "poster": "http://127.0.0.1:8888/t/p/w500/merEoWh2Ju8AoYedYCW0faW9e9O.jpg",
+      "description": "Un avaricioso proscrito llamado Alameda Slim planea apoderarse de la vaquería “Patch of Heaven”, pero tres decididas vacas, un caballo karateka llamado Buck y un alegre corral lleno de criaturas unen sus fuerzas para salvar la granja en una aventura loca y frenética. Esta extraña mezcla de animales pondrá su vida en constante peligro para capturar al malvado Slim, y cobrar la recompensa con la ayuda de un misterioso cazarrecompensas llamado Rico."
+    },
+    {
+      "id": "tmdb:12242",
+      "type": "movie",
+      "name": "Mulán 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lQbZiWh4ZDSd2co0FMz8U3LGvL7.jpg",
+      "description": "La leyenda de Mulán continúa en esta nueva aventura. La bella y valiente heroína Mulán, siempre acompañada por su dragón guardián, Mushu y sus nuevos amigos, recibe la noticia más emocionante de su vida cuando el General Shang pide su mano en matrimonio, pero las sorpresas acaban de comenzar... El travieso Mushu intentará separar a la feliz pareja durante el tiempo que sea posible para mantener así su trabajo como dragón guardián. Además Mulan y Shang tendrán que escoltar por toda China a tres princesas que se dirigen a celebrar sus respectivos matrimonios, previamente concertados. Cuando Mulan descubre que ninguna de ellas desea estos matrimonios tomará una decisión que cambiará el curso de la historia."
+    },
+    {
+      "id": "tmdb:15657",
+      "type": "movie",
+      "name": "Tarzán 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5KRnGepv2b1daJ2WM8ZGnPS64nl.jpg",
+      "description": "Antes de ser el Rey de la Selva, Tarzán era un niño inquieto que intentaba encontrar su papel en el mundo. Cuando una de sus travesuras pone a su familia en peligro, Tarzán decide que ellos estarán mejor sin él. Así se embarca en un emocionante viaje que le llevará a encontrarse cara a cara con el misterioso Zugor, la fuerza más poderosa del planeta. Juntos, Tarzán y Zugor descubren que ser diferentes no es una debilidad y que los amigos y la familia son el mayor apoyo de todos."
+    },
+    {
+      "id": "tmdb:20760",
+      "type": "movie",
+      "name": "Lilo & Stitch 2: El efecto del defecto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/l71VXcph19ZwJr2ZtEFuZA6ZzK5.jpg",
+      "description": "Un adorable alienígena se adapta a la vida en Hawái, y todo va como la seda hasta que se le \"cruzan los cables\" y todo se vuelve un caos. Ahora todos tienen que ayudar para salvar a su divertido amigo."
+    },
+    {
+      "id": "tmdb:9982",
+      "type": "movie",
+      "name": "Chicken Little",
+      "poster": "http://127.0.0.1:8888/t/p/w500/AsDUBjrECTVstxCSGvPbwpA0I0M.jpg",
+      "description": "Ha transcurrido un año desde el \"desafortunado incidente de la bellota\" cuando Chicken Little causó un gran revuelo en su pueblo natal de Oakey Oaks al proclamar que el cielo se estaba cayendo tras ser golpeado en la cabeza por lo que aparentemente era una bellota. Sin contemplaciones, el valiente pollito se une al equipo local de béisbol con la esperanza de restablecer su reputación y ganarse el respeto de su padre, Buck Cluck. Cuando él conduce al pueblo a una inesperada victoria, se convierte en el centro de toda la atención. Pero tan pronto como el pollito campeón es redimido, vuelve a recibir otro golpe en la cabeza. ¡Y esta vez el cielo sí se está cayendo! Temeroso de ser tachado una vez más de loco, se niega a decirle a nadie lo que ha sucedido. En lugar de eso, recluta la ayuda de sus amigos más cercanos - Runt el benjamón, Abby Patosa (alias Patito Feo), y Pez fuera del agua - en un intento por salvar el mundo sin hacer que todo el pueblo entre nuevamente en pánico."
+    },
+    {
+      "id": "tmdb:13417",
+      "type": "movie",
+      "name": "El emperador y sus locuras 2: La gran aventura de Kronk",
+      "poster": "http://127.0.0.1:8888/t/p/w500/OZnuddsgtCf9UeHdD0iopZgO2X.jpg",
+      "description": "Después de sus alocadas aventuras con el Emperador Kuzco y Pacha, el entrañable Kronk ha empezado una nueva y feliz vida trabajando como chef en su propio restaurante. Todo parece ir a las mil maravillas hasta que Kronk recibe la noticia de que su padre piensa hacerle una visita. Para que Papi se sienta orgulloso de él, Kronk decide aceptar la ayuda de la astuta y malvada Yzma, que promete convertirle en un “hombre de provecho”. Sin embargo, antes de que pueda darse cuenta, Kronk está metido en un montón de líos, de los que sólo podrá salir con la ayuda de sus amigos, que le enseñan la importancia de ser uno mismo..."
+    },
+    {
+      "id": "tmdb:13205",
+      "type": "movie",
+      "name": "Bambi II",
+      "poster": "http://127.0.0.1:8888/t/p/w500/7eiCAHrEAFvfkUKsKOaFEbSabi1.jpg",
+      "description": "Bambi se reúne con su padre, quien deberá educar al joven cervatillo. El poder de los lazos familiares y de la amistad se funden en esta historia actualizada que tu familia disfrutará una y otra vez."
+    },
+    {
+      "id": "tmdb:10010",
+      "type": "movie",
+      "name": "Hermano oso 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tHvNX0SSyCW9MyPeWK5myc9lTLS.jpg",
+      "description": "La trama se centra de nuevo en Kenai (que había sido transformado en oso durante la primera parte) y sus aventuras en la pintoresca costa del Pacífico Norte al final de la Edad de Hielo. Kenai sueña repetidamente con su anterior vida como humano, cuando era niño y su mejor amiga era Nita, la hija del jefe de la tribu. Ahora ambos revivirán este pasado común cuando se ven obligados a embarcarse en una peligrosa aventura."
+    },
+    {
+      "id": "tmdb:9948",
+      "type": "movie",
+      "name": "Tod y Toby 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pqPdNJG8XC7cklobrB5pk8ML1Ij.jpg",
+      "description": "Tod y Toby siguen juntos como uña y carne, pero cuando Toby tiene la oportunidad de unirse a un extravagante grupo de perros aulladores, su amistad de pura raza se pondrá a prueba."
+    },
+    {
+      "id": "tmdb:16119",
+      "type": "movie",
+      "name": "La Cenicienta III: Qué pasaría si…",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hnu7CGMc1zQejwjUIEGcSikdhmV.jpg",
+      "description": "La madrastra de Cenicienta se apodera de la varita mágica del Hada Madrina para viajar atrás en el tiempo y lograr cambiar el curso de los acontecimientos mediante un maléfico hechizo."
+    },
+    {
+      "id": "tmdb:13179",
+      "type": "movie",
+      "name": "Campanilla",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1pUkm0XAVVD2CrTF4YdGOVfXjTY.jpg",
+      "description": "Campanilla, nacida en el mundo fantástico de la Hondonada de las Hadas, descubre que su talento es tintinear. Cuando las hadas se preparan para traer la primavera al mundo, Campanilla piensa que su talento no es igual de útil, especial o importante que el del resto, y por eso no puede ir a Tierra firme. Por ello, Campanilla suplica a sus amigas hadas Rosetta, Silvermist, Fawn e Iridessa que le enseñen sus talentos y así poder acompañarlas en sus viajes."
+    },
+    {
+      "id": "tmdb:13053",
+      "type": "movie",
+      "name": "Bolt",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hpunLKNEvjuzCLwLbuWJqzu3OE7.jpg",
+      "description": "Para el super-perro Bolt todos los días están llenos de aventuras, peligros e intriga -al menos hasta que las cámaras dejan de grabar, ya que es el protagonista de un famoso programa de televisión-. Pero cuando la estrella canina del gran éxito televisivo es enviada accidentalmente desde sus estudios de Hollywood a Nueva York, comienza su mayor aventura en un viaje campo a través por el mundo real. Bolt está convencido de que todos sus increíbles poderes y hazañas son reales."
+    },
+    {
+      "id": "tmdb:10198",
+      "type": "movie",
+      "name": "Tiana y el sapo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lSNqVycC40mujo0tiRZvp6Ef5qQ.jpg",
+      "description": "Tiana, una muchacha de origen humilde que vive en Nueva Orleans, trabaja como camarera y cocinera para conseguir realizar el sueño que compartio con su padre, conseguir abrir su propio restaurante.Pero todo cambia cuando el Príncipe Naveen, heredero de la corona de Maldonia, llega a la ciudad. En su camino se cruza el Doctor Facilier, un brujo vudú que engaña al príncipe y lo convierte en una rana. Atrapado en su nueva forma, Naveen intentará romper el encantamiento utilizando la forma clásica de los cuentos, es decir, con el beso de una princesa. Convence a Tiana para que le bese pero, las cosas no son tan sencillas."
+    },
+    {
+      "id": "tmdb:38757",
+      "type": "movie",
+      "name": "Enredados",
+      "poster": "http://127.0.0.1:8888/t/p/w500/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg",
+      "description": "Flynn Rider, el más buscado -y encantador- bandido del reino, se esconde en una misteriosa torre y allí se encuentra con Rapunzel, una bella y avispada adolescente con una cabellera dorada de 21 metros de largo, que vive encerrada allí desde hace años. Ambos sellan un pacto y a partir de ese momento la pareja vivirá emocionantes aventuras en compañía de un caballo superpolicía, un camaleón sobreprotector y una ruda pandilla de matones"
+    },
+    {
+      "id": "tmdb:82690",
+      "type": "movie",
+      "name": "¡Rompe Ralph!",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lTpE4JQ2C09NicqvDhwi70IRz62.jpg",
+      "description": "Durante décadas, Ralph ha vivido a la sombra de Repara-Félix Jr., el chico bueno de su videojuego. Cansado de ser el malo de la historia, Ralph decide tomar el asunto por sus propias y gigantes manos, y se lanza en un viaje a través de los distintos mundos y generaciones de videojuegos para demostrarle al mundo que él también puede ser un héroe."
+    },
+    {
+      "id": "tmdb:151960",
+      "type": "movie",
+      "name": "Aviones",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg",
+      "description": "Película derivada de la exitosa de Disney/Pixar dirigida por John Lasseter, Cars. En esta ocasión no son coches sino aviones, los que van a sumergirse en una divertida historia de acción y aventuras.  El protagonista, un avión llamado Dusty Crophopper, tiene verdadero terror a las alturas. Pero desafiará sus miedos para poder cumplir uno de sus grandes deseos: poder correr en la carrera más grandiosa que exiten en todo el mundo. Dusty sabe que este será el mayor reto de su vida, pero también será la experiencia más apasionante y sobrecogedora que va a vivir jamás."
+    },
+    {
+      "id": "tmdb:109445",
+      "type": "movie",
+      "name": "Frozen: El reino del hielo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg",
+      "description": "Cuando una profecía condena a un reino a un invierno eterno, Anna, una joven optimista se une a un temerario montañero llamado Kristoff y a su compinche el reno Sven. Juntos emprenden un viaje épico en busca de Elsa, hermana de Anna y reina de Las Nieves para poner fin al gélido hechizo."
+    },
+    {
+      "id": "tmdb:218836",
+      "type": "movie",
+      "name": "Aviones: Equipo de rescate",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg",
+      "description": "'Aviones: Equipo de rescate' sigue a una peculiar pandilla de aviones bombero de élite cuyo principal cometido es proteger el histórico Parque Nacional de Piston Peak de un atroz incendio. El popular avión de carreras Dusty descubre que su motor está estropeado, lo que le impide volver a competir. A pesar de la terrible noticia no se desanima y decide utilizar su experiencia para unirse al equipo anti incendios."
+    },
+    {
+      "id": "tmdb:177572",
+      "type": "movie",
+      "name": "Big Hero 6",
+      "poster": "http://127.0.0.1:8888/t/p/w500/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg",
+      "description": "En la metrópolis de San Fransokio (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genio de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokio, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio."
+    },
+    {
+      "id": "tmdb:269149",
+      "type": "movie",
+      "name": "Zootrópolis",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4zIlT48TgNLuJpUtFOkFITHoCQE.jpg",
+      "description": "La moderna metrópoli mamífera de Zootrópolis es una ciudad absolutamente única. Está compuesta de barrios con diferentes hábitats como la lujosa Plaza Sahara, el Distrito Selva Tropical y el gélido Distrito Tundra. Es un crisol donde los animales de cada entorno conviven, un lugar donde no importa lo que seas. De hecho puedes ser cualquier cosa, desde un elefante enorme hasta la musaraña más diminuta. Pero cuando llega la optimista agente Judy Hopps, descubre que ser la primera conejita de un cuerpo policial compuesto de animales duros y enormes no es nada fácil. Pero está decidida a demostrar su valía y se mete de cabeza en un caso, a pesar de que eso significa trabajar con Nick Wilde, un zorro parlanchín y estafador, para resolver el misterio."
+    },
+    {
+      "id": "tmdb:277834",
+      "type": "movie",
+      "name": "Vaiana",
+      "poster": "http://127.0.0.1:8888/t/p/w500/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
+      "description": "Una gran aventura acerca de una enérgica adolescente que se embarca en una misión audaz para salvar a su pueblo de una antigua y misteriosa amenaza, en un viaje de autodescubrimiento. La acompañará el arrogante semidiós Maui, quien la guiará en su travesía por el océano en un viaje lleno de acción, plagado de temibles criaturas e imposibles desafíos para restaurar el orden perdido."
+    },
+    {
+      "id": "tmdb:404368",
+      "type": "movie",
+      "name": "Ralph rompe Internet",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg",
+      "description": "Ralph sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento."
+    },
+    {
+      "id": "tmdb:330457",
+      "type": "movie",
+      "name": "Frozen 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg",
+      "description": "¿Por qué nació Elsa con poderes mágicos? La respuesta le está llamando y amenaza su reino. Junto con Anna, Kristoff, Olaf y Sven emprenderá un viaje peligroso e inolvidable. En 'Frozen: El Reino del Hielo', Elsa temía que sus poderes fueran demasiado para el mundo. En 'Frozen 2', deseará que sean suficientes."
+    },
+    {
+      "id": "tmdb:527774",
+      "type": "movie",
+      "name": "Raya y el último dragón",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg",
+      "description": "Raya, una niña de gran espíritu aventurero,  se embarca en la búsqueda del último dragón del mundo con el objetivo de devolver el equilibrio a Kumandra, un lejano y recóndito territorio habitado por una civilización milenaria."
+    },
+    {
+      "id": "tmdb:568124",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "http://127.0.0.1:8888/t/p/w500/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg",
+      "description": "Los Madrigal son una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia, escondidas en un 'Encanto'. La magia ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia."
+    },
+    {
+      "id": "tmdb:420821",
+      "type": "movie",
+      "name": "Chip y Chop: Los guardianes rescatadores",
+      "poster": "http://127.0.0.1:8888/t/p/w500/cVE6Mop3gCqIZfnQEkvGV2rG0IM.jpg",
+      "description": "Treinta años después, las estrellas de las series de animación de Disney de los años 1990, Chip y Chop, viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo."
+    },
+    {
+      "id": "tmdb:1241982",
+      "type": "movie",
+      "name": "Vaiana 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
+      "description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes."
+    },
+    {
+      "id": "tmdb:1084242",
+      "type": "movie",
+      "name": "Zootrópolis 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4fRdfQPjHiuDSkzaxFAV44k7Iem.jpg",
+      "description": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba."
+    }
+  ]
+}
