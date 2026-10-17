@@ -606,6 +606,11 @@
     },
     {
       "type": "movie",
+      "id": "sagas_8706360",
+      "name": "Pixar"
+    },
+    {
+      "type": "movie",
       "id": "premios_8641269",
       "name": "Leon De Oro"
     },

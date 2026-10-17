@@ -1,0 +1,207 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:862",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg",
+      "description": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa."
+    },
+    {
+      "id": "tmdb:9487",
+      "type": "movie",
+      "name": "Bichos, una aventura en miniatura",
+      "poster": "http://127.0.0.1:8888/t/p/w500/3zc9gBzw0egrp7lMrE0zqFkNMms.jpg",
+      "description": "Un grupo de saltamontes liderados por el malvado Hopper y su estúpido hermano Molt asedian la colonia de hormigas todos los veranos para hacerse con la comida almacenada para pasar el invierno. Flik, una hormiga cansada de seguir las reglas del grupo, decide abandonar la colonia en busca de un grupo de mercenarios que los defiendan. Por equivocación, Flik reclutará a una pandilla de artistas de circo."
+    },
+    {
+      "id": "tmdb:863",
+      "type": "movie",
+      "name": "Toy Story 2: Los juguetes vuelven a la carga",
+      "poster": "http://127.0.0.1:8888/t/p/w500/8OTDKkJv2jXg5ZHKazFxBAttKkR.jpg",
+      "description": "Cuando Andy se va de campamento dejando solos a los juguetes, Al McWhiggin, un compulsivo coleccionista de juguetes valiosos, secuestra a Woody. Buzz Lightyear y el resto de los juguetes de Andy deberán actuar con rapidez para rescatarlo, poniéndose al frente de una operación de rescate durante la cual se enfrentarán a múltiples peligros y divertidas situaciones."
+    },
+    {
+      "id": "tmdb:585",
+      "type": "movie",
+      "name": "Monstruos, S.A.",
+      "poster": "http://127.0.0.1:8888/t/p/w500/g3SgHEb5ej2MioGfYLrZVshF909.jpg",
+      "description": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos."
+    },
+    {
+      "id": "tmdb:12",
+      "type": "movie",
+      "name": "Buscando a Nemo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+      "description": "Nemo, un pececillo, hijo único muy querido y protegido por su padre, ha sido capturado en un arrecife australiano y ahora vive en una pecera en la oficina de un dentista de Sidney. El tímido padre de Nemo se embarcará en una peligrosa aventura para rescatar a su hijo. Pero Nemo y sus nuevos amigos tienen también un astuto plan para escapar de la pecera y volver al mar."
+    },
+    {
+      "id": "tmdb:9806",
+      "type": "movie",
+      "name": "Los Increíbles",
+      "poster": "http://127.0.0.1:8888/t/p/w500/al1jusd4T7JPatZlj4BuYkDDOzr.jpg",
+      "description": "Como Mr. Increíble y Elastigirl, Bob y su esposa Helen estaban entre los mejores luchadores contra el crimen. Por fin pueden volver a la acción cuando una misteriosa llamada cita a Bob en una isla remota."
+    },
+    {
+      "id": "tmdb:920",
+      "type": "movie",
+      "name": "Cars",
+      "poster": "http://127.0.0.1:8888/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+      "description": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado."
+    },
+    {
+      "id": "tmdb:2062",
+      "type": "movie",
+      "name": "Ratatouille",
+      "poster": "http://127.0.0.1:8888/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+      "description": "Remy es una simpática rata que sueña con convertirse en un gran chef francés a pesar de la oposición de su familia y del problema evidente que supone ser una rata en una profesión que detesta a los roedores. El destino lleva entonces a Remy a las alcantarillas de París, pero su situación no podría ser mejor, ya que se encuentra justo debajo de un restaurante que se ha hecho famoso gracias a Auguste Gusteau, una estrella de la cuisine. A pesar del peligro que representa ser un visitante poco común (y desde luego nada deseado) en los fogones de un exquisito restaurante francés, la pasión de Remy por la cocina pone patas arriba el mundo culinario parisino en una agitada y emocionante aventura."
+    },
+    {
+      "id": "tmdb:10681",
+      "type": "movie",
+      "name": "WALL·E: Batallón de limpieza",
+      "poster": "http://127.0.0.1:8888/t/p/w500/5CXpoYB2YAZRPBcv9pjkgR6tZ0X.jpg",
+      "description": "En el año 2800, en un planeta Tierra devastado y sin vida, tras cientos de solitarios años haciendo aquello para lo que fue construido -limpiar el planeta de basura- el pequeño robot WALL•E descubre una nueva misión en su vida cuando se encuentra con una moderna y lustrosa robot exploradora llamada EVE. Ambos viajarán a lo largo de la galaxia y vivirán una emocionante e inolvidable aventura."
+    },
+    {
+      "id": "tmdb:14160",
+      "type": "movie",
+      "name": "Up",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg",
+      "description": "Tras atar miles de globos a su casa, Carl Fredricksen, un vendedor de globos jubilado, se embarca en el mundo de los sueños de la infancia. Pero sin que Carl lo sepa, Russell, un explorador de 8 años, se encuentra en el lugar equivocado en el momento equivocado: el porche delantero de la casa. El dúo más improbable conoce a fantásticos amigos como Dug, un perro con un collar especial que le permite hablar, y Kevin, un pájaro de cuatro metros de altura que no vuela. Atrapados en la selva, Carl se da cuenta de que a veces las mayores aventuras de la vida son las que menos esperabas."
+    },
+    {
+      "id": "tmdb:10193",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yBSISwqix2z0JiwIrM3r6fiI6Cm.jpg",
+      "description": "Sabiendo que su dueño Andy, que ya no es un niño, se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse ante su incierto futuro. Efectivamente todos acaban en una guardería, donde por ejemplo la muñeca Barbie conocerá al guapo Ken. Esta reunión de nuestros amigos con otros nuevos juguetes no será sino el inicio de un montón de trepidantes y divertidas aventuras."
+    },
+    {
+      "id": "tmdb:49013",
+      "type": "movie",
+      "name": "Cars 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/kxfxsxJJ8e3vCRRLSfcELHtgMLh.jpg",
+      "description": "Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera etapa es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo."
+    },
+    {
+      "id": "tmdb:62177",
+      "type": "movie",
+      "name": "Brave (Indomable)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/eVt6IKkzKqNs80TX0JVan6sjH5Z.jpg",
+      "description": "Mérida, la indómita hija del Rey Fergus y de la Reina Elinor, es una hábil arquera que decide romper con una antigua costumbre, que es sagrada para los señores de la tierra: el gigantesco Lord MacGuffin, el malhumorado Lord Macintosh y el cascarrabias Lord Dingwall. Las acciones de Merida desencadenan el caos y la furia en el reino. Además, pide ayuda a una sabia anciana que le concede un deseo muy desafortunado. La muchacha tendrá que afrontar grandes peligros antes de aprender qué es la auténtica valentía."
+    },
+    {
+      "id": "tmdb:62211",
+      "type": "movie",
+      "name": "Monstruos University",
+      "poster": "http://127.0.0.1:8888/t/p/w500/jbqWAQOFo1LZTIG6rzlRFkZlIH5.jpg",
+      "description": "Desde que era pequeño, Mike Wazowski ha soñado con ser asustador y sabe que los mejores asustadores estudian en Monstruos University (MU). Pero durante su primer semestre en MU, los planes de Mike se desmoronan cuando se cruza con el listillo de James P. Sullivan, un asustador nato. El descontrolado espíritu competitivo de la pareja hace que los dos sean expulsados del programa de asustadores de la Universidad. Entonces se dan cuenta de que si quieren cumplir sus sueños, tienen que trabajar en equipo junto con un grupo de monstruos marginados."
+    },
+    {
+      "id": "tmdb:150540",
+      "type": "movie",
+      "name": "Del revés (Inside Out)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg",
+      "description": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley."
+    },
+    {
+      "id": "tmdb:105864",
+      "type": "movie",
+      "name": "El viaje de Arlo",
+      "poster": "http://127.0.0.1:8888/t/p/w500/1WKI6PM79XjK2LVS1B4yoG3wNHw.jpg",
+      "description": "¿Qué hubiera pasado si el asteroide que cambió para siempre la vida en la Tierra no hubiese impactado en nuestro planeta? ¿Qué pasaría si los dinosaurios gigantes nunca se hubiesen extinguido? El viaje de Arlo nos traslada a un mundo donde el asteroide que terminó de forma dramática con los dinosaurios, pasa de largo. La consecuencia de este colosal cambio es que ahora los dinosaurios y los humanos tienen que vivir juntos en la Tierra."
+    },
+    {
+      "id": "tmdb:127380",
+      "type": "movie",
+      "name": "Buscando a Dory",
+      "poster": "http://127.0.0.1:8888/t/p/w500/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",
+      "description": "Un año después de los acontecimientos narrados en \"Buscando a Nemo\", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años."
+    },
+    {
+      "id": "tmdb:260514",
+      "type": "movie",
+      "name": "Cars 3",
+      "poster": "http://127.0.0.1:8888/t/p/w500/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+      "description": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!"
+    },
+    {
+      "id": "tmdb:354912",
+      "type": "movie",
+      "name": "Coco",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "description": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia."
+    },
+    {
+      "id": "tmdb:260513",
+      "type": "movie",
+      "name": "Los Increíbles 2",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bJjc0217DuipdwJ0wyi3I4j6soR.jpg",
+      "description": "Helen tiene que liderar una campaña para que los superhéroes regresen, mientras Bob vive su vida 'normal' con Violet, Dash y el bebé Jack-Jack —cuyos superpoderes descubriremos—. Su misión se va a pique cuando aparece un nuevo villano con un brillante plan que lo amenaza todo. Pero los Parr no se amedrentarán y menos teniendo a Frozone de su parte."
+    },
+    {
+      "id": "tmdb:301528",
+      "type": "movie",
+      "name": "Toy Story 4",
+      "poster": "http://127.0.0.1:8888/t/p/w500/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg",
+      "description": "Woody siempre ha tenido claro cuál es su labor en el mundo y cuál es su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Sin embargo, Woody descubrirá lo grande que puede ser el mundo para un juguete cuando Forky se convierta en su nuevo compañero de habitación. Los juguetes se embarcarán en una aventura de la que no se olvidarán jamás."
+    },
+    {
+      "id": "tmdb:508439",
+      "type": "movie",
+      "name": "Onward",
+      "poster": "http://127.0.0.1:8888/t/p/w500/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg",
+      "description": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo."
+    },
+    {
+      "id": "tmdb:508442",
+      "type": "movie",
+      "name": "Soul",
+      "poster": "http://127.0.0.1:8888/t/p/w500/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg",
+      "description": "¿Alguna vez te has preguntado de dónde provienen tu pasión, tus sueños y tus intereses? ¿Qué es lo que te hace ser... tú? Viaja desde las calles de Nueva York a los reinos cósmicos para descubrir las respuestas a las preguntas más importantes de la vida."
+    },
+    {
+      "id": "tmdb:508943",
+      "type": "movie",
+      "name": "Luca",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pr06RihHOGE3waZQx5fs2WYUdwr.jpg",
+      "description": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua."
+    },
+    {
+      "id": "tmdb:508947",
+      "type": "movie",
+      "name": "Red",
+      "poster": "http://127.0.0.1:8888/t/p/w500/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
+      "description": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante."
+    },
+    {
+      "id": "tmdb:718789",
+      "type": "movie",
+      "name": "Lightyear",
+      "poster": "http://127.0.0.1:8888/t/p/w500/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg",
+      "description": "Atrapado en un planeta hostil a 4,2 millones de años luz de la Tierra junto a su comandante y su tripulación, Buzz Lightyear intenta encontrar la manera de volver a casa a través del espacio y el tiempo. Pero la llegada de Zurg, una presencia imponente con un ejército de robots despiadados y una agenda misteriosa, complica aún más las cosas y pone en peligro la misión."
+    },
+    {
+      "id": "tmdb:976573",
+      "type": "movie",
+      "name": "Elemental",
+      "poster": "http://127.0.0.1:8888/t/p/w500/d79DeKDCgFOM23O8Dr6MELZVooY.jpg",
+      "description": "En una ciudad donde los residentes del fuego, el agua, la tierra y el aire viven juntos, una joven apasionada y un chico que se deja llevar por la corriente descubrirán algo elemental: cuánto tienen en común."
+    },
+    {
+      "id": "tmdb:1022789",
+      "type": "movie",
+      "name": "Del revés 2 (Inside Out 2)",
+      "poster": "http://127.0.0.1:8888/t/p/w500/lE3DCRI7bQgHSiIuEPcFiXpiuGV.jpg",
+      "description": "Riley entra en la adolescencia y el Cuartel General de su cabeza sufre una repentina reforma para hacerle hueco a algo totalmente inesperado propio de la pubertad: ¡nuevas emociones! Alegría, Tristeza, Ira, Miedo y Asco, con años de impecable gestión a sus espaldas (según ellos...) no saben muy bien qué sentir cuando aparece con enorme ímpetu Ansiedad. Y no viene sola: le acompañan envidia, vergüenza y aburrimiento."
+    },
+    {
+      "id": "tmdb:1084244",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "http://127.0.0.1:8888/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "description": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar."
+    }
+  ]
+}
