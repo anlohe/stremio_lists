@@ -405,6 +405,13 @@
       "name": "Supergirl",
       "poster": "http://127.0.0.1:8888/t/p/w500/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
       "description": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger."
+    },
+    {
+      "id": "tmdb:1400940",
+      "type": "movie",
+      "name": "Clayface",
+      "poster": "http://127.0.0.1:8888/t/p/w500/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "description": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años."
     }
   ]
 }

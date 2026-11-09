@@ -48,6 +48,13 @@
       "name": "Resident Evil. Bienvenidos a Raccoon City",
       "poster": "http://127.0.0.1:8888/t/p/w500/oRIoAzRLtoNO9adWRW0jeGfMr0N.jpg",
       "description": "Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche."
+    },
+    {
+      "id": "tmdb:1423191",
+      "type": "movie",
+      "name": "Resident Evil",
+      "poster": "http://127.0.0.1:8888/t/p/w500/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+      "description": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor."
     }
   ]
 }

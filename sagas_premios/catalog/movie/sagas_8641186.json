@@ -76,6 +76,13 @@
       "name": "Godzilla y Kong: El nuevo imperio",
       "poster": "http://127.0.0.1:8888/t/p/w500/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
       "description": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre."
+    },
+    {
+      "id": "tmdb:1381071",
+      "type": "movie",
+      "name": "Godzilla Minus Zero",
+      "poster": "http://127.0.0.1:8888/t/p/w500/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+      "description": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante."
     }
   ]
 }
